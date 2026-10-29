@@ -1,0 +1,22 @@
+# Downloaded files - do not commit PDFs to the repository
+downloads/
+*.pdf
+*.part
+report.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
