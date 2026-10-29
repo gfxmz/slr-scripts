@@ -1,0 +1,546 @@
+<!DOCTYPE html>
+<html lang="en-US" xml:lang="en-US">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>
+		Engineering the public: Big data, surveillance and computational politics
+							| First Monday
+			</title>
+
+	
+<link rel="icon" href="https://firstmonday.org/ojs/public/journals/3/favicon_en_US.gif">
+<meta name="generator" content="Open Journal Systems 3.3.0.13">
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+<meta name="DC.Creator.PersonalName" content="Zeynep Tufekci"/>
+<meta name="DC.Date.created" scheme="ISO8601" content="2014-07-02"/>
+<meta name="DC.Date.dateSubmitted" scheme="ISO8601" content="2013-10-23"/>
+<meta name="DC.Date.issued" scheme="ISO8601" content="2014-07-15"/>
+<meta name="DC.Date.modified" scheme="ISO8601" content="2020-06-29"/>
+<meta name="DC.Description" xml:lang="en" content="Digital technologies have given rise to a new combination of big data and computational practices which allow for massive, latent data collection and sophisticated computational modeling, increasing the capacity of those with resources and access to use these tools to carry out highly effective, opaque and unaccountable campaigns of persuasion and social engineering in political, civic and commercial spheres. I examine six intertwined dynamics that pertain to the rise of computational politics: the rise of big data, the shift away from demographics to individualized targeting, the opacity and power of computational modeling, the use of persuasive behavioral science, digital media enabling dynamic real-time experimentation, and the growth of new power brokers who own the data or social media environments. I then examine the consequences of these new mechanisms on the public sphere and political campaigns."/>
+<meta name="DC.Format" scheme="IMT" content="text/html"/>
+<meta name="DC.Identifier" content="4901"/>
+<meta name="DC.Identifier.DOI" content="10.5210/fm.v19i7.4901"/>
+<meta name="DC.Identifier.URI" content="https://firstmonday.org/ojs/index.php/fm/article/view/4901"/>
+<meta name="DC.Language" scheme="ISO639-1" content="en"/>
+<meta name="DC.Rights" content="Copyright (c)  "/>
+<meta name="DC.Rights" content=""/>
+<meta name="DC.Source" content="First Monday"/>
+<meta name="DC.Source.ISSN" content="1396-0466"/>
+<meta name="DC.Source.URI" content="https://firstmonday.org/ojs/index.php/fm"/>
+<meta name="DC.Subject" xml:lang="en" content="Big Data"/>
+<meta name="DC.Subject" xml:lang="en" content="Surveillance"/>
+<meta name="DC.Subject" xml:lang="en" content="Public Sphere"/>
+<meta name="DC.Subject" xml:lang="en" content="Political Campaigns"/>
+<meta name="DC.Subject" xml:lang="en" content="Persuasive Communication"/>
+<meta name="DC.Title" content="Engineering the public: Big data, surveillance and computational politics"/>
+<meta name="DC.Type" content="Text.Serial.Journal"/>
+<meta name="DC.Type" xml:lang="en" content="Qualitative and Conceptual"/>
+<meta name="DC.Type.articleType" content="Articles"/>
+<meta name="gs_meta_revision" content="1.1"/>
+<meta name="citation_journal_title" content="First Monday"/>
+<meta name="citation_journal_abbrev" content="FM"/>
+<meta name="citation_issn" content="1396-0466"/> 
+<meta name="citation_author" content="Zeynep Tufekci"/>
+<meta name="citation_author_institution" content="University of North Carolina"/>
+<meta name="citation_title" content="Engineering the public: Big data, surveillance and computational politics"/>
+<meta name="citation_language" content="en"/>
+<meta name="citation_date" content="2014/07/02"/>
+<meta name="citation_doi" content="10.5210/fm.v19i7.4901"/>
+<meta name="citation_abstract_html_url" content="https://firstmonday.org/ojs/index.php/fm/article/view/4901"/>
+<meta name="citation_keywords" xml:lang="en" content="Big Data"/>
+<meta name="citation_keywords" xml:lang="en" content="Surveillance"/>
+<meta name="citation_keywords" xml:lang="en" content="Public Sphere"/>
+<meta name="citation_keywords" xml:lang="en" content="Political Campaigns"/>
+<meta name="citation_keywords" xml:lang="en" content="Persuasive Communication"/>
+<meta name="citation_fulltext_html_url" content="https://firstmonday.org/ojs/index.php/fm/article/view/4901/4097"/>
+<link rel="alternate" type="application/atom+xml" href="https://firstmonday.org/ojs/index.php/fm/gateway/plugin/AnnouncementFeedGatewayPlugin/atom">
+<link rel="alternate" type="application/rdf+xml" href="https://firstmonday.org/ojs/index.php/fm/gateway/plugin/AnnouncementFeedGatewayPlugin/rss">
+<link rel="alternate" type="application/rss+xml" href="https://firstmonday.org/ojs/index.php/fm/gateway/plugin/AnnouncementFeedGatewayPlugin/rss2">
+<link rel="alternate" type="application/atom+xml" href="https://firstmonday.org/ojs/index.php/fm/gateway/plugin/WebFeedGatewayPlugin/atom">
+<link rel="alternate" type="application/rdf+xml" href="https://firstmonday.org/ojs/index.php/fm/gateway/plugin/WebFeedGatewayPlugin/rss">
+<link rel="alternate" type="application/rss+xml" href="https://firstmonday.org/ojs/index.php/fm/gateway/plugin/WebFeedGatewayPlugin/rss2">
+	<link rel="stylesheet" href="https://firstmonday.org/ojs/index.php/fm/$$$call$$$/page/page/css?name=stylesheet" type="text/css" /><link rel="stylesheet" href="https://firstmonday.org/ojs/index.php/fm/$$$call$$$/page/page/css?name=font" type="text/css" /><link rel="stylesheet" href="https://firstmonday.org/ojs/lib/pkp/styles/fontawesome/fontawesome.css?v=3.3.0.13" type="text/css" /><link rel="stylesheet" href="https://firstmonday.org/ojs/public/journals/3/styleSheet.css?d=" type="text/css" />
+</head>
+<body class="pkp_page_article pkp_op_view has_site_logo" dir="ltr">
+
+	<div class="pkp_structure_page">
+
+				<header class="pkp_structure_head" id="headerNavigationContainer" role="banner">
+						 <nav class="cmp_skip_to_content" aria-label="Jump to content links">
+	<a href="#pkp_content_main">Skip to main content</a>
+	<a href="#siteNav">Skip to main navigation menu</a>
+		<a href="#pkp_content_footer">Skip to site footer</a>
+</nav>
+
+			<div class="pkp_head_wrapper">
+
+				<div class="pkp_site_name_wrapper">
+					<button class="pkp_site_nav_toggle">
+						<span>Open Menu</span>
+					</button>
+										<div class="pkp_site_name">
+																<a href="						https://firstmonday.org/ojs/index.php/fm/index
+					" class="is_img">
+							<img loading="lazy" src="https://firstmonday.org/ojs/public/journals/3/pageHeaderLogoImage_en_US.gif" width="252" height="102"  />
+						</a>
+										</div>
+				</div>
+
+				
+				<nav class="pkp_site_nav_menu" aria-label="Site Navigation">
+					<a id="siteNav"></a>
+					<div class="pkp_navigation_primary_row">
+						<div class="pkp_navigation_primary_wrapper">
+																				<ul id="navigationPrimary" class="pkp_navigation_primary pkp_nav_list">
+								<li class="">
+				<a href="https://firstmonday.org/ojs/index.php/fm/about">
+					About
+				</a>
+									<ul>
+																					<li class="">
+									<a href="https://firstmonday.org/ojs/index.php/fm/about">
+										About the Journal
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://firstmonday.org/ojs/index.php/fm/about/editorialTeam">
+										Editorial Team
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://firstmonday.org/ojs/index.php/fm/about/privacy">
+										Privacy Statement
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://firstmonday.org/ojs/index.php/fm/about/contact">
+										Contact
+									</a>
+								</li>
+																		</ul>
+							</li>
+								<li class="">
+				<a href="https://firstmonday.org/ojs/index.php/fm/search/search">
+					Search
+				</a>
+							</li>
+								<li class="">
+				<a href="https://firstmonday.org/ojs/index.php/fm/issue/current">
+					Current
+				</a>
+							</li>
+								<li class="">
+				<a href="https://firstmonday.org/ojs/index.php/fm/issue/archive">
+					Archives
+				</a>
+							</li>
+								<li class="">
+				<a href="https://firstmonday.org/ojs/index.php/fm/announcement">
+					Announcements
+				</a>
+							</li>
+								<li class="">
+				<a href="https://firstmonday.org/ojs/index.php/fm/about/submissions">
+					Submissions
+				</a>
+							</li>
+			</ul>
+
+				
+
+																						<div class="pkp_navigation_search_wrapper">
+									<a href="https://firstmonday.org/ojs/index.php/fm/search" class="pkp_search pkp_search_desktop">
+										<span class="fa fa-search" aria-hidden="true"></span>
+										Search
+									</a>
+								</div>
+													</div>
+					</div>
+					<div class="pkp_navigation_user_wrapper" id="navigationUserWrapper">
+							<ul id="navigationUser" class="pkp_navigation_user pkp_nav_list">
+								<li class="profile">
+				<a href="https://firstmonday.org/ojs/index.php/fm/user/register">
+					Register
+				</a>
+							</li>
+								<li class="profile">
+				<a href="https://firstmonday.org/ojs/index.php/fm/login">
+					Login
+				</a>
+							</li>
+										</ul>
+
+					</div>
+				</nav>
+			</div><!-- .pkp_head_wrapper -->
+		</header><!-- .pkp_structure_head -->
+
+						<div class="pkp_structure_content has_sidebar">
+			<div class="pkp_structure_main" role="main">
+				<a id="pkp_content_main"></a>
+
+<div class="page page_article">
+			<nav class="cmp_breadcrumbs" role="navigation" aria-label="You are here:">
+	<ol>
+		<li>
+			<a href="https://firstmonday.org/ojs/index.php/fm/index">
+				Home
+			</a>
+			<span class="separator">/</span>
+		</li>
+		<li>
+			<a href="https://firstmonday.org/ojs/index.php/fm/issue/archive">
+				Archives
+			</a>
+			<span class="separator">/</span>
+		</li>
+					<li>
+				<a href="https://firstmonday.org/ojs/index.php/fm/issue/view/423">
+					Volume 19, Number 7 - 7 July 2014
+				</a>
+				<span class="separator">/</span>
+			</li>
+				<li class="current" aria-current="page">
+			<span aria-current="page">
+									Articles
+							</span>
+		</li>
+	</ol>
+</nav>
+	
+		  	 <article class="obj_article_details">
+
+		
+	<h1 class="page_title">
+		Engineering the public: Big data, surveillance and computational politics
+	</h1>
+
+	
+	<div class="row">
+		<div class="main_entry">
+
+							<section class="item authors">
+					<h2 class="pkp_screen_reader">Authors</h2>
+					<ul class="authors">
+											<li>
+							<span class="name">
+								Zeynep Tufekci
+							</span>
+															<span class="affiliation">
+									University of North Carolina
+																	</span>
+																				</li>
+										</ul>
+				</section>
+			
+																												<section class="item doi">
+						<h2 class="label">
+														DOI:
+						</h2>
+						<span class="value">
+							<a href="https://doi.org/10.5210/fm.v19i7.4901">
+								https://doi.org/10.5210/fm.v19i7.4901
+							</a>
+						</span>
+					</section>
+							
+									<section class="item keywords">
+				<h2 class="label">
+										Keywords:
+				</h2>
+				<span class="value">
+											Big Data, 											Surveillance, 											Public Sphere, 											Political Campaigns, 											Persuasive Communication									</span>
+			</section>
+			
+										<section class="item abstract">
+					<h2 class="label">Abstract</h2>
+					<p>Digital technologies have given rise to a new combination of big data and computational practices which allow for massive, latent data collection and sophisticated computational modeling, increasing the capacity of those with resources and access to use these tools to carry out highly effective, opaque and unaccountable campaigns of persuasion and social engineering in political, civic and commercial spheres. I examine six intertwined dynamics that pertain to the rise of computational politics: the rise of big data, the shift away from demographics to individualized targeting, the opacity and power of computational modeling, the use of persuasive behavioral science, digital media enabling dynamic real-time experimentation, and the growth of new power brokers who own the data or social media environments. I then examine the consequences of these new mechanisms on the public sphere and political campaigns.</p>
+				</section>
+			
+			
+
+																																<section class="item author_bios">
+					<h2 class="label">
+													Author Biography
+											</h2>
+																		<section class="sub_item">
+								<h3 class="label">
+																																							Zeynep Tufekci, <span class="affiliation">University of North Carolina</span>
+																	</h3>
+								<div class="value">
+									Assistant Professor in School of Information and Library Science with affiliate appointment in Department of Sociology
+								</div>
+							</section>
+															</section>
+			
+						
+		</div><!-- .main_entry -->
+
+		<div class="entry_details">
+
+						
+										<div class="item galleys">
+					<h2 class="pkp_screen_reader">
+						Downloads
+					</h2>
+					<ul class="value galleys_links">
+													<li>
+								
+	
+							
+
+<a class="obj_galley_link file" href="https://firstmonday.org/ojs/index.php/fm/article/view/4901/4097">
+
+		
+	HTML
+
+	</a>
+							</li>
+											</ul>
+				</div>
+						
+						<div class="item published">
+				<section class="sub_item">
+					<h2 class="label">
+						Published
+					</h2>
+					<div class="value">
+																			<span>2014-07-02</span>
+																	</div>
+				</section>
+							</div>
+			
+										<div class="item citation">
+					<section class="sub_item citation_display">
+						<h2 class="label">
+							How to Cite
+						</h2>
+						<div class="value">
+							<div id="citationOutput" role="region" aria-live="polite">
+								<div class="csl-bib-body">
+  <div class="csl-entry">Tufekci, Z. (2014). Engineering the public: Big data, surveillance and computational politics. <i>First Monday</i>, <i>19</i>(7). https://doi.org/10.5210/fm.v19i7.4901</div>
+</div>
+							</div>
+							<div class="citation_formats">
+								<button class="cmp_button citation_formats_button" aria-controls="cslCitationFormats" aria-expanded="false" data-csl-dropdown="true">
+									More Citation Formats
+								</button>
+								<div id="cslCitationFormats" class="citation_formats_list" aria-hidden="true">
+									<ul class="citation_formats_styles">
+																					<li>
+												<a
+													aria-controls="citationOutput"
+													href="https://firstmonday.org/ojs/index.php/fm/citationstylelanguage/get/acm-sig-proceedings?submissionId=4901&amp;publicationId=2283"
+													data-load-citation
+													data-json-href="https://firstmonday.org/ojs/index.php/fm/citationstylelanguage/get/acm-sig-proceedings?submissionId=4901&amp;publicationId=2283&amp;return=json"
+												>
+													ACM
+												</a>
+											</li>
+																					<li>
+												<a
+													aria-controls="citationOutput"
+													href="https://firstmonday.org/ojs/index.php/fm/citationstylelanguage/get/acs-nano?submissionId=4901&amp;publicationId=2283"
+													data-load-citation
+													data-json-href="https://firstmonday.org/ojs/index.php/fm/citationstylelanguage/get/acs-nano?submissionId=4901&amp;publicationId=2283&amp;return=json"
+												>
+													ACS
+												</a>
+											</li>
+																					<li>
+												<a
+													aria-controls="citationOutput"
+													href="https://firstmonday.org/ojs/index.php/fm/citationstylelanguage/get/apa?submissionId=4901&amp;publicationId=2283"
+													data-load-citation
+													data-json-href="https://firstmonday.org/ojs/index.php/fm/citationstylelanguage/get/apa?submissionId=4901&amp;publicationId=2283&amp;return=json"
+												>
+													APA
+												</a>
+											</li>
+																					<li>
+												<a
+													aria-controls="citationOutput"
+													href="https://firstmonday.org/ojs/index.php/fm/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=4901&amp;publicationId=2283"
+													data-load-citation
+													data-json-href="https://firstmonday.org/ojs/index.php/fm/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=4901&amp;publicationId=2283&amp;return=json"
+												>
+													ABNT
+												</a>
+											</li>
+																					<li>
+												<a
+													aria-controls="citationOutput"
+													href="https://firstmonday.org/ojs/index.php/fm/citationstylelanguage/get/chicago-author-date?submissionId=4901&amp;publicationId=2283"
+													data-load-citation
+													data-json-href="https://firstmonday.org/ojs/index.php/fm/citationstylelanguage/get/chicago-author-date?submissionId=4901&amp;publicationId=2283&amp;return=json"
+												>
+													Chicago
+												</a>
+											</li>
+																					<li>
+												<a
+													aria-controls="citationOutput"
+													href="https://firstmonday.org/ojs/index.php/fm/citationstylelanguage/get/harvard-cite-them-right?submissionId=4901&amp;publicationId=2283"
+													data-load-citation
+													data-json-href="https://firstmonday.org/ojs/index.php/fm/citationstylelanguage/get/harvard-cite-them-right?submissionId=4901&amp;publicationId=2283&amp;return=json"
+												>
+													Harvard
+												</a>
+											</li>
+																					<li>
+												<a
+													aria-controls="citationOutput"
+													href="https://firstmonday.org/ojs/index.php/fm/citationstylelanguage/get/ieee?submissionId=4901&amp;publicationId=2283"
+													data-load-citation
+													data-json-href="https://firstmonday.org/ojs/index.php/fm/citationstylelanguage/get/ieee?submissionId=4901&amp;publicationId=2283&amp;return=json"
+												>
+													IEEE
+												</a>
+											</li>
+																					<li>
+												<a
+													aria-controls="citationOutput"
+													href="https://firstmonday.org/ojs/index.php/fm/citationstylelanguage/get/modern-language-association?submissionId=4901&amp;publicationId=2283"
+													data-load-citation
+													data-json-href="https://firstmonday.org/ojs/index.php/fm/citationstylelanguage/get/modern-language-association?submissionId=4901&amp;publicationId=2283&amp;return=json"
+												>
+													MLA
+												</a>
+											</li>
+																					<li>
+												<a
+													aria-controls="citationOutput"
+													href="https://firstmonday.org/ojs/index.php/fm/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=4901&amp;publicationId=2283"
+													data-load-citation
+													data-json-href="https://firstmonday.org/ojs/index.php/fm/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=4901&amp;publicationId=2283&amp;return=json"
+												>
+													Turabian
+												</a>
+											</li>
+																					<li>
+												<a
+													aria-controls="citationOutput"
+													href="https://firstmonday.org/ojs/index.php/fm/citationstylelanguage/get/vancouver?submissionId=4901&amp;publicationId=2283"
+													data-load-citation
+													data-json-href="https://firstmonday.org/ojs/index.php/fm/citationstylelanguage/get/vancouver?submissionId=4901&amp;publicationId=2283&amp;return=json"
+												>
+													Vancouver
+												</a>
+											</li>
+																			</ul>
+																			<div class="label">
+											Download Citation
+										</div>
+										<ul class="citation_formats_styles">
+																							<li>
+													<a href="https://firstmonday.org/ojs/index.php/fm/citationstylelanguage/download/ris?submissionId=4901&amp;publicationId=2283">
+														<span class="fa fa-download"></span>
+														Endnote/Zotero/Mendeley (RIS)
+													</a>
+												</li>
+																							<li>
+													<a href="https://firstmonday.org/ojs/index.php/fm/citationstylelanguage/download/bibtex?submissionId=4901&amp;publicationId=2283">
+														<span class="fa fa-download"></span>
+														BibTeX
+													</a>
+												</li>
+																					</ul>
+																	</div>
+							</div>
+						</div>
+					</section>
+				</div>
+			
+										<div class="item issue">
+
+											<section class="sub_item">
+							<h2 class="label">
+								Issue
+							</h2>
+							<div class="value">
+								<a class="title" href="https://firstmonday.org/ojs/index.php/fm/issue/view/423">
+									Volume 19, Number 7 - 7 July 2014
+								</a>
+							</div>
+						</section>
+					
+											<section class="sub_item">
+							<h2 class="label">
+								Section
+							</h2>
+							<div class="value">
+								Articles
+							</div>
+						</section>
+					
+									</div>
+			
+															
+										<div class="item copyright">
+					<h2 class="label">
+						License
+					</h2>
+										<p>Authors retain copyright to their work published in <em>First Monday</em>. Please see the footer of each article for details.</p>
+				</div>
+			
+			
+
+		</div><!-- .entry_details -->
+	</div><!-- .row -->
+
+</article>
+
+	
+
+</div><!-- .page -->
+
+	</div><!-- pkp_structure_main -->
+
+									<div class="pkp_structure_sidebar left" role="complementary" aria-label="Sidebar">
+				<div class="pkp_block block_developed_by">
+	<h2 class="pkp_screen_reader">
+		Developed By
+	</h2>
+
+	<div class="content">
+		<a href="http://pkp.sfu.ca/ojs/">
+			Open Journal Systems
+		</a>
+	</div>
+</div>
+
+			</div><!-- pkp_sidebar.left -->
+			</div><!-- pkp_structure_content -->
+
+<div class="pkp_structure_footer_wrapper" role="contentinfo">
+	<a id="pkp_content_footer"></a>
+
+	<div class="pkp_structure_footer">
+
+					<div class="pkp_footer_content">
+				<p>A Great Cities Initiative of the University of Illinois at Chicago <a href="http://library.uic.edu/">University Library</a>.</p>
+<p>© <em>First Monday</em>, 1995-2026. ISSN 1396-0466.</p>
+			</div>
+		
+		<div class="pkp_brand_footer" role="complementary">
+			<a href="https://firstmonday.org/ojs/index.php/fm/about/aboutThisPublishingSystem">
+				<img loading="lazy" alt="More information about the publishing system, Platform and Workflow by OJS/PKP." src="https://firstmonday.org/ojs/templates/images/ojs_brand.png">
+			</a>
+		</div>
+	</div>
+</div><!-- pkp_structure_footer_wrapper -->
+
+</div><!-- pkp_structure_page -->
+
+<script src="https://firstmonday.org/ojs/lib/pkp/lib/vendor/components/jquery/jquery.min.js?v=3.3.0.13" type="text/javascript"></script><script src="https://firstmonday.org/ojs/lib/pkp/lib/vendor/components/jqueryui/jquery-ui.min.js?v=3.3.0.13" type="text/javascript"></script><script src="https://firstmonday.org/ojs/plugins/themes/default/js/lib/popper/popper.js?v=3.3.0.13" type="text/javascript"></script><script src="https://firstmonday.org/ojs/plugins/themes/default/js/lib/bootstrap/util.js?v=3.3.0.13" type="text/javascript"></script><script src="https://firstmonday.org/ojs/plugins/themes/default/js/lib/bootstrap/dropdown.js?v=3.3.0.13" type="text/javascript"></script><script src="https://firstmonday.org/ojs/plugins/themes/default/js/main.js?v=3.3.0.13" type="text/javascript"></script><script src="https://firstmonday.org/ojs/plugins/generic/citationStyleLanguage/js/articleCitation.js?v=3.3.0.13" type="text/javascript"></script><script type="text/javascript">
+(function (w, d, s, l, i) { w[l] = w[l] || []; var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
+j.src = 'https://www.googletagmanager.com/gtag/js?id=' + i + dl; f.parentNode.insertBefore(j, f); 
+function gtag(){dataLayer.push(arguments)}; gtag('js', new Date()); gtag('config', i); })
+(window, document, 'script', 'dataLayer', 'G-YKHCLJFMMR');
+</script>
+
+
+</body>
+</html>

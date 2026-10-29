@@ -1,0 +1,509 @@
+<!doctype html>  
+ <html lang="en">  
+ <head>  
+ <title>'Biodynamically cultivated hash, confidentially': information sharing on the dark web</title> 
+<meta charset="utf-8" />
+ <link href="../../IRstyle4.css" rel="stylesheet" media="screen" title="serif" />  
+
+ <!--Enter appropriate data in the content fields-->  
+ <meta name="dcterms.title" content="'Biodynamically cultivated hash, confidentially': information sharing on the dark web" />  
+
+<meta name="citation_author" content="Haasio, Ari Martti" />
+<meta name="citation_author" content="Harviainen, J. Tuomas" />
+<meta name="citation_author" content="Hämäläinen, Lasse" />
+
+
+ <meta name="dcterms.subject" content="information sharing on the dark web" />  
+ <meta name="description" content="This article analyses the marketing mechanisms of Dark Web drug trade focusing on advertising as information sharing. Key research questions are 1) vendors use to convince the potential customers about the quality and service, 2) what kind of arguments do vendors try to build and how they do it? and 3) what kind of information is shared when illegal goods are advertised. The data were collected from Utopia, which is an archive of the Finnish cryptomarket called Sipulimarket. The sample contained all advertisements from December 6, 2019 to March 19, 2020. All the advertisements were analysed by using a qualitative content analysis. Four main elements on which the marketing speech is based are 1) quality and 2) effects of the drugs (which we discuss here together), 3) price and 4) persuasiveness of the vendor. Together with the name of “drug store”, they make up the image. These elements are the types of information shared mostly when convincing customers about the products. In advertisements both persuasiveness and informative contents were shared. By understanding the mechanisms used in illicit communication happening in the Dark Web, we get a new perspective on sharing information that requires anonymity.
+" />  
+ <meta name="keywords" content="information sharing, drugs, advertising, Dark Web, Tor network, drug sellers" />
+ 
+ 
+ <!--leave the following to be completed by the Editor-->  
+ <meta name="robots" content="all" />  
+ <meta name="dcterms.publisher" content="University of Borås" />
+ <meta name="dcterms.type" content="text" />  
+ <meta name="dcterms.identifier" content="ISSN-1368-1613" /> 
+ <meta name="dcterms.identifier" content="DOI: 10.47989/irisic2241" /> 
+ <meta name="dcterms.identifier" content="http://InformationR.net/ir/isic22/isic2241.html" />  
+ <meta name="dcterms.IsPartOf" content="http://InformationR.net/ir/isic22/isic2022contents.html" />  
+ <meta name="dcterms.format" content="text/html" />  <meta name="dc.language" content="en" />  
+ <meta name="dcterms.rights" content="http://creativecommons.org/licenses/by-nd-nc/1.0/" />  
+ <meta  name="dcterms.issued" content="2022-10-15" /> 
+  <meta name="geo.placename" content="global" />  
+
+</head> 
+  
+ <body> 
+<header>
+ <img height="45" alt="header" src="../../mini_logo2.gif"  width="336" /><br />
+<span style="font-size: medium; font-variant: small-caps; font-weight: bold;">published quarterly by the university of bor&aring;s, sweden<br /><br />vol. 27, Special issue, October, 2022</span><br /><br /> 
+<div class="button">
+ <ul> 
+  <li><a href="isic2022contents.html">Contents</a> |</li>
+  <li><a href="../../iraindex.html">Author index</a>|</li>
+  <li><a href="../../irsindex.html">Subject index</a>|</li>
+  <li><a href="../../search.html">Search</a>|</li>
+  <li><a href="../../index.html">Home</a></li>
+ </ul>
+ </div>
+ <hr />
+ </header>
+ <article>
+ <h1>'Biodynamically cultivated hash, confidentially': information sharing on the dark web</h1>  <br />  
+ 
+ <h2 class="author"><a href="#author">Ari Haasio, J. Tuomas Harviainen</a>, and <a href="#author">Lasse Hämäläinen</a></h2>  
+
+ <br /> 
+ 
+ <blockquote>
+               <strong>Introduction.</strong> This article analyses the marketing mechanisms of Dark Web drug trade focusing on advertising as information sharing. Key research questions are 1) vendors use to convince the potential customers about the quality and service, 2) what kind of arguments do vendors try to build and how they do it? and 3) what kind of information is shared when illegal goods are advertised.<br />
+                <strong>Method.</strong> The data were collected from Utopia, which is an archive of the Finnish cryptomarket called Sipulimarket. The sample contained all advertisements from December 6, 2019 to March 19, 2020.<br />
+                <strong>Analysis.</strong> All the advertisements were analysed by using a qualitative content analysis.<br />
+                <strong>Results.</strong> Four main elements on which the marketing speech is based are 1) quality and 2) effects of the drugs (which we discuss here together), 3) price and 4) persuasiveness of the vendor. Together with the name of “drug store”, they make up the image. These elements are the types of information shared mostly when convincing customers about the products. In advertisements both persuasiveness and informative contents were shared.<br />
+                <strong>Conclusions.</strong> By understanding the mechanisms used in illicit communication happening in the Dark Web, we get a new perspective on sharing information that requires anonymity.
+  </blockquote>    
+  
+  <p style="text-align:center">DOI: <a href="https://doi.org/10.47989/irisic2241"><strong>https://doi.org/10.47989/irisic2241</strong></a></p>
+ 
+ <br /> 
+ <section>
+ 
+ <h2>Introduction</h2> 
+ 
+ <p>The Internet’s importance in drug dealing has grown rapidly during the 2010’s. Especially Dark Web sites have become popular places from which to buy illicit drugs (Martin, et al., <a href="#mar20">2020</a>). The main reasons for this are expected anonymity and access to cryptocurrencies (Foley, et al., <a href="#fol19">2019</a>). The Dark Web is the visual part of what is known as darknet or dark net, a series of mostly non-indexed, pseudo-anonymous online sites. According to Gehl (<a href="#geh18">2018</a>), the most important difference between Dark Web and the more open parts of the Internet, also known as e.g., the Clear Web, is that the Dark Web can only be reached by using specially configured routing software, such as the Tor browser. </p>
+ 
+ <p>The Dark Web has become an important channel to share illicit information about criminal activities, through forums, web shops and even advertisements (e.g., Gehl, <a href="#geh21">2021</a>). Many drug vendors use it as their main marketing channel. From 2013 to 2016, the number of transactions on Dark Web drug markets tripled, and the revenues doubled at the same time (Kruithof, et al., <a href="#kru16">2016</a>). Markets on the Dark Web can be roughly divided into mail-order based cryptomarkets, similar to web shops, and image boards, on which people facilitate face-to-face deals (Harviainen, et al., <a href="#har20">2020</a>). In addition to these, people in especially certain demographics (e.g., youths, cocaine users) may instead use social media on the Clear Web (Moeller, et al., <a href="#moe20">2020</a>; Oksanen, et al., <a href="#oks20">2020</a>). The first major cryptomarket created for trading drugs, Silk Road, started in 2011, and was shut down by law enforcement in 2013. Many have followed since. Cryptomarkets can be defined as '<em>an online marketplace platform bringing together multiple vendors listing mostly illegal and illicit goods and services for sale</em>' (Aldridge and Décary-Hétu, <a href="#ald16">2016</a>, p. 7). According to Aldridge and Décary-Hétu (<a href="#ald16">2016</a>), cryptomarkets are more business-to-business sites. Image boards have also other content, such as discussions about drug culture. Local cryptomarkets and image boards have become increasingly important (Norbutas, <a href="#nor18">2018</a>), and especially smaller deals are conducted by using them.</p> 
+   
+ <p>This study analyses information sharing on the Dark Web, using drug sales as an example. This investigation is a new approach to the subject, as research on drug sales has concentrated mainly on topics such as the types of illicit substances sold and their prices (Dolliver, <a href="#dol15">2015</a>; Soska and Christin, <a href="#sos15">2015</a>; Dolliver and Kuhns, <a href="#dol16">2016</a>; Nurmi, et al., <a href="#nur17">2017</a>; Van Buskirk, et al., <a href="#van17">2017</a>), using dark net services and technology (Chrane and Kumar, <a href="#chr15">2015</a>; Cilleruelo, et al., <a href="#cil20">2020</a>; Moubarak, et al., <a href="#mou17">2017</a>; Nurmi, <a href="#nur19">2019</a>) and the information needs of drug users (Haasio, et al., <a href="#haa20">2020</a>). The Dark Web and its technologies have been studied in various articles and books (e.g., Chen, <a href="#che11">2011</a>; Hurlburt, <a href="#hur17">2017</a>; Gehl, <a href="#geh18">2018</a>). </p> 
+ 
+ <p>There has been very little previous research about information sharing on the Dark Web, however, conducted from the perspective of information research. Likewise, the study of marketing-related information practices there remains limited. Jia Tina Du (<a href="#du12">2012</a>) has analysed how marketing professionals use and share information in their daily work. Du (<a href="#du14">2014</a>) has also studied the information journey, as she calls her model, of the marketing professionals including the information sharing aspect.</p> 
+ 
+ <p>This article opens a new perspective to information sharing in another kind of information environment. Research has traditionally concentrated on contexts that are legitimate and open. In this case, everything is anonymous and illicit. This article also offers a new viewpoint to drug trading on the web, by analysing different ways in which online drug vendors are marketing their goods. This helps to understand the strategies and tactics of drug vendors. That makes this article unique. </p> 
+ 
+ <p>Within information sciences, the research of dangerous and criminal information is, with some exceptions, rare. With the growing importance of the Dark Web, the special features of this information environment and their similarities with the features of the Clear Web must also be studied.  This article approaches the information network of the Dark Web by analysing the drug marketing taking place there from the perspective of information sharing. This empirical observation of the special features of the new information environment is a key contribution of this article to research in the field. As Burnett and Lloyd (<a href="#bur20">2020</a>) have pointed out, the <em>hidden and forbidden</em> should be examined more closely. </p> 
+ </section>
+ <section>
+ 
+ <h2>Previous literature</h2> 
+
+ <p>Although the drug trade on the web has been studied especially during the last ten years, the angle of information sharing, marketing and advertising has not. Previous studies have e.g., not analysed the types of information shared. They have concentrated more on the types of products for sale, not the content of sales-promoting speech. </p> 
+ 
+ <p>Ladegaard (<a href="#lad17">2017</a>) has shown that freebies and samples are one way to promote drugs also in cryptomarkets. His study is almost the only one analysing the ways to promote drug sales on the Dark Web cryptomarkets. Hämäläinen (<a href="#ham19">2019</a>) has analysed the usernames of drug vendors on the late AlphaBay market, showing that they often resemble or even plagiarise real-life commercial names. Meanwhile, Hämäläinen, et al. (<a href="#ham21">2021</a>) have noted that the users of the Finnish marketplace Torilauta quite rarely utilised such marketing strategies in their usernames. </p> 
+ 
+ <p>Certain studies have analysed the market shares of various drugs like cannabis and new psychoactive substances (e.g., Dolliver and Kuhns, <a href="#dol16">2016</a>; Scourfield, et al., <a href="#sco19">2019</a>; Windle, <a href="#win21">2021</a>), sellers’ reputations (Nurmi, et al., <a href="#nur17">2017</a>) or selling practices (Childs, et al., <a href="#chi20">2020</a>). The use of cryptocurrencies in drug dealing has become popular because of the presumed anonymity (Kethineni, et al., <a href="#ket18">2018</a>; Foley, et al., <a href="#fol19">2019</a>). This is in line with the ways in which cryptomarket vendors seek to minimise the perceived risks inherent in their activities (see e.g., Bakken and Demant, <a href="#bak19">2019</a>; Grimani, et al., <a href="#gri20">2020</a>). </p> 
+ 
+ <p>Afilipoaei and Shortis (<a href="#afi15">2015</a>) have analysed the process of buying and selling drugs online, but their main interest has been in technical questions. Mackey and Liang (<a href="#mac13">2013</a>) have studied rogue Internet pharmacies, which sell prescription drugs and have used social media to advertise their products and services. According to their study, illicit pharmaceutical products significantly interest social media users. Undoubtedly, a link between prescription drug abuse and using illicit online pharmacies exists (Katsuki, et al., <a href="#kat15">2015</a>). </p> 
+ 
+ <p>On image boards, the quality of drugs is discussed, as is building trust in vendors (Buxton and Bingham, <a href="#bux15">2015</a>; Haasio, et al., <a href="#haa20">2020</a>). These discussions can be understood as a part of marketing strategy. Trust creates the basis of successful marketing on the Dark Web (Laferrière and Décary-Hétu, <a href="#laf22">2022</a>). </p> 
+ 
+ <p>The content of marketing messages and advertisements have nevertheless not yet been systematically studied, nor has building the vendor’s image. Our article offers a new viewpoint to the Internet drug marketing business on the Dark Web by analysing the contents of advertisements in drug sales and showing how the vendors try building a convincing image for their business. All these aspects are forms of information sharing.</p> 
+ 
+ </section>
+ <section>
+ 
+ <h2>Conceptual framework and research questions</h2>
+ 
+ <p>The research described above, focusing on the Dark Web and especially the drug trade that takes place there, has inspired the authors to approach the topic from a marketing-as-information perspective. We see many similarities in the marketing of illegal products to the marketing of traditional consumer goods. For example, an important part of image and loyalty is '<em>a positive effect on the degree of satisfaction</em>' like Molinillo, et al. (<a href="#mol17">2017</a>, p. 156) have noticed while analysing the online clothes shopping experience. On the other hand, when researching online drug trafficking, no attention has been paid in the past to the factors with which sales are promoted, and how drug vendors, like traditional entrepreneurs, try to create a customer-friendly and trustworthy image for their business. Like in the traditional online shopping, a customer’s satisfaction helps him/her to continue to buy products from the same vendor (see Hellier, et al., <a href="#hel03">2003</a>).</p> 
+ 
+ <p>When building an image for a business, the choice of name plays a major role (Ainiala, et al., <a href="#ain12">2012</a>, pp. 210–211). A username is often the first thing, and often among the very few things, that the potential customer will learn about a vendor. Therefore, the name may have a great influence on the more precise evaluation of the vendor. By choosing a name these drug vendors and their virtual shops share information, which is included to the name.</p>
+ 
+ <p>The concept of image has several definitions as e.g., Stern, et al. (<a href="#ste01">2001</a>) have shown. According to Friedmann and Lessig (<a href="#fri87">1987</a>), image can be understood as consumers’ understanding and evaluation of a product. These two factors are notable in illicit drug sales. Based on this, our research questions are:</p>
+ 
+ <ol>
+ 	<li>What kind of information is shared when illegal goods are advertised? </li>
+ 	<li>What kind of arguments do vendors use to convince the potential customers about the quality and service, and what is their persuasiveness?</li>
+ 	<li>What kind image do the vendors try to build for their shop and how the image is built?</li>
+ </ol>
+ 
+ <p>In our viewpoint information sharing has to be understood extensively. It includes not just sharing facts, but also sharing ideas, opinions, views, assumptions etc. This notion is based on Brenda Dervin’s broad interpretation of the essence of information, which emphasises that information is not only factual but also fixed and the subspecies of information mentioned above (Dervin, et al., <a href="#der03">2003</a>).</p>
+  
+ <p>According to Savolainen (<a href="#sav17">2017</a>) information sharing can be understood as '<em>a set of activities by which information is provided to others, either proactively or upon request</em>' (see also Sonnenwald, <a href="#son06">2006</a>). In the case of advertising, information sharing can be understood as a proactive act where sellers take an active role by providing information about their products. The differences and equalities of parallel concepts, knowledge sharing and information sharing, could be widely discussed (Savolainen, <a href="#sav17">2017</a>). In this article, we use the concept of information sharing based on Wilson’s (<a href="#wil10">2010</a>) approach where he sees knowledge as something that involves understanding and learning.</p> 
+ 
+ <p>Advertising consists of messages in different forms, used to e.g., support or facilitate the sales of goods or services. They are also paid material in media, but they are constructing contemporary consumer consciousness (Hackley, <a href="#hac99">1999</a>). The advertising and information shared in drug advertisements also construct opinions about narcotics and their effectiveness, and build a positive attitude towards drug use. Advertising is also an important way to tell users where drugs are available, because this kind of information cannot be shared anonymously in other information environments.</p>
+ 
+ </section>
+ <section>
+ 
+ <h2>Data and methods</h2>
+ 
+ <p>The data were collected from Utopia (<a href="http://utopiaenjoycwvvp.onion/">http://utopiaenjoycwvvp.onion/</a>) which is an archive of the Finnish cryptomarket called Sipulimarket. Its moderator has collected all advertisements of Sipulimarket from December 6, 2019 to March 19, 2020. In some days, that sample was collected only once, but sometimes even four times a day. The average is two samples a day. The data includes product information, feedback statistics, price lists, vendor store descriptions, PGP keys and login times. The data used in this study is freely available to all internet users, and according to the Utopia moderator, one of the purposes to publish the advertisements is to offer them for research.</p> 
+ 
+ <p>The number of vendors varies during the time span studied. On 6th of December 2019, there were 18 dealers selling their products, and on 19th of March 53 vendors had offered their products at Sipulimarket. The same ads often stay online for a longer time, but they are often removed when the supply is out, or new product information has been added to the ads, as necessary depending on the vendor’s products in stock. The quantity of 53 vendors is cumulative; all of them have not been active at the same time. Some older ones have vanished from the market, but there are new vendors who have replaced the old ones.</p> 
+ 
+ <p>All of the advertisements were read through and analysed using a qualitative content analysis. In the analysis we paid particular attention to sales arguments and to the image built by and to the vendor. We sought to find the key discourses that appear in the announcements of various vendors and in introductory texts describing their activities. Through this analysis, we found the key themes of marketing speech, which are introduced in section 5.1. Based on them, we have outlined an image of what the vendors are building by relying on marketing speech. We have also analysed the vendors’ names to get more accurate understanding of the image they are building.</p> 
+ 
+ <p>Pictures inserted in the messages were excluded from the downloaded material, and the analysis focused on textual content. The pictures were either about drugs or in some cases the vendor had their own logo in their advertisements. Were those taken into analysis, there is a danger that a vendor’s identity can be identified from the published research. This decision was made to minimise any potential damage to the advertisers at Sipulimarket.</p> 
+ 
+ <p>Harviainen, et al. (<a href="#har21">2021</a>, p. 4676) have pointed out that the nature of dark web drug communities '<em>requires extensive care and the extension of existing safety protocols</em>'. Our ethical principle has been to avoid doing any harm to any of the members of the communities under study, and to minimise harm in cases where the advertisers might be recognised despite our best efforts (see also Martin and Christin, <a href="#mar16">2016</a>; Ferguson, <a href="#fer17">2017</a>; Harviainen et al., <a href="#har21">2021</a>).</p> 
+ 
+ <p>Our approach is based on the Gioia methodology (e,g., Gioia, et al., <a href="#gio13">2013</a>), which brings qualitative rigor to the conduct and presentation of inductive research. At the core of this grounded process is the avoidance of forcing data into existing constructs, and instead developing analytic <em>categories</em> based on what was actually said and done. It offers a researcher a new way to organise data structure in qualitative analysis by using concepts, themes and aggregating dimensions (see Table 1), which are used in theory development. Due to the lack of previous research on the topic this methodological framework can also be understood to belong into the wider tradition of Grounded Theory (see e.g. Strauss and Corbin, <a href="#str97">1997</a>), of which this method is one sub-type (Gioia, et al., <a href="#gio13">2013</a>). A central advantage of the aggregation conducted in this way is that it combines the empirical evidence with the higher order themes to be developed, allowing for the presentation of findings in the context of further theorising. The following sections reflect this, and are structured so that under the major themes can be found examples that were used in the aggregation. </p> 
+ 
+</section>
+<section>
+ 
+ <h2>Results</h2>
+ 
+ <h3>Main factors in marketing speech</h3>
+ 
+ <p>The four elements on which the information sharing in the marketing speech is based can be clearly distinguished from the messages on Sipulimarket. They are 1) quality and 2) effects of the drugs (which we discuss here together), 3) price and 4) persuasiveness of the vendor. In the following, we analyse these key drivers in more detail. The products sold via Sipulimarket were mostly cannabinoids, amphetamine, prescription drugs that can be misused (e.g., opioids) and hormones. The most commonly tried or used drug in Finland is cannabis, according to Finnish Institute for health and welfare (THL, <a href="#thl19">2019</a>. Sipulimarket is a marketplace for sellers of different types of drugs and hormones. Differences in the marketing discourse of different products can therefore be observed, as different drugs are marketed to different target groups. This also explains why several vendors specialise in a product (e.g., hashish or hormones). In practice, this is reflected in the fact that, for example, hashish is marketed as an organic product based on the values of the target group, ecstasy as an explosive party drug and hormones are emphasised to come from pharmacies, which increases the credibility of the product’s quality.</p> 
+ 
+ <p>Table 1 summarises examples of three themes representing different types of marketing speech and analyses their significance, developed from first-order comments, exemplified here through quotes. Themes mentioned in Table 1 are examined in more detail below.</p> 
+ 
+  <table class="center">  
+  <caption><br />Table 1. Main factors of the information shared: development of themes</caption> 
+  <tbody>
+   <tr>
+   <th>Theme</th><th>Resume</th><th>Quote</th></tr>
+  <td>Quality and effects of the drugs</td>
+  <td>The aim is to convince customers of the quality of the drug by telling about the variety and its characteristics.</td>
+  <td>Cross between Critical + and Cheese. The scent of the knob is light apple. Flower texture slightly airy. However, the resin is found in moderation. Indica in genetics but more sativa in effect.</td>
+  </tr> 
+   <tr>
+  <td>Quality and effects of the drugs</td>
+  <td>The seller gives instructions for the ingestion of the “magic mushrooms” in order to make the experience of them as successful as possible.</td>
+  <td>To achieve a pleasant trip experience, you should set aside enough time and a peaceful environment. The effect of Trip can be accelerated by dissolving the crushed mushroom in lemon juice, whereby the psilocybin in the mushroom is directly converted to psilosin. In this case, the trip is stronger but shorter. However, we recommend this method only for accustomed users.</td>
+  </tr> 
+   <tr>	   
+  <td>Quality and effects of the drugs</td>
+  <td>The seller’s goal is to warn the customer about the side effects of the drug. At the same time, cannabis is indirectly equated with legal stimulants such as alcohol and cigarettes, which use similar warning texts.</td>
+  <td>Keep out of the reach of children and animals. Not for children or for pregnant and breastfeeding women.</td>
+  </tr> 
+   <tr>
+  <td>Price</td>
+  <td>Promoting the sales with a cheap price image.</td>
+  <td>Cristal meth! Cheapest price at Sipulimarket!!!</td>
+  </tr> 
+   <tr>
+  <td>Price and Quality</td>
+  <td>In addition to product quality, marketing emphasises the price-quality ratio</td>
+  <td>Finland’s strongest dry amphetamine. You won’t find better price-quality anywhere. Extension even double or triple.</td>
+  </tr> 
+   <tr>
+  <td>Persuasiveness</td>
+  <td>Careful packaging of the product as a factor that promotes the unobtrusive and safe arrival of the drug.</td>
+  <td>The products are packed in a mylarp bag, which is sealed with a heat seal. We do not use the plus sign in the mail.</td>
+  </tr> 
+   <tr>	   	   
+  <td>Persuasiveness</td>
+  <td>Emphasis on manufacturing method and domesticity.</td>
+  <td>The product is made from organically grown domestic inflorescence without the use of solvents. Separated from water and ice using BubbleBags. </td>
+  </tr> 
+   <tr>
+  <td>Persuasiveness</td>
+  <td>Emphasis on the seller’s experience and expertise.</td>
+  <td>N.N. [vendor’s name], a reliable Finnish doping expert, serves its customers in all matters related to doping. For more information about our products, ask directly from us.</td>
+  </tr> 
+   <tr>
+  <td>Persuasiveness</td>
+  <td>Emphasising security issues.</td>
+  <td>Your security is taken care of by a dedicated cryptography professional with several decades of solid experience. All data is more than behind sufficiently rigorous algorithms and is never processed outside of TAILS (tails.boum.org). The data will not be stored in any form after the order has been placed.</td>
+   </tr>  
+  </tbody>
+  </table> 
+
+ <p>Two types of information that have been used in advertising can be clearly distinguished from the material: persuasive information and factual informative information. The former is primarily based on emotional factors, and the latter is based on product information.</p> 
+
+	 
+ <h3>Quality and effects of the drugs</h3>	 
+ 
+ <p>Above all, domesticity and the fact that drugs are mailed from inside Finland are considered to be key factors. In this case, the risk of getting caught is lower. Above all, the sales speech on hormones and narcotic drugs (e.g., opiate derivatives) emphasises this domesticity, as do statements about the seller being an ethnic Finn. If the hormones and medicines come from domestic pharmacies, this is considered a significant guarantee of quality.</p>
+ 
+ <p>Marketing speech is enhanced in all advertisements with the help of images. For example, images taken from the packaging of hormone products and various drugs verify their authenticity. Similarly, there is almost always an image of drugs in the marketing message, which thus increases the effectiveness and reliability of the advertisement. The images can therefore be seen as increasing the efficiency and trustworthiness and proving the high quality of the product.</p> 
+ 
+ <p>Quality of the drugs is in an important role when making decisions about which vendor to use. By telling in detail the product features, customers can be convinced about quality. One important factor in marketing is to tell the customers about the strength of the drugs and their effects. To emphasise their responsibility, vendors provide dosing and use instructions for the drugs that they sell. Several vendors seek to emphasise responsibility in use and drug storage, as well as the sales. This may implicate that some vendors see the sale of cannabis as ideologically justified.</p>
+ 
+ <p>Some vendors at Sipulimarket also had sweets and biscuits containing cannabis for sale. In addition to giving dosage instructions, customers were also warned about the harms drug usage may cause.
+This statement, reminiscent of the warning text on cigarette packs, shows a similarity to the marketing of alcohol and tobacco. Although the products sold are harmful to health and in this case illegal, the seller emphasises that pregnant and lactating women and also children, should refrain from using these products.</p>
+ 
+ <p>Many vendors underlined that they do not sell drugs to minors. This may be an indication of a sense of responsibility, but more likely it is due to the desire to avoid harsher punishments. In Finland, the sale of drugs to minors is automatically a serious drug offense punishable by a more severe sentence (see also Haasio, et al., <a href="#haa20">2020</a>).</p>
+ 
+ <p>In some cases when cannabinoids were sold, descriptions of medicinal effects were also used as part of the marketing discourse. According to the vendors, cannabinoids help with depression and anxiety when used as medicine. Interestingly, some pharmaceutical drugs, which do not actually have a narcotic effect, such as sildenafil and prescription-strength ibuprofen, were also sold at Sipulimarket. A likely reason for this, based on our other data sets, is that these products require a prescription, and can be used to counteract some of the negative side effects of illegal drugs (e.g., amphetamine-correlated erectile dysfunction; Chou, et al., <a href="#cho15">2015</a>), or their withdrawal symptoms. Needles and syringes were also for sale by some vendors.</p>
+ 
+ <p>There was little use of over-the-top words (e.g., “fantastic”) in the marketing speech. The argument was based primarily on product characteristics such as continuity, strength, or cannabis variety. The strongest expressions were “really functional” type claims, for example, when linked to amphetamine, or “the best one here”. It can be assumed that by exaggerating the characteristics of the product, a stable position in the drug market cannot be achieved. This may, however, also be connected to the Finnish cultural dislike of hyperbole, and therefore the finding is possibly not generalisable to other countries’ drug sales.</p>
+ 
+ <p>The entrepreneur has to understand his/her customer’s behaviour and needs. This process can be called a sensemaking process of one’s customers’ behaviour. Bettiol, et al. (<a href="#bet12">2012</a>) have pointed out that sensemaking in small and medium enterprises is an important strategic factor to help their marketing. Despite the illegality of products sold, sensemaking is in an important role to build a strategy to sell drugs. In a similar manner, customers have information gaps (as per Dervin, <a href="#der03">2003</a>) about seller reliability and product quality. By using marketing speech, the sellers at least partially help their customers to cross those gaps – or, in the case of unreliable vendors, pretend that they help.</p> 
+ 
+ <h3>Price</h3>
+ 
+ <p>Due to the illegality of the drug trade, risks for sellers are high. Based on the content of the ads, we observed that they want to compete primarily on quality, not so much on price. Given the limited number of drugs on the market, it is clear that price may not be the main way to market the products being sold.</p>
+
+ <p>Price is one competitive factor, above all in the form of volume discounts and introductory offers. In some cases, some products are also depreciation items that are marketed at a lower price. Price can also be used as an element of competition and emphasise the cheapeners of one’s own product over other similar drugs on the market. When price is a marketing tool on the Sipulimarket cryptomarket, discounts are mostly based on quantity. There are also some bulk sales; especially the “rest of the stock” are sometimes sold at a reduced price.</p>
+
+ <h3>Trust and persuasiveness</h3>
+ 
+ <p>Trust in the vendor plays a key role when it comes to persuasiveness. This is mainly due to the seller’s expertise, the delivery of the products to the customer and the overall image that the seller gives of his activities and knowledge about drugs.</p>
+
+ <p>Feedback acquired from one’s customers is also one way to promote one’s goods. The vendors are happy to use on customer feedback that the service has the opportunity to provide. Verbal customer feedback cannot be given on-site, but a plus, neutral or minus sign can be given to the seller if desired. In all advertisements, the vendors tell about themselves. Domestic goods, delivery security, inconspicuous deliveries and escrow payments by Bitcoin are typical features for most of the vendors operating on Sipulimarket. Some sellers offer a geocache-type option with GPS coordinates as an alternative to mail delivery, especially for large purchases. Also, escrow is used often in payments, in order to secure the transaction. It means that there is a contractual arrangement in which a third party receives and disburses money or property for the primary parties. In almost all cases the vendors give very strict instructions for how the orders are to be made and how the products will be delivered.</p>
+
+ <p>Typical features mentioned in the advertisements of Sipulimarket can be summarised as follows:</p>
+
+ <ol>
+ 	<li>Emphasis on quality</li>
+ 	<li>Enabling escrow in payments</li>
+ 	<li>Mention about the delivery schedule</li>
+	<li>Information on the packaging method to ensure the anonymity and invisibility</li>
+	<li>Opportunity to deliver drugs to the terrain cache</li>
+	<li>Drugs are not sold to minors</li>
+ </ol>
+ 
+ <p>The technical features (2-6) of the delivery are the features that unite them. The vendors’ PGP key is also mentioned at the end of all advertisements. This enables safer communication and is one factor that increases trust between a vendor and a customer.</p>
+
+ <p>One notable feature of several announcements is the expertise that is conveyed e.g., with a very analytical and even scientific description of many products. Information on the composition of drugs and, for example, information on cannabis varieties and their characteristics is a key selling point. </p>
+
+ <p>As can be seen from the example above (see also Table 1), describing the origin of a product, its features and the method of manufacturing is an important way of convincing buyers of its quality. Here, too, emphasis is placed on domesticity as a guarantee of quality. Estimates of foreign websites for seeds of different cannabis species are also used to argue for product quality. The quality of hormones is also justified by the laboratory results of the products sold, to which the seller has links in the advertisement. Also, in some cases the vendors describe the manufacturing process very precisely, to convince their customers.</p>
+
+ <p>Some vendors specialise in certain products, with many of them also showing this in their usernames. Vendors of hormones or cannabis, in particular, focus specifically on these substances. Specialising increases also the persuasiveness – the vendor’s knowledge about his product is presumably better. Especially when concerning hormones, the customers may identify themselves differently from drug users. Both types of substances are illegal to sell, but the clientele is likely to be very different (see Harviainen, et al., <a href="#har20">2020</a>). Athletes who do not consider themselves drug addicts are the ones who buy the hormones.</p>
+ 
+ <p>Many drug users, in turn, made a clear distinction between cannabis and other drugs. The risks associated with cannabis use are considered to be clearly lower, and its use is often more acceptable in the Finnish society (Karjalainen, et al., <a href="#kar20">2020</a>). Cannabis may be understood as an alcohol-like stimulant, and some of its users do not have a positive attitude towards the use of so-called “hard drugs” like amphetamine or opioids. By specialising on cannabis, the customers’ trust in a knowledgeable seller of a quality stimulant is easier to achieve. At the same time, the risk of having to deal with untrustworthy “junkies” as customers largely disappears (see e.g., Harviainen, et al., <a href="#har20">2020</a>). In some cases, the vendors also carried out product development and processed drugs into biscuits and caramels, for example. These products were also named after the vendor, and they were available only from a certain vendor.</p>
+ 
+ <p>When it comes to selling and buying illegal substances, security is paramount to also most customers, not just the sellers. Authorities are monitoring the activities of cryptomarkets and drug trading image boards, and neither side wants information about the drug trade to fall into the hands of the police. For this reason, convincing customers about the security of trading is important and creates a positive image of the trader as well as increases further confidence in him/her.</p>
+ 
+ <p>Trust and persuasiveness are dependent on each other. For developing them, the vendors are building an image of their store, which is analysed more closely in next chapter.</p>
+ 
+ <h3>Image building of a drug store</h3>
+ 
+ <p>The drug stores at Sipulimarket have clearly tried to build a professional and trustable image of themselves. The image of the drug store is based on three elements: persuasiveness, quality and price, as well as influenced by the vendor’s chosen username (see Figure. 1).</p>
+ 
+  <figure class="centre">
+    <img alt="Figure 1: Factors influencing the image of a cryptomarket drug vendor." src="figs/isic2241fig1.jpg" width="495" />
+    <figcaption><br>Figure 1: Factors influencing the image of a cryptomarket drug vendor.
+   </figcaption>
+ </figure>
+ 
+ <p>Vendors on cryptomarkets on the other hand often constantly use the same name in their shop, if they can. This way, they are more systematically building an image of their business. At the same time, their credibility as trading partners is also better.</p>
+ 
+ <p>In addition to the persuasiveness, price and quality of the products mentioned above, one more key building factor is the image created through advertising and marketing. The name of the drug store, sharing of drug-related information, increase or decrease reliability and vendors’ own products like drugs processed into caramels build that image. Specialisation in the sale of certain drugs also tends to increase the credibility of the seller. In practice, this means that the detailed information provided by the seller about the origin of the drug or hormones and the characteristics of the cannabis variety, for example, will better convince the buyer of the seller’s expertise. The further processing of the products into biscuits and caramels containing cannabis, for example, is also an indication that the seller has invested in developing his or her product. This is highly in line with the observations made by Bilgrei (<a href="#bil18">2018</a>) on the way in which online drug subcultures are also environments for sharing peer-to-peer information on drug creation, use and effects, and how that sharing creates social status as trusted experts within the community.</p>
+ 
+ <p>Author 3 (Hämäläinen, <a href="#ham19">2019</a>; Hämäläinen, et al., <a href="#ham21">2021</a>; Hämäläinen and Ruokolainen, <a href="#ham21b">2021</a>) has analysed the names of different shops in previous studies. By selecting a certain type of “company” name the vendor builds his/her image. The fact that many vendors perform as a collective (store), increases the reliability and is an important way to build vendor’s image. The name is a guarantee of quality and also distinguishes actors in the drug trade. When a vendor operating under a certain name receives a lot of positive feedback in a cryptomarket, his/her positive image as a trusted seller grows.</p>
+ 
+ </section>
+ <section>
+	 
+ <h2>Conclusion</h2>
+ 
+ <p>Based on our research, the goal of drug vendors is to create the image of a reliable seller who is competitive in terms of price and, above all, quality in order to promote sales. Information shared supports this goal and there are two kinds of information shared: persuasive information and factual informative information.</p>
+ 
+ <p>The aim is to justify the high quality of the products sold with expert comments on the product’s characteristics, origin and composition. The aim is also to create a convincing image of a reliable seller who delivers the ordered drugs reliably and unobtrusively to his customers. This is supported by, among other things, escrow fees, mailing schedules and mentions of how the drugs are packaged and how the mail is delivered to the subscriber. All this together with the user feedback given by likes and dislikes, the image of the vendor is created.</p>
+ 
+ <p>One factor influencing image formation is the username of the vendor. It aims to create an image of, for example, a knowledgeable salesperson specialising in a particular drug, honesty, or other factors that increase the seller’s credibility. Most usernames are in Finnish, possibly to create an image of domesticity, but English names are not rare either.</p>
+ 
+ <p>Domesticity is a key factor in building trust and a positive image. This is reflected in both the product descriptions and the names. Especially the country of origin of prescription drugs and hormones, in particular, is important for reliability and customer satisfaction. That is an example of the importance of information sharing which supports marketing when choosing the shop’s name. Persuasiveness also has an important role when speaking about the image. It is based above all on customer feedback, product information and a professional approach, which is reflected, for example, in the regularity of deliveries and schedules.</p>	 
+ 
+ <p>As shown, many features of illicit drug marketing and marketing done in small legal businesses as well as used strategies are very similar. In criminal business, the same marketing and advertising methods are used to convince the customers. Building a trustworthy image by using same methods is important for both.</p>
+ 
+ <p>From a marketing perspective, convincing the customer about the quality of the product is key. This comes out clearly and is of great importance because there are competing sellers in the market. The quality of a product can best be argued above all by means of related facts (e.g., domesticity, biodynamics, etc.). Such discussion on drug quality is, in the light of previous studies, a central need for information (Haasio, et al., <a href="#haa20">2020</a>) in Dark Web marketplaces.</p>
+ 
+ <p>In further studies concerning illicit drug sales and their marketing, it would be interesting to analyse the negative feedback given to the vendors. Why is the dislike button pressed and what are the reasons not to use a certain vendor’s services? Also, the user’s views of a reliable trader are an interesting object of study. From what elements do persuasiveness and reliability arise in the minds of customers and what prejudices against vendors exist? This requires further research and the use of qualitative methods through interview research or field ethnography. The challenge is to get informants to the interviews, because it is about their participation in an illegal activity.</p>
+ 
+ </section>
+ <section>
+	 
+ <h2>Acknowledgements</h2> 
+ 
+ <p>Parts of this research were funded by the Academy of Finland. The authors wish to thank the FIRE and RIME research groups of Tampere University for their valuable feedback on an early version of this article.</p> 
+ </section>
+ <section>
+
+ <h2 id="author">About the authors</h2> 
+ 
+ <p><strong>Ari Haasio</strong> (PhD, MA) is Principal Lecturer at Seinäjoki University of Applied Sciences, Finland. E-mail: <a href="mailto:ari.haasio@seamk.fi">ari.haasio@seamk.fi</a><br>
+<strong>J. Tuomas Harviainen</strong> (PhD, MBA) is Professor of Information Studies and Interactive Media at Tampere University, Finland. Harviainen leads the Academy of Finland funded research consortium ENNCODE, which studies drug trading and extremist memes on the Dark Web. E-mail: <a href="mailto:tuomas.harviainen@tuni.fi">tuomas.harviainen@tuni.fi</a><br>
+<strong>Lasse Hämäläinen</strong> (PhD) is Researcher at the University of Helsinki, Finland. E-mail: <a href="mailto:lasse.j.hamalainen@helsinki.fi">lasse.j.hamalainen@helsinki.fi</a></p> 
+ 
+</section>
+<section class="refs">
+ 
+ 
+<h2>References</h2> 
+ 
+ <ul class="refs"> 
+ 
+
+<li id="afi15"> Afilipoaie, A., &amp; Shortis, P. (2015). From dealer to doorstep – How drugs are sold on the dark net. <em>GDPO Situation Analysis. Swansea University: Global Drugs Policy Observatory</em>. https://www.swansea.ac.uk/media/From-Dealer-to-Doorstep-%C3%A2%C2%80%C2%93-How-Drugs-Are-Sold-On-the-Dark-Net.pdf (<a href="https://web.archive.org/web/20220120084930/https://www.swansea.ac.uk/media/From-Dealer-to-Doorstep-â%C2%80%C2%93-How-Drugs-Are-Sold-On-the-Dark-Net.pdf">Internet Archive</a>) </li> 
+
+<li id="ain12">Ainiala, T., Saarelma, M., &amp; Sjöblom, P. (2012). <em>Names in Focus: An Introduction to Finnish Onomastics.</em> Studia Fennica Linguistica 17. Finnish Literature Society.</li> 
+
+<li id="ald16">Aldridge, J. &amp; Décary-Hétu. D. (2016). Cryptomarkets And The Future Of Illicit Drug Markets. DANS EMCDDA. (Eds.) <em>The Internet And Drug Markets.</em> Publications Office of the European Union. <a href="https://doi.org/10.2810/324608">https://doi.org/10.2810/324608</a></li> 
+
+<li id="bak19">Bakken, S. A., &amp; Demant, J. J. (2019). Sellers’ risk perceptions in public and private social media drug markets. <em>International Journal of Drug Policy 73</em>, 255-262. <a href="https://doi.org/10.1016/j.drugpo.2019.03.009">https://doi.org/10.1016/j.drugpo.2019.03.009</a></li> 
+
+<li id="bet12">Bettiol, M., Di Maria, E., &amp; Finotto, V. (2012). Marketing in SMEs: The role of entrepreneurial sensemaking. <em>International Entrepreneurship and Management Journal, 8</em>(2), 223-248. <a href="https://doi.org/10.1007/s11365-011-0174-3">https://doi.org/10.1007/s11365-011-0174-3</a></li> 
+
+<li id="bil18">Bilgrei, O. R. (2018). Broscience. Creating trust in online drug communities. <em>New Media &amp; Society, 20</em>(8), 2712-2727. <a href="https://doi.org/10.1177/1461444817730331">https://doi.org/10.1177/1461444817730331</a></li> 
+
+<li id="bur20">Burnett, S., &amp; Lloyd, A. M. (2020). Hidden and forbidden: conceptualising Dark Knowledge. <em>Journal of Documentation, 76</em>(6), 1341-1358. <a href="https://doi.org/10.1108/JD-12-2019-0234">https://doi.org/10.1108/JD-12-2019-0234</a></li> 
+
+<li id="bux15">Buxton, J., &amp; Bingham, T. (2015). The rise and challenge of dark net drug markets. <em>Policy Brief, 7</em>, 1-24. https://core.ac.uk/download/pdf/34722885.pdf (<a href="https://web.archive.org/web/20210921210029/https://core.ac.uk/download/pdf/34722885.pdf">Internet Archive</a>)</li> 
+
+<li id="che11">Chen, H. (2011). <em>Dark web: Exploring and data mining the dark side of the web (Vol. 30).</em> Springer Science &amp; Business Media.</li> 
+
+<li id="chi20">Childs, A., Coomber, R., Bull, M., &amp; Barratt, M. J. (2020). Evolving and Diversifying Selling Practices on Drug Cryptomarkets: An Exploration of Off-Platform “Direct Dealing”. <em>Journal of Drug Issues, 50</em>(2), 173-190. <a href="https://doi.org/10.1177/0022042619897425">https://doi.org/10.1177/0022042619897425</a></li> 
+
+<li id="cho15">Chou, N.-H., Huang, Y.-J., &amp; Jiann, B.-P. (2015). The impact of illicit use of amphetamine on male sexual functions. <em>Journal of Sexual Medicine, 12</em>(8), 1694-1702. <a href="https://doi.org/10.1111/jsm.12926">https://doi.org/10.1111/jsm.12926</a></li> 
+
+<li id="chr15">Chrane, C., &amp; Kumar, S. A. (2015). An examination of Tor technology based anonymous internet. In <em>Proceedings of the 15th Informing Science Institute (InSite) International Conference</em>, July 1-5, 2015, Tampa, FL. http://proceedings.informingscience.org/InSITE2015/InSITE15p145-153Chrane1636.pdf (<a href="https://web.archive.org/web/20200805023903/http://proceedings.informingscience.org/InSITE2015/InSITE15p145-153Chrane1636.pdf">Internet Archive</a>)</li> 
+
+<li id="cil20">Cilleruelo, C., de-Marcos, L., Junquera-Sanchez, J., &amp; Martınez-Herraiz, J.-J. (2020). Interconnection between darknets. <em>IEEE Internet Computing, 25</em>(3), 61-70. <a href="https://doi.org/10.1109/MIC.2020.3037723">https://doi.org/10.1109/MIC.2020.3037723</a></li> 
+
+<li id="der03">Dervin, B., Foreman-Wernet, L., &amp; Lauterbach, E. (2003). <em>Sense-making methodology reader: Selected writings of Brenda Dervin.</em> Hampton Press.</li> 
+
+<li id="dol15">Dolliver, D. S. (2015). Evaluating drug trafficking on the Tor Network: Silk Road 2, the sequel. <em>International Journal of Drug Policy, 26</em>(11), 1113-1123. <a href="https://doi.org/10.1016/j.drugpo.2015.01.008">https://doi.org/10.1016/j.drugpo.2015.01.008</a></li> 
+
+<li id="dol16">Dolliver, D. S., &amp; Kuhns, J. B. (2016). The presence of new psychoactive substances in a tor network marketplace environment. <em>Journal of psychoactive drugs, 48</em>(5), 321-329. <a href="https://doi.org/10.1080/02791072.2016.1229877">https://doi.org/10.1080/02791072.2016.1229877</a></li> 
+
+<li id="du12">Du, J. T. (2012). Information use and information sharing in marketing: A diary study. <em>Proceedings of the American Society for Information Science and Technology, 49</em>(1), 1-4. <a href="https://doi.org/10.1002/meet.14504901290">https://doi.org/10.1002/meet.14504901290</a></li> 
+
+<li id="du14">Du, J. T. (2014). The information journey of marketing professionals: Incorporating work task-driven information seeking, information judgments, information use, and information sharing. <em>Journal of the Association for Information Science and Technology, 65</em>(9), 1850-1869. <a href="https://doi.org/10.1002/asi.23085">https://doi.org/10.1002/asi.23085</a></li> 
+
+<li id="fer17">Ferguson, R-H. (2017). Offline ‘stranger’ and online lurker: methods for an ethnography of illicit transactions on the darknet. <em>Qualitative Research, 17</em>(6), 683-698. <a href="https://doi.org/10.1177%2F1468794117718894">https://doi.org/10.1177%2F1468794117718894</a></li> 
+
+<li id="fol19">Foley, S., Karlsen, J. R., &amp; Putniņš, T. J. (2019). Sex, drugs, and bitcoin: How much illegal activity is financed through cryptocurrencies? <em>The Review of Financial Studies, 32</em>(5), 1798-1853. <a href="https://doi.org/10.1093/rfs/hhz015">https://doi.org/10.1093/rfs/hhz015</a> </li> 
+
+<li id="fri87">Friedmann, R., &amp; Lessig, V. P. (1987). Psychological meaning of products and product positioning. <em>Journal of Product Innovation Management, 4</em>(4), 265-273. <a href="https://doi.org/10.1111/1540-5885.440265">https://doi.org/10.1111/1540-5885.440265</a></li> 
+
+<li id="geh18">Gehl, R. W. (2018). <em>Weaving the Dark Web: Legitimacy on Freenet, Tor, and I2P.</em> The MIT Press.</li> 
+
+<li id="geh21">Gehl, R. W. (2021). Dark web advertising: the dark magic system on tor hidden service search engines. <em>Continuum, 35</em>(5), 667-678. <a href="https://doi.org/10.1080/10304312.2021.1983251">https://doi.org/10.1080/10304312.2021.1983251</a></li> 
+
+<li id="gio13">Gioia, D. A., Corley, K. G., &amp; Hamilton, A. L. (2013). Seeking qualitative rigor in inductive research: Notes on the Gioia methodology. <em>Organizational research methods, 16</em>(1), 15-31. <a href="https://doi.org/10.1177/1094428112452151">https://doi.org/10.1177/1094428112452151</a></li> 
+
+<li id="gri20">Grimani, A., Gavine, A., &amp; Moncur, W. (2020). “An Evidence Synthesis of Strategies, Enablers and Barriers for Keeping Secrets Online Regarding the Procurement and Supply of Illicit Drugs”, <em>International Journal of Drug Policy, 75</em>, 102621. <a href="https://doi.org/10.1016/j.drugpo.2019.102621">https://doi.org/10.1016/j.drugpo.2019.102621</a></li> 
+
+<li id="haa20">Haasio, A., Harviainen, J. T., &amp; Savolainen, R. (2020). Information needs of drug users on a local dark Web marketplace. <em>Information Processing &amp; Management, 57</em>(2), 102080. <a href="https://doi.org/10.1016/j.ipm.2019.102080">https://doi.org/10.1016/j.ipm.2019.102080</a></li> 
+
+<li id="hac99">Hackley, C. (1999). The meanings of ethics in and of advertising. <em>Business Ethics: A European Review, 8</em>(1), 37-42. <a href="https://doi.org/10.1111/1467-8608.00123">https://doi.org/10.1111/1467-8608.00123</a></li> 
+
+<li id="har20">Harviainen, J. T., Haasio, A., &amp; Hämäläinen, L. (2020, January). Drug traders on a local dark web marketplace.
+ In <em>Proceedings of the 23rd International Conference on Academic Mindtrek</em>, Tampere, Finland, January 29-30, 2020 (pp. 20-26). <a href="https://doi.org/10.1145/3377290.3377293">https://doi.org/10.1145/3377290.3377293</a></li> 
+
+<li id="har21">Harviainen, J. T., Haasio, A., Ruokolainen, T., Hassan, L., Siuda, P., &amp; Hamari, J. (2021). Information Protection in Dark Web Drug Markets Research. <em>Proceedings of the 54th Hawaii International Conference on System Sciences</em>, Honolulu, Hawaii, January 4-8, 2021 (pp. 4673–4680). <a href="https://doi.org/10.24251/HICSS.2021.567">https://doi.org/10.24251/HICSS.2021.567</a></li> 
+
+<li id="hel03">Hellier, P. K., Geursen, G. M., Carr, R. A., &amp; Rickard, J. A. (2003). Customer repurchase intention. <em>European journal of marketing, 37</em>(11/12), 1762-1800. <a href="https://doi.org/10.1108/03090560310495456">https://doi.org/10.1108/03090560310495456</a> </li> 
+
+<li id="hur17">Hurlburt, G. (2017). Shining light on the dark web. <em>Computer, 50</em>(4), 100–105. <a href="https://doi.ieeecomputersociety.org/10.1109/MC.2017.110">https://doi.ieeecomputersociety.org/10.1109/MC.2017.110</a></li> 
+
+<li id="ham19">Hämäläinen, L. (2019). User names of illegal drug vendors on a darknet cryptomarket. <em>Onoma, 50</em>, 43-68. <a href="https://doi.org/10.34158/ONOMA.50/2015/2">https://doi.org/10.34158/ONOMA.50/2015/2</a></li> 
+
+<li id="ham21">Hämäläinen, L., Haasio, A., &amp; Harviainen, J. T. (2021). Usernames on a Finnish Online Marketplace for Illegal Drugs. <em>Names, 69</em>(3). <a href="https://doi.org/10.5195/names.2021.2234">https://doi.org/10.5195/names.2021.2234</a></li> 
+
+<li id="ham21b">Hämäläinen, L., &amp; Ruokolainen, T. (2021). Kukkaa, amfea, subua ja essoja: Huumausaineiden slanginimitykset Tor-verkon suomalaisella kauppapaikalla. <em>Sananjalka, 63</em>, 130-153. <a href="https://doi.org/10.30673/sja.106615">https://doi.org/10.30673/sja.106615</a></li> 
+
+<li id="kar20">Karjalainen, K., Pekkanen, N., &amp; Hakkarainen, P. (2020). Suomalaisten huumeiden käyttö ja huumeasenteet: Huumeaiheiset väestökyselyt Suomessa 1992–2018. <em>Raportti 2/2020.</em> Terveyden ja hyvinvoinnin laitos: Helsinki. <a href="http://urn.fi/URN:ISBN:978-952-343-441-7">http://urn.fi/URN:ISBN:978-952-343-441-7</a> [Finnish drug use and attitudes: Drug-related population surveys in Finland 1992–2018]. </li> 
+
+<li id="kat15">Katsuki, T., Mackey, T. K., &amp; Cuomo, R. (2015). Establishing a link between prescription drug abuse and illicit online pharmacies: analysis of Twitter data. <em>Journal of medical Internet research, 17</em>(12), e280. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4704982/ (<a href="https://web.archive.org/web/20220307175424/https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4704982/">Internet Archive</a>)</li> 
+
+<li id="ket18">Kethineni, S., Cao, Y., &amp; Dodge, C. (2018). Use of bitcoin in darknet markets: Examining facilitative factors on bitcoin-related crimes. <em>American Journal of Criminal Justice, 43</em>(2), 141-157. <a href="https://doi.org/10.1007/s12103-017-9394-6">https://doi.org/10.1007/s12103-017-9394-6</a></li> 
+
+<li id="kru16">Kruithof, K., Aldridge, J., Décary-Hétu, D., Sim, M., Dujso, E., &amp; Hoorens, S. (2016). The role of the ‘dark web’ in the trade of illicit drugs. <em>RAND Europe.</em> <a href="https://doi.org/10.7249/RB9925">https://doi.org/10.7249/RB9925</a> </li> 
+
+<li id="lad17">Ladegaard, I. (2017). Instantly hooked? Freebies and samples of opioids, cannabis, MDMA, and other drugs in an illicit E-commerce market. <em>Journal of Drug Issues, 48</em>(2), 226-245. <a href="https://doi.org/10.1177%2F0022042617746975">https://doi.org/10.1177%2F0022042617746975</a></li> 
+
+<li id="laf22">Laferrière, D., &amp; Décary-Hétu, D. (2022): Examining the uncharted dark web: Trust signalling on single vendor shops. <em>Deviant Behavior.</em> <a href="https://doi.org/10.1080/01639625.2021.2011479">https://doi.org/10.1080/01639625.2021.2011479</a></li> 
+
+<li id="mac13">Mackey, T. K., &amp; Liang, B. A. (2013). Global reach of direct-to-consumer advertising using social media for illicit online drug sales. <em>Journal of Medical Internet research, 15</em>(5), e105. <a href="https://doi.org/10.2196/jmir.2610">https://doi.org/10.2196/jmir.2610</a></li> 
+
+<li id="mar16">Martin, J. &amp; Christin, N. (2016). Ethics in cryptomarket research. <em>International Journal of Drug Policy, 35</em>, 84–91. <a href="https://doi.org/10.1016/j.drugpo.2016.05.006">https://doi.org/10.1016/j.drugpo.2016.05.006</a></li> 
+
+<li id="mar20">Martin, J., Munksgaard, R., Coomber, R., Demant, J., &amp; Barratt, M. J. (2020). Selling drugs on darkweb cryptomarkets: differentiated pathways, risks and rewards. <em>The British Journal of Criminology, 60</em>(3), 559-578. <a href="https://doi.org/10.1093/bjc/azz075">https://doi.org/10.1093/bjc/azz075</a> </li> 
+
+<li id="moe20">Moeller, K., Munksgaard, R., &amp; Demant, J. (2020). Illicit drug prices and quantity discounts: A comparison between a cryptomarket, social media, and police data. <em>International Journal of Drug Policy, 91</em>, 102969. <a href="https://doi.org/10.1016/j.drugpo.2020.102969">https://doi.org/10.1016/j.drugpo.2020.102969</a></li> 
+
+<li id="mol17">Molinillo, S., Gómez-Ortiz, B., Pérez-Aranda, J., &amp; Navarro-García, A. (2017). Building customer loyalty: The effect of experiential state, the value of shopping, and trust and perceived value of service on online clothes shopping. <em>Clothing and Textiles Research Journal, 35</em>(3), 156-171. <a href="https://doi.org/10.1177%2F0887302X17694270">https://doi.org/10.1177%2F0887302X17694270</a></li> 
+
+<li id="mou17">Moubarak, J., Filiol, E., &amp; Chamoun, M. (2017, October). Comparative analysis of blockchain technologies and tor network: Two faces of the same reality? In <em>2017 1st Cyber Security in Networking Conference (CSNet), Rio de Janeiro, Brazil, October 18-20, 2017 </em>(pp. 1-9). <a href="https://doi.org/10.1109/CSNET.2017.8242004">https://doi.org/10.1109/CSNET.2017.8242004</a></li> 
+
+<li id="nor18">Norbutas, L. (2018). Offline constraints in online drug marketplaces: An exploratory analysis of a cryptomarket trade network. <em>International Journal of Drug Policy, 56</em>, 92-100. <a href="https://doi.org/10.1016/j.drugpo.2018.03.016">https://doi.org/10.1016/j.drugpo.2018.03.016</a></li> 
+
+<li id="nur19">Nurmi, J. (2019). <em>Understanding the Usage of Anonymous Onion Services</em> (Doctoral dissertation, Ph. D. Dissertation. Tampere University, Tampere, Finland). <a href="https://urn.fi/URN:ISBN:978-952-03-1091-2">https://urn.fi/URN:ISBN:978-952-03-1091-2</a></li> 
+
+<li id="nur17">Nurmi, J., Kaskela, T., Perälä, J., &amp; Oksanen, A. (2017). Seller’s reputation and capacity on the illicit drug markets: 11-month study on the Finnish version of the Silk Road. <em>Drug and alcohol dependence, 178</em>, 201-207. <a href="https://doi.org/10.1016/j.drugalcdep.2017.05.018">https://doi.org/10.1016/j.drugalcdep.2017.05.018</a></li> 
+
+<li id="oks20">Oksanen, A., Miller, B. L., Savolainen, I., Sirola, A., Demant, J., Kaakinen, M., &amp; Zych, I. (2020). Social media and access to drugs online: A nationwide study in the United States and Spain among adolescents and young adults. <em>European journal of psychology applied to legal context, 13</em>(1), 29-36. <a href="https://doi.org/10.5093/ejpalc2021a5">https://doi.org/10.5093/ejpalc2021a5</a></li> 
+
+<li id="sav17">Savolainen, R. (2017). Information sharing and knowledge sharing as communicative activities. <em>Information Research, 22</em>(3), n3. http://informationr.net/ir/22-3/paper767.html (<a href="https://web.archive.org/web/20220307165719/http://informationr.net/ir/22-3/paper767.html">Internet Archive</a>)</li> 
+
+<li id="sco19">Scourfield, A., Flick, C., Ross, J., Wood, D. M., Thurtle, N., Stellmach, D., &amp; Dargan, P. I. (2019). Synthetic cannabinoid availability on darknet drug markets—changes during 2016–2017. <em>Toxicology Communications, 3</em>(1), 7-15. <a href="https://doi.org/10.1080/24734306.2018.1563739">https://doi.org/10.1080/24734306.2018.1563739</a> </li> 
+
+<li id="son06">Sonnenwald, D. H. (2006). Challenges in sharing information effectively: Examples from command and control. <em>Information Research, 11</em>(4), n4. http://informationr.net/ir/11-4/paper270.html  (<a href="https://web.archive.org/web/20220307165625/http://www.informationr.net/ir/11-4/paper270.html">Internet Archive</a>)</li> 
+
+<li id="sos15">Soska, K., &amp; Christin, N. (2015). Measuring the longitudinal evolution of the online anonymous marketplace ecosystem. In <em>24th USENIX Security Symposium</em>, Washington DC, USA, August 12-14, 2015. https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/soska  (<a href="https://web.archive.org/web/20220610142434/https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/soska">Internet Archive</a>)</li> 
+
+<li id="ste01">Stern, B., Zinkhan, G. M., &amp; Jaju, A. (2001). Marketing images: Construct definition, measurement issues, and theory development. <em>Marketing Theory, 1</em>(2), 201-224. <a href="https://doi.org/10.1177%2F147059310100100203">https://doi.org/10.1177%2F147059310100100203</a></li> 
+
+<li id="str97">Strauss, A., &amp; Corbin, J. M. (1997). <em>Grounded theory in practice.</em> Sage Publications, Inc.</li> 
+
+<li id="thl19">THL (2019). <em>Suomalaisten huumeiden käyttö ja huumeasenteet 2018.</em> Terveyden ja hyvinvoinnin laitos THL. Tilastoraportti 2/2019. <a href="http://urn.fi/URN:NBN:fi-fe201902256119">http://urn.fi/URN:NBN:fi-fe201902256119</a> [Finnish drug use and drug attitudes 2018].</li>  
+
+<li id="van17">Van Buskirk, J., Griffiths, P., Farrell, M. &amp; Degenhardt, L. (2017). Trends in new psychoactive substances from surface and “dark” net monitoring. <em>The Lancet Psychiatry, 4</em>(1), 16-18. <a href="https://doi.org/10.1016/S2215-0366(16)30405-9">https://doi.org/10.1016/S2215-0366(16)30405-9</a> </li> 
+
+<li id="wil10">Wilson, T.D. (2010). Information sharing: an exploration of the literature and some propositions. <em>Information Research, 15</em>(4), paper 440. http://informationr.net/ir/15-4/paper440.html  (<a href="https://web.archive.org/web/20220121134743/http://informationr.net/ir/15-4/paper440.html">Internet Archive</a>)</li> 
+
+<li id="win21">Windle, J. (2021). Horizon scanning of global drug markets. In F. Allum, &amp; S. Gilmour (Eds.), <em>The Routledge Handbook of Transnational Organized Crime</em> (pp. 215-231). Routledge.</li> 
+ </ul>  
+
+</section>
+<section>
+<hr />
+ <h4 style="text-align:center;">How to cite this paper</h4>
+   <div class="citing">Haasio, A., Harviainen, J.T., &amp; Hämäläinen, L. (2022). 'Biodynamically cultivated hash, confidentially': information sharing on the dark web.  In <i>Proceedings of ISIC: the information behaviour conference</i>, Berlin, Germany, 26-29 September, 2022. <em>Information Research, 27</em>(Special issue), isic2241. Retrieved from  http://InformationR.net/ir/isic22/isic2241.html  https://doi.org/10.47989/irisic2241</div>
+
+<hr />
+ 
+ </section>
+</article>
+<br />
+<section>
+ 
+ <table class="footer" style="border-spacing:10px;">  
+ <tr>  
+ <td colspan="3" style="text-align:center; background-color: #5E96FD; color: white; font-family: verdana; font-size: small; font-weight: bold;">Find other papers on this subject</td></tr>  
+ <tr><td style="text-align:center; vertical-align:top;"><form method="get" action="http://scholar.google.com/scholar" target="_blank">
+ <table class="footer"><tr><td style="white-space: nowrap; vertical-align:top; text-align:center; height:32px;"> <input type="hidden" name="q" value="information sharing, drugs, advertising, Dark Web, Tor network, drug sellers" /><br />  
+<input type="submit" name="sa" value="Scholar Search"  style="font-size: small; font-family: Verdana; font-weight: bold;" /><input type="hidden" name="num" value="100" />  </td>  </tr></table></form></td>  
+ <td style="vertical-align:top; text-align:center;">  <!-- Search Google --><form method="get" action="http://www.google.com/custom" target="_blank">
+ <table class="footer">
+ <tr><td style="white-space: nowrap; vertical-align:top; text-align:center; height:32px;"><input type="hidden" name="q" value="information sharing, drugs, advertising, Dark Web, Tor network, drug sellers" /><br />  
+ <input type="submit" name="sa" value="Google Search" style="font-family: Verdana; font-weight: bold; font-size: small;" /><input type="hidden" name="client" value="pub-5081678983212084" /><input type="hidden" name="forid" value="1" /><input type="hidden" name="ie" value="ISO-8859-1" /><input type="hidden" name="oe" value="ISO-8859-1" /><input type="hidden" name="cof" value="GALT:#0066CC;GL:1;DIV:#999999;VLC:336633;AH:center;BGC:FFFFFF;LGC:FF9900;LC:0066CC;LC:0066CC;T:000000;GFNT:666666;GIMP:666666;FORID:1;" /><input type="hidden" name="hl" value="en" /></td></tr>  
+  </table></form></td>  
+ <td style="vertical-align:top; text-align:center;"><form method="get" action="http://www.bing.com" target="_blank">
+ <table class="footer"><tr><td style="white-space: nowrap; vertical-align:top; text-align:center; height:32px;"><input type="hidden" name="q" value="information sharing, drugs, advertising, Dark Web, Tor network, drug sellers" /> <br /><input type="submit" name="sa" value="Bing"  style="font-size: small; font-family: Verdana; font-weight: bold;" /> <input type="hidden" name="num" value="100" /></td></tr>  
+ </table></form></td></tr>  
+ </table> 
+ 
+  <div style="text-align:center;">Check for citations, <a href="http://scholar.google.co.uk/scholar?hl=en&amp;q=http://informationr.net/ir/isic22/isic2241.html&amp;btnG=Search&amp;as_sdt=2000">using Google Scholar</a></div>
+ <br />
+ <!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_inline_share_toolbox" style="text-align:center;"></div>
+<hr />
+</section>
+
+<table class="footer" style="padding:10px;"><tr><td style="text-align:center; vertical-align:top;">
+<br />
+ </td> 
+<td class="footer" style="text-align:center; vertical-align:middle;">
+  <div>  &copy; the authors, 2022. <br />Last updated: 2 November, 2022 </div></td> 
+ 
+ <td style="text-align:center; vertical-align:middle;">&nbsp;</td></tr>  </table>  
+ <footer>
+
+<hr /> 
+ <table class="footer"><tr><td>
+<div class="button"> 
+ <ul style="text-align: center;">
+  <li><a href="isic2022contents.html">Contents</a> |</li>
+  <li><a href="../../iraindex.html">Author index</a>|</li>
+  <li><a href="../../irsindex.html">Subject index</a>|</li>
+  <li><a href="../../search.html">Search</a>|</li>
+  <li><a href="../../index.html">Home</a></li>
+</ul> 
+</div></td></tr></table>
+ <hr />
+</footer>
+ <script src="http://www.google-analytics.com/urchin.js">  </script>  <script>  _uacct =
+ "UA-672528-1"; urchinTracker(); 
+ </script>  
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5046158704890f2e"></script>  
+</body>  
+ </html> 

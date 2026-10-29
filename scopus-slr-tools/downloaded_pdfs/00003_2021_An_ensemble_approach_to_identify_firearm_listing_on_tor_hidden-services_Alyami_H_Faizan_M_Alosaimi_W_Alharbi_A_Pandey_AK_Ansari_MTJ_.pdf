@@ -1,0 +1,1001 @@
+<!DOCTYPE html>
+<html prefix="og: https://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" lang="en" >
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+        <link rel="stylesheet" type="text/css" href="https://www.techscience.com/static/css/style.css?t=20230215" />
+        <link rel="stylesheet" type="text/css" href="https://www.techscience.com/static/css/animate.min.css?t=20230215" />
+        <link rel="stylesheet" href="https://www.techscience.com/static/css/iconfont.css?t=20230215" />
+        <link rel="stylesheet" type="text/css" href="https://www.techscience.com/static/bu/bu.css?t=20230215" />
+        <title>CSSE | An Ensemble Approach to Identify Firearm Listing on Tor Hidden-Services</title>
+        <meta name="keywords"    content="Dark web; firearms; pistols; rifles; cryptomarkets; vendors" />
+                
+                <link rel="canonical" href="https://www.techscience.com/csse/v38n2/42345" />
+                                    
+            <meta name="title" content="An Ensemble Approach to Identify Firearm Listing on Tor Hidden-Services" />
+<meta name="description" content="The ubiquitous nature of the internet has made it easier for criminals to carry out illegal activities online. The sale of illegal firearms and weaponry on dark web cryptomarkets is one such example of it. To aid the law enforcement agencies in curbing the illicit trade of firearms on cryptomarkets, this paper has proposed an automated technique employing ensemble machine learning models to detect the firearms listings on cryptomarkets. In this work, we have used part-of-speech (PoS) tagged features in conjunction with n-gram models to construct the feature set for the ensemble model. We studied the effectiveness of the proposed features in the performance of the classification model and the relative change in the dimensionality of the feature set. The experiments and evaluations are performed on the data belonging to the three popular cryptomarkets on the Tor dark web from a publicly available dataset. The prediction of the classification model can be utilized to identify the key vendors in the ecosystem of the illegal trade of firearms. This information can then be used by law enforcement agencies to bust firearm trafficking on the dark web." />
+<meta name="dc.identifier" content="doi:10.32604/csse.2021.017039"/>
+<meta name="DOI" content="10.32604/csse.2021.017039"/>
+<meta property="twitter:site" content="@TechScience_TSP"/>
+<meta property="twitter:creator" content="@TechScience_TSP"/>
+<meta property="twitter:card" content="summary"/>
+<meta property="twitter:url" content="https://www.techscience.com/csse/v38n2/42345"/>
+<meta property="og:site" content="Tech Science Press"/>
+<meta property="og:site_name" content="Tech Science Press"/>
+<meta property="og:type" content="website"/>
+<meta property="og:title" content="An Ensemble Approach to Identify Firearm Listing on Tor Hidden-Services"/>
+<meta property="og:description" content="The ubiquitous nature of the internet has made it easier for criminals to carry out illegal activities online. The sale of illegal firearms and weaponry on dark web cryptomarkets is one such example of it. To aid the law enfo... | Find, read and cite all the research you need on Tech Science Press"/>
+<meta property="og:url" content="https://www.techscience.com/csse/v38n2/42345"/>
+<meta property="og:image" content="https://www.techscience.com/static/images/logo/logo-200.png?t=20230215"/>
+<meta name="citation_title" content="An Ensemble Approach to Identify Firearm Listing on Tor Hidden-Services"/>
+<meta name="citation_author" content="Hashem Alyami"/>
+<meta name="citation_author" content="Mohd Faizan"/>
+<meta name="citation_author" content="Wael Alosaimi"/>
+<meta name="citation_author" content="Abdullah Alharbi"/>
+<meta name="citation_author" content="Abhishek Pandey"/>
+<meta name="citation_author" content="Md Tarique"/>
+<meta name="citation_author" content="Alka Agrawal"/>
+<meta name="citation_author" content="Raees Khan"/>
+<meta name="citation_publication_date" content="2021/04/23"/>
+<meta name="citation_online_date" content=""/>
+<meta name="citation_journal_title" content="Computer Systems Science and Engineering"/>
+<meta name="citation_year" content="2021"/>
+<meta name="citation_volume" content="38"/>
+<meta name="citation_issue" content="2"/>
+<meta name="citation_firstpage" content="141"/>
+<meta name="citation_lastpage" content="149"/>
+<meta name="citation_article_type" content="ARTICLE"/>
+<meta name="citation_fulltext_world_readable" content=""/>
+<meta name="citation_pdf_url" content="https://www.techscience.com/ueditor/files/csse/TSP_CSSE_38-2/TSP_CSSE_17039/TSP_CSSE_17039.pdf" />
+<meta name="citation_publisher" content="Tech Science Press"/>
+<meta name="citation_public_url" content="https://www.techscience.com/csse/v38n2/42345" />
+<meta name="citation_abstract_html_url" content="https://www.techscience.com/csse/v38n2/42345"/>
+<meta name="citation_fulltext_html_url" content="https://www.techscience.com/csse/v38n2/42345.html"/>
+<meta name="citation_issn" content="0267-6192"/>
+<meta name="citation_doi" content="10.32604/csse.2021.017039"/>
+<meta name="citation_journal_abbrev" content="CSSE" />
+<meta name="citation_language" content="en" />
+<meta name="citation_date" content="2021"/>
+<meta name="citation_reference" content="citation_title=Exploring and analyzing the dark web: A new alchemy;citation_article_type=journal;citation_volume=24;citation_issue=5;citation_firstpage=1;citation_lastpage=20;citation_publication_date=2019;citation_author=M. Faizan;citation_author=R. A. Khan;"/>
+<meta name="citation_reference" content="citation_title=Traveling the silk road: A measurement analysis of a large anonymous online marketplace;citation_article_type=conf-proc;citation_firstpage=213;citation_lastpage=224;citation_publication_date=2013;citation_publisher=Rio de Janeiro;citation_author=N. Christin;"/>
+<meta name="citation_reference" content="citation_title=Tor: The second-generation onion router;citation_article_type=conf-proc;citation_firstpage=21;citation_lastpage=22;citation_publication_date=2004;citation_author=R. Dingledine;citation_author=N. Mathewson;citation_author=P. Syverson;"/>
+<meta name="citation_reference" content="citation_title=Man arrested in Germany on suspicion of illegal arm dealing in terror crackdown;citation_article_type=other;citation_publication_date=2015;citation_publisher=Telegraph Media Group Limited;citation_author=J. Huggler;"/>
+<meta name="citation_reference" content="citation_title=Where did the Paris attackers get their guns?;citation_article_type=other;citation_publication_date=2015;citation_publisher=PRX, The World;citation_author=C. Woolf;"/>
+<meta name="citation_reference" content="citation_title=Munich shooter bought gun online: Here’s how the dark networks;citation_article_type=other;citation_publication_date=2016;citation_publisher=Deutsche Welle;"/>
+<meta name="citation_reference" content="citation_title=Teenager obsessed with mass shootings jailed for buying gun online;citation_article_type=other;citation_publication_date=2019;citation_publisher=The Guardian;citation_author=S. Morris;"/>
+<meta name="citation_reference" content="citation_title=Mass Shootings in America;citation_article_type=journal;citation_volume=18;citation_issue=1;citation_firstpage=125;citation_lastpage=145;citation_publication_date=2013;citation_author=J. A. Fox;citation_author=M. J. Delateur;"/>
+<meta name="citation_reference" content="citation_title=Behind the curtain: The illicit trade of firearms;citation_article_type=other;citation_firstpage=1;citation_lastpage=17;citation_publication_date=2017;citation_author=G. Paoli;citation_author=J. Aldridge;citation_author=N. Ryan;citation_author=R. Warnes;"/>
+<meta name="citation_reference" content="citation_title=Assessing the practices and products of darkweb firearm vendors;citation_article_type=journal;citation_volume=41;citation_issue=8;citation_firstpage=949;citation_lastpage=968;citation_publication_date=2020;citation_author=C. Copeland;citation_author=M. Wallin;citation_author=T. J. Holt;"/>
+<meta name="citation_reference" content="citation_title=Terrorist migration to the dark web;citation_article_type=journal;citation_volume=10;citation_issue=3;citation_firstpage=40;citation_lastpage=44;citation_publication_date=2016;citation_author=G. Weimann;"/>
+<meta name="citation_reference" content="citation_title=Feds bust over 35 suspected dark web vendors seizing everything from drugs to a grenade launcher;citation_article_type=other;citation_publication_date=2018;citation_publisher=Gizmodo, G/O Media Inc.;citation_author=T. McKay;"/>
+<meta name="citation_reference" content="citation_title=Montgomery man convicted for illegal gun sales on darknet sites;citation_article_type=other;citation_publication_date=2015;citation_publisher=United States Department of Justice;citation_author=Justice News;"/>
+<meta name="citation_reference" content="citation_title=Kansas man sentenced to 52 months for exporting firearms to overseas purchasers using hidden marketplace website;citation_article_type=other;citation_publication_date=2017;citation_publisher=United States Department of Justice;citation_author=Justice News;"/>
+<meta name="citation_reference" content="citation_title=Characterising the online weapons trafficking on cryptomarkets;citation_article_type=journal;citation_volume=283;citation_issue=6;citation_firstpage=16;citation_lastpage=20;citation_publication_date=2018;citation_author=D. Rhumorbarbe;citation_author=D. Werner;citation_author=Q. Gilliéron;citation_author=L. Staehli;citation_author=J. Broséus;"/>
+<meta name="citation_reference" content="citation_title=A comparative study and automated detection of illegal weapon procurement over dark web;citation_article_type=journal;citation_volume=50;citation_issue=5;citation_firstpage=405;citation_lastpage=416;citation_publication_date=2019;citation_author=J. K. Saini;citation_author=D. Bansal;"/>
+<meta name="citation_reference" content="citation_title=Measuring the longitudinal evolution of the online anonymous marketplace ecosystem;citation_article_type=conf-proc;citation_firstpage=33;citation_lastpage=48;citation_publication_date=2015;citation_author=K. Soska;citation_author=N. Christin;"/>
+<meta name="citation_reference" content="citation_title=Studying illicit drug trafficking on darknet markets: Structure and organisation from a Canadian perspective;citation_article_type=journal;citation_volume=264;citation_issue=3;citation_firstpage=7;citation_lastpage=14;citation_publication_date=2016;citation_author=J. Broseus;"/>
+<meta name="citation_reference" content="citation_title=Dark net market archives,” (2011–2015);citation_article_type=other;citation_publication_date=2015;citation_publisher=Gwern.net;citation_author=G. Branwen;"/>
+<meta name="citation_reference" content="citation_title=Analysis of hacking related trade in the darkweb;citation_article_type=conf-proc;citation_firstpage=79;citation_lastpage=84;citation_publication_date=2018;citation_author=O. Cherqi;citation_author=G. Mezzour;citation_author=M. Ghogho;citation_author=M. Elkoutbi;"/>
+<meta name="citation_reference" content="citation_title=Making sense of darknet markets: Automatic inference of semantic classifications from unconventional multimedia datasets;citation_article_type=journal;citation_volume=11594;citation_firstpage=230;citation_lastpage=248;citation_publication_date=2019;citation_author=A. Berman;citation_author=C. L. Paul;"/>
+<meta name="citation_reference" content="citation_title=Sex, drugs, and bitcoin: how much illegal activity is financed through cryptocurrencies?;citation_article_type=journal;citation_volume=32;citation_issue=5;citation_firstpage=1798;citation_lastpage=1853;citation_publication_date=2019;citation_author=S. Foley;citation_author=J. R. Karlsen;citation_author=T. J. Putnins;"/>
+<meta name="citation_keywords" content="Dark web; firearms; pistols; rifles; cryptomarkets; vendors" />
+<meta name="citation_id" content="42345" />
+<meta name="citation_state" content="" />
+<meta name="DC.Contributor" content="Hashem Alyami"/>
+<meta name="DC.Creator" content="Hashem Alyami"/>
+<meta name="DC.Contributor" content="Mohd Faizan"/>
+<meta name="DC.Creator" content="Mohd Faizan"/>
+<meta name="DC.Contributor" content="Wael Alosaimi"/>
+<meta name="DC.Creator" content="Wael Alosaimi"/>
+<meta name="DC.Contributor" content="Abdullah Alharbi"/>
+<meta name="DC.Creator" content="Abdullah Alharbi"/>
+<meta name="DC.Contributor" content="Abhishek Pandey"/>
+<meta name="DC.Creator" content="Abhishek Pandey"/>
+<meta name="DC.Contributor" content="Md Tarique"/>
+<meta name="DC.Creator" content="Md Tarique"/>
+<meta name="DC.Contributor" content="Alka Agrawal"/>
+<meta name="DC.Creator" content="Alka Agrawal"/>
+<meta name="DC.Contributor" content="Raees Khan"/>
+<meta name="DC.Creator" content="Raees Khan"/>
+<meta name="DC.Created" content="2021-04-23"/>
+<meta name="DC.Date" content="2021-04-23"/>
+<meta name="DC.Format" content="text/html" />
+<meta name="DC.Type" content="text" />
+<meta name="DC.Title" content="An Ensemble Approach to Identify Firearm Listing on Tor Hidden-Services"/>
+<meta name="DC.Description" content="The ubiquitous nature of the internet has made it easier for criminals to carry out illegal activities online. The sale of illegal firearms and weaponry on dark web cryptomarkets is one such example of it. To aid the law enfo... | Find, read and cite all the research you need on Tech Science Press"/>
+<meta name="DC.Publisher" content="Tech Science Press"/>
+<meta name="dc.subject" content="ARTICLE"/>
+
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@id":"https:\/\/www.techscience.com\/csse\/v38n2\/42345","@type":"ScholarlyArticle","headline":"An Ensemble Approach to Identify Firearm Listing on Tor Hidden-Services","author":[{"@type":"Person","name":"Alyami, Hashem"},{"@type":"Person","name":"Faizan, Mohd"},{"@type":"Person","name":"Alosaimi, Wael"},{"@type":"Person","name":"Alharbi, Abdullah"},{"@type":"Person","name":"Pandey, Abhishek"},{"@type":"Person","name":"Tarique, Md"},{"@type":"Person","name":"Agrawal, Alka"},{"@type":"Person","name":"Khan, Raees"}],"datePublished":"2021\/04\/23","publisher":{"@id":"https:\/\/www.techscience.com\/ndetail\/abt","@type":"NewsMediaOrganization","name":"Tech Science Press","logo":{"@type":"ImageObject","url":"https:\/\/www.techscience.com\/static\/images\/logo.png"}},"name":"An Ensemble Approach to Identify Firearm Listing on Tor Hidden-Services","keywords":"Dark web, firearms, pistols, rifles, cryptomarkets, vendors","articleSection":"Computer Systems Science and Engineering","interactionStatistic":[{"@type":"InteractionCounter","interactionType":"http:\/\/schema.org\/ReadAction","userInteractionCount":"3403"},{"@type":"InteractionCounter","interactionType":"http:\/\/schema.org\/DownloadAction","userInteractionCount":"2095"}],"sameAs":"https:\/\/doi.org\/10.32604\/csse.2021.017039"}</script>
+
+                
+                <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/www.techscience.com\/"},{"@type":"ListItem","position":2,"name":"Journals","item":"https:\/\/www.techscience.com\/journals"},{"@type":"ListItem","position":3,"name":"CSSE","item":"https:\/\/www.techscience.com\/journal\/csse"},{"@type":"ListItem","position":4,"name":"Vol.38, No.2, 2021","item":"https:\/\/www.techscience.com\/csse\/v38n2"},{"@type":"ListItem","position":5,"name":"10.32604\/csse.2021.017039"}]}</script>
+                        </head><style>
+/* Downloads / Citation Tools 下拉：改用纯 CSS 控制展开，
+   原来依赖 Bootstrap(jQuery) 的 data-toggle="dropdown"，外部 JS 未加载完成时点击无反应。
+   现在用 hover + focus-within 展开，不依赖 JS，资源没加载好也能点开使用。
+   作用域限定 .nkslj，不影响页面其它下拉。 */
+.nkslj .dropdown{ position: relative; }
+.nkslj .dropdown > .dropdown-toggle{ cursor: pointer; outline: none; }
+.nkslj .dropdown > .dropdown-menu{ display: none; }
+.nkslj .dropdown:hover > .dropdown-menu,
+.nkslj .dropdown:focus-within > .dropdown-menu{ display: block; }
+ .rotate90{
+ width: 15px; height: 25px;
+transform:rotate(90deg);
+-ms-transform:rotate(90deg); 	/* IE 9 */
+-moz-transform:rotate(90deg); 	/* Firefox */
+-webkit-transform:rotate(90deg); /* Safari 和 Chrome */
+-o-transform:rotate(90deg); 	/* Opera */
+}
+.menudetail li a{
+     width: 170px;cursor: auto;
+}
+.menudetail li a:hover{
+    text-decoration: none; cursor: auto
+}
+.menudetail li a span{
+ float: right; padding-right: 15px
+}
+.cite_detail{
+    padding:0px; position: relative; padding-left: 110px;line-height: 19px;font-size: 12px
+}
+.cite_detail a{
+    cursor: pointer;
+    color: #235abf;
+    text-decoration: none;
+    text-decoration: none;
+    outline: none;}
+.cite_detail a:hover{ text-decoration: underline;}
+.sub-item-box{
+    padding-top: 0px; overflow: hidden;
+}
+.sub-item-box-item{
+    float: left; width: 120px; text-align: center;
+}
+.sub-item-box-item a{
+    display: block; 
+}
+.clear{ clear: both;}
+.crossmark_svg_box{ position: relative; }
+.crossmark_svg{
+    position: absolute;
+	right: 10px;
+	top: -47px;
+	width: 50px;
+	height: 50px;
+}
+@media only screen and (max-width:600px){	
+    #section_abstract img{ max-width: 95% !important}
+}
+
+.RetractedContainer{
+    margin-top: 20px;
+    border-left: 5px solid #e87626;
+    padding-left: 10px;
+    background-color: #fff6ec;
+}
+.RetractedContainer__content {
+    padding: 16px 24px 16px 12px;
+    border-bottom: 1px solid #ffcb8d;
+}
+.RetractedContainer__alertText{
+    display: flex;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 22px;
+    letter-spacing: 0;
+    text-align: left;
+}
+.RetractedContainer__alertText::before {
+    content: "";
+    display: inline-block;
+    min-width: 16px;
+    min-height: 20px;
+    margin-top: 2px;
+    margin-right: 8px;
+    background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3QgeD0iNCIgeT0iMy4zMzM1IiB3aWR0aD0iOCIgaGVpZ2h0PSI5LjMzMzMzIiBmaWxsPSIjMjgyODI4Ii8+CjxwYXRoIGQ9Ik03Ljk5OTk2IDAuOTU5OTYxQzYuNjA3NTggMC45NTk5NjEgNS4yNDY0NyAxLjM3Mjg1IDQuMDg4NzUgMi4xNDY0MUMyLjkzMTAzIDIuOTE5OTggMi4wMjg2OSA0LjAxOTQ4IDEuNDk1ODUgNS4zMDU4N0MwLjk2MzAxMSA2LjU5MjI2IDAuODIzNTk2IDguMDA3NzcgMS4wOTUyNCA5LjM3MzRDMS4zNjY4OCAxMC43MzkgMi4wMzczNyAxMS45OTM0IDMuMDIxOTMgMTIuOTc4QzQuMDA2NDkgMTMuOTYyNiA1LjI2MDkgMTQuNjMzIDYuNjI2NTMgMTQuOTA0N0M3Ljk5MjE2IDE1LjE3NjMgOS40MDc2NiAxNS4wMzY5IDEwLjY5NDEgMTQuNTA0MUMxMS45ODA0IDEzLjk3MTIgMTMuMDc5OSAxMy4wNjg5IDEzLjg1MzUgMTEuOTExMkMxNC42MjcxIDEwLjc1MzUgMTUuMDQgOS4zOTIzNCAxNS4wNCA3Ljk5OTk2QzE1LjAzNzggNi4xMzM0OSAxNC4yOTU1IDQuMzQ0MDcgMTIuOTc1NyAzLjAyNDI3QzExLjY1NTkgMS43MDQ0NyA5Ljg2NjQ0IDAuOTYyMDc4IDcuOTk5OTYgMC45NTk5NjFaTTguNjM5OTYgMTEuNTM2QzguNjM5OTYgMTEuNjIwOCA4LjYwNjI1IDExLjcwMjIgOC41NDYyNCAxMS43NjIyQzguNDg2MjMgMTEuODIyMiA4LjQwNDgzIDExLjg1NiA4LjMxOTk2IDExLjg1Nkg3LjY3OTk2QzcuNTk1MSAxMS44NTYgNy41MTM3IDExLjgyMjIgNy40NTM2OSAxMS43NjIyQzcuMzkzNjggMTEuNzAyMiA3LjM1OTk2IDExLjYyMDggNy4zNTk5NiAxMS41MzZWMTAuODk2QzcuMzU5OTYgMTAuODExMSA3LjM5MzY4IDEwLjcyOTcgNy40NTM2OSAxMC42Njk3QzcuNTEzNyAxMC42MDk3IDcuNTk1MSAxMC41NzYgNy42Nzk5NiAxMC41NzZIOC4zMTk5NkM4LjQwNDgzIDEwLjU3NiA4LjQ4NjIzIDEwLjYwOTcgOC41NDYyNCAxMC42Njk3QzguNjA2MjUgMTAuNzI5NyA4LjYzOTk2IDEwLjgxMTEgOC42Mzk5NiAxMC44OTZWMTEuNTM2Wk04LjYzOTk2IDguOTc1OTZDOC42Mzk5NiA5LjA2MDgzIDguNjA2MjUgOS4xNDIyMiA4LjU0NjI0IDkuMjAyMjRDOC40ODYyMyA5LjI2MjI1IDguNDA0ODMgOS4yOTU5NiA4LjMxOTk2IDkuMjk1OTZINy42Nzk5NkM3LjU5NTEgOS4yOTU5NiA3LjUxMzcgOS4yNjIyNSA3LjQ1MzY5IDkuMjAyMjRDNy4zOTM2OCA5LjE0MjIyIDcuMzU5OTYgOS4wNjA4MyA3LjM1OTk2IDguOTc1OTZWNC40OTU5NkM3LjM1OTk2IDQuNDExMDkgNy4zOTM2OCA0LjMyOTcgNy40NTM2OSA0LjI2OTY5QzcuNTEzNyA0LjIwOTY4IDcuNTk1MSA0LjE3NTk2IDcuNjc5OTYgNC4xNzU5Nkg4LjMxOTk2QzguNDA0ODMgNC4xNzU5NiA4LjQ4NjIzIDQuMjA5NjggOC41NDYyNCA0LjI2OTY5QzguNjA2MjUgNC4zMjk3IDguNjM5OTYgNC40MTEwOSA4LjYzOTk2IDQuNDk1OTZWOC45NzU5NloiIGZpbGw9IiNFODc2MjYiLz4KPC9zdmc+Cg==);
+    background-repeat: no-repeat;
+}
+.RetractedContainer__info{
+    padding-left: 24px;
+}
+.RetractedContainer-full{
+    margin-top: 20px;
+}
+.TSP2022 span.sup{
+    line-height: 10px;
+}
+
+#modal {
+        display: none;
+    }
+    .modal {
+        margin: auto;
+        padding-top: 5%;
+        width: 50%;
+        height: 80%;
+        z-index: 1;
+    }
+
+    .modal img {
+        animation-name: zoom;
+        animation-duration: 0.6s;
+        display: block;
+        padding: 10px;
+        margin: auto;
+        max-width: 100%;
+        max-height: 100%;
+        box-shadow: 0 2px 6px rgb(0, 0, 0, 0.2), 0 10px 20px rgb(0, 0, 0, 0.2);
+        border-radius: 12px;
+        border: 1px solid white;
+    }
+    
+    .modal-close{
+        color: #333;
+        overflow: visible;
+        cursor: pointer;
+        background: 0 0;
+        border: 0;
+        -webkit-appearance: none;
+        display: block;
+        outline: 0;
+        padding: 0;
+        z-index: 1046;
+        -webkit-box-shadow: none;
+        box-shadow: none;
+        width: 44px;
+        height: 44px;
+        line-height: 44px;
+        position: absolute;
+        right: 0px;
+        top: 10px;
+        text-decoration: none;
+        text-align: center;
+        opacity: .65;
+
+        font-style: normal;
+        font-size: 28px;
+    }
+        
+    @media only screen and (max-width:992px){	
+        .modal {
+             width: 100%;
+             padding-top: 20%;
+        }
+        .modal img {
+            padding: 5px;
+            max-width: calc(100% - 20px);
+        }
+        .modal-close{
+            right: 10px;
+            top: 0px;
+        }
+    }
+
+    @keyframes zoom {
+        from {transform: scale(0.1)}
+        to {transform: scale(1)}
+    }
+</style>
+<body>
+            <div style='position:fixed;width:100%;height:100%;z-index: 99999999;background-color:rgb(0,0,0,0.65)' id='modal'>
+        <div class='modal' id='modalw'>
+            <div style="position: relative;">
+                <button title="Close (Esc)" type="button" class="modal-close" onclick="modalClose()">×</button>
+            </div>
+            <a href="" target="_blank" id="bgImgLink">
+                <img id='bgImg' />
+            </a>
+        </div>
+    </div>
+    
+    
+
+
+<div class="header">
+    <div class="top1">
+        <div class="logo"><a href="https://www.techscience.com/" title="www.techscience.com"><img src="https://www.techscience.com/static/images/logo.png?t=20230215" alt="logo"/></a></div>
+  
+    <div class="shui">
+        <div class="ss"><a href="https://www.techscience.com/results" title="Search"><i class="iconfont icon-sousuo"></i></a></div>
+    
+
+
+    <div class="btn1"><a href="https://ijs.tspsubmission.com/homepage?returnUrl=/submission/3">Submit</a></div>
+<div class="btn2">
+    <p>
+        <a href="https://ijs.tspsubmission.com/homepage?returnUrl=/submission/3"><img src="https://www.techscience.com/static/images/r1.png?t=20230215" alt="Login" width="15" height="15" /> Login</a>
+    </p>
+    <p>
+        <a href="https://ijs.tspsubmission.com/regist"><img src="https://www.techscience.com/static/images/r2.png?t=20230215" alt="Register" width="15" height="15" /> Register</a>
+    </p>
+</div>
+
+      </div>
+     
+       
+ 
+  </div>
+  
+  <div class="top2">  <div class="an"><span class="a1"></span><span class="a2"></span><span class="a3"></span></div>
+  
+       
+
+        <div class="nav">
+            <ul>
+                <li>
+                    <div class="y_j"><a href="https://www.techscience.com/" class="o_lm">Home</a></div>
+                </li>     
+                  
+                    <li>
+                        <div class="y_j">
+                            <a href="https://www.techscience.com/journals" class="o_lm">Academic Journals</a>
+                                                    </div>
+                                                    
+                    </li>  
+                      
+                    <li>
+                        <div class="y_j">
+                            <a href="https://www.techscience.com/info/books" class="o_lm">Books &amp; Monographs</a>
+                                                    </div>
+                                                    
+                    </li>  
+                      
+                    <li>
+                        <div class="y_j">
+                            <a href="https://www.techscience.com/conferences" class="o_lm">Conferences</a>
+                                                    </div>
+                                                    
+                    </li>  
+                      
+                    <li>
+                        <div class="y_j">
+                            <a href="https://www.techscience.com/ndetail/languageservice" class="o_lm">Language Service</a>
+                            <i class="iconfont icon-jiantou"></i>                        </div>
+                                                <div class="e_j">
+                        <ul>
+                              
+                            <li><a href="https://www.techscience.com/ndetail/editingservice">Standard Editing Service</a></li>
+                              
+                            <li><a href="https://www.techscience.com/ndetail/scientificediting">Expert Scientific Editing Service</a></li>
+                              
+                            <li><a href="https://www.techscience.com/ndetail/translationservice">Academic Translation Service</a></li>
+                                                    </ul>
+                        </div>
+                                                    
+                    </li>  
+                      
+                    <li>
+                        <div class="y_j">
+                            <a href="https://www.techscience.com/newslist" class="o_lm">News &amp; Announcements</a>
+                                                    </div>
+                                                    
+                    </li>  
+                      
+                    <li>
+                        <div class="y_j">
+                            <a href="https://www.techscience.com/ndetail/abt" class="o_lm">About</a>
+                                                    </div>
+                                                    
+                    </li>  
+                         
+            </ul>
+        </div>
+      
+ </div>
+  
+  </div>
+    <div class="jiange"></div>
+    <div class="hui2">
+        <div class="weizhi breadcrumb breadcrumbs avia-breadcrumbs">
+             
+                    <a href="https://www.techscience.com/">Home</a><span>/</span> 
+                     
+                    <a href="https://www.techscience.com/journals">Journals</a><span>/</span> 
+                     
+                    <a href="https://www.techscience.com/journal/csse">CSSE</a><span>/</span> 
+                     
+                    <a href="https://www.techscience.com/csse/v38n2">Vol.38, No.2, 2021</a><span>/</span> 
+                     
+                    10.32604/csse.2021.017039 
+
+                     
+        </div>
+    </div>
+    
+    <div class="nmain">
+        <div class="nlf">
+         
+            
+
+<div class="k1">
+<ul>
+  
+    <li><a href="https://www.techscience.com/journal/csse"><img src="https://file.techscience.com/uploads/imgs/202507/695dac6ff0a955f03a42bb6bde634d3a.png?t=20220620" alt="Journal Logo" width="350" height="84" /></a></li>
+  
+     
+    <li><a href="https://ijs.tspsubmission.com/homepage?returnUrl=/submission/3"><img src="https://www.techscience.com/static/images/k10.png?t=20230215" alt="Submit a Paper icon" width="50" height="50" />Submit a Paper</a></li>
+    
+      
+    <li><a href="https://ijs.tspsubmission.com/journal/issues/propose"><img src="https://www.techscience.com/static/images/k11.png?t=20230215" alt="Propose a Special lssue icon" width="50" height="50" />Propose a Special lssue</a></li>
+           
+    <li><a href="https://ijs.tspsubmission.com/page/index.html#/volunteer/apply?jid=3" target="_blank">Review for CSSE</a></li>
+   
+</ul>
+</div>
+
+
+            <div class="k2 gsfd">
+                <h2 class="nbt">Table of Content</h2>
+
+                <ul>
+                    <li><a href="#section_abstract">Abstract</a></li>
+                                        <li><a href="https://www.techscience.com/csse/v38n2/42345/html#s1" target="_blank">Introduction</a></li>
+                                        <li><a href="https://www.techscience.com/csse/v38n2/42345/html#s2" target="_blank">Materials and Methods</a></li>
+                                        <li><a href="https://www.techscience.com/csse/v38n2/42345/html#s3" target="_blank">Data Interpretation and Results</a></li>
+                                        <li><a href="https://www.techscience.com/csse/v38n2/42345/html#s4" target="_blank">Discussion</a></li>
+                                        <li><a href="https://www.techscience.com/csse/v38n2/42345/html#s5" target="_blank">Conclusions</a></li>
+                                        <li><a href="https://www.techscience.com/csse/v38n2/42345/html#sref" target="_blank">References</a></li>
+                                    </ul>
+
+            </div>
+
+
+        </div>
+
+        <div class="ncenter">
+             <article>
+            <div class="html-article-content xxjs">
+                <span itemprop="publisher" content="Tech Science Press"></span>
+                <span itemprop="url" content="https://www.techscience.com/csse/v38n2/42345"></span>
+                <div class="bq1">
+                    <p class="hong"><img src="https://www.techscience.com/static/images/suob.png?t=20230215" alt="Open Access icon" width="126" height="198" />Open Access</p>
+       <p class="lv">ARTICLE</p>
+                
+                
+                 </div>
+                <div class="bq2">
+                    <div class="crossmark_svg_box">
+                                                      <!-- Start Crossmark Snippet v2.0 -->
+                            <script src="https://crossmark-cdn.crossref.org/widget/v2.0/widget.js"></script>
+                            <a data-target="crossmark" ><img class="crossmark_svg" alt="crossmark" src="https://crossmark-cdn.crossref.org/widget/v2.0/logos/CROSSMARK_Color_square.svg" width="50" /></a>
+                            <!-- End Crossmark Snippet -->
+                                                </div>
+                     
+                    <h1 class="title citation_title" itemprop="name">An Ensemble Approach to Identify Firearm Listing on Tor Hidden-Services</h1>
+                                   
+                    <p class="authors citation_author">
+                        Hashem Alyami<sup>1</sup>, Mohd Faizan<sup>2</sup>, Wael Alosaimi<sup>3</sup>, Abdullah Alharbi<sup>3</sup>, Abhishek Kumar Pandey<sup>2</sup>, Md Tarique Jamal Ansari<sup>4</sup>, Alka Agrawal<sup>2</sup>, Raees Ahmad Khan<sup>2,*</sup>                    </p>
+
+                    <p class="affiliation">
+                        1 Department of Computer Science, College of Computers and Information Technology, Taif University, P. O. Box 11099, Taif 21944, Saudi Arabia<br/>
+2 Department of Information Technology, Babasaheb Bhimrao Ambedkar University, Lucknow, 226025, Uttar Pradesh, India<br/>
+3 Department of Information Technology, College of Computers and Information Technology, Taif University, P. O. Box 11099, Taif 21944, Saudi Arabia<br/>
+4 Department of Computer Application, Integral University, Lucknow, 226026, Uttar Pradesh, India                    </p>
+
+                                            <p class="Corresponding">
+
+                        * Corresponding Author: Raees Ahmad Khan. Email: <img style="vertical-align: middle" alt="email" src="https://www.techscience.com/psh.php?mailname=khanraees@yahoo.com" />  
+
+                        </p>
+                    
+                                        <p class="cite-info">
+                       <i>Computer Systems Science and Engineering</i> <b>2021</b>, <i>38</i>(2), 141-149. <a href="https://doi.org/10.32604/csse.2021.017039">https://doi.org/10.32604/csse.2021.017039</a>                    </p>
+                    <p class="article-date">
+                         <strong>Received</strong> 18 January 2021; <strong>Accepted</strong> 19 February 2021;                         <strong>Issue published</strong> 23 April 2021                        
+                                            </p>
+                                        
+                                        
+                                        
+                                        
+                </div>
+                <div class="bq3">
+                    <div class="gengduo">
+                    <ul>
+                                                <li><a href="https://www.techscience.com/csse/v38n2/42345/html"><img src="https://www.techscience.com/static/images/bb1.png?t=20230215" alt="View Full Text icon" />View Full Text</a></li>
+                                                                            <li><a href="https://www.techscience.com/csse/v38n2/42345/pdf"><img src="https://www.techscience.com/static/images/bb2.png?t=20230215" alt="Download PDF icon" />Download PDF</a></li>
+                                                                        </ul>
+                    </div>
+
+                    <div class="fenxiang">
+                        <ul>
+                            <li style="display: none"><a href="javascript:addStar('42345')"><i class="iconfont icon-dianzan_kuai"></i></a></li>
+                            <li><a class="button" data-sharer="linkedin" data-title="CSSE | An Ensemble Approach to Identify Firearm Listing on Tor Hidden-Services" data-url="https://www.techscience.com/csse/v38n2/42345"><i class="iconfont icon-LinkedinIn"></i></a></li>
+                            <li><a class="button" data-sharer="facebook" data-title="CSSE | An Ensemble Approach to Identify Firearm Listing on Tor Hidden-Services" data-url="https://www.techscience.com/csse/v38n2/42345"><i class="iconfont icon-Facebook-copy"></i></a></li>
+                            <li><a class="button" data-sharer="twitter" data-title="CSSE | An Ensemble Approach to Identify Firearm Listing on Tor Hidden-Services" data-url="https://www.techscience.com/csse/v38n2/42345"><i class="iconfont icon-twitter"></i></a></li>
+                            <li><a onClick="javascript:document.getElementById('sasas').style.display='block';"><i class="iconfont icon-rizhi"></i></a></li>
+                        </ul>
+                    </div>
+                    <div class="clear"></div>
+                </div>   
+                
+                <div class="bq2">
+                                        
+                                            
+                     
+
+                                            
+                                            
+                      
+                        
+                </div>
+
+                <div class="bq4" id="section_abstract">
+
+                    <h2 class="xiaobt">Abstract</h2>
+
+                    The ubiquitous nature of the internet has made it easier for criminals to carry out illegal activities online. The sale of illegal firearms and weaponry on dark web cryptomarkets is one such example of it. To aid the law enforcement agencies in curbing the illicit trade of firearms on cryptomarkets, this paper has proposed an automated technique employing ensemble machine learning models to detect the firearms listings on cryptomarkets. In this work, we have used part-of-speech (PoS) tagged features in conjunction with n-gram models to construct the feature set for the ensemble model. We studied the effectiveness of the proposed features in the performance of the classification model and the relative change in the dimensionality of the feature set. The experiments and evaluations are performed on the data belonging to the three popular cryptomarkets on the Tor dark web from a publicly available dataset. The prediction of the classification model can be utilized to identify the key vendors in the ecosystem of the illegal trade of firearms. This information can then be used by law enforcement agencies to bust firearm trafficking on the dark web.                    <hr />
+                    
+                                        
+                         
+                
+                                        <h2 class="xiaobt">Keywords</h2>
+                    <div itemprop="keywords">
+                        Dark web; firearms; pistols; rifles; cryptomarkets; vendors                    </div>
+                    <hr />
+                                         
+                                        
+                     
+                        
+                     
+                    
+                      
+					
+           <div id="cite_article_list">           
+            <h2 class="xiaobt">Cite This Article</h2>
+            <div>
+                <b>APA Style</b>
+                <div>Alyami, H., Faizan, M., Alosaimi, W., Alharbi, A., Pandey, A.K. et al. (2021). An Ensemble Approach to Identify Firearm Listing on Tor Hidden-Services. <i>Computer Systems Science and Engineering</i>, <i>38</i><i>(2)</i>, 141–149. <a href="https://doi.org/10.32604/csse.2021.017039">https://doi.org/10.32604/csse.2021.017039</a></div>
+            </div>
+            <div>
+                <b>Vancouver Style</b>
+                <div>Alyami H, Faizan M, Alosaimi W, Alharbi A, Pandey AK, Ansari MTJ, et al. An Ensemble Approach to Identify Firearm Listing on Tor Hidden-Services. Comput Syst Sci Eng. 2021;38(2):141–149. <a href="https://doi.org/10.32604/csse.2021.017039">https://doi.org/10.32604/csse.2021.017039</a></div>
+            </div>
+            <div>
+                <b>IEEE Style</b>
+                <div>H. Alyami <i>et al</i>., “An Ensemble Approach to Identify Firearm Listing on Tor Hidden-Services,” <i>Comput. Syst. Sci. Eng.</i>, vol. 38, no. 2, pp. 141–149, 2021. <a href="https://doi.org/10.32604/csse.2021.017039">https://doi.org/10.32604/csse.2021.017039</a></div>
+            </div>
+          
+
+          <div class="citation-link cite_detail" style="padding-left:0">
+              <a href="https://www.techscience.com/csse/v38n2/42345/bibtex" >BibTex</a>
+              <a href="https://www.techscience.com/csse/v38n2/42345/enw" >EndNote</a>
+              <a href="https://www.techscience.com/csse/v38n2/42345/ris" >RIS</a>
+            </div>
+          </div>
+    
+          </div><!-- comment -->
+      <br/>
+      <br/>
+      <br/>
+                    <div class="cite_detail" style='line-height: 14px; padding-left: 120px;'>
+                  <img src="https://www.techscience.com/static/images/cc.jpg?t=20230215" alt="cc" width="110" style="position:absolute; left: 0" /> Copyright © 2021 The Author(s). Published by Tech Science Press.<br/> This work is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">Creative Commons Attribution 4.0 International License</a> , which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. 
+              </div>
+       
+        
+       
+
+
+
+
+
+
+
+
+<div id="trendmd-suggestions"></div>
+<script defer src='//js.trendmd.com/trendmd.min.js' data-trendmdconfig='{"journal_id":"79017", "element":"#trendmd-suggestions"}'></script>
+ 
+
+                
+                </div>   
+
+            </article>
+
+            </div>
+
+
+       
+        <div class="nlf2">
+            <script src="https://www.techscience.com/static/js/tan.js?t=20230215"></script>
+
+            <div class="nkslj">
+                <ul >
+                    <li class="dropdown">
+                        <a data-target="#" class="dropdown-toggle" data-test-id="download-button" role="button" tabindex="0" aria-haspopup="true" aria-expanded="false">
+                            <img src="https://www.techscience.com/static/images/gj2.png?t=20230215" alt="Downloads icon"  />Downloads
+                        </a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a class="download-files-pdf action-link" href="https://www.techscience.com/csse/v38n2/42345/pdf" >Full-Text PDF</a></li>
+                                                        <li><a class="download-files-readcube" href="https://www.techscience.com/csse/v38n2/42345/html" >Full-Text HTML</a></li>
+                                                                                    <li><a class="download-files-epub" href="https://www.techscience.com/csse/v38n2/42345/xml" >Full-Text XML</a></li>
+                                                          
+                                <li><a class="download-files-nlm" href="https://www.techscience.com/ueditor/files/csse/TSP_CSSE_38-2/TSP_CSSE_17039/TSP_CSSE_17039.epub" >Full-Text Epub</a></li>
+                                  
+
+                        </ul>
+                    </li>                   
+                    <li class="dropdown">
+                        <a data-target="#" class="dropdown-toggle" data-test-id="citation-button" role="button" tabindex="0" aria-haspopup="true" aria-expanded="false">
+                            <img src="https://www.techscience.com/static/images/gj.png?t=20230215" alt="Citation Tools icon" />Citation Tools
+                        </a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="https://www.techscience.com/csse/v38n2/42345/bibtex"   >BibTex</a></li>
+                            <li><a href="https://www.techscience.com/csse/v38n2/42345/enw" >EndNote</a></li>
+                            <li><a href="https://www.techscience.com/csse/v38n2/42345/ris"  >RIS</a></li>
+                        </ul>
+                    </li>
+                    <div class="clear"></div>            
+                </ul>
+
+            </div>
+
+            <div class="shuliang">
+                <ul>
+                    <li>
+                        <h3>3403</h3>
+                        <p><i class="iconfont icon-yanjing1"></i>View</p>
+
+                    </li>
+                    <li>
+                        <h3>2095</h3>
+                        <p><i class="iconfont icon-xiazai2"></i>Download</p>
+
+                    </li>
+                    <li style="display: none">
+                        <h3 id="star_42345">0</h3>
+                        <p><i class="iconfont icon-dianzan_kuai"></i>Like</p>
+                    </li>
+                    <div class="clear"></div>
+                </ul>
+            </div>
+           <div class="acade-j" style="margin-top: 15px; padding-left: 33%;">
+          
+<span class="__dimensions_badge_embed__" data-doi="10.32604/csse.2021.017039"   data-hide-zero-citations="true" data-style="small_circle"></span><script async="true" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+      </div>
+                        <div class="k2">
+                <h2 class="nbt">Related articles</h2>
+                <div class="weizhang">
+                    <ul>
+                           
+                        <li>
+                            <p>
+                                <a href="https://www.techscience.com/csse/v45n2/50394" title="Leveraging Readability and Sentiment in Spam Review Filtering Using Transformer Models">
+                                    Leveraging Readability and Sentiment in Spam Review Filtering Using Transformer Models                                </a> 
+                            </p>
+                            <span title="Sujithra Kanmani, Surendiran Balasubramanian">Sujithra Kanmani, Surendiran Balasubramanian</span>
+                        </li>
+                              
+                        <li>
+                            <p>
+                                <a href="https://www.techscience.com/csse/v46n3/52218" title="The Trade-Off Between Performance and Security of Virtualized Trusted Execution Environment on Android">
+                                    The Trade-Off Between Performance and Security of Virtualized Trusted Execution Environment on Android                                </a> 
+                            </p>
+                            <span title="Thien-Phuc Doan, Ngoc-Tu Chau, Jungsoo Park, Souhwan Jung">Thien-Phuc Doan, Ngoc-Tu Chau,...</span>
+                        </li>
+                                               </ul>
+                </div>
+            </div>
+                                </div>
+        <div class="clear"></div>
+    </div>
+        <div class="clear"></div>
+
+
+    <!-- footer start -->
+<div class="footer wow fadeIn" >
+    <!-- footer-container -->
+    <div class="foot1">
+        <div class="dlink">
+            <ul>
+                                    <li><h3>Further Information</h3>
+                         
+                            <p><a href="https://www.techscience.com/ndetail/abt"  title="About Tech Science Press">About Tech Science Press</a></p>
+                             
+                            <p><a href="https://www.techscience.com/ndetail/openaccess"  title="Open Access Policy">Open Access Policy</a></p>
+                             
+                            <p><a href="https://www.techscience.com/ndetail/apc"  title="Article Processing Charges">Article Processing Charges</a></p>
+                             
+                            <p><a href="https://www.techscience.com/ndetail/specialissue"  title="Special Issue Policy">Special Issue Policy</a></p>
+                             
+                            <p><a href="https://www.techscience.com/ndetail/494"  title="Generative AI Policies for Journals">Generative AI Policies for Journals</a></p>
+                             
+                            <p><a href="https://www.techscience.com/ndetail/researchtopic"  title="Research Topic Policy">Research Topic Policy</a></p>
+                             
+                            <p><a href="https://www.techscience.com/ndetail/terms"  title="Terms and Conditions">Terms and Conditions</a></p>
+                             
+                            <p><a href="https://www.techscience.com/ndetail/privacy"  title="Privacy Policy">Privacy Policy</a></p>
+                             
+                            <p><a href="https://www.techscience.com/ndetail/advertising"  title="Advertising Policy">Advertising Policy</a></p>
+                             
+                            <p><a href="https://www.techscience.com/ndetail/contact"  title="Contact">Contact</a></p>
+                                                </li>
+                                        <li><h3>Guidelines</h3>
+                         
+                            <p><a href="https://www.techscience.com/ndetail/editors"  title="For Editors">For Editors</a></p>
+                             
+                            <p><a href="https://www.techscience.com/ndetail/reviewers"  title="For Reviewers">For Reviewers</a></p>
+                             
+                            <p><a href="https://www.techscience.com/ndetail/authors"  title="For Authors">For Authors</a></p>
+                             
+                            <p><a href="https://www.techscience.com/ndetail/organizers"  title="For Conference Organizers">For Conference Organizers</a></p>
+                             
+                            <p><a href="https://www.techscience.com/ndetail/subscribers"  title="For Subscribers">For Subscribers</a></p>
+                                                </li>
+                                    <li>
+                    <h3>Follow Us</h3>    
+                    <p><a href="https://www.linkedin.com/company/tech-science-press-2022/"  title="LinkedIn">LinkedIn</a></p>
+                    <p><a href="https://twitter.com/TechScience_TSP"  title="LinkedIn">Twitter</a></p>
+                </li>
+                <li>
+                    <h3>Join Us</h3>    
+                    <p><a href="https://www.techscience.com/join-as-editor" >Join TSP editorial community</a></p>
+                </li>
+                <li class="dguanzhu1">
+                    <h3>Contact Us</h3>    
+                    <div>
+                        <a href="https://www.techscience.com/ndetail/contact"><i class="iconfont icon-youxiang"></i></a>
+                        <a href="https://www.techscience.com/ndetail/contact"><i class="iconfont icon-w_dizhi-"></i></a>
+                        <a href="javascript:showWhatsApp();"><i class="iconfont icon-whats-app"></i></a>
+                    </div>
+                </li>
+            </ul>       
+        </div>        
+        
+    </div>
+    <div id="whats-app" class="zx_bm" style="display: none;">
+        <div class="bm_bj"></div>
+        <div class="b_m" style="padding: 30px 30px; max-width: 280px"> 
+            <h3>WhatsApp:</h3>
+            <div class="fuzhi">
+                +1（702）9272320
+            </div>
+            <a href="javascript:hideWhatsApp();" style="float:right; position:absolute; right:10px; top:10px;">
+                <img src="https://www.techscience.com/static/images/fixe_esc1.png?t=20230215" width="25" height="25">
+            </a> 
+        </div>
+    </div>
+
+    <div class="foot2"> 
+           <div>  
+        Copyright© 2026 Tech Science Press <br/>
+© 1997-2026 TSP (Henderson, USA) unless otherwise stated    </div>
+    <span id="siteseal" style="margin-left: 15px;margin-top: 7px; display: block;"><script async="true" type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=NyuRzmGl5GM74T5fwbHA1hxL09vRSUVWcF3oFoQPks7JU48TJ739mUEZzqqm"></script></span>
+</div></div>
+<!-- footer end -->
+
+<script src="https://www.techscience.com/static/js/iconfont.js?t=20230215"></script>
+<script src="https://www.techscience.com/static/js/jquery-1.8.3.min.js?t=20230215" type="text/javascript" ></script>
+<script src="https://www.techscience.com/static/js/main.js?t=20230215" type="text/javascript" ></script>
+<script src="https://www.techscience.com/static/js/detail.js?t=20230215" type="text/javascript" ></script>
+<script src="https://www.techscience.com/static/js/wow.min.js?t=20230215"></script>
+
+<script>
+    new WOW().init();
+    
+    function showWhatsApp() {
+        document.getElementById('whats-app').style.display = 'block';
+    }
+    function hideWhatsApp() {
+        document.getElementById('whats-app').style.display = 'none';
+    }
+</script>
+<link rel="stylesheet" href="https://www.techscience.com/static/css/swiper.min.css?t=20230215" />
+<!-- Google tag (gtag.js) -->
+<script async="true" src="https://www.googletagmanager.com/gtag/js?id=G-PD3QTEE3HW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PD3QTEE3HW');
+</script>
+<script src="https://web.cmp.usercentrics.eu/modules/autoblocker.js"></script>
+<script id="usercentrics-cmp" src="https://web.cmp.usercentrics.eu/ui/loader.js" data-settings-id="hGjI_wnNp25nVw" async></script>
+
+    
+<div class="sddh">
+    <ul>
+        <li><a href="https://www.techscience.com/"><i class="iconfont icon-shouye"></i>Home</a></li>
+        <li><a href="https://ijs.tspsubmission.com/homepage?returnUrl=/submission/3"><i class="iconfont icon-tijiao"></i>Submit</a></li>
+        <li><a href="https://ijs.tspsubmission.com/homepage?returnUrl=/submission/3"><i class="iconfont icon-touxiang"></i>Login</a></li>
+        <li><a href="https://ijs.tspsubmission.com/regist"><i class="iconfont icon-zhuce"></i>Register</a></li>
+    </ul>
+</div>
+
+<div id="sasas" class="zx_bm">
+    <div class="bm_bj"></div>
+    <div class="b_m"> 
+        <h3>Share Link</h3>
+        <div class="tguanzhu">
+            <ul>
+                <li>
+                    <a class="button" data-sharer="email" data-title="CSSE | An Ensemble Approach to Identify Firearm Listing on Tor Hidden-Services" data-url="https://www.techscience.com/csse/v38n2/42345" data-subject="Hey! Check out that URL" data-to="office@techscience.com">
+                        <i class="iconfont icon-youxiang"></i>
+                    </a>
+                </li>
+                <li>
+                    <a class="button" data-sharer="twitter" data-title="CSSE | An Ensemble Approach to Identify Firearm Listing on Tor Hidden-Services" data-url="https://www.techscience.com/csse/v38n2/42345">
+                        <i class="iconfont icon-twitter"></i>
+                    </a>
+                </li>
+                <li>
+                    <a class="button" data-sharer="linkedin" data-title="CSSE | An Ensemble Approach to Identify Firearm Listing on Tor Hidden-Services" data-url="https://www.techscience.com/csse/v38n2/42345">
+                        <i class="iconfont icon-LinkedinIn"></i>
+                    </a>
+                </li>
+                <li>
+                    <a class="button" data-sharer="facebook" data-title="CSSE | An Ensemble Approach to Identify Firearm Listing on Tor Hidden-Services" data-url="https://www.techscience.com/csse/v38n2/42345" >
+                        <i class="iconfont icon-Facebook-copy"></i>
+                    </a>
+                </li>
+
+                    <!--<li><a href="javascript:document.getElementById('sasas1').style.display = 'block';"><i class="iconfont icon-weixin1"></i></a></li>-->
+            </ul>
+        </div>
+        <div class="fuzhi">
+            <input id="foo" type="text" value="https://www.techscience.com/csse/v38n2/42345" class="fz1" />
+            <button class="fz2" data-clipboard-action="copy" data-clipboard-target="#foo">Copy</button> 
+            <!-- 2. Include library -->
+            <script src="https://www.techscience.com/static/js/clipboard.min.js?t=20230215"></script>
+        </div>
+
+        <a href="javascript:hideShareLinked()" style="float:right; position:absolute; right:10px; top:10px;" >
+            <img src="https://www.techscience.com/static/images/fixe_esc1.png?t=20230215" width="25" height="25" />
+        </a> 
+    </div>
+</div>
+<div class="toTop" id="roll_top"><i class="iconfont icon-dingbu1"></i></div>
+
+
+<script src="https://cdn.jsdelivr.net/npm/sharer.js@latest/sharer.min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        /*返回顶部*/
+        $('#roll_top').hide();
+        $(window).scroll(function () {
+            if ($(window).scrollTop() > 300) {
+                $('#roll_top').fadeIn(400);//当滑动栏向下滑动时，按钮渐现的时间
+            } else {
+                $('#roll_top').fadeOut(0);//当页面回到顶部第一屏时，按钮渐隐的时间
+            }
+        });
+        $('#roll_top').click(function () {
+            $('html,body').animate({
+                scrollTop: '0px'
+            }, 300);//返回顶部所用的时间 返回顶部也可调用goto()函数
+        });
+    });
+    function goto(selector) {
+        $.scrollTo(selector, 1000);
+    }
+
+    $(function () {
+        var clipboard = new Clipboard('.fz2');
+
+        clipboard.on('success', function (e) {
+            console.log(e);
+        });
+
+        clipboard.on('error', function (e) {
+            console.log(e);
+        });
+                
+        $(".nlf .nbt").click(function () {
+            $(this).toggleClass("currentDd").siblings(".nbt").removeClass("currentDd")
+            $(this).toggleClass("currentDt").siblings(".nbt").removeClass("currentDt")
+            // 修改数字控制速度， slideUp(500)控制卷起速度
+            $(this).next(".k2 ul").slideToggle(500).siblings(".k2 ul").slideUp(500),
+                    $(this).next(".k2 .news ").slideToggle(500).siblings(".k2 .news ").slideUp(500),
+                    $(this).next(".k2 .weizhang ").slideToggle(500).siblings(".k2 .weizhang ").slideUp(500),
+                    $(this).next(".k3 .gdg").slideToggle(500).siblings(".k3 .gdg").slideUp(500);
+        })
+    })
+</script>    
+
+        <script>
+   var modal = document.getElementById('modal');
+   var bgImg = document.getElementById('bgImg');
+   var bgImgLink = document.getElementById('bgImgLink');
+
+  function showBgImg(e) {
+       modal.style.display = 'block';
+       bgImg.src = e.src;
+       bgImgLink.href = e.src;
+   }
+
+   modal.onclick = function() {
+       modal.style.display = 'none';
+   }
+   
+   bgImg.onclick = function() {
+       event.stopPropagation();    // 上层加上这行代码，可以阻止点击穿透
+   }
+   
+   function modalClose(){
+       modal.style.display = 'none';
+   }
+    </script>
+    <script type="text/javascript">
+  $(window).scroll(function(){
+    var top = $(window).scrollTop();
+	var hed = $(".gsfd").innerHeight();
+    if(top>hed){
+      $(".gsfd").addClass("on");
+    }else{
+      $(".gsfd").removeClass("on");
+    };
+  });
+</script>
+
+
+    <script>
+
+    
+    function loadCitationList(id) {
+        $('#cite_article_msg').html('loading...')
+        req_html( 'https://www.techscience.com/tg/home/journal/citation_list',{id: id}, function (data) {
+            $('#cite_article_msg').html('')
+            $("#citation_detail").html(data); 
+        }, 'get')
+    }
+    
+    /*
+    * 实现点赞功能
+    * @param    资源id
+    * */
+    function addStar(id){
+        var num =  $('#star_'+id).html();
+        var cookieKey = "star_" + id
+        var star=getCookieById(cookieKey,1);
+        if(star==""){
+            addCookieById(cookieKey,1,365);
+            //后台点赞操作
+            req_html( 'https://www.techscience.com/tg/home/journal/addStar',{id: id, num: num}, function (data) {
+                $('#star_'+id).html(data.data)
+            }, 'get','json')
+        }else{
+            alert("Already “LIKED” it! Thanks for loving this article!");
+        }
+    }
+    
+    $(document).ready(function(){
+            // jQuery加载后，将toggleIssueAccordion升级为带滑动动画的版本
+            window.toggleIssueAccordion = function (dome) {
+                var $ej = $(dome).siblings(".nav_div_ej");
+                var isHidden = $ej.is(":hidden");
+                $(".nav_div_ej").slideUp();
+                $(".nav_div_dome").removeClass("on");
+                if (isHidden) {
+                    $ej.slideDown();
+                    $(dome).addClass("on");
+                }
+            };
+            
+            $("#cite_btn").click(function(){
+               $('#more_cite').toggle('slow');
+            });
+            -
+            $("#article_information").click(function(){
+                
+              if(   $(this).find('div').hasClass('rotate90') ){
+                  $(this).find('div').removeClass('rotate90');
+                  $('#affiliation').hide();
+              }else{
+                  $(this).find('div').addClass('rotate90');
+                  $('#affiliation').show();   
+              }
+            });  
+           
+           
+
+              });
+ 
+
+
+</script>
+</body>
+</html>

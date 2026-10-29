@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script id="anubis_version" type="application/json">"v1.26.4"
+</script><script id="anubis_challenge" type="application/json">{"rules":{"algorithm":"fast","difficulty":2},"challenge":{"issuedAt":"2026-10-04T10:41:02.878617923-04:00","metadata":{"User-Agent":"Mozilla/5.0 (compatible; OA-downloader/1.0)","X-Real-Ip":"2a02:2a40:17f2:8800:d587:587f:d6b2:7a51"},"id":"01a1075c-779e-7962-9cdd-c61f64ed65c9","method":"fast","randomData":"c046f30e9aa1ab963ec0d6d0646732001e89ccb8ebb1ab1c27983b310caf869aef86c6558b9dacff7526785c27a764b7cb7d7c8972abe091fc6d80895bb5ca88","policyRuleHash":"ac980f49c4d35fab","difficulty":2,"spent":false}}
+</script><script id="anubis_base_prefix" type="application/json">""
+</script><script id="anubis_public_url" type="application/json">""
+</script>
+    <link rel="stylesheet" href="https://unpkg.com/rivet-core@2.9.1/css/rivet.min.css">
+  </head>
+  <body>
+    <header class="rvt-header-wrapper">
+      
+      <a class="rvt-header-wrapper__skip-link" href="#main-content">Skip to main content</a>
+      <div class="rvt-header-global">
+        <div class="rvt-container-xl">
+          <div class="rvt-header-global__inner">
+            <div class="rvt-header-global__logo-slot">
+              <a class="rvt-lockup" href="/">  
+                
+                <div class="rvt-lockup__tab">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="rvt-lockup__trident" viewBox="0 0 28 34">
+                    <path d="M-3.34344e-05 4.70897H8.83308V7.174H7.1897V21.1426H10.6134V2.72321H8.83308V0.121224H18.214V2.65476H16.2283V21.1426H19.7889V7.174H18.214V4.64047H27.0471V7.174H25.0614V23.6761L21.7746 26.8944H16.2967V30.455H18.214V33.8787H8.76463V30.592H10.6819V26.8259H5.20403L1.91726 23.6077V7.174H-3.34344e-05V4.70897Z" fill="currentColor"></path>
+                  </svg>
+                </div>
+                
+                <div class="rvt-lockup__body">
+                  <span class="rvt-lockup__title">University Library</span>
+                  <span class="rvt-lockup__subtitle">Indianapolis</span>
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+    <main id="main-content">
+        <div class="rvt-layout__content">
+          <div class="rvt-contatiner-sm rvt-p-all-lg rvt-p-all-xxxl-lg-up">
+            <div class="rvt-empty-state">
+                <div class="rvt-empty-state__content">
+                  <h1 class="rvt-ts-23 rvt-text-bold rvt-m-b-xs">Verifying your browser...</h1>
+                  <p class="rvt-ts-16 rvt-color-black-500 rvt-m-b-lg">
+                      Please wait a moment while we perform a brief automated security check.
+                  </p>
+
+                  
+                  <div class="rvt-loader rvt-loader--lg rvt-m-tb-md" aria-label="Processing security challenge"></div>
+
+                  
+                  <div id="challenge-container">
+                      
+                      <div class="centered-div"><p id="status">Loading...</p><p id="anubis-script-error" style="display:none;">Anubis could not load its JavaScript. The server may be overloaded. Please reload the page to try again.</p><script id="anubis-main" defer type="module" src="/.within.website/x/cmd/anubis/static/js/main.mjs?cacheBuster=v1.26.4"></script><script>/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this page.
+
+Copyright (c) 2026 Xe Iaso <xe.iaso@techaro.lol>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+@licend  The above is the entire license notice
+for the JavaScript code in this page.
+
+## Rationale
+
+This script catches `main.mjs` failing to load and re-injects it with
+jittered exponential backoff.
+
+Without this any failures loading `main.mjs` leaves the challenge page
+sitting on the "Loading..." message forever with no error messaging
+outside of the browser console, which is unavailable on mobile browsers.
+
+Disable loading this script at your peril. You have been warned.
+*/
+(()=>{var f=(e,t=750,n=1e4)=>Math.random()*Math.min(n,t*Math.pow(e,2));var d=(e,t={},n=[])=>{let s=typeof e=="function"?e(t):Object.assign(document.createElement(e),t);return Array.isArray(n)||(n=[n]),s.append(...n),s};var i=e=>document.getElementById(e);var _=e=>e.map(i);(()=>{let e=i("anubis-main");if(!e){console.debug("can't find anubis main.mjs element via ID `anubis-main`, bailing");return}let t=e.getAttribute("src");if(!t){console.debug("can't find src attribute of script element `anubis-main`, bailing");return}let n=t.indexOf("?")===-1?"?":"&",s=4,E=750,A=1e4,c=1e4,a=0,l=0,u=()=>window.__anubisBooted===!0,p=()=>{let r=_(["anubis-script-error","status","progress"]);if(r.filter(D=>D==null).length!==0){console.debug("missing one of the following elements: anubis-script-error, status, progress. cannot proceed, bailing.");return}let[o,M,T]=r;o.style.display="block",M.style.display="none",T.style.display="none"},m=r=>()=>{if(u()||r!==l)return;if(l++,a++,a>s){p();return}let o=f(a,E,A);setTimeout(y,o)},y=()=>{if(u())return;let r=m(l),o=d("script",{async:!0,type:"module",src:t+n+"anubisRetry="+a,onerror:r});document.head.appendChild(o),setTimeout(r,c)},b=m(0);e.onerror=b,setTimeout(b,c)})();})();
+</script><div id="progress" role="progressbar" aria-labelledby="status"><div class="bar-inner"></div></div><div id="testarea"></div></div>
+                  </div>
+                </div>
+            </div>
+          </div>
+        </div>
+    </main>
+    <footer class="rvt-footer-base">
+      <div class="rvt-container-lg">
+        <div class="rvt-footer-base__inner">
+          
+          <div class="rvt-footer-base__logo">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+              <polygon fill="currentColor" points="15.3 3.19 15.3 5 16.55 5 16.55 15.07 13.9 15.07 13.9 1.81 15.31 1.81 15.31 0 8.72 0 8.72 1.81 10.12 1.81 10.12 15.07 7.45 15.07 7.45 5 8.7 5 8.7 3.19 2.5 3.19 2.5 5 3.9 5 3.9 16.66 6.18 18.98 10.12 18.98 10.12 21.67 8.72 21.67 8.72 24 15.3 24 15.3 21.67 13.9 21.67 13.9 18.98 17.82 18.98 20.09 16.66 20.09 5 21.5 5 21.5 3.19 15.3 3.19"/>
+            </svg>
+          </div>
+          
+          <ul class="rvt-footer-base__list">
+            <li class="rvt-footer-base__item">
+              <a class="rvt-footer-base__link" href="https://accessibility.iu.edu/assistance/">Accessibility</a>
+            </li>
+            <li class="rvt-footer-base__item">
+              <a class="rvt-footer-base__link" href="https://library.indianapolis.iu.edu/policies/privacy">Privacy Notice</a>
+            </li>
+            <li class="rvt-footer-base__item">
+              <a class="rvt-footer-base__link" href="https://www.iu.edu/copyright/index.html">Copyright</a> © 2026 The Trustees of <a class="rvt-footer-base__link" href="https://www.iu.edu">Indiana University</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </footer>
+    <script src="https://unpkg.com/rivet-core@2.9.1/js/rivet.min.js"></script>
+    <script>Rivet.init();</script>
+  </body>
+</html>

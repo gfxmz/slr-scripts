@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+            <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+            <!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+            <!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+            <!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+            <head><META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+<meta content="width=device-width,initial-scale=1" name="viewport">
+<link rel="shortcut icon" href="/themes/Mirage2/images/favicon.ico">
+<link rel="apple-touch-icon" href="/themes/Mirage2/images/apple-touch-icon.png">
+<meta name="Generator" content="DSpace 6.4">
+<meta content="INDEX, FOLLOW" name="ROBOTS">
+<link href="/themes/Mirage2/styles/main.css" rel="stylesheet">
+<link type="application/opensearchdescription+xml" rel="search" href="http://addi.ehu.eus:80/open-search/description.xml" title="DSpace">
+<script>
+                //Clear default text of empty text areas on focus
+                function tFocus(element)
+                {
+                if (element.value == ' '){element.value='';}
+                }
+                //Clear default text of empty text areas on submit
+                function tSubmit(form)
+                {
+                var defaultedElements = document.getElementsByTagName("textarea");
+                for (var i=0; i != defaultedElements.length; i++){
+                if (defaultedElements[i].value == ' '){
+                defaultedElements[i].value='';}}
+                }
+                //Disable pressing 'enter' key to submit a form (otherwise pressing 'enter' causes a submission to start over)
+                function disableEnterKey(e)
+                {
+                var key;
+
+                if(window.event)
+                key = window.event.keyCode;     //Internet Explorer
+                else
+                key = e.which;     //Firefox and Netscape
+
+                if(key == 13)  //if "Enter" pressed, then disable!
+                return false;
+                else
+                return true;
+                }
+            </script><!--[if lt IE 9]>
+                <script src="/themes/Mirage2/vendor/html5shiv/dist/html5shiv.js"> </script>
+                <script src="/themes/Mirage2/vendor/respond/dest/respond.min.js"> </script>
+                <![endif]--><script src="/themes/Mirage2/vendor/modernizr/modernizr.js"> </script>
+<title>Anticipation and modal power: Opening up and closing down the momentum of sociotechnical systems</title>
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/" />
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+<meta name="DC.creator" content="Urueña López, Sergio" />
+<meta name="DCTERMS.dateAccepted" content="2024-01-22T16:32:56Z" scheme="DCTERMS.W3CDTF" />
+<meta name="DCTERMS.available" content="2024-01-22T16:32:56Z" scheme="DCTERMS.W3CDTF" />
+<meta name="DCTERMS.issued" content="2022-08-06" scheme="DCTERMS.W3CDTF" />
+<meta name="DCTERMS.bibliographicCitation" content="Social Studies of Science 52(2) : 783-805 (2022)" xml:lang="es_ES" />
+<meta name="DC.identifier" content="0306-3127" />
+<meta name="DC.identifier" content="http://hdl.handle.net/10810/64204" scheme="DCTERMS.URI" />
+<meta name="DCTERMS.abstract" content="Within STS, there are three approaches to the creation and mobilization of futures: descriptive, normative, and interventive. Visions, expectations, and imaginaries are currently seen as anticipatory artifacts that close down the momentum of sociotechnical systems and, as such, are objects of critical scrutiny. At the same time, interventive techniques engaging with future representations are considered to be useful anticipatory instruments for opening up ranges of envisaged alternatives. This article reviews STS advances concerning the performativity of both de facto and interventive anticipatory practices in shaping the momentum of sociotechnical systems in light of the phenomenon of modal power: the modulation dynamics of what actors deem to be (im)plausible and/or (un)desirable. The diverse attempts of STS scholars and practitioners to understand, critique, and engage with the politics of opening up and closing down the momentum of sociotechnical systems require engaging with the creation, mobilization, and execution of modal power. The heuristics presented here are intended to be useful in framing and recognizing the political-epistemic radicality that the creation and mobilization of sociotechnical futures holds in the constitution of our sociotechnical orders as well as the role that the attribution of (im)plausibility or (un)desirability plays in such processes." xml:lang="es_ES" />
+<meta name="DC.description" content="The author disclosed receipt of the following financial support for the research, authorship, and/or publication of this article: This work was supported by the Spanish Ministry of Science and Innovation and the Spanish State Research Agency (MCIN/AEI/10.13039/501100011033) [grant number PID2020-114279RB-I00]; and the Spanish Ministry of Economy and Competitiveness and the European Regional Development Fund [grant number BES-2016-079192]." xml:lang="es_ES" />
+<meta name="DC.language" content="eng" xml:lang="es_ES" scheme="DCTERMS.RFC1766" />
+<meta name="DC.publisher" content="Sage" xml:lang="es_ES" />
+<meta name="DC.relation" content="info:eu-repo/grantAgreement/MCIN/PID2020-114279RB-I00" xml:lang="es_ES" />
+<meta name="DC.relation" content="nfo:eu-repo/grantAgreement/MINECO/BES-2016-079192" xml:lang="es_ES" />
+<meta name="DC.rights" content="info:eu-repo/semantics/openAccess" xml:lang="es_ES" />
+<meta name="DC.subject" content="Anticipation" xml:lang="es_ES" />
+<meta name="DC.subject" content="Modal power" xml:lang="es_ES" />
+<meta name="DC.subject" content="Sociotechnical futures" xml:lang="es_ES" />
+<meta name="DC.subject" content="Technological momentum" xml:lang="es_ES" />
+<meta name="DC.subject" content="Sociotechnical imaginaries" xml:lang="es_ES" />
+<meta name="DC.subject" content="Future-making politics" xml:lang="es_ES" />
+<meta name="DC.title" content="Anticipation and modal power: Opening up and closing down the momentum of sociotechnical systems" xml:lang="es_ES" />
+<meta name="DC.type" content="info:eu-repo/semantics/article" xml:lang="es_ES" />
+<meta name="DC.rights" content="© 2022 Sergio Urueña" xml:lang="es_ES" />
+<meta name="DC.identifier" content="10.1177/03063127221111469" />
+<link rel="canonical" href="https://addi.ehu.eus/handle/10810/64204">
+<meta content="Anticipation; Modal power; Sociotechnical futures; Technological momentum; Sociotechnical imaginaries; Future-making politics; info:eu-repo/semantics/article" name="citation_keywords">
+<meta content="Anticipation and modal power: Opening up and closing down the momentum of sociotechnical systems" name="citation_title">
+<meta content="Sage" name="citation_publisher">
+<meta content="Social Studies of Science" name="citation_journal_title">
+<meta content="Urue&ntilde;a L&oacute;pez, Sergio" name="citation_author">
+<meta content="2022" name="citation_date">
+<meta content="https://addi.ehu.eus/handle/10810/64204" name="citation_abstract_html_url">
+<meta content="2" name="citation_issue">
+<meta content="0306-3127" name="citation_issn">
+<meta content="10.1177/03063127221111469" name="citation_doi">
+<meta content="eng" name="citation_language">
+<meta content="https://addi.ehu.eus/handle/10810/64204" name="citation_fulltext_html_url">
+<meta content="https://addi.ehu.eus/bitstream/10810/64204/1/2022_AM_Uruen%cc%83a%20-%20Anticipation%20and%20Modal%20Power.pdf" name="citation_pdf_url">
+<meta content="52" name="citation_volume">
+<script src="https://www.googletagmanager.com/gtag/js?id=G-S33G4XHKBQ" async="async"></script><script>
+				window.dataLayer = window.dataLayer || [];
+				function gtag(){dataLayer.push(arguments);}
+				gtag('js', new Date());
+				gtag('config', 'G-S33G4XHKBQ');
+			</script>
+</head><body>
+<header>
+<div>
+<table background="/themes/Mirage2/images/cabecera_fondo.png" bgcolor="#6DBEDC" width="100%">
+<tr>
+<td align="left"><a target="_blank" href="http://www.ehu.es">
+<image style="margin:10px 0px 10px 0px;" src="/themes/Mirage2/images/logoehu.png" alt="UPV-EHU"></image>
+</a></td><td align="right"><a href="/">
+<image src="/themes/Mirage2/images/addi_eng.gif" alt="ADDI"></image>
+</a></td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbar navbar-default navbar-static-top">
+<div class="container">
+<div class="navbar-header">
+<button data-toggle="offcanvas" class="navbar-toggle" type="button"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+<ul class="nav navbar-nav pull-left ">
+<li>
+<a href="JavaScript:history.go(-1);"><span class="hidden-xs"><img src="/themes/Mirage2/images/volver.gif">Back</span></a>
+</li>
+</ul>
+<div class="navbar-header pull-right visible-xs hidden-sm hidden-md hidden-lg">
+<ul class="nav nav-pills pull-left ">
+<li>
+<form method="get" action="/login" style="display: inline">
+<button class="navbar-toggle navbar-link"><b aria-hidden="true" class="visible-xs glyphicon glyphicon-user"></b></button>
+</form>
+</li>
+<li class="dropdown" id="ds-language-selection-xs">
+<button data-toggle="dropdown" class="dropdown-toggle navbar-toggle navbar-link" role="button" href="#" id="language-dropdown-toggle-xs"><b aria-hidden="true" class="visible-xs glyphicon glyphicon-globe"></b></button>
+<ul data-no-collapse="true" aria-labelledby="language-dropdown-toggle-xs" role="menu" class="dropdown-menu pull-right">
+<li role="presentation" class="disabled">
+<a href="http://addi.ehu.eus:80/handle/10810/64204?locale-attribute=en">English</a>
+</li>
+<li role="presentation">
+<a href="http://addi.ehu.eus:80/handle/10810/64204?locale-attribute=es">espa&ntilde;ol</a>
+</li>
+<li role="presentation">
+<a href="http://addi.ehu.eus:80/handle/10810/64204?locale-attribute=eu">Basque</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div class="navbar-header pull-right hidden-xs">
+<ul class="nav navbar-nav pull-left">
+<li>
+<a href="/login"><span class="hidden-xs">Login</span></a>
+</li>
+</ul>
+<ul class="nav navbar-nav pull-left">
+<li class="dropdown" id="ds-language-selection">
+<a data-toggle="dropdown" class="dropdown-toggle" role="button" href="#" id="language-dropdown-toggle"><span class="hidden-xs">English&nbsp;<b class="caret"></b></span></a>
+<ul data-no-collapse="true" aria-labelledby="language-dropdown-toggle" role="menu" class="dropdown-menu pull-right">
+<li role="presentation" class="disabled">
+<a href="http://addi.ehu.eus:80/handle/10810/64204?locale-attribute=en">English</a>
+</li>
+<li role="presentation">
+<a href="http://addi.ehu.eus:80/handle/10810/64204?locale-attribute=es">espa&ntilde;ol</a>
+</li>
+<li role="presentation">
+<a href="http://addi.ehu.eus:80/handle/10810/64204?locale-attribute=eu">Basque</a>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="nav navbar-nav pull-left ">
+<li>
+<a target="_blank" href="/themes/Mirage2/FAQ/FAQCast.htm"><span class="hidden-xs">
+<text>FAQ</text>
+</span></a>
+</li>
+</ul>
+<button type="button" class="navbar-toggle visible-sm" data-toggle="offcanvas"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+</div>
+</div>
+</div>
+</header>
+<div class="trail-wrapper hidden-print">
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+<div style="padding:2px 15px;" class="breadcrumb dropdown visible-xs">
+<a data-toggle="dropdown" class="dropdown-toggle" role="button" href="#" id="trail-dropdown-toggle">View Item&nbsp;<b class="caret"></b></a>
+<ul aria-labelledby="trail-dropdown-toggle" role="menu" class="dropdown-menu">
+<li role="presentation">
+<a role="menuitem" href="/"><i aria-hidden="true" class="glyphicon glyphicon-home"></i>&nbsp;
+                        ADDI</a>
+</li>
+<li role="presentation">
+<a role="menuitem" href="/handle/10810/91">INVESTIGACI&Oacute;N</a>
+</li>
+<li role="presentation">
+<a role="menuitem" href="/handle/10810/14954">Art&iacute;culos, Comunicaciones, Libros</a>
+</li>
+<li role="presentation">
+<a role="menuitem" href="/handle/10810/248">Art&iacute;culos</a>
+</li>
+<li role="presentation" class="disabled">
+<a href="#" role="menuitem">View Item</a>
+</li>
+</ul>
+</div>
+<ul style="padding:2px 15px;" class="breadcrumb hidden-xs">
+<li>
+<i aria-hidden="true" class="glyphicon glyphicon-home"></i>&nbsp;
+            <a href="/">ADDI</a>
+</li>
+<li>
+<a href="/handle/10810/91">INVESTIGACI&Oacute;N</a>
+</li>
+<li>
+<a href="/handle/10810/14954">Art&iacute;culos, Comunicaciones, Libros</a>
+</li>
+<li>
+<a href="/handle/10810/248">Art&iacute;culos</a>
+</li>
+<li class="active">View Item</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="hidden" id="no-js-warning-wrapper">
+<div id="no-js-warning">
+<div class="notice failure">JavaScript is disabled for your browser. Some features of this site may not work without it.</div>
+</div>
+</div>
+<div class="container" id="main-container">
+<div class="row row-offcanvas row-offcanvas-right">
+<div class="horizontal-slider clearfix">
+<div class="col-xs-12 col-sm-12 col-md-9 main-content">
+<div>
+<div id="aspect_artifactbrowser_ItemViewer_div_item-view" class="ds-static-div primary">
+<!-- External Metadata URL: cocoon://metadata/handle/10810/64204/mets.xml-->
+<div class="item-summary-view-metadata">
+<h2 class="page-header first-page-header">Anticipation and modal power: Opening up and closing down the momentum of sociotechnical systems</h2>
+<div class="row">
+<div class="col-sm-4">
+<div class="row">
+<div class="col-xs-6 col-sm-12">
+<div class="thumbnail">
+<img alt="Thumbnail" data-src="holder.js/100%x80/text:No Thumbnail"></div>
+</div>
+<div class="col-xs-6 col-sm-12">
+<div class="item-page-field-wrapper table word-break">
+<h5>View/<wbr></wbr>Open</h5>
+<div>
+<a target="_blank" href="/bitstream/handle/10810/64204/2022_AM_Uruen%cc%83a%20-%20Anticipation%20and%20Modal%20Power.pdf?sequence=1&isAllowed=y"><i aria-hidden="true" class="glyphicon  glyphicon-file"></i> Postprint (369.7Kb)</a>
+</div>
+</div>
+</div>
+</div>
+<div class="simple-item-view-date word-break item-page-field-wrapper table">
+<h5>Date</h5>2022-08-06</div>
+<div class="simple-item-view-authors item-page-field-wrapper table">
+<h5>Author</h5>
+<div class="ds-dc_contributor_author-authority">Urue&ntilde;a L&oacute;pez, Sergio</div>
+</div>
+<div class="simple-item-view-show-full item-page-field-wrapper table">
+<h5>Metadata</h5>
+<a href="/handle/10810/64204?show=full">Show full item record</a>
+</div>
+<div style="margin:0px 0px 30px 0px;">
+<a href="javascript:toggleStatsLaReferencia()"><i class="glyphicon glyphicon-chevron-right" id="icon-stats-recolecta" aria-hidden="true"></i>&nbsp;
+                
+				<text>Estadisticas en RECOLECTA</text>
+<br>
+<text></text>
+</a>
+<div class="hidden" id="usage-stats"></div>
+<script>
+ 
+  function toggleStatsLaReferencia() {
+                    if ($("#usage-stats").hasClass('hidden')) {
+                        $("#usage-stats").removeClass('hidden');
+                        $("#icon-stats-recolecta").removeClass('glyphicon-chevron-right');
+                        $("#icon-stats-recolecta").addClass('glyphicon-chevron-down');
+                        $("#lrw_init_button").click();
+                    } else {
+                        $("#usage-stats").addClass('hidden');
+                        $("#icon-stats-recolecta").removeClass('glyphicon-chevron-down');
+                        $("#icon-stats-recolecta").addClass('glyphicon-chevron-right');
+                    }
+                }
+ 
+ 
+      (function (window, document, scriptTag, globalVar, paramsKey, cdnUrl) {
+        window[globalVar] =
+          window[globalVar] ||
+          function () {
+            window[globalVar][paramsKey] = window[globalVar][paramsKey] || {};
+            Object.assign(window[globalVar][paramsKey], arguments[0] || {});
+          };
+
+        const scriptElement = document.createElement(scriptTag);
+        scriptElement.id = globalVar;
+        scriptElement.src = cdnUrl;
+        scriptElement.type = "module";
+        scriptElement.defer = true; 
+
+        scriptElement.onerror = function () {
+          console.error('Failed to load script ${scriptElement.src}');
+        };
+
+        const firstScript = document.getElementsByTagName(scriptTag)[0];
+        firstScript.parentNode.insertBefore(scriptElement, firstScript);
+      })(
+        window,
+        document,
+        "script",
+        "lrw",
+        "parameters",
+        "https://cdn.jsdelivr.net/gh/lareferencia/lrw@2.1.4/dist/lrw.js"
+      );
+      window["lrw"]({
+        widget_div_id: "usage-stats",
+
+        identifier: "oai:addi.ehu.eus:10810/64204",
+        identifier_meta_field: "",
+        identifier_prefix: "",
+        identifier_regex: "",
+        
+        scope_labels: {
+          N: "Recolecta",
+          R: "ADDI",
+        },
+        country: "ES",
+		 national_source: 'SITEID::64',
+        repository_source: "OPENDOAR::2121",
+        lang: "es",
+      });
+    </script>
+</div>
+</div>
+<div class="col-sm-8">
+<div class="simple-item-view-uri item-page-field-wrapper table">
+<br>
+<span>Social Studies of Science 52(2) : 783-805 (2022)</span>
+</div>
+<div class="simple-item-view-uri item-page-field-wrapper table">
+<h5>URI</h5>
+<span><a href="http://hdl.handle.net/10810/64204">http://hdl.handle.net/10810/64204</a></span>
+</div>
+<div class="simple-item-view-description item-page-field-wrapper table">
+<h5 class="visible-xs">Abstract</h5>
+<div>Within STS, there are three approaches to the creation and mobilization of futures: descriptive, normative, and interventive. Visions, expectations, and imaginaries are currently seen as anticipatory artifacts that close down the momentum of sociotechnical systems and, as such, are objects of critical scrutiny. At the same time, interventive techniques engaging with future representations are considered to be useful anticipatory instruments for opening up ranges of envisaged alternatives. This article reviews STS advances concerning the performativity of both de facto and interventive anticipatory practices in shaping the momentum of sociotechnical systems in light of the phenomenon of modal power: the modulation dynamics of what actors deem to be (im)plausible and/or (un)desirable. The diverse attempts of STS scholars and practitioners to understand, critique, and engage with the politics of opening up and closing down the momentum of sociotechnical systems require engaging with the creation, mobilization, and execution of modal power. The heuristics presented here are intended to be useful in framing and recognizing the political-epistemic radicality that the creation and mobilization of sociotechnical futures holds in the constitution of our sociotechnical orders as well as the role that the attribution of (im)plausibility or (un)desirability plays in such processes.</div>
+</div>
+<div class="simple-item-view-collections item-page-field-wrapper table">
+<h5>Collections</h5>
+<ul class="ds-referenceSet-list">
+<!-- External Metadata URL: cocoon://metadata/handle/10810/248/mets.xml-->
+<li>
+<a href="/handle/10810/248">Art&iacute;culos</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="visible-xs visible-sm">
+<footer>
+<div class="row">
+<hr>
+<div class="col-xs-5 col-sm-4">
+<div>
+<a target="_blank" href="http://www.dspace.org/">DSpace 6.4 software</a>
+</div>
+</div>
+<div class="col-xs-5 col-sm-4 hidden-print">
+<a href="https://explore.openaire.eu/search/find/dataproviders?fv0=addi&f0=q" target="_blank" title="OpenAIRE"><img width="120 px" src="/themes/Mirage2//images/OAire-validated.jpg" alt="OpenAIRE"></a><a style="margin-left: 60px;" href="https://recolecta.fecyt.es/" target="_blank" title="Recolecta"><img width="120 px" src="/themes/Mirage2//images/logoRecolecta.svg" alt="Recolecta"></a>
+</div>
+<div class="col-xs-5 col-sm-4 hidden-print">
+<div class="pull-right">
+<a href="http://www.ehu.eus/es/web/biblioteka" target="_blank" title="EHU Biblioteka"><img src="/themes/Mirage2//images/logobiblio.jpg" alt="EHU Bilbioteka"></a>
+</div>
+</div>
+</div>
+<a class="hidden" href="/htmlmap">&nbsp;</a>
+<p>&nbsp;</p>
+</footer>
+</div>
+</div>
+<div role="navigation" id="sidebar" class="col-xs-6 col-sm-3 sidebar-offcanvas">
+<div class="word-break hidden-print" id="ds-options">
+<div class="ds-option-set" id="ds-search-option">
+<form method="post" class="" id="ds-search-form" action="/discover">
+<fieldset>
+<div class="input-group">
+<input placeholder="Search" type="text" class="ds-text-field form-control" name="query"><span class="input-group-btn"><button title="Go" class="ds-button-field btn btn-primary"><span aria-hidden="true" class="glyphicon glyphicon-search"></span></button></span>
+</div>
+<div class="radio">
+<label><input checked value="" name="scope" type="radio" id="ds-search-form-scope-all">Search DSpace</label>
+</div>
+<div class="radio">
+<label><input name="scope" type="radio" id="ds-search-form-scope-container" value="10810/248">This Collection</label>
+</div>
+</fieldset>
+</form>
+</div>
+<h2 class="ds-option-set-head  h6">Browse</h2>
+<div id="aspect_viewArtifacts_Navigation_list_browse" class="list-group">
+<a class="list-group-item active"><span class="h5 list-group-item-heading  h5">All of ADDI</span></a><a href="/community-list" class="list-group-item ds-option">Communities &amp; Collections</a><a href="/browse?type=dateissued" class="list-group-item ds-option">By Issue Date</a><a href="/browse?type=author" class="list-group-item ds-option">Authors</a><a href="/browse?type=title" class="list-group-item ds-option">Titles</a><a href="/browse?type=departamentoes" class="list-group-item ds-option">Departamentos (cas.)</a><a href="/browse?type=departamentoeu" class="list-group-item ds-option">Departamentos (eus.)</a><a href="/browse?type=subject" class="list-group-item ds-option">Subjects</a><a class="list-group-item active"><span class="h5 list-group-item-heading  h5">This Collection</span></a><a href="/handle/10810/248/browse?type=dateissued" class="list-group-item ds-option">By Issue Date</a><a href="/handle/10810/248/browse?type=author" class="list-group-item ds-option">Authors</a><a href="/handle/10810/248/browse?type=title" class="list-group-item ds-option">Titles</a><a href="/handle/10810/248/browse?type=departamentoes" class="list-group-item ds-option">Departamentos (cas.)</a><a href="/handle/10810/248/browse?type=departamentoeu" class="list-group-item ds-option">Departamentos (eus.)</a><a href="/handle/10810/248/browse?type=subject" class="list-group-item ds-option">Subjects</a>
+</div>
+<h2 class="ds-option-set-head  h6">My Account</h2>
+<div id="aspect_viewArtifacts_Navigation_list_account" class="list-group">
+<a href="/login" class="list-group-item ds-option">Login</a>
+</div>
+<div id="aspect_viewArtifacts_Navigation_list_context" class="list-group"></div>
+<div id="aspect_viewArtifacts_Navigation_list_administrative" class="list-group"></div>
+<div id="aspect_discovery_Navigation_list_discovery" class="list-group"></div>
+<h2 class="ds-option-set-head  h6">Statistics</h2>
+<div id="aspect_statistics_Navigation_list_statistics" class="list-group">
+<a href="/handle/10810/64204/statistics" class="list-group-item ds-option">View Usage Statistics</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="hidden-xs hidden-sm">
+<footer>
+<div class="row">
+<hr>
+<div class="col-xs-5 col-sm-4">
+<div>
+<a target="_blank" href="http://www.dspace.org/">DSpace 6.4 software</a>
+</div>
+</div>
+<div class="col-xs-5 col-sm-4 hidden-print">
+<a href="https://explore.openaire.eu/search/find/dataproviders?fv0=addi&f0=q" target="_blank" title="OpenAIRE"><img width="120 px" src="/themes/Mirage2//images/OAire-validated.jpg" alt="OpenAIRE"></a><a style="margin-left: 60px;" href="https://recolecta.fecyt.es/" target="_blank" title="Recolecta"><img width="120 px" src="/themes/Mirage2//images/logoRecolecta.svg" alt="Recolecta"></a>
+</div>
+<div class="col-xs-5 col-sm-4 hidden-print">
+<div class="pull-right">
+<a href="http://www.ehu.eus/es/web/biblioteka" target="_blank" title="EHU Biblioteka"><img src="/themes/Mirage2//images/logobiblio.jpg" alt="EHU Bilbioteka"></a>
+</div>
+</div>
+</div>
+<a class="hidden" href="/htmlmap">&nbsp;</a>
+<p>&nbsp;</p>
+</footer>
+</div>
+</div>
+<script type="text/javascript">
+                         if(typeof window.publication === 'undefined'){
+                            window.publication={};
+                          };
+                        window.publication.contextPath= '';window.publication.themePath= '/themes/Mirage2/';</script><script>if(!window.DSpace){window.DSpace={};}window.DSpace.context_path='';window.DSpace.theme_path='/themes/Mirage2/';</script><script src="/themes/Mirage2/scripts/theme.js"> </script>
+</body></html>

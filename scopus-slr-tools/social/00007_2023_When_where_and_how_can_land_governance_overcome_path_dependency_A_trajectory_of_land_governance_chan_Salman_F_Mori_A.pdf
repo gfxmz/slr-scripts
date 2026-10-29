@@ -1,0 +1,47 @@
+<!DOCTYPE html><html><head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <base href="/">
+  <title>Kyoto University Research Information Repository</title>
+  <meta http-equiv="cache-control" content="no-store">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://repository.kulib.kyoto-u.ac.jp">
+  <meta property="og:title" content="京都大学学術情報リポジトリKURENAI">
+  <meta property="og:description" content="京都大学学術情報リポジトリKURENAIでは、京都大学で日々創造される研究・教育成果をWebで公開しています。世界的に卓越した知的成果を社会へ還元することを目的として、2006年から図書館機構が運営している事業です。">
+  <meta property="og:image" content="https://repository.kulib.kyoto-u.ac.jp/assets/images/og-1200x630.jpg">
+
+  <!-- <%-- Twitter Card (Large Image Summary Card) --%> -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="京都大学学術情報リポジトリKURENAI">
+  <meta name="twitter:description" content="京都大学学術情報リポジトリKURENAIでは、京都大学で日々創造される研究・教育成果をWebで公開しています。世界的に卓越した知的成果を社会へ還元することを目的として、2006年から図書館機構が運営している事業です。">
+  <meta name="twitter:image" content="https://repository.kulib.kyoto-u.ac.jp/assets/images/og-300x157.jpg">
+
+  <link rel="search" type="application/opensearchdescription+xml" href="/opensearchdescription.xml" title="DSpace Search">
+  <link rel="apple-touch-icon" href="/assets/images/og-144x144.jpg">
+
+  <meta name="theme-color" content="#00205b">
+  <script>
+    // Set og:locale based on current language
+    function setOgLocale() {
+      const currentLang = document.documentElement.lang || 'ja';
+      const locale = currentLang === 'en' ? 'en_US' : 'ja_JP';
+      let ogLocaleMeta = document.querySelector('meta[property="og:locale"]');
+      if (!ogLocaleMeta) {
+        ogLocaleMeta = document.createElement('meta');
+        ogLocaleMeta.setAttribute('property', 'og:locale');
+        document.head.appendChild(ogLocaleMeta);
+      }
+      ogLocaleMeta.setAttribute('content', locale);
+    }
+    setOgLocale();
+  </script>
+<style>:root{--swiper-theme-color:#007aff}:root{--swiper-navigation-size:44px}</style><link rel="stylesheet" href="styles.262c3d8ee1a66bb1.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles.262c3d8ee1a66bb1.css"></noscript></head>
+
+<body>
+  <ds-app></ds-app>
+<script src="runtime.a2ffbd320f5c258e.js" type="module"></script><script src="polyfills.4fc00fab1702c919.js" type="module"></script><script src="main.758504ef9be81a8c.js" type="module"></script>
+
+
+
+</body><!-- do not include client bundle, it is injected with Zone already loaded --></html>

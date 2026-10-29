@@ -1,0 +1,852 @@
+<!DOCTYPE html>
+<html lang="es" xml:lang="es">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>
+		Regímenes epistémicos de la cultura algorítmica y producción de verosimilitud sintética: aproximación teórico-crítica a la verdad digital
+							| Desde el Sur
+			</title>
+
+	
+<link rel="icon" href="https://revistas.cientifica.edu.pe/public/journals/1/favicon_es.ico" />
+<meta name="generator" content="Open Journal Systems 3.4.0.10" />
+<meta name="keywords" content="Humanidades, Desde el Sur, Perú, Revista Desde el Sur, publicaciones, Revista, Literatura" />
+<meta name="description" content="En el Perú poseemos una sólida tradición de investigaciones en las disciplinas humanísticas y sociales que ha orientado los estudios y las interpretaciones de nuestra propia historia como nación" />
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+<meta name="DC.Creator.PersonalName" content="Fernando A. Ramos-Zaga"/>
+<meta name="DC.Creator.PersonalName" content="Andherson J. Aguirre-Lanegra"/>
+<meta name="DC.Date.created" scheme="ISO8601" content="2025-12-22"/>
+<meta name="DC.Date.dateSubmitted" scheme="ISO8601" content="2025-07-27"/>
+<meta name="DC.Date.issued" scheme="ISO8601" content="2025-12-22"/>
+<meta name="DC.Date.modified" scheme="ISO8601" content="2025-12-22"/>
+<meta name="DC.Description" xml:lang="es" content="La proliferación exponencial de contenidos generados por inteligencia artificial ha redefinido la arquitectura epistémica de la cultura digital, al disolver las fronteras tradicionales entre verdad, falsedad y creencia. En ese sentido, el presente artículo tiene por objetivo proponer un marco teórico crítico para comprender los regímenes epistémicos emergentes de la cultura algorítmica, con especial atención a los procesos mediante los cuales la verosimilitud sintética es producida, legitimada y circulada en entornos mediados por inteligencia artificial. A partir de un diseño cualitativo, de carácter exploratorio-analítico, sustentado en un paradigma interpretativo y constructivista, los hallazgos evidencian que la creencia digital no se ancla en la validación empírica, sino en la convergencia entre resonancia emocional, familiaridad cultural y amplificación algorítmica. En conclusión, la restauración de la integridad epistémica en los entornos digitales requiere fomentar la alfabetización afectiva, la transparencia infraestructural y la reflexividad colectiva como componentes fundamentales de una gobernanza responsable del conocimiento."/>
+<meta name="DC.Description" xml:lang="en" content="The exponential proliferation of AI-generated content has redefined the epistemic architecture of digital culture, eroding traditional boundaries between truth, falsity, and belief. This study aims to construct a critical theoretical framework for understanding the emergent epistemic regimes of algorithmic culture, focusing on how synthetic verisimilitude is produced, validated, and circulated in AI-mediated environments. Employing a qualitative, exploratory-analytical design grounded in an interpretive and constructivist paradigm, the findings reveal that digital belief is not anchored in empirical validation but in the convergence of emotional resonance, cultural familiarity, and algorithmic amplification. The concept of performative real-syntheticism is advanced to capture this condition, arguing that epistemic authority now derives from algorithmic coherence and affective synchronization rather than factual correspondence. Taken together, restoring epistemic integrity in digital environments demands the cultivation of affective literacy, infrastructural transparency, and collective reflexivity as foundational components of responsible knowledge governance."/>
+<meta name="DC.Format" scheme="IMT" content="application/pdf"/>
+<meta name="DC.Identifier" content="2688"/>
+<meta name="DC.Identifier.pageNumber" content="e0081"/>
+<meta name="DC.Identifier.DOI" content="10.21142/DES-1704-2025-0081"/>
+<meta name="DC.Identifier.URI" content="https://revistas.cientifica.edu.pe/index.php/desdeelsur/article/view/2688"/>
+<meta name="DC.Language" scheme="ISO639-1" content="en"/>
+<meta name="DC.Rights" content="Derechos de autor 2025 Fernando A. Ramos-Zaga, Andherson J. Aguirre-Lanegra"/>
+<meta name="DC.Source" content="Desde el Sur"/>
+<meta name="DC.Source.ISSN" content="2415-0959"/>
+<meta name="DC.Source.Issue" content="4"/>
+<meta name="DC.Source.Volume" content="17"/>
+<meta name="DC.Source.URI" content="https://revistas.cientifica.edu.pe/index.php/desdeelsur"/>
+<meta name="DC.Subject" xml:lang="en" content="Artificial intelligence"/>
+<meta name="DC.Subject" xml:lang="en" content="disinformation"/>
+<meta name="DC.Subject" xml:lang="en" content="electronic media"/>
+<meta name="DC.Subject" xml:lang="en" content="epistemology"/>
+<meta name="DC.Subject" xml:lang="en" content="information society"/>
+<meta name="DC.Subject" xml:lang="es" content="desinformación"/>
+<meta name="DC.Subject" xml:lang="es" content="epistemología"/>
+<meta name="DC.Subject" xml:lang="es" content="inteligencia artificial"/>
+<meta name="DC.Subject" xml:lang="es" content="medios electrónicos"/>
+<meta name="DC.Subject" xml:lang="es" content="sociedad de la información"/>
+<meta name="DC.Title" content="Synthetic Verisimilitude and Epistemic Regimes in Algorithmic Culture: Affective and Sociotechnical Reconfigurations of Truth"/>
+<meta name="DC.Title.Alternative" xml:lang="es" content="Regímenes epistémicos de la cultura algorítmica y producción de verosimilitud sintética: aproximación teórico-crítica a la verdad digital"/>
+<meta name="DC.Type" content="Text.Serial.Journal"/>
+<meta name="DC.Type" xml:lang="es" content="Texto"/>
+<meta name="DC.Type" xml:lang="en" content="text"/>
+<meta name="DC.Type.articleType" content="Dossier"/>
+<meta name="gs_meta_revision" content="1.1"/>
+<meta name="citation_journal_title" content="Desde el Sur"/>
+<meta name="citation_journal_abbrev" content="Desde el Sur"/>
+<meta name="citation_issn" content="2415-0959"/> 
+<meta name="citation_author" content="Fernando A. Ramos-Zaga"/>
+<meta name="citation_author_institution" content="Universidad Privada del Norte, Lima, Perú"/>
+<meta name="citation_author" content="Andherson J. Aguirre-Lanegra"/>
+<meta name="citation_author_institution" content="Universidad Privada del Norte, Lima, Perú"/>
+<meta name="citation_title" content="Synthetic Verisimilitude and Epistemic Regimes in Algorithmic Culture: Affective and Sociotechnical Reconfigurations of Truth"/>
+<meta name="citation_language" content="en"/>
+<meta name="citation_date" content="2025/12/22"/>
+<meta name="citation_volume" content="17"/>
+<meta name="citation_issue" content="4"/>
+<meta name="citation_firstpage" content="e0081"/>
+<meta name="citation_lastpage" content="e0081"/>
+<meta name="citation_doi" content="10.21142/DES-1704-2025-0081"/>
+<meta name="citation_abstract_html_url" content="https://revistas.cientifica.edu.pe/index.php/desdeelsur/article/view/2688"/>
+<meta name="citation_abstract" xml:lang="en" content="The exponential proliferation of AI-generated content has redefined the epistemic architecture of digital culture, eroding traditional boundaries between truth, falsity, and belief. This study aims to construct a critical theoretical framework for understanding the emergent epistemic regimes of algorithmic culture, focusing on how synthetic verisimilitude is produced, validated, and circulated in AI-mediated environments. Employing a qualitative, exploratory-analytical design grounded in an interpretive and constructivist paradigm, the findings reveal that digital belief is not anchored in empirical validation but in the convergence of emotional resonance, cultural familiarity, and algorithmic amplification. The concept of performative real-syntheticism is advanced to capture this condition, arguing that epistemic authority now derives from algorithmic coherence and affective synchronization rather than factual correspondence. Taken together, restoring epistemic integrity in digital environments demands the cultivation of affective literacy, infrastructural transparency, and collective reflexivity as foundational components of responsible knowledge governance."/>
+<meta name="citation_keywords" xml:lang="es" content="desinformación"/>
+<meta name="citation_keywords" xml:lang="es" content="epistemología"/>
+<meta name="citation_keywords" xml:lang="es" content="inteligencia artificial"/>
+<meta name="citation_keywords" xml:lang="es" content="medios electrónicos"/>
+<meta name="citation_keywords" xml:lang="es" content="sociedad de la información"/>
+<meta name="citation_pdf_url" content="https://revistas.cientifica.edu.pe/index.php/desdeelsur/article/download/2688/DES-1704-2025-0081"/>
+<meta name="citation_reference" content="Ahern, S. (2024). Affect Theory and Literary Criticism. Emotion Review, 16(2), 96-–106. https://doi.org/10.1177/17540739241231934"/>
+<meta name="citation_reference" content="Amoore, L. (2020). Cloud Ethics: Algorithms and the Attributes of Ourselves and Others. Duke University Press. https://doi.org/10.1215/9781478009276"/>
+<meta name="citation_reference" content="Ayala, J., Arcila, S. and, &amp; Filinich, R. (2023). Tecnopolíticas contemporáneas: Inteligencia artificial, algoritmos y biotecnología. Desde el Sur, 15(2), e0016. https://doi.org/10.21142/DES-1502-2023-0016"/>
+<meta name="citation_reference" content="Barad, K. (2006). Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning. Duke University Press. https://doi.org/10.1215/9780822388128"/>
+<meta name="citation_reference" content="Baudrillard, J. (1994). Simulacra and Simulation. University of Michigan Press."/>
+<meta name="citation_reference" content="Benamo, M. E. (2023). A.I. don’t care: Aportes de la filosofía feminista de la tecnología para la Bioética cibernética. Desde el Sur, 15(2), 0022. https://doi.org/10.21142/DES-1502-2023-0022"/>
+<meta name="citation_reference" content="Berger, J. (1980). About Looking. Writers and Readers."/>
+<meta name="citation_reference" content="Boellstorff, T. (2015). Coming of Age in Second Life: An Anthropologist Explores the Virtually Human (rev. ed.). Princeton University Press."/>
+<meta name="citation_reference" content="Bucher, T. (2018). If ... Then: Algorithmic Power and Politics. Oxford University Press."/>
+<meta name="citation_reference" content="Butler, J. (2011). Bodies That Matter.: On the Discursive Limits of Sex . (1st0 ed.). Routledge. https://doi.org/10.4324/9780203828274"/>
+<meta name="citation_reference" content="Chalmers, D. J. (2022). Reality+: Virtual Worlds and the Problems of Philosophy. W. W. Norton &amp; Company."/>
+<meta name="citation_reference" content="Cheney-Lippold, J. (2020). We Are Data.: Algorithms and the Making of Our Digital Selves. New York University Press. https://doi.org/10.18574/nyu/9781479888702.001.0001"/>
+<meta name="citation_reference" content="Chun, W. H. K. (2016). Updating to Remain the Same: Habitual New Media. The MIT Press. https://doi.org/10.7551/mitpress/10483.001.0001"/>
+<meta name="citation_reference" content="Chun, W. H. K. (2021). Discriminating Data: Correlation, Neighborhoods, and the New Politics of Recognition. MIT Press."/>
+<meta name="citation_reference" content="Citton, Y. (2017). The Ecology of Attention. Polity Press."/>
+<meta name="citation_reference" content="Corzo-Zavaleta, J., Navarro-Castillo, Y., &amp; and Ugaz-Rivero, M. (2025). Uso de la inteligencia artificial en la educación universitaria: eExploración bibliométrica. Desde el Sur, 17(1), e0010. https://doi.org/10.21142/DES-1701-2025-0010"/>
+<meta name="citation_reference" content="Deleuze, G. (1994). Difference and Repetition (rev. ed.). Columbia University Press."/>
+<meta name="citation_reference" content="Deleuze, G., and&amp; Guattari, F. (1987). A Thousand Plateaus: Capitalism and Schizophrenia . (Vol. 2). University of Minnesota Press."/>
+<meta name="citation_reference" content="Descola, P. (2022). Beyond Nature and Culture . [(J. Lloyd, Trad.]). University of Chicago Press."/>
+<meta name="citation_reference" content="Floridi, L. (2014). The Fourth Revolution: How the Infosphere is Reshaping Human Reality. Oxford University Press."/>
+<meta name="citation_reference" content="Foucault, M. (1977). Discipline and punish: The birth of the prison. Pantheon Books."/>
+<meta name="citation_reference" content="Foucault, M. (1988). Technologies of the Self: A Seminar with Michel Foucault (L. H. Martin, H. Gutman, &amp; and P. H. Hutton, Eds.). University of Massachusetts Press."/>
+<meta name="citation_reference" content="Fricker, M. (2007). Epistemic injustice: Power and the ethics of knowing. Oxford University Press."/>
+<meta name="citation_reference" content="Gillespie, T. (2018). Custodians of the internet: Platforms, content moderation, and the hidden decisions that shape social media. Yale University Press."/>
+<meta name="citation_reference" content="Goldberg, S. C. (Ed.). (2007). Internalism and Externalism in Semantics and Epistemology. OUP Oxford."/>
+<meta name="citation_reference" content="Goriunova, O. (2019). The Digital Subject: People as Data as Persons. Theory, Culture &amp; Society, 36(6), 125-–145. https://doi.org/10.1177/0263276419840409"/>
+<meta name="citation_reference" content="Gunkel, D. J. (2020). An Introduction to Communication and Artificial Intelligence. Polity Press."/>
+<meta name="citation_reference" content="Han, B.-C. (2015). The Transparency Society. Stanford University Press."/>
+<meta name="citation_reference" content="Han, B.-C. (2024). The Crisis of Narration (D. Steuer, Trad.). Polity Press."/>
+<meta name="citation_reference" content="Harari, Y. N. (2018). 21 Lessons for the 21st Century: “«Truly Mind-Expanding... Ultra-Topical”» Guardian. Random House."/>
+<meta name="citation_reference" content="Hayles, N. K. (2017). Unthought: The Power of the Cognitive Nonconscious. University of Chicago Press."/>
+<meta name="citation_reference" content="Helanski, J. C. (2024). Digital images generated by Artificial Intelligence as ethnographic experimentation. Desde el Sur, 16(2), e0023. https://doi.org/10.21142/DES-1602-2024-0023"/>
+<meta name="citation_reference" content="Infinite Unreality. (2025, mayo 25). Video showing a woman attempting to board a plane with a baby kangaroo as an emotional support animal, created with AI. https://www.instagram.com/infiniteunreality/reel/DKFkqenMph3/"/>
+<meta name="citation_reference" content="James, W. (2008). Pragmatism: A New Name for Some Old Ways of Thinking. Cosimo, Inc."/>
+<meta name="citation_reference" content="Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux."/>
+<meta name="citation_reference" content="Latour, B. (2005). Reassembling the Social: An Introduction to Actor-Network-Theory. OUP Oxford."/>
+<meta name="citation_reference" content="Marcus, G., &amp; and Davis, E. (2019). Rebooting AI: Building Artificial Intelligence We Can Trust. Pantheon Books."/>
+<meta name="citation_reference" content="Massumi, B. (2002). Parables for the Virtual: Movement, Affect, Sensation. Duke University Press. https://doi.org/10.1215/9780822383574"/>
+<meta name="citation_reference" content="Mayring, P. (2014). Qualitative Content Analysis: Theoretical Foundation, Basic Procedures and Software Solution."/>
+<meta name="citation_reference" content="Medina, J. (2013). The epistemology of resistance. Oxford University Press."/>
+<meta name="citation_reference" content="Meyer, R. (2025). “«Platform Realism”». AI Image Synthesis and the Rise of Generic Visual Content. Transbordeur, 9. https://doi.org/10.4000/13dwq"/>
+<meta name="citation_reference" content="Miller, D., Costa, E., Haynes, N., McDonald, T., Nicolescu, R., Sinanan, J., Spyer, J., Venkatraman, S., &amp; and Wang, X. (2016). How the World Changed Social Media. (Vol. 1). UCL Press."/>
+<meta name="citation_reference" content="Murillo, A. (2020). Desconfianza, regímenes de verdad, conspiraciones y montajes en el contexto de la covid-19 en México. Desde el Sur, 12(2). https://doi.org/10.21142/DES-1202-2020-0030"/>
+<meta name="citation_reference" content="Papacharissi, Z. (2015). Affective Publics: Sentiment, Technology, and Politics. Oxford University Press."/>
+<meta name="citation_reference" content="Parikka, J. (2010). Insect Media: An Archaeology of Animals and Technology. (Vol. 11). U of Minnesota Press."/>
+<meta name="citation_reference" content="Pink, S., Horst, H., Postill, J., Hjorth, L., Lewis, T., &amp; and Tacchi, J. (2015). Digital Ethnography: Principles and Practice. SAGE."/>
+<meta name="citation_reference" content="Rancière, J. (2009). The Emancipated Spectator. [(G. Elliott, Trad.]). Verso."/>
+<meta name="citation_reference" content="Rouvroy, A., and&amp; Berns, T. (2013). Gouvernementalité algorithmique et perspectives d’émancipation: Le disparate comme condition d’individuation par la relation ? Réseaux, n° 177(1), 163-–196. https://doi.org/10.3917/res.177.0163"/>
+<meta name="citation_reference" content="Senft, T. M. (2013). Microcelebrity and the Branded Self. En J. Hartley, J. Burgess, and&amp; A. Bruns (Eds.), A Companion to New Media Dynamics . (1sta ed., pp. 346-–354). Wiley. https://doi.org/10.1002/9781118321607.ch22"/>
+<meta name="citation_reference" content="Steyerl, H. (2017). Duty Free Art: Art in the Age of Planetary Civil War. Verso Books."/>
+<meta name="citation_reference" content="Stiegler, B. (2010). Taking Care of Youth and the Generations. Stanford University Press."/>
+<meta name="citation_reference" content="Stiegler, B. (2018). The Neganthropocene. (D. Ross, Ed. y Trad.). Open Humanities Press."/>
+<meta name="citation_reference" content="Sunstein, C. R. (2018). #Republic: Divided Democracy in the Age of Social Media. Princeton University Press."/>
+<meta name="citation_reference" content="Tarski, A. (1944). The Semantic Conception of Truth: And the Foundations of Semantics. Philosophy and Phenomenological Research, 4(3), 341. https://doi.org/10.2307/2102968"/>
+<meta name="citation_reference" content="Taylor, C. (2004). Modern Social Imaginaries. Duke University Press."/>
+<meta name="citation_reference" content="Tversky, A., &amp; Kahneman, D. (1973). Availability: A heuristic for judging frequency and probability. Cognitive Psychology, 5(2), 207-–232. https://doi.org/10.1016/0010-0285(73)90033-9"/>
+<meta name="citation_reference" content="van Dijck, J. (2013). The Culture of Connectivity: A Critical History of Social Media. Oxford University Press, USA."/>
+<meta name="citation_reference" content="ŽižekZizek, S. (1989). The Sublime Object of Ideology. Verso."/>
+<meta name="citation_reference" content="ŽižekZizek, S. (1999). The Ticklish Subject: The Absent Centre of Political Ontology. Verso."/>
+<meta name="citation_reference" content="ŽižekZizek, S. (2016). Organs without Bodies: Deleuze and Consequences. (1sta ed.). Routledge. https://doi.org/10.4324/9780203699874"/>
+<meta name="citation_reference" content="Zuboff, S. (2019). The age of surveillance capitalism: The fight for a human future at the new frontier of power. PublicAffairs."/>
+	<link rel="stylesheet" href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/$$$call$$$/page/page/css?name=stylesheet" type="text/css" /><link rel="stylesheet" href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/$$$call$$$/page/page/css?name=font" type="text/css" /><link rel="stylesheet" href="https://revistas.cientifica.edu.pe/lib/pkp/styles/fontawesome/fontawesome.css?v=3.4.0.10" type="text/css" /><link rel="stylesheet" href="https://revistas.cientifica.edu.pe/plugins/generic/doiInSummary/styles/doi.css?v=3.4.0.10" type="text/css" /><link rel="stylesheet" href="https://revistas.cientifica.edu.pe/plugins/generic/citationStyleLanguage/css/citationStyleLanguagePlugin.css?v=3.4.0.10" type="text/css" />
+</head>
+<body class="pkp_page_article pkp_op_view has_site_logo" dir="ltr">
+
+	<div class="pkp_structure_page">
+
+				<header class="pkp_structure_head" id="headerNavigationContainer" role="banner">
+						
+ <nav class="cmp_skip_to_content" aria-label="Salta a los enlaces de contenido">
+	<a href="#pkp_content_main">Ir al contenido principal</a>
+	<a href="#siteNav">Ir al menú de navegación principal</a>
+		<a href="#pkp_content_footer">Ir al pie de página del sitio</a>
+</nav>
+
+			<div class="pkp_head_wrapper">
+
+				<div class="pkp_site_name_wrapper">
+					<button class="pkp_site_nav_toggle">
+						<span>Open Menu</span>
+					</button>
+										<div class="pkp_site_name">
+																<a href="						https://revistas.cientifica.edu.pe/index.php/desdeelsur/index
+					" class="is_img">
+							<img src="https://revistas.cientifica.edu.pe/public/journals/1/pageHeaderLogoImage_es_ES.png" width="1160" height="101" alt="Revista Desde el Sur" />
+						</a>
+										</div>
+				</div>
+
+				
+				<nav class="pkp_site_nav_menu" aria-label="Navegación del sitio">
+					<a id="siteNav"></a>
+					<div class="pkp_navigation_primary_row">
+						<div class="pkp_navigation_primary_wrapper">
+																				<ul id="navigationPrimary" class="pkp_navigation_primary pkp_nav_list">
+								<li class="">
+				<a href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/issue/current">
+					Actual
+				</a>
+							</li>
+								<li class="">
+				<a href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/issue/view/129">
+					Publicación anticipada
+				</a>
+							</li>
+								<li class="">
+				<a href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/issue/archive">
+					Archivos
+				</a>
+							</li>
+								<li class="">
+				<a href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/about">
+					Acerca de
+				</a>
+									<ul>
+																					<li class="">
+									<a href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/about">
+										Sobre la revista
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/about/editorialTeam">
+										Equipo editorial
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/editorial-policy">
+										Política Editorial
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/ethical-policies">
+										Normas éticas
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/editorial-standars">
+										Normas editoriales
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/privacy">
+										Declaración de privacidad
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/indexation">
+										Indexación
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/about/contact">
+										Contacto
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/noticias">
+										Noticias
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/reviewers">
+										Evaluadores (pares ciegos)
+									</a>
+								</li>
+																		</ul>
+							</li>
+								<li class="">
+				<a href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/about/submissions">
+					Envíos
+				</a>
+							</li>
+			</ul>
+
+				
+
+																						<div class="pkp_navigation_search_wrapper">
+									<a href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/search" class="pkp_search pkp_search_desktop">
+										<span class="fa fa-search" aria-hidden="true"></span>
+										Buscar
+									</a>
+								</div>
+													</div>
+					</div>
+					<div class="pkp_navigation_user_wrapper" id="navigationUserWrapper">
+							<ul id="navigationUser" class="pkp_navigation_user pkp_nav_list">
+								<li class="profile">
+				<a href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/user/register">
+					Registrarse
+				</a>
+							</li>
+								<li class="profile">
+				<a href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/login">
+					Entrar
+				</a>
+							</li>
+										</ul>
+
+					</div>
+				</nav>
+			</div><!-- .pkp_head_wrapper -->
+		</header><!-- .pkp_structure_head -->
+
+						<div class="pkp_structure_content has_sidebar">
+			<div class="pkp_structure_main" role="main">
+				<a id="pkp_content_main"></a>
+
+<div class="page page_article">
+			<nav class="cmp_breadcrumbs" role="navigation" aria-label="Usted está aquí:">
+	<ol>
+		<li>
+			<a href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/index">
+				Inicio
+			</a>
+			<span class="separator">/</span>
+		</li>
+		<li>
+			<a href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/issue/archive">
+				Archivos
+			</a>
+			<span class="separator">/</span>
+		</li>
+					<li>
+				<a href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/issue/view/DES-1704-2025">
+					Vol. 17 Núm. 4 (2025): Desinformación y Fake News en debate
+				</a>
+				<span class="separator">/</span>
+			</li>
+				<li class="current" aria-current="page">
+			<span aria-current="page">
+									Dossier
+							</span>
+		</li>
+	</ol>
+</nav>
+	
+		  	 <article class="obj_article_details">
+
+		
+	<h1 class="page_title">
+		Regímenes epistémicos de la cultura algorítmica y producción de verosimilitud sintética: aproximación teórico-crítica a la verdad digital
+	</h1>
+
+	
+	<div class="row">
+		<div class="main_entry">
+
+							<section class="item authors">
+					<h2 class="pkp_screen_reader">Autores/as</h2>
+					<ul class="authors">
+											<li>
+							<span class="name">
+								Fernando A. Ramos-Zaga
+							</span>
+															<span class="affiliation">
+									Universidad Privada del Norte, Lima, Perú
+																	</span>
+																																				<span class="orcid">
+																		<a href="https://orcid.org/0000-0001-6301-9460" target="_blank">
+										https://orcid.org/0000-0001-6301-9460
+									</a>
+								</span>
+													</li>
+											<li>
+							<span class="name">
+								Andherson J. Aguirre-Lanegra
+							</span>
+															<span class="affiliation">
+									Universidad Privada del Norte, Lima, Perú
+																	</span>
+																																				<span class="orcid">
+																		<a href="https://orcid.org/0009-0005-4201-1220" target="_blank">
+										https://orcid.org/0009-0005-4201-1220
+									</a>
+								</span>
+													</li>
+										</ul>
+				</section>
+			
+																	<section class="item doi">
+					<h2 class="label">
+												DOI:
+					</h2>
+					<span class="value">
+						<a href="https://doi.org/10.21142/DES-1704-2025-0081">
+							https://doi.org/10.21142/DES-1704-2025-0081
+						</a>
+					</span>
+				</section>
+			
+
+									<section class="item keywords">
+				<h2 class="label">
+										Palabras clave:
+				</h2>
+				<span class="value">
+											desinformación, 											epistemología, 											inteligencia artificial, 											medios electrónicos, 											sociedad de la información									</span>
+			</section>
+			
+										<section class="item abstract">
+					<h2 class="label">Resumen</h2>
+					<p>La proliferación exponencial de contenidos generados por inteligencia artificial ha redefinido la arquitectura epistémica de la cultura digital, al disolver las fronteras tradicionales entre verdad, falsedad y creencia. En ese sentido, el presente artículo tiene por objetivo proponer un marco teórico crítico para comprender los regímenes epistémicos emergentes de la cultura algorítmica, con especial atención a los procesos mediante los cuales la verosimilitud sintética es producida, legitimada y circulada en entornos mediados por inteligencia artificial. A partir de un diseño cualitativo, de carácter exploratorio-analítico, sustentado en un paradigma interpretativo y constructivista, los hallazgos evidencian que la creencia digital no se ancla en la validación empírica, sino en la convergencia entre resonancia emocional, familiaridad cultural y amplificación algorítmica. En conclusión, la restauración de la integridad epistémica en los entornos digitales requiere fomentar la alfabetización afectiva, la transparencia infraestructural y la reflexividad colectiva como componentes fundamentales de una gobernanza responsable del conocimiento.</p>
+				</section>
+			
+			
+
+										
+				<section class="item downloads_chart">
+					<h2 class="label">
+						Descargas
+					</h2>
+					<div class="value">
+						<canvas class="usageStatsGraph" data-object-type="Submission" data-object-id="2688"></canvas>
+						<div class="usageStatsUnavailable" data-object-type="Submission" data-object-id="2688">
+							Los datos de descarga aún no están disponibles.
+						</div>
+					</div>
+				</section>
+			
+																																																<section class="item author_bios">
+					<h2 class="label">
+													Biografía del autor/a
+											</h2>
+					<ul class="authors">
+																		<li class="sub_item">
+								<div class="label">
+																																							Fernando A. Ramos-Zaga,  Universidad Privada del Norte, Lima, Perú 
+																	</div>
+								<div class="value">
+									<p>Magíster en Gerencia Social y abogado. Se desempeña como investigador y docente en la Universidad Privada del Norte (Perú). Sus líneas de investigación son bioética, regulación de la tecnología y economía del comportamiento.</p>
+								</div>
+							</li>
+																								<li class="sub_item">
+								<div class="label">
+																																							Andherson J. Aguirre-Lanegra,  Universidad Privada del Norte, Lima, Perú 
+																	</div>
+								<div class="value">
+									<p>Investigador del grupo de investigación de la Universidad Privada del Norte (Perú), especializado en derecho digital, regulación, ética y filosofía del derecho.</p>
+								</div>
+							</li>
+																</ul>
+				</section>
+			
+										<section class="item references">
+					<h2 class="label">
+						Referencias
+					</h2>
+					<div class="value">
+																					<p>Ahern, S. (2024). Affect Theory and Literary Criticism. Emotion Review, 16(2), 96-–106. <a href="https://doi.org/10.1177/17540739241231934">https://doi.org/10.1177/17540739241231934</a> </p>
+															<p>Amoore, L. (2020). Cloud Ethics: Algorithms and the Attributes of Ourselves and Others. Duke University Press. <a href="https://doi.org/10.1215/9781478009276">https://doi.org/10.1215/9781478009276</a> </p>
+															<p>Ayala, J., Arcila, S. and, &amp; Filinich, R. (2023). Tecnopolíticas contemporáneas: Inteligencia artificial, algoritmos y biotecnología. Desde el Sur, 15(2), e0016. <a href="https://doi.org/10.21142/DES-1502-2023-0016">https://doi.org/10.21142/DES-1502-2023-0016</a> </p>
+															<p>Barad, K. (2006). Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning. Duke University Press. <a href="https://doi.org/10.1215/9780822388128">https://doi.org/10.1215/9780822388128</a> </p>
+															<p>Baudrillard, J. (1994). Simulacra and Simulation. University of Michigan Press. </p>
+															<p>Benamo, M. E. (2023). A.I. don’t care: Aportes de la filosofía feminista de la tecnología para la Bioética cibernética. Desde el Sur, 15(2), 0022. <a href="https://doi.org/10.21142/DES-1502-2023-0022">https://doi.org/10.21142/DES-1502-2023-0022</a> </p>
+															<p>Berger, J. (1980). About Looking. Writers and Readers. </p>
+															<p>Boellstorff, T. (2015). Coming of Age in Second Life: An Anthropologist Explores the Virtually Human (rev. ed.). Princeton University Press. </p>
+															<p>Bucher, T. (2018). If ... Then: Algorithmic Power and Politics. Oxford University Press. </p>
+															<p>Butler, J. (2011). Bodies That Matter.: On the Discursive Limits of Sex . (1st0 ed.). Routledge. <a href="https://doi.org/10.4324/9780203828274">https://doi.org/10.4324/9780203828274</a> </p>
+															<p>Chalmers, D. J. (2022). Reality+: Virtual Worlds and the Problems of Philosophy. W. W. Norton &amp; Company. </p>
+															<p>Cheney-Lippold, J. (2020). We Are Data.: Algorithms and the Making of Our Digital Selves. New York University Press. <a href="https://doi.org/10.18574/nyu/9781479888702.001.0001">https://doi.org/10.18574/nyu/9781479888702.001.0001</a> </p>
+															<p>Chun, W. H. K. (2016). Updating to Remain the Same: Habitual New Media. The MIT Press. <a href="https://doi.org/10.7551/mitpress/10483.001.0001">https://doi.org/10.7551/mitpress/10483.001.0001</a> </p>
+															<p>Chun, W. H. K. (2021). Discriminating Data: Correlation, Neighborhoods, and the New Politics of Recognition. MIT Press. </p>
+															<p>Citton, Y. (2017). The Ecology of Attention. Polity Press. </p>
+															<p>Corzo-Zavaleta, J., Navarro-Castillo, Y., &amp; and Ugaz-Rivero, M. (2025). Uso de la inteligencia artificial en la educación universitaria: eExploración bibliométrica. Desde el Sur, 17(1), e0010. <a href="https://doi.org/10.21142/DES-1701-2025-0010">https://doi.org/10.21142/DES-1701-2025-0010</a> </p>
+															<p>Deleuze, G. (1994). Difference and Repetition (rev. ed.). Columbia University Press. </p>
+															<p>Deleuze, G., and&amp; Guattari, F. (1987). A Thousand Plateaus: Capitalism and Schizophrenia . (Vol. 2). University of Minnesota Press. </p>
+															<p>Descola, P. (2022). Beyond Nature and Culture . [(J. Lloyd, Trad.]). University of Chicago Press. </p>
+															<p>Floridi, L. (2014). The Fourth Revolution: How the Infosphere is Reshaping Human Reality. Oxford University Press. </p>
+															<p>Foucault, M. (1977). Discipline and punish: The birth of the prison. Pantheon Books. </p>
+															<p>Foucault, M. (1988). Technologies of the Self: A Seminar with Michel Foucault (L. H. Martin, H. Gutman, &amp; and P. H. Hutton, Eds.). University of Massachusetts Press. </p>
+															<p>Fricker, M. (2007). Epistemic injustice: Power and the ethics of knowing. Oxford University Press. </p>
+															<p>Gillespie, T. (2018). Custodians of the internet: Platforms, content moderation, and the hidden decisions that shape social media. Yale University Press. </p>
+															<p>Goldberg, S. C. (Ed.). (2007). Internalism and Externalism in Semantics and Epistemology. OUP Oxford. </p>
+															<p>Goriunova, O. (2019). The Digital Subject: People as Data as Persons. Theory, Culture &amp; Society, 36(6), 125-–145. <a href="https://doi.org/10.1177/0263276419840409">https://doi.org/10.1177/0263276419840409</a> </p>
+															<p>Gunkel, D. J. (2020). An Introduction to Communication and Artificial Intelligence. Polity Press. </p>
+															<p>Han, B.-C. (2015). The Transparency Society. Stanford University Press. </p>
+															<p>Han, B.-C. (2024). The Crisis of Narration (D. Steuer, Trad.). Polity Press. </p>
+															<p>Harari, Y. N. (2018). 21 Lessons for the 21st Century: “«Truly Mind-Expanding... Ultra-Topical”» Guardian. Random House. </p>
+															<p>Hayles, N. K. (2017). Unthought: The Power of the Cognitive Nonconscious. University of Chicago Press. </p>
+															<p>Helanski, J. C. (2024). Digital images generated by Artificial Intelligence as ethnographic experimentation. Desde el Sur, 16(2), e0023. <a href="https://doi.org/10.21142/DES-1602-2024-0023">https://doi.org/10.21142/DES-1602-2024-0023</a> </p>
+															<p>Infinite Unreality. (2025, mayo 25). Video showing a woman attempting to board a plane with a baby kangaroo as an emotional support animal, created with AI. <a href="https://www.instagram.com/infiniteunreality/reel/DKFkqenMph3/">https://www.instagram.com/infiniteunreality/reel/DKFkqenMph3/</a> </p>
+															<p>James, W. (2008). Pragmatism: A New Name for Some Old Ways of Thinking. Cosimo, Inc. </p>
+															<p>Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux. </p>
+															<p>Latour, B. (2005). Reassembling the Social: An Introduction to Actor-Network-Theory. OUP Oxford. </p>
+															<p>Marcus, G., &amp; and Davis, E. (2019). Rebooting AI: Building Artificial Intelligence We Can Trust. Pantheon Books. </p>
+															<p>Massumi, B. (2002). Parables for the Virtual: Movement, Affect, Sensation. Duke University Press. <a href="https://doi.org/10.1215/9780822383574">https://doi.org/10.1215/9780822383574</a> </p>
+															<p>Mayring, P. (2014). Qualitative Content Analysis: Theoretical Foundation, Basic Procedures and Software Solution. </p>
+															<p>Medina, J. (2013). The epistemology of resistance. Oxford University Press. </p>
+															<p>Meyer, R. (2025). “«Platform Realism”». AI Image Synthesis and the Rise of Generic Visual Content. Transbordeur, 9. <a href="https://doi.org/10.4000/13dwq">https://doi.org/10.4000/13dwq</a> </p>
+															<p>Miller, D., Costa, E., Haynes, N., McDonald, T., Nicolescu, R., Sinanan, J., Spyer, J., Venkatraman, S., &amp; and Wang, X. (2016). How the World Changed Social Media. (Vol. 1). UCL Press. </p>
+															<p>Murillo, A. (2020). Desconfianza, regímenes de verdad, conspiraciones y montajes en el contexto de la covid-19 en México. Desde el Sur, 12(2). <a href="https://doi.org/10.21142/DES-1202-2020-0030">https://doi.org/10.21142/DES-1202-2020-0030</a> </p>
+															<p>Papacharissi, Z. (2015). Affective Publics: Sentiment, Technology, and Politics. Oxford University Press. </p>
+															<p>Parikka, J. (2010). Insect Media: An Archaeology of Animals and Technology. (Vol. 11). U of Minnesota Press. </p>
+															<p>Pink, S., Horst, H., Postill, J., Hjorth, L., Lewis, T., &amp; and Tacchi, J. (2015). Digital Ethnography: Principles and Practice. SAGE. </p>
+															<p>Rancière, J. (2009). The Emancipated Spectator. [(G. Elliott, Trad.]). Verso. </p>
+															<p>Rouvroy, A., and&amp; Berns, T. (2013). Gouvernementalité algorithmique et perspectives d’émancipation: Le disparate comme condition d’individuation par la relation ? Réseaux, n° 177(1), 163-–196. <a href="https://doi.org/10.3917/res.177.0163">https://doi.org/10.3917/res.177.0163</a> </p>
+															<p>Senft, T. M. (2013). Microcelebrity and the Branded Self. En J. Hartley, J. Burgess, and&amp; A. Bruns (Eds.), A Companion to New Media Dynamics . (1sta ed., pp. 346-–354). Wiley. <a href="https://doi.org/10.1002/9781118321607.ch22">https://doi.org/10.1002/9781118321607.ch22</a> </p>
+															<p>Steyerl, H. (2017). Duty Free Art: Art in the Age of Planetary Civil War. Verso Books. </p>
+															<p>Stiegler, B. (2010). Taking Care of Youth and the Generations. Stanford University Press. </p>
+															<p>Stiegler, B. (2018). The Neganthropocene. (D. Ross, Ed. y Trad.). Open Humanities Press. </p>
+															<p>Sunstein, C. R. (2018). #Republic: Divided Democracy in the Age of Social Media. Princeton University Press. </p>
+															<p>Tarski, A. (1944). The Semantic Conception of Truth: And the Foundations of Semantics. Philosophy and Phenomenological Research, 4(3), 341. <a href="https://doi.org/10.2307/2102968">https://doi.org/10.2307/2102968</a> </p>
+															<p>Taylor, C. (2004). Modern Social Imaginaries. Duke University Press. </p>
+															<p>Tversky, A., &amp; Kahneman, D. (1973). Availability: A heuristic for judging frequency and probability. Cognitive Psychology, 5(2), 207-–232. <a href="https://doi.org/10.1016/0010-0285(73)90033-9">https://doi.org/10.1016/0010-0285(73)90033-9</a> </p>
+															<p>van Dijck, J. (2013). The Culture of Connectivity: A Critical History of Social Media. Oxford University Press, USA. </p>
+															<p>ŽižekZizek, S. (1989). The Sublime Object of Ideology. Verso. </p>
+															<p>ŽižekZizek, S. (1999). The Ticklish Subject: The Absent Centre of Political Ontology. Verso. </p>
+															<p>ŽižekZizek, S. (2016). Organs without Bodies: Deleuze and Consequences. (1sta ed.). Routledge. <a href="https://doi.org/10.4324/9780203699874">https://doi.org/10.4324/9780203699874</a> </p>
+															<p>Zuboff, S. (2019). The age of surveillance capitalism: The fight for a human future at the new frontier of power. PublicAffairs. </p>
+																		</div>
+				</section>
+			
+		</div><!-- .main_entry -->
+
+		<div class="entry_details">
+
+										<div class="item cover_image">
+					<div class="sub_item">
+													<a href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/issue/view/DES-1704-2025">
+								<img src="https://revistas.cientifica.edu.pe/public/journals/1/cover_issue_114_es.jpg" alt="">
+							</a>
+											</div>
+				</div>
+			
+										<div class="item galleys">
+					<h2 class="pkp_screen_reader">
+						Descargas
+					</h2>
+					<ul class="value galleys_links">
+													<li>
+								
+	
+													
+
+<a class="obj_galley_link pdf" href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/article/view/2688/DES-1704-2025-0081">
+		
+	PDF
+
+	</a>
+							</li>
+											</ul>
+				</div>
+						
+						<div class="item published">
+				<section class="sub_item">
+					<h2 class="label">
+						Publicado
+					</h2>
+					<div class="value">
+																			<span>2025-12-22</span>
+																	</div>
+				</section>
+							</div>
+			
+						
+										<div class="item issue">
+
+											<section class="sub_item">
+							<h2 class="label">
+								Número
+							</h2>
+							<div class="value">
+								<a class="title" href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/issue/view/DES-1704-2025">
+									Vol. 17 Núm. 4 (2025): Desinformación y Fake News en debate
+								</a>
+							</div>
+						</section>
+					
+											<section class="sub_item">
+							<h2 class="label">
+								Sección
+							</h2>
+							<div class="value">
+								Dossier
+							</div>
+						</section>
+					
+									</div>
+			
+																					
+										<div class="item copyright">
+					<h2 class="label">
+						Licencia
+					</h2>
+										<p><img src="http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" alt="Creative Commons License"><br>Esta obra está bajo una licencia http://creativecommons.org/licenses/by-nc-sa/4.0/</p>
+				</div>
+			
+				<div class="item citation">
+		<section class="sub_item citation_display">
+			<h2 class="label">
+				Cómo citar
+			</h2>
+			<div class="value">
+				<div id="citationOutput" role="region" aria-live="polite">
+					<div class="csl-bib-body">
+  <div class="csl-entry">Regímenes epistémicos de la cultura algorítmica y producción de verosimilitud sintética: aproximación teórico-crítica a la verdad digital. (2025). <i>Desde El Sur</i>, <i>17</i>(4), e0081. <a href="https://doi.org/10.21142/DES-1704-2025-0081">https://doi.org/10.21142/DES-1704-2025-0081</a></div>
+</div>
+				</div>
+				<div class="citation_formats">
+					<button class="citation_formats_button label" aria-controls="cslCitationFormats" aria-expanded="false" data-csl-dropdown="true">
+						Más formatos de cita
+					</button>
+					<div id="cslCitationFormats" class="citation_formats_list" aria-hidden="true">
+						<ul class="citation_formats_styles">
+															<li>
+									<a
+											rel="nofollow"
+											aria-controls="citationOutput"
+											href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/citationstylelanguage/get/acm-sig-proceedings?submissionId=2688&amp;publicationId=2396&amp;issueId=114"
+											data-load-citation
+											data-json-href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/citationstylelanguage/get/acm-sig-proceedings?submissionId=2688&amp;publicationId=2396&amp;issueId=114&amp;return=json"
+									>
+										ACM
+									</a>
+								</li>
+															<li>
+									<a
+											rel="nofollow"
+											aria-controls="citationOutput"
+											href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/citationstylelanguage/get/acs-nano?submissionId=2688&amp;publicationId=2396&amp;issueId=114"
+											data-load-citation
+											data-json-href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/citationstylelanguage/get/acs-nano?submissionId=2688&amp;publicationId=2396&amp;issueId=114&amp;return=json"
+									>
+										ACS
+									</a>
+								</li>
+															<li>
+									<a
+											rel="nofollow"
+											aria-controls="citationOutput"
+											href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/citationstylelanguage/get/apa?submissionId=2688&amp;publicationId=2396&amp;issueId=114"
+											data-load-citation
+											data-json-href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/citationstylelanguage/get/apa?submissionId=2688&amp;publicationId=2396&amp;issueId=114&amp;return=json"
+									>
+										APA
+									</a>
+								</li>
+															<li>
+									<a
+											rel="nofollow"
+											aria-controls="citationOutput"
+											href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=2688&amp;publicationId=2396&amp;issueId=114"
+											data-load-citation
+											data-json-href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=2688&amp;publicationId=2396&amp;issueId=114&amp;return=json"
+									>
+										ABNT
+									</a>
+								</li>
+															<li>
+									<a
+											rel="nofollow"
+											aria-controls="citationOutput"
+											href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/citationstylelanguage/get/chicago-author-date?submissionId=2688&amp;publicationId=2396&amp;issueId=114"
+											data-load-citation
+											data-json-href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/citationstylelanguage/get/chicago-author-date?submissionId=2688&amp;publicationId=2396&amp;issueId=114&amp;return=json"
+									>
+										Chicago
+									</a>
+								</li>
+															<li>
+									<a
+											rel="nofollow"
+											aria-controls="citationOutput"
+											href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/citationstylelanguage/get/harvard-cite-them-right?submissionId=2688&amp;publicationId=2396&amp;issueId=114"
+											data-load-citation
+											data-json-href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/citationstylelanguage/get/harvard-cite-them-right?submissionId=2688&amp;publicationId=2396&amp;issueId=114&amp;return=json"
+									>
+										Harvard
+									</a>
+								</li>
+															<li>
+									<a
+											rel="nofollow"
+											aria-controls="citationOutput"
+											href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/citationstylelanguage/get/ieee?submissionId=2688&amp;publicationId=2396&amp;issueId=114"
+											data-load-citation
+											data-json-href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/citationstylelanguage/get/ieee?submissionId=2688&amp;publicationId=2396&amp;issueId=114&amp;return=json"
+									>
+										IEEE
+									</a>
+								</li>
+															<li>
+									<a
+											rel="nofollow"
+											aria-controls="citationOutput"
+											href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/citationstylelanguage/get/modern-language-association?submissionId=2688&amp;publicationId=2396&amp;issueId=114"
+											data-load-citation
+											data-json-href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/citationstylelanguage/get/modern-language-association?submissionId=2688&amp;publicationId=2396&amp;issueId=114&amp;return=json"
+									>
+										MLA
+									</a>
+								</li>
+															<li>
+									<a
+											rel="nofollow"
+											aria-controls="citationOutput"
+											href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=2688&amp;publicationId=2396&amp;issueId=114"
+											data-load-citation
+											data-json-href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=2688&amp;publicationId=2396&amp;issueId=114&amp;return=json"
+									>
+										Turabian
+									</a>
+								</li>
+															<li>
+									<a
+											rel="nofollow"
+											aria-controls="citationOutput"
+											href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/citationstylelanguage/get/vancouver?submissionId=2688&amp;publicationId=2396&amp;issueId=114"
+											data-load-citation
+											data-json-href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/citationstylelanguage/get/vancouver?submissionId=2688&amp;publicationId=2396&amp;issueId=114&amp;return=json"
+									>
+										Vancouver
+									</a>
+								</li>
+													</ul>
+													<div class="label">
+								Descargar cita
+							</div>
+							<ul class="citation_formats_styles">
+																	<li>
+										<a href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/citationstylelanguage/download/ris?submissionId=2688&amp;publicationId=2396&amp;issueId=114">
+											<span class="fa fa-download"></span>
+											Endnote/Zotero/Mendeley (RIS)
+										</a>
+									</li>
+																	<li>
+										<a href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/citationstylelanguage/download/bibtex?submissionId=2688&amp;publicationId=2396&amp;issueId=114">
+											<span class="fa fa-download"></span>
+											BibTeX
+										</a>
+									</li>
+															</ul>
+											</div>
+				</div>
+			</div>
+		</section>
+	</div>
+
+
+		</div><!-- .entry_details -->
+	</div><!-- .row -->
+
+</article>
+
+	<div id="articlesBySameAuthorList">
+				</div>
+
+
+</div><!-- .page -->
+
+	</div><!-- pkp_structure_main -->
+
+									<div class="pkp_structure_sidebar left" role="complementary">
+				<div class="pkp_block block_make_submission">
+	<h2 class="pkp_screen_reader">
+		Enviar un artículo
+	</h2>
+
+	<div class="content">
+		<a class="block_make_submission_link" href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/about/submissions">
+			Enviar un artículo
+		</a>
+	</div>
+</div>
+<div class="pkp_block block_language">
+	<h2 class="title">
+		Idioma
+	</h2>
+
+	<div class="content">
+		<ul>
+							<li class="locale_en" lang="en">
+					<a href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/user/setLocale/en?source=%2Findex.php%2Fdesdeelsur%2Farticle%2Fview%2F2688">
+						English
+					</a>
+				</li>
+							<li class="locale_es current" lang="es">
+					<a href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/user/setLocale/es?source=%2Findex.php%2Fdesdeelsur%2Farticle%2Fview%2F2688">
+						Español
+					</a>
+				</li>
+							<li class="locale_pt_BR" lang="pt-BR">
+					<a href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/user/setLocale/pt_BR?source=%2Findex.php%2Fdesdeelsur%2Farticle%2Fview%2F2688">
+						Português
+					</a>
+				</li>
+					</ul>
+	</div>
+</div><!-- .block_language -->
+<div class="pkp_block block_custom" id="customblock-indexation">
+	<h2 class="title pkp_screen_reader">indexation</h2>
+	<div class="content">
+		<p><img src="/public/site/images/webmaster/INDEAXCION2.png"></p>
+<p><a title="SCImago Journal &amp; Country Rank" href="https://www.scimagojr.com/journalsearch.php?q=21101233761&amp;tip=sid&amp;exact=no"><img src="https://www.scimagojr.com/journal_img.php?id=21101233761" alt="SCImago Journal &amp; Country Rank" border="0"></a></p>
+<p>&nbsp;</p>
+<p><a title="Scopus" href="https://www.scopus.com/results/results.uri?sort=plf-f&amp;src=s&amp;st1=%22desde+el+sur%22&amp;sid=5577c70216ea4888b985a0867aa20f49&amp;sot=b&amp;sdt=b&amp;sl=24&amp;s=SRCTITLE%28%22desde+el+sur%22%29&amp;origin=searchbasic&amp;editSaveSearch=&amp;yearFrom=Before+1960&amp;yearTo=Present&amp;sessionSearchId=5577c70216ea4888b985a0867aa20f49&amp;limit=10"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Scopus_logo.svg/1200px-Scopus_logo.svg.png" alt="File:Scopus logo.svg - Wikipedia" width="135" height="43"></a></p>
+<div style="height: 100px; width: 180px; font-family: Arial, Verdana, helvetica, sans-serif; background-color: #ffffff; display: inline-block;">
+<div style="padding: 0px 16px;">
+<div style="padding-top: 3px; line-height: 1;">
+<div style="float: left; font-size: 28px;"><span id="citescoreVal" style="letter-spacing: -2px; display: inline-block; padding-top: 7px; line-height: .75;">0.7</span></div>
+<div style="float: right; font-size: 14px; padding-top: 3px; text-align: right;"><span id="citescoreYearVal" style="display: block;">2024</span>CiteScore</div>
+</div>
+<div style="clear: both;">&nbsp;</div>
+<div style="padding-top: 3px;">
+<div style="height: 4px; background-color: #dcdcdc;">
+<div id="percentActBar" style="height: 4px; background-color: #0056d6;"></div>
+</div>
+<div style="font-size: 11px;"><span id="citescorePerVal">64th percentile</span></div>
+</div>
+<div style="font-size: 12px; text-align: right;">Powered by &nbsp;<img style="width: 50px; height: 15px;" src="https://www.scopus.com/static/images/scopusLogoOrange.svg" alt="Scopus"></div>
+</div>
+</div>
+<p><a href="http://www.scielo.org.pe/scielo.php?script=sci_serial&amp;pid=2415-0959&amp;lng=es&amp;nrm=iso"><img src="/public/site/images/webmaster/SCIELO2.jpg"></a></p>
+<p><a title="Latindex" href="https://latindex.org/latindex/ficha/20780" target="_blank" rel="noopener"><img src="/public/site/images/webmaster/LATINDEX1.jpg"></a></p>
+<p><a href="https://doaj.org/toc/2415-0959?source=%7B%22query%22%3A%7B%22filtered%22%3A%7B%22filter%22%3A%7B%22bool%22%3A%7B%22must%22%3A%5B%7B%22terms%22%3A%7B%22index.issn.exact%22%3A%5B%222076-2674%22%2C%222415-0959%22%5D%7D%7D%2C%7B%22term%22%3A%7B%22_type%22%3A%22article%22%7D%7D%5D%7D%7D%2C%22query%22%3A%7B%22match_all%22%3A%7B%7D%7D%7D%7D%2C%22size%22%3A100%2C%22_source%22%3A%7B%7D%7D"><img src="/public/site/images/webmaster/DOAJ1.jpg"></a></p>
+<p><a href="https://miar.ub.edu/indizadaen/2076-2674/erihplus"><img src="/public/site/images/webmaster/Erih_lateral1.png"></a></p>
+<p><a href="https://clase.dgb.unam.mx/F/7M9BXRCH49DMMJ2PIC4YFSRP25D6NPBH5SXB862L57U1D32D41-14709?func=find-acc&amp;acc_sequence=000840528"><img src="/public/site/images/webmaster/CLASE_FINAL.png"></a></p>
+<p><a href="https://www.redib.org/Record/oai_revista5479-desde-el-sur"><img src="/public/site/images/webmaster/REDIB_CENTRO1.jpg"></a></p>
+<p><a href="https://latinrev.flacso.org.ar/revistas/desde-sur"><img src="/public/site/images/webmaster/latinrev_lateral.png"></a></p>
+<p><a href="https://miar.ub.edu/issn/2076-2674"><img src="/public/site/images/webmaster/MIARr1.png"></a></p>
+<p><a href="https://app.dimensions.ai/discover/publication?search_mode=content&amp;and_facet_source_title=jour.1146909"><img src="/public/site/images/webmaster/DIMENSIONS_lateral5.png"></a></p>
+<p><a href="https://search.crossref.org/search/works?q=2415-0959&amp;from_ui=yes"><img src="/public/site/images/webmaster/CROSSREF_LATERAL2.png"></a></p>
+<p><a href="https://scholar.google.com/scholar?as_q=&amp;as_epq=&amp;as_oq=&amp;as_eq=&amp;as_occt=any&amp;as_sauthors=&amp;as_publication=desde+el+sur&amp;as_ylo=&amp;as_yhi=&amp;hl=es&amp;as_sdt=0%2C5"><img src="/public/site/images/webmaster/Google_Scholar_final3.png"></a></p>
+	</div>
+</div>
+<div class="pkp_block block_custom" id="customblock-redes">
+	<h2 class="title pkp_screen_reader">redes</h2>
+	<div class="content">
+		<p><img src="/public/site/images/webmaster/Redes_sociales1.png"></p>
+<p><a href="https://www.facebook.com/desdeelsurcientifica/"><img src="/public/site/images/webmaster/FB1.png"></a></p>
+<p><a href="https://twitter.com/DesdeelSurUCSUR"><img src="/public/site/images/webmaster/Twitter_1.png"></a></p>
+	</div>
+</div>
+<div class="pkp_block block_custom" id="customblock-estadisticas">
+	<h2 class="title">Estadisticas</h2>
+	<div class="content">
+		<p>&nbsp;</p>
+<p><a title="Estadísticas" href="https://revistas.cientifica.edu.pe/aws/awstats.pl?config=desdeelsur" target="_blank" rel="noopener"><img src="/public/site/images/webmaster/estadistica7.jpg"></a></p>
+	</div>
+</div>
+
+			</div><!-- pkp_sidebar.left -->
+			</div><!-- pkp_structure_content -->
+
+<div class="pkp_structure_footer_wrapper" role="contentinfo">
+	<a id="pkp_content_footer"></a>
+
+	<div class="pkp_structure_footer">
+
+					<div class="pkp_footer_content">
+				<p><img src="http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" alt="Creative Commons License"><br>Este obra está bajo una licencia:&nbsp;<a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener">http://creativecommons.org/licenses/by-nc-sa/4.0/</a></p>
+<p>ISSN Impreso&nbsp;2076-2674<br>ISSN En línea 2415-0959</p>
+<p>Panamericana Sur Km 19, Villa. Lima, Perú<br>Central: T(511) 610-6400</p>
+			</div>
+		
+		<div class="pkp_brand_footer">
+			<a href="https://revistas.cientifica.edu.pe/index.php/desdeelsur/about/aboutThisPublishingSystem">
+				<img alt="Más información acerca del sistema de publicación, de la plataforma y del flujo de trabajo de OJS/PKP." src="https://revistas.cientifica.edu.pe/templates/images/ojs_brand.png">
+			</a>
+		</div>
+	</div>
+</div><!-- pkp_structure_footer_wrapper -->
+
+</div><!-- pkp_structure_page -->
+
+<script src="https://revistas.cientifica.edu.pe/lib/pkp/lib/vendor/components/jquery/jquery.min.js?v=3.4.0.10" type="text/javascript"></script><script src="https://revistas.cientifica.edu.pe/lib/pkp/lib/vendor/components/jqueryui/jquery-ui.min.js?v=3.4.0.10" type="text/javascript"></script><script src="https://revistas.cientifica.edu.pe/plugins/themes/default/js/lib/popper/popper.js?v=3.4.0.10" type="text/javascript"></script><script src="https://revistas.cientifica.edu.pe/plugins/themes/default/js/lib/bootstrap/util.js?v=3.4.0.10" type="text/javascript"></script><script src="https://revistas.cientifica.edu.pe/plugins/themes/default/js/lib/bootstrap/dropdown.js?v=3.4.0.10" type="text/javascript"></script><script src="https://revistas.cientifica.edu.pe/plugins/themes/default/js/main.js?v=3.4.0.10" type="text/javascript"></script><script src="https://revistas.cientifica.edu.pe/plugins/generic/citationStyleLanguage/js/articleCitation.js?v=3.4.0.10" type="text/javascript"></script><script type="text/javascript">var pkpUsageStats = pkpUsageStats || {};pkpUsageStats.data = pkpUsageStats.data || {};pkpUsageStats.data.Submission = pkpUsageStats.data.Submission || {};pkpUsageStats.data.Submission[2688] = {"data":{"2025":{"12":9},"2026":{"1":31,"2":14,"3":24,"4":17,"5":15,"6":19,"7":10,"8":18,"9":14}},"label":"Todas las descargas","color":"79,181,217","total":171};</script><script src="https://revistas.cientifica.edu.pe/lib/pkp/js/lib/Chart.min.js?v=3.4.0.10" type="text/javascript"></script><script type="text/javascript">var pkpUsageStats = pkpUsageStats || {};pkpUsageStats.locale = pkpUsageStats.locale || {};pkpUsageStats.locale.months = ["Ene","Feb","Mar","Abr","May","Jun","Jul","Ago","Sep","Oct","Nov","Dic"];pkpUsageStats.config = pkpUsageStats.config || {};pkpUsageStats.config.chartType = "bar";</script><script src="https://revistas.cientifica.edu.pe/lib/pkp/js/usage-stats-chart.js?v=3.4.0.10" type="text/javascript"></script><script type="text/javascript">
+(function (w, d, s, l, i) { w[l] = w[l] || []; var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true;
+j.src = 'https://www.googletagmanager.com/gtag/js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+function gtag(){dataLayer.push(arguments)}; gtag('js', new Date()); gtag('config', i); })
+(window, document, 'script', 'dataLayer', 'UA-79679802-2');
+</script>
+
+
+</body>
+</html>

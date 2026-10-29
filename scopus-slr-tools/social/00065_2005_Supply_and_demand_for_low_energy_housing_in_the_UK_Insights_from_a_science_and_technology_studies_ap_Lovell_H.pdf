@@ -1,0 +1,799 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en" class="nexus-font-support">
+
+
+<head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta name="google" content="nositelinkssearchbox"/>
+    <meta name="tdm-reservation" content="0">
+    <title>
+        Supply and demand for low energy housing in the UK: insights from a science and technology studies approach
+      -  University of Edinburgh Research Explorer</title>
+    
+    
+    
+
+
+
+<meta property="og:site_name" content="University of Edinburgh Research Explorer">
+
+
+    <meta property="og:title" content="Supply and demand for low energy housing in the UK: insights from a science and technology studies approach"/>
+
+
+<meta property="og:url" content="https://www.research.ed.ac.uk/en/publications/supply-and-demand-for-low-energy-housing-in-the-uk-insights-from-/">
+<meta property="og:locale" content="en_GB">
+
+
+
+
+    
+        <meta property="og:image" content="https://www.research.ed.ac.uk/skin/headerImage/">
+    
+
+
+
+
+    
+        <meta property="og:type" content="article">
+    
+
+    
+
+    
+
+
+    <link rel="stylesheet" href="/assets/application-d8c4196ba42289b701050fcf209ab3eb.css" />
+    
+    
+    <link href="/skin/css/" rel="stylesheet"/>
+    
+    <script src="/skin/script/" type="text/javascript"></script>
+    <script type="text/javascript" src="/assets/application-d9c3c96b32ee7877543159e1191a25d2.js" ></script>
+    <!--[if lt IE 9]>
+    <script type="text/javascript" src="/assets/html5shiv.min-ca5300beead9a4a9d2c9c584a9016410.js" ></script>
+    <script type="text/javascript" src="/assets/respond.min-678d372b349e434d9923e1b591f14a1e.js" ></script>
+    <![endif]-->
+    
+        
+        
+        <meta name="citation_title" content="Supply and demand for low energy housing in the UK: insights from a science and technology studies approach"></meta><meta name="citation_author" content="Heather Lovell"></meta><meta name="citation_author_institution" content="School of GeoSciences"></meta><meta name="citation_publication_date" content="2005"></meta><meta name="citation_pdf_url" content="https://www.research.ed.ac.uk/files/11098362/PDF_SupplyandDemand2005.pdf"></meta><meta name="citation_online_date" content="2015/12/08"></meta><meta name="citation_doi" content="10.1080/02673030500214118"></meta><meta name="citation_language" content="English"></meta><meta name="citation_journal_title" content="Housing Studies"></meta><meta name="citation_issn" content="0267-3037"></meta><meta name="citation_publisher" content="Routledge"></meta><meta name="citation_volume" content="20"></meta><meta name="citation_issue" content="5"></meta><meta name="citation_firstpage" content="815"></meta><meta name="citation_lastpage" content="829"></meta>
+        <script src="/assets/Chart.min-27bff060c3e539ceb22e763c8f2e9e10.js"></script>
+        <script src="/assets/jquery.content-chart-9c09bb79ba3fc3829b6478d0e114f737.js"></script>
+        
+    
+    
+    <!-- Google Analytics: No account ID (G) found -->
+    <script src="//assets.adobedtm.com/4a848ae9611a/ea83f870454d/launch-af020409b299.min.js" async=""></script>
+    
+    
+</head>
+
+<body class="" data-page="publications">
+
+<div id="aria-polite" aria-live="polite"></div>
+<div id="aria-assertive" aria-live="assertive"></div>
+
+<a href="#main-navigation" class="sr-only sr-only-focusable">Skip to main navigation</a>
+
+    <a href="#main-search" class="sr-only sr-only-focusable">Skip to search</a>
+
+<a href="#main-content" class="sr-only sr-only-focusable">Skip to main content</a>
+
+
+
+
+
+
+
+    <header class="header" id="page-header">
+        <div class="primary  ">
+            <div class="container">
+                
+                <a href="/en/" class="logo">
+                    
+                        <span class="sr-only">University of Edinburgh Research Explorer Home</span>
+                        <img src="/skin/headerImage/" alt="University of Edinburgh Research Explorer Logo"/>
+                    
+                </a>
+                
+                    <ul class="header-tools ">
+                        
+                            <li class="help-and-faq">
+                                <a href="https://library.ed.ac.uk/research-support/research-information-management/pure" target="_blank">
+                                    <i class="icon icon-lifebuoy" aria-hidden="true"></i>
+                                    <span class="label">Help &amp; FAQ</span>
+                                    <span class="sr-only">&nbsp; Link opens in a new tab</span>
+                                </a>
+                            </li>
+                        
+                        
+                    </ul>
+                
+                
+                
+            </div>
+        </div>
+
+        
+            <div class="header-search">
+                
+<form action="/en/searchAll/index/supply-and-demand-for-low-energy-housing-in-the-uk-insights-from-/" method="get"
+      class="search-form" id="search-everything">
+
+    <div class="global-search-wrapper">
+        <div class="global-search mini">
+            <div class="field-button-wrapper">
+                <div class="search-cell search-field">
+                    <label for="main-search" class="sr-only">Search content at University of Edinburgh Research Explorer</label>
+                    <input id="main-search" class="search-field" value="" name="search"
+                           placeholder="Search..."/>
+                </div>
+
+                <div class="search-submit">
+                    <button type="submit" aria-label="Search">
+                        <i class="icon icon-magnifying-glass" aria-hidden="true"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+<script>
+    $(function () {
+        var searchForm = $("#search-everything");
+        var searchField = $(".search-field", searchForm);
+        searchForm.on("submit", function () {
+            var field = searchField.find("input");
+            var searchString = field.val();
+
+            // No enter key submit nothing :-)
+            if (!searchString) return false;
+
+            if (searchString.length >= 200) {
+                searchForm.attr("method", "post");
+                searchForm.attr("action", "/en/concepts/copypaste/");
+                field.attr("name", "text");
+            }
+        });
+    });
+</script>
+            </div>
+        
+
+
+        
+        
+            <div class="subMenu">
+                <div class="secondary">
+                    <div class="container">
+                        <nav id="main-navigation" aria-label="Main navigation" class="content-navigation three-third">
+                            <ul data-value="More" role="menubar" aria-label="Main navigation">
+                                <li class="" role="none">
+                                    <a href="/en/" role="menuitem" tabindex="-1">Home</a>
+                                </li>
+
+                                
+                                    <li class="selected" role="none">
+                                        <a class="portal_link" tabindex="0" role="menuitem" href="/en/publications/"><span>Research output</span></a>
+                                    </li>
+                                
+                                    <li class="" role="none">
+                                        <a class="portal_link" tabindex="-1" role="menuitem" href="/en/persons/"><span>Profiles</span></a>
+                                    </li>
+                                
+                                    <li class="" role="none">
+                                        <a class="portal_link" tabindex="-1" role="menuitem" href="/en/organisations/"><span>Research units</span></a>
+                                    </li>
+                                
+                                    <li class="" role="none">
+                                        <a class="portal_link" tabindex="-1" role="menuitem" href="/en/projects/"><span>Projects</span></a>
+                                    </li>
+                                
+                                    <li class="" role="none">
+                                        <a class="portal_link" tabindex="-1" role="menuitem" href="/en/datasets/"><span>Datasets</span></a>
+                                    </li>
+                                
+                                    <li class="" role="none">
+                                        <a class="portal_link" tabindex="-1" role="menuitem" href="/en/prizes/"><span>Prizes</span></a>
+                                    </li>
+                                
+                                    <li class="" role="none">
+                                        <a class="portal_link" tabindex="-1" role="menuitem" href="/en/activities/"><span>Activities</span></a>
+                                    </li>
+                                
+                                    <li class="" role="none">
+                                        <a class="portal_link" tabindex="-1" role="menuitem" href="/en/clippings/"><span>Press/Media</span></a>
+                                    </li>
+                                
+                                    <li class="" role="none">
+                                        <a class="portal_link" tabindex="-1" role="menuitem" href="/en/equipments/"><span>Equipment</span></a>
+                                    </li>
+                                
+                            </ul>
+                        </nav>
+
+                    </div>
+                </div>
+            </div>
+        
+    </header>
+
+    <main id="page-content">
+        
+    <div class="page-section page-section-publications page-section-publications-view ">
+
+        
+        
+        
+        
+        <section
+                class="page-section-header page-section-header-publications page-section-header-publications-view
+                 no-backdrop-image"
+                data-stickyheader=""
+                style="">
+            
+            
+        
+
+
+<div class="container">
+    <div class="row">
+        <div class="introduction no-metrics">
+            <div class="rendering"><h1><span>Supply and demand for low energy housing in the UK: insights from a science and technology studies approach</span></h1></div>
+            <div class="rendering rendering_researchoutput  rendering_researchoutput_associatespersonsclassifiedportal rendering_contributiontojournal rendering_associatespersonsclassifiedportal rendering_contributiontojournal_associatespersonsclassifiedportal"><ul class="relations persons"><li>Heather Lovell</li></div>
+            <div class="rendering rendering_researchoutput  rendering_researchoutput_associatesorganisationsportal rendering_contributiontojournal rendering_associatesorganisationsportal rendering_contributiontojournal_associatesorganisationsportal"><ul class="relations organisations"><li class="school"><a rel="Organisation" href="https://www.research.ed.ac.uk/en/organisations/httpswwwedacukgeosciences/" class="link"><span>School of Geosciences</span></a></li></ul></div>
+            
+            <div class="rendering rendering_researchoutput  rendering_researchoutput_publicationcontenttyperendererportalng rendering_contributiontojournal rendering_publicationcontenttyperendererportalng rendering_contributiontojournal_publicationcontenttyperendererportalng"><p class="type"><span class="type_family">Research output<span class="type_family_sep">: </span></span><span class="type_classification_parent">Contribution to journal<span class="type_parent_sep"> › </span></span><span class="type_classification">Article</span><span class="type_classification"><span class="type_parent_sep"> › </span>peer-review</span></p></div>
+        </div>
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+</div>
+<div class="subMenu">
+    <div class="content-profile-navigation">
+    <div class="container">
+        <nav role="navigation">
+            <ul role="menubar">
+                <li class="selected" role="none">
+                    <a class="portal_link" role="menuitem" href="/en/publications/supply-and-demand-for-low-energy-housing-in-the-uk-insights-from-/"><span>
+                        <i class="icon icon-publication" aria-hidden="true"></i>
+                        <span class="label">Overview</span>
+                    </span></a>
+                </li>
+                
+                    <li class="" role="none">
+                        <a class="portal_link" role="menuitem" href="/en/publications/supply-and-demand-for-low-energy-housing-in-the-uk-insights-from-/fingerprints/"><span>
+                            <i class="icon icon-fingerprint" aria-hidden="true"></i>
+                            <span class="label">Fingerprint</span>
+                        </span></a>
+                    </li>
+                
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+
+            </ul>
+        </nav>
+    </div>
+    </div>
+</div>
+
+    
+        </section>
+
+        <div id="main-content"
+             class="page-section-content page-section-content-publications page-section-content-publications-view   ">
+            
+        <section class="page-section content-relation-section">
+            <div class="container">
+                <div class="clearfix">
+                    <div class="content-content publication-content">
+                        
+                        
+                            <h2 class="subheader">Abstract</h2>
+                        <div class="rendering rendering_researchoutput  rendering_researchoutput_abstractportal rendering_contributiontojournal rendering_abstractportal rendering_contributiontojournal_abstractportal"><div class="textblock">Economic theory about supply and demand suggests that if consumer demand for a product increases then producers respond by increasing supply. In the UK housing market there is emerging evidence of consumer demand for low energy housing, yet little has been built to date by private sector housebuilders: existing low energy housing is largely within the social housing and self-build sectors. Ideas from science and technology studies (STS) are introduced to help further understanding of why the housing market might be slow to respond to changing consumer preferences. Although standard economic concepts concerning costs and price are able in part to explain the situation, greater attention to socio-technical issues highlights some of the reasons why innovation and change are difficult to effect. The housing market is best viewed as a socio-technical system, whereby the social and the technical are interlinked.</div></div>
+                        <div class="rendering rendering_researchoutput  rendering_researchoutput_detailsportal rendering_contributiontojournal rendering_detailsportal rendering_contributiontojournal_detailsportal"><div class="article"><table class="properties"><tbody><tr class="language"><th scope="row">Original language</th><td>English</td></tr><tr><th scope="row">Pages (from-to)</th><td>815-829</td></tr><tr class="numberofpages"><th scope="row">Number of pages</th><td>15</td></tr><tr><th scope="row">Journal</th><td><a rel="Journal" href="#" class="link"><span>Housing Studies</span></a></td></tr><tr><th scope="row">Volume</th><td>20</td></tr><tr><th scope="row">Issue number</th><td>5</td></tr><tr class="digital_object_identifiers"><th scope="row">DOIs</th><td><ul class="relations digital_object_identifiers"><li><a onclick="window.open(this.href, '_blank','noopener,noreferrer'); return false;" href="https://doi.org/10.1080/02673030500214118" class="link"><span>https://doi.org/10.1080/02673030500214118</span></a> </li></ul></td></tr><tr class="status"><th scope="row">Publication status</th><td><span class="prefix">Published - </span><span class="date">2005</span></td></tr></tbody></table></div></div>
+                        
+
+                        
+
+                        
+
+                        
+
+                    </div>
+
+                    <div class="content-sidebar publication-sidebar">
+                        
+                            <h2 class="subheader">Access to Document</h2>
+                        <div class="rendering rendering_researchoutput  rendering_researchoutput_publicationaccessrenderer rendering_contributiontojournal rendering_publicationaccessrenderer rendering_contributiontojournal_publicationaccessrenderer"><ul class="dois"><li><div class="doi"><a onclick="window.open(this.href, '_blank','noopener,noreferrer'); return false;" href="https://doi.org/10.1080/02673030500214118" class="link"><span>10.1080/02673030500214118</span></a></div></li></ul><ul class="documents"><li class="open-access"><div class="document"><a onclick="if (this.href) {window.open(this.href)}; return false;" href="/files/11098362/PDF_SupplyandDemand2005.pdf" class="link document-link"><span>PDF Available Here</span></a><p class="property">Published in Housing Studies by Taylor and Francis (2005)</p><span class="meta">Accepted author manuscript, 105 KB</span></div></li></ul></div>
+
+                        
+
+                        
+
+                        
+
+                        <div class="rendering rendering_researchoutput  rendering_researchoutput_versioneddocumentspureportal rendering_contributiontojournal rendering_versioneddocumentspureportal rendering_contributiontojournal_versioneddocumentspureportal"><ul class="relations documents"></ul></div>
+
+                        
+
+
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+            <section class="page-section content-relation-section publication-fingerprint">
+                <div class="container">
+                    <div class="header">
+                        <h2 class="section-title">
+                            <i class="icon icon-fingerprint" aria-hidden="true"></i>
+                            <span class="title">Fingerprint</span>
+                        </h2>
+                        <span class="sub-title">
+                            Dive into the research topics of 'Supply and demand for low energy housing in the UK: insights from a science and technology studies approach'. Together they form a unique fingerprint.
+                        </span>
+                    </div>
+
+                    <ul class="publication-top-concepts" role="menubar"  aria-label="Related fingerprints">
+                        
+                            <li class="concept-badge-large-container dropdown-overflow" role="none">
+
+    <button tabindex="0"
+            class="concept-badge-large dropdown-toggle"
+            type="button"
+            role="menuitem"
+            aria-haspopup="true"
+            aria-expanded="false"
+            aria-controls="bac16e28-cbfc-4836-adcb-3ce8e5364373"
+            data-concept-uuid="bac16e28-cbfc-4836-adcb-3ce8e5364373"
+            data-rank-size="32"
+            data-rank-thickness="8"
+            data-rank-value="1.0"
+            data-summary="true"
+            data-summary-url="/en/concepts/summary/">
+        <span class="concept-wrapper" title="100%">
+            <span class="rank"></span>
+            <span class="concept">Science and Technology Studies</span>
+            <span class="thesauri">Social Sciences</span>
+            <span class="value sr-only">100%</span>
+        </span>
+    </button>
+
+    <div class="dropdown-container"></div>
+
+</li>
+                        
+                            <li class="concept-badge-large-container dropdown-overflow" role="none">
+
+    <button tabindex="0"
+            class="concept-badge-large dropdown-toggle"
+            type="button"
+            role="menuitem"
+            aria-haspopup="true"
+            aria-expanded="false"
+            aria-controls="f6bdeda5-8d11-460f-ae75-b4bf7a2130a7"
+            data-concept-uuid="f6bdeda5-8d11-460f-ae75-b4bf7a2130a7"
+            data-rank-size="32"
+            data-rank-thickness="8"
+            data-rank-value="1.0"
+            data-summary="true"
+            data-summary-url="/en/concepts/summary/">
+        <span class="concept-wrapper" title="100%">
+            <span class="rank"></span>
+            <span class="concept">Housing Market</span>
+            <span class="thesauri">Social Sciences</span>
+            <span class="value sr-only">100%</span>
+        </span>
+    </button>
+
+    <div class="dropdown-container"></div>
+
+</li>
+                        
+                            <li class="concept-badge-large-container dropdown-overflow" role="none">
+
+    <button tabindex="0"
+            class="concept-badge-large dropdown-toggle"
+            type="button"
+            role="menuitem"
+            aria-haspopup="true"
+            aria-expanded="false"
+            aria-controls="1643e8bc-c9cb-431a-b00b-aa97d8449dc9"
+            data-concept-uuid="1643e8bc-c9cb-431a-b00b-aa97d8449dc9"
+            data-rank-size="32"
+            data-rank-thickness="8"
+            data-rank-value="0.3333333"
+            data-summary="true"
+            data-summary-url="/en/concepts/summary/">
+        <span class="concept-wrapper" title="33%">
+            <span class="rank"></span>
+            <span class="concept">Economic Theory</span>
+            <span class="thesauri">Social Sciences</span>
+            <span class="value sr-only">33%</span>
+        </span>
+    </button>
+
+    <div class="dropdown-container"></div>
+
+</li>
+                        
+                            <li class="concept-badge-large-container dropdown-overflow" role="none">
+
+    <button tabindex="0"
+            class="concept-badge-large dropdown-toggle"
+            type="button"
+            role="menuitem"
+            aria-haspopup="true"
+            aria-expanded="false"
+            aria-controls="74c03ae0-f395-4fba-9dd8-9d5d07c2b9ce"
+            data-concept-uuid="74c03ae0-f395-4fba-9dd8-9d5d07c2b9ce"
+            data-rank-size="32"
+            data-rank-thickness="8"
+            data-rank-value="0.3333333"
+            data-summary="true"
+            data-summary-url="/en/concepts/summary/">
+        <span class="concept-wrapper" title="33%">
+            <span class="rank"></span>
+            <span class="concept">Consumer Preference</span>
+            <span class="thesauri">Social Sciences</span>
+            <span class="value sr-only">33%</span>
+        </span>
+    </button>
+
+    <div class="dropdown-container"></div>
+
+</li>
+                        
+                            <li class="concept-badge-large-container dropdown-overflow" role="none">
+
+    <button tabindex="0"
+            class="concept-badge-large dropdown-toggle"
+            type="button"
+            role="menuitem"
+            aria-haspopup="true"
+            aria-expanded="false"
+            aria-controls="11c6ecbe-ea27-4384-9d16-c5884ebf07ce"
+            data-concept-uuid="11c6ecbe-ea27-4384-9d16-c5884ebf07ce"
+            data-rank-size="32"
+            data-rank-thickness="8"
+            data-rank-value="0.3333333"
+            data-summary="true"
+            data-summary-url="/en/concepts/summary/">
+        <span class="concept-wrapper" title="33%">
+            <span class="rank"></span>
+            <span class="concept">Socio-technical systems</span>
+            <span class="thesauri">Social Sciences</span>
+            <span class="value sr-only">33%</span>
+        </span>
+    </button>
+
+    <div class="dropdown-container"></div>
+
+</li>
+                        
+                            <li class="concept-badge-large-container dropdown-overflow" role="none">
+
+    <button tabindex="0"
+            class="concept-badge-large dropdown-toggle"
+            type="button"
+            role="menuitem"
+            aria-haspopup="true"
+            aria-expanded="false"
+            aria-controls="a616bcce-c85f-4850-b714-affeab7d389d"
+            data-concept-uuid="a616bcce-c85f-4850-b714-affeab7d389d"
+            data-rank-size="32"
+            data-rank-thickness="8"
+            data-rank-value="0.3333333"
+            data-summary="true"
+            data-summary-url="/en/concepts/summary/">
+        <span class="concept-wrapper" title="33%">
+            <span class="rank"></span>
+            <span class="concept">Social Housing</span>
+            <span class="thesauri">Social Sciences</span>
+            <span class="value sr-only">33%</span>
+        </span>
+    </button>
+
+    <div class="dropdown-container"></div>
+
+</li>
+                        
+                            <li class="concept-badge-large-container dropdown-overflow" role="none">
+
+    <button tabindex="0"
+            class="concept-badge-large dropdown-toggle"
+            type="button"
+            role="menuitem"
+            aria-haspopup="true"
+            aria-expanded="false"
+            aria-controls="87e86444-7256-4dea-ba3e-215c7fa5ddab"
+            data-concept-uuid="87e86444-7256-4dea-ba3e-215c7fa5ddab"
+            data-rank-size="32"
+            data-rank-thickness="8"
+            data-rank-value="0.3333333"
+            data-summary="true"
+            data-summary-url="/en/concepts/summary/">
+        <span class="concept-wrapper" title="33%">
+            <span class="rank"></span>
+            <span class="concept">Private Sector</span>
+            <span class="thesauri">Social Sciences</span>
+            <span class="value sr-only">33%</span>
+        </span>
+    </button>
+
+    <div class="dropdown-container"></div>
+
+</li>
+                        
+                    </ul>
+                    <div class="footer">
+                        <div class="view-all align-center">
+                            <a class="portal_link btn-primary btn-large btn-content-link" href="/en/publications/supply-and-demand-for-low-energy-housing-in-the-uk-insights-from-/fingerprints/"><span>
+                                View full fingerprint
+                                <i class="icon icon-right-open-mini" aria-hidden="true"></i>
+                            </span></a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        
+
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+        <section class="page-section cite">
+            <div class="container">
+                <section class="publication-cite" aria-labelledby="publications-cite-title">
+    <h2 class="subheader" id="publications-cite-title">Cite this</h2>
+    <ul class="tabs" role="tablist" aria-label="Cite this">
+        
+            <li class="selected" role="tab" id="tab-0" aria-controls="cite-apa" tabindex="-1"  aria-selected="false" >
+                APA
+            </li>
+        
+            <li class="" role="tab" id="tab-1" aria-controls="cite-author" tabindex="-1"  aria-selected="false" >
+                Author
+            </li>
+        
+            <li class="" role="tab" id="tab-2" aria-controls="cite-BIBTEX" tabindex="-1"  aria-selected="false" >
+                BIBTEX
+            </li>
+        
+            <li class="" role="tab" id="tab-3" aria-controls="cite-harvard" tabindex="-1"  aria-selected="false" >
+                Harvard
+            </li>
+        
+            <li class="" role="tab" id="tab-4" aria-controls="cite-standard" tabindex="-1"  aria-selected="false" >
+                Standard
+            </li>
+        
+            <li class="" role="tab" id="tab-5" aria-controls="cite-RIS" tabindex="-1"  aria-selected="false" >
+                RIS
+            </li>
+        
+            <li class="" role="tab" id="tab-6" aria-controls="cite-vancouver" tabindex="-1"  aria-selected="false" >
+                Vancouver
+            </li>
+        
+    </ul>
+    <div class="tab-container">
+        
+            <div id="cite-apa" class="tab selected" role="tabpanel" aria-labelledby="tab-0" tabindex="-1" aria-hidden="true">
+                <div class="rendering rendering_researchoutput  rendering_researchoutput_apa rendering_contributiontojournal rendering_apa rendering_contributiontojournal_apa">Lovell, H. (2005). <a rel="ContributionToJournal" href="https://www.research.ed.ac.uk/en/publications/supply-and-demand-for-low-energy-housing-in-the-uk-insights-from-/" class="link"><span>Supply and demand for low energy housing in the UK: insights from a science and technology studies approach</span></a>. <span><em>Housing Studies</em></span>, <em>20</em>(5), 815-829. <a onclick="window.open(this.href, '_blank','noopener,noreferrer'); return false;" href="https://doi.org/10.1080/02673030500214118" class="link"><span>https://doi.org/10.1080/02673030500214118</span></a></div>
+            </div>
+        
+            <div id="cite-author" class="tab " role="tabpanel" aria-labelledby="tab-1" tabindex="-1" aria-hidden="true">
+                <div class="rendering rendering_researchoutput  rendering_researchoutput_author rendering_contributiontojournal rendering_author rendering_contributiontojournal_author">Lovell, Heather. / <a rel="ContributionToJournal" href="https://www.research.ed.ac.uk/en/publications/supply-and-demand-for-low-energy-housing-in-the-uk-insights-from-/" class="link"><span><strong>Supply and demand for low energy housing in the UK: insights from a science and technology studies approach</strong></span></a>. In: <a rel="Journal" href="#" class="link"><span>Housing Studies</span></a>. 2005 ; Vol. 20, No. 5. pp. 815-829.</div>
+            </div>
+        
+            <div id="cite-BIBTEX" class="tab " role="tabpanel" aria-labelledby="tab-2" tabindex="-1" aria-hidden="true">
+                <div class="rendering rendering_researchoutput  rendering_researchoutput_bibtex rendering_contributiontojournal rendering_bibtex rendering_contributiontojournal_bibtex"><div>@article{930c1aa47db1406595195d7d119ad71c,</div><div>  title     = "Supply and demand for low energy housing in the UK: insights from a science and technology studies approach",</div><div>  abstract  = "Economic theory about supply and demand suggests that if consumer demand for a product increases then producers respond by increasing supply. In the UK housing market there is emerging evidence of consumer demand for low energy housing, yet little has been built to date by private sector housebuilders: existing low energy housing is largely within the social housing and self-build sectors. Ideas from science and technology studies (STS) are introduced to help further understanding of why the housing market might be slow to respond to changing consumer preferences. Although standard economic concepts concerning costs and price are able in part to explain the situation, greater attention to socio-technical issues highlights some of the reasons why innovation and change are difficult to effect. The housing market is best viewed as a socio-technical system, whereby the social and the technical are interlinked.",</div><div>  author    = "Heather Lovell",</div><div>  year      = "2005",</div><div>  doi       = "10.1080/02673030500214118",</div><div>  language  = "English",</div><div>  volume    = "20",</div><div>  pages     = "815--829",</div><div>  journal   = "Housing Studies",</div><div>  issn      = "0267-3037",</div><div>  publisher = "Routledge",</div><div>  number    = "5",</div><p>}</p></div>
+            </div>
+        
+            <div id="cite-harvard" class="tab " role="tabpanel" aria-labelledby="tab-3" tabindex="-1" aria-hidden="true">
+                <div class="rendering rendering_researchoutput  rendering_researchoutput_harvard rendering_contributiontojournal rendering_harvard rendering_contributiontojournal_harvard">Lovell, H 2005, '<a rel="ContributionToJournal" href="https://www.research.ed.ac.uk/en/publications/supply-and-demand-for-low-energy-housing-in-the-uk-insights-from-/" class="link harvard_title"><span>Supply and demand for low energy housing in the UK: insights from a science and technology studies approach</span></a>', <span><em>Housing Studies</em></span>, vol. 20, no. 5, pp. 815-829. <a onclick="window.open(this.href, '_blank','noopener,noreferrer'); return false;" href="https://doi.org/10.1080/02673030500214118" class="link"><span>https://doi.org/10.1080/02673030500214118</span></a></div>
+            </div>
+        
+            <div id="cite-standard" class="tab " role="tabpanel" aria-labelledby="tab-4" tabindex="-1" aria-hidden="true">
+                <div class="rendering rendering_researchoutput  rendering_researchoutput_standard rendering_contributiontojournal rendering_standard rendering_contributiontojournal_standard"><a rel="ContributionToJournal" href="https://www.research.ed.ac.uk/en/publications/supply-and-demand-for-low-energy-housing-in-the-uk-insights-from-/" class="link"><span><strong>Supply and demand for low energy housing in the UK: insights from a science and technology studies approach.</strong></span></a> / Lovell, Heather. <br />In: <span>Housing Studies</span>, Vol. 20, No. 5, 2005, p. 815-829.<p class="type"><span class="type_family">Research output<span class="type_family_sep">: </span></span><span class="type_classification_parent">Contribution to journal<span class="type_parent_sep"> › </span></span><span class="type_classification">Article</span><span class="type_classification"><span class="type_parent_sep"> › </span>peer-review</span></p></div>
+            </div>
+        
+            <div id="cite-RIS" class="tab " role="tabpanel" aria-labelledby="tab-5" tabindex="-1" aria-hidden="true">
+                <div class="rendering rendering_researchoutput  rendering_researchoutput_ris rendering_contributiontojournal rendering_ris rendering_contributiontojournal_ris"><p>TY  - JOUR</p><p>T1  - Supply and demand for low energy housing in the UK: insights from a science and technology studies approach</p><p>AU  - Lovell, Heather</p><p>PY  - 2005</p><p>Y1  - 2005</p><p>N2  - Economic theory about supply and demand suggests that if consumer demand for a product increases then producers respond by increasing supply. In the UK housing market there is emerging evidence of consumer demand for low energy housing, yet little has been built to date by private sector housebuilders: existing low energy housing is largely within the social housing and self-build sectors. Ideas from science and technology studies (STS) are introduced to help further understanding of why the housing market might be slow to respond to changing consumer preferences. Although standard economic concepts concerning costs and price are able in part to explain the situation, greater attention to socio-technical issues highlights some of the reasons why innovation and change are difficult to effect. The housing market is best viewed as a socio-technical system, whereby the social and the technical are interlinked.</p><p>AB  - Economic theory about supply and demand suggests that if consumer demand for a product increases then producers respond by increasing supply. In the UK housing market there is emerging evidence of consumer demand for low energy housing, yet little has been built to date by private sector housebuilders: existing low energy housing is largely within the social housing and self-build sectors. Ideas from science and technology studies (STS) are introduced to help further understanding of why the housing market might be slow to respond to changing consumer preferences. Although standard economic concepts concerning costs and price are able in part to explain the situation, greater attention to socio-technical issues highlights some of the reasons why innovation and change are difficult to effect. The housing market is best viewed as a socio-technical system, whereby the social and the technical are interlinked.</p><p>U2  - 10.1080/02673030500214118</p><p>DO  - 10.1080/02673030500214118</p><p>M3  - Article</p><p>SN  - 0267-3037</p><p>VL  - 20</p><p>SP  - 815</p><p>EP  - 829</p><p>JO  - Housing Studies</p><p>JF  - Housing Studies</p><p>IS  - 5</p><p>ER  - </p></div>
+            </div>
+        
+            <div id="cite-vancouver" class="tab " role="tabpanel" aria-labelledby="tab-6" tabindex="-1" aria-hidden="true">
+                <div class="rendering rendering_researchoutput  rendering_researchoutput_vancouver rendering_contributiontojournal rendering_vancouver rendering_contributiontojournal_vancouver">Lovell H. <span class="title"><a rel="ContributionToJournal" href="https://www.research.ed.ac.uk/en/publications/supply-and-demand-for-low-energy-housing-in-the-uk-insights-from-/" class="link"><span>Supply and demand for low energy housing in the UK: insights from a science and technology studies approach</span></a></span>. <span>Housing Studies</span>. 2005;20(5):815-829. doi: 10.1080/02673030500214118</div>
+            </div>
+        
+
+        <script>
+            $(function() {
+                $(".tab-container .rendering a:not([href^='http://dx.doi.org'])").contents().unwrap();
+            });
+        </script>
+    </div>
+</section>
+
+            </div>
+        </section>
+        <script>
+    $(function () {
+        if($('.publication-sidebar').length > 0){
+            if($('a.document-link').length === 0){
+                $(".metrics-top").addClass("one");
+                $('div.metrics-downloads').remove();
+            }
+        }
+    });
+
+    function plumXError(e) {
+        $(e).closest('.metric-plum-x').closest('.metrics-bottom').addClass('one');
+        $(e).closest('.metric-plum-x').remove();
+    }
+    $('div.altmetric-embed').on('altmetric:hide', function () {
+        $(this).closest('.metric-altmetric').closest('.metrics-bottom').addClass('one');
+        $(this).closest('.metric-altmetric').remove();
+    });
+</script>
+        
+
+
+
+
+
+    
+        </div>
+    </div>
+
+    <div id="new-modal-overlay"></div>
+    
+    </main>
+
+    <footer id="page-footer" class="main-footer">
+        <div class="container">
+            <div class="footer-wrapper">
+                <div class="content-navigation three-third">
+                    <div dir="ltr" class="footer-columns">
+                        
+                            <div class="footer-column">
+                                <div class="footer-icon">
+                                    <img src="/skin/footerIcon/" alt="University of Edinburgh Research Explorer Logo"/>
+                                </div>
+                            </div>
+                        
+                        <div class="footer-column">
+                            <p>
+                                Powered by <a href="http://www.elsevier.com/online-tools/research-intelligence/products-and-services/pure" target="_blank">Pure <span class="sr-only">Link opens in a new tab</span></a>, <a href="http://www.scopus.com/" target="_blank">Scopus <span class="sr-only">Link opens in a new tab</span></a> & <a href="https://www.elsevier.com/products/elsevier-fingerprint-engine" target="_blank">Elsevier Fingerprint Engine&trade; <span class="sr-only">Link opens in a new tab</span></a>
+                            </p>
+
+                            <p>
+                                All content on this site: Copyright &copy; 2026 University of Edinburgh Research Explorer, its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply
+                            </p>
+
+                            <p>We use cookies to help provide and enhance our service and tailor content. By continuing you agree to the <a href="/en/about/cookies/">use of cookies</a></p>
+                            
+                            
+                            <p></p>
+                        </div>
+
+                        <div class="footer-column">
+                            
+                                <p><a href="https://www.ed.ac.uk/about/website/privacy" target="_blank">University of Edinburgh Research Explorer data protection policy <span class="sr-only">&nbsp; Link opens in a new tab</span></a></p>
+                            
+                            
+                            
+                                <p><a href="https://library.ed.ac.uk/accessibility-statements/university-of-edinburgh-research-explorer-website" target="_blank" rel="nofollow">About web accessibility <span class="sr-only">&nbsp; Link opens in a new tab</span></a></p>
+                            
+
+                            <p>
+                                
+                            </p>
+
+                            <p>
+                                
+                            </p>
+
+                            <p>
+                                <a href="https://elsevier.responsibledisclosure.com/hc/en-us/requests/new" target="_blank" rel="nofollow">Report vulnerability <span class="sr-only">&nbsp; Link opens in a new tab</span></a>
+                            </p>
+                        </div>
+
+                        
+                            <div class="footer-column">
+                                
+                                    
+                                        <p>
+                                            <a href="/en/contact/index/"> Contact us</a>
+                                        </p>
+                                    
+                                
+
+                            </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="back-to-top">
+            <a href="#" class="back-to-top" aria-label="Go to top"><i class="icon icon-up-open"></i></a>
+        </div>
+    </footer>
+
+
+    <script src="//d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+
+
+
+    
+
+    
+
+
+<script>window.appData = window.appData || [];</script><script type="text/javascript">
+try {(function() {
+appData.push({...{"page":{"businessUnit":"ELS:RP:ST","cmsName":"Pure Portal","environment":"prod","language":"en","loadTime":"164","loadTimestamp":"1787230613337","name":"pure portal:publications:view","noTracking":"false","productName":"PR","type":"CP-CA"},"visitor":{"accountId":"","accountName":"pr:University of Edinburgh","ipAddress":"","accessType":"pr:ANON_GUEST","loginStatus":"anonymous"},"content":[{"id":"930c1aa4-7db1-4065-9519-5d7d119ad71c","title":"Supply and demand for low energy housing in the UK: insights from a science and technology studies approach","recordType":"researchoutput"}]}, event: "pageLoad"});})();} catch(e) {if(console) { console.log(e) } }</script>
+<script>try {(function() {
+window.appData = window.appData || [];
+})();} catch(e) {if(console) { console.log(e) } }</script>
+
+</body>
+</html>
+

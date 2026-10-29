@@ -1,0 +1,947 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="da" class="nexus-font-support">
+
+
+<head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta name="google" content="nositelinkssearchbox"/>
+    <meta name="tdm-reservation" content="0">
+    <title>
+        Better Bang for the Buck? Generalizing Trust in Online Drug Markets
+      -  Aalborg Universitets forskningsportal</title>
+    
+    
+    
+
+<link rel='alternate' hreflang='da-dk' href='https://vbn.aau.dk/da/publications/better-bang-for-the-buck-generalizing-trust-in-online-drug-market-2/' /><link rel='alternate' hreflang='en-gb' href='https://vbn.aau.dk/en/publications/better-bang-for-the-buck-generalizing-trust-in-online-drug-market-2/' />
+
+<meta property="og:site_name" content="Aalborg Universitets forskningsportal">
+
+
+    <meta property="og:title" content="Better Bang for the Buck? Generalizing Trust in Online Drug Markets"/>
+
+
+<meta property="og:url" content="https://vbn.aau.dk/da/publications/better-bang-for-the-buck-generalizing-trust-in-online-drug-market-2/">
+<meta property="og:locale" content="da_DK">
+
+
+
+
+    
+        <meta property="og:image" content="https://vbn.aau.dk/skin/headerImage/">
+    
+
+
+
+
+    
+        <meta property="og:type" content="article">
+    
+
+    
+
+    
+
+
+    <link rel="stylesheet" href="/assets/application-d8c4196ba42289b701050fcf209ab3eb.css" />
+    <!-- OneTrust Cookies Consent Notice start -->
+<script async src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="66aa5af0-442e-47ed-bbda-99473ed62ecb" data-document-language="true"></script>
+<script type="text/javascript">
+    document.cookieConsentBannerShowAll = false;
+    function OptanonWrapper() { }
+</script>
+<!-- OneTrust Cookies Consent Notice end -->
+    
+        <link rel="shortcut icon" href="/skin/favIcon/"/>
+    
+    <link href="/skin/css/" rel="stylesheet"/>
+    
+    <script src="/skin/script/" type="text/javascript"></script>
+    <script type="text/javascript" src="/assets/application-d9c3c96b32ee7877543159e1191a25d2.js" ></script>
+    <!--[if lt IE 9]>
+    <script type="text/javascript" src="/assets/html5shiv.min-ca5300beead9a4a9d2c9c584a9016410.js" ></script>
+    <script type="text/javascript" src="/assets/respond.min-678d372b349e434d9923e1b591f14a1e.js" ></script>
+    <![endif]-->
+    
+        
+        
+        <meta name="citation_title" content="Better Bang for the Buck? Generalizing Trust in Online Drug Markets"></meta><meta name="citation_author" content="Rasmus Munksgaard"></meta><meta name="citation_author_institution" content="Det Humanistiske og Samfundsvidenskabelige Fakultet"></meta><meta name="citation_author_institution" content="CASTOR - Sociologisk og kriminologisk forskning om social differentiering og social kontrol"></meta><meta name="citation_author_email" content="ramuan@society.aau.dk"></meta><meta name="citation_author_orcid" content="0000-0002-2306-3309"></meta><meta name="citation_author" content="Jason A. Ferris"></meta><meta name="citation_author_institution" content="University of Queensland"></meta><meta name="citation_author" content="Adam Winstock"></meta><meta name="citation_author_institution" content="University College London"></meta><meta name="citation_author_institution" content="Global Drug Survey"></meta><meta name="citation_author" content="Larissa J. Maier"></meta><meta name="citation_author_institution" content="University of California at San Francisco"></meta><meta name="citation_author_institution" content="University of New South Wales"></meta><meta name="citation_author" content="Monica J. Barratt"></meta><meta name="citation_author_institution" content="University of New South Wales"></meta><meta name="citation_author_institution" content="Royal Melbourne Institute of Technology University"></meta><meta name="citation_publication_date" content="2023/07/01"></meta><meta name="citation_pdf_url" content="https://vbn.aau.dk/files/551317439/Accepted_manuscript.pdf"></meta><meta name="citation_online_date" content="2024/09/10"></meta><meta name="citation_doi" content="10.1093/bjc/azac070"></meta><meta name="citation_language" content="Engelsk"></meta><meta name="citation_keywords" content="cryptomarkets; darknet; drug markets; drug supply; illicit markets; trust"></meta><meta name="citation_journal_title" content="British Journal of Criminology"></meta><meta name="citation_issn" content="0007-0955"></meta><meta name="citation_journal_abbrev" content="BJC"></meta><meta name="citation_publisher" content="Oxford University Press"></meta><meta name="citation_volume" content="63"></meta><meta name="citation_issue" content="4"></meta><meta name="citation_firstpage" content="906"></meta><meta name="citation_lastpage" content="928"></meta>
+        <script src="/assets/Chart.min-27bff060c3e539ceb22e763c8f2e9e10.js"></script>
+        <script src="/assets/jquery.content-chart-9c09bb79ba3fc3829b6478d0e114f737.js"></script>
+        
+    
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script src="https://www.googletagmanager.com/gtag/js?id=G-5SPJSHVQWF" class="optanon-category-2" type="text/plain" async=""></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5SPJSHVQWF', {'cookie_domain' : document.location.hostname, 'anonymize_ip': true });
+</script>
+    <script src="//assets.adobedtm.com/4a848ae9611a/ea83f870454d/launch-af020409b299.min.js" class="optanon-category-2" type="text/plain" async=""></script>
+    
+    
+</head>
+
+<body class="" data-page="publications">
+
+<div id="aria-polite" aria-live="polite"></div>
+<div id="aria-assertive" aria-live="assertive"></div>
+
+<a href="#main-navigation" class="sr-only sr-only-focusable">Spring til hovednavigatio</a>
+
+    <a href="#main-search" class="sr-only sr-only-focusable">Spring til søgning</a>
+
+<a href="#main-content" class="sr-only sr-only-focusable">Spring til hovedindhold</a>
+
+
+
+
+
+
+
+    <header class="header" id="page-header">
+        <div class="primary with-right-background ">
+            <div class="container">
+                
+                    <div class="primary-right-background clearfix">
+                
+                <a href="/da/" class="logo">
+                    
+                        <span class="sr-only">Aalborg Universitets forskningsportal Forside</span>
+                        <img src="/skin/headerImage/" alt="Aalborg Universitets forskningsportal Logo"/>
+                    
+                </a>
+                
+                    <ul class="header-tools ">
+                        
+                        
+                            <li class="language-dropdown dropdown">
+                                <button data-toggle="dropdown" class="language_btn" aria-label="Vælg sprog" aria-expanded="false">
+                                    <i class="icon icon-globe" aria-hidden="true"></i></button>
+
+                                <div class="dropdown-container">
+                                    <ul class='language-selector dropdown-menu'><li class='selected'><a href="/da/publications/better-bang-for-the-buck-generalizing-trust-in-online-drug-market-2/" aria-current="true" lang="da">Dansk</a></li><li><a href="/en/publications/better-bang-for-the-buck-generalizing-trust-in-online-drug-market-2/" lang="en">English</a></li></ul>
+                                </div>
+                            </li>
+                        
+                    </ul>
+                
+                
+                
+                    </div>
+                
+            </div>
+        </div>
+
+        
+            <div class="header-search">
+                
+<form action="/da/searchAll/index/better-bang-for-the-buck-generalizing-trust-in-online-drug-market-2/" method="get"
+      class="search-form" id="search-everything">
+
+    <div class="global-search-wrapper">
+        <div class="global-search mini">
+            <div class="field-button-wrapper">
+                <div class="search-cell search-field">
+                    <label for="main-search" class="sr-only">Søg efter indhold i Aalborg Universitets forskningsportal</label>
+                    <input id="main-search" class="search-field" value="" name="search"
+                           placeholder="Søg…"/>
+                </div>
+
+                <div class="search-submit">
+                    <button type="submit" aria-label="Søgning">
+                        <i class="icon icon-magnifying-glass" aria-hidden="true"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+<script>
+    $(function () {
+        var searchForm = $("#search-everything");
+        var searchField = $(".search-field", searchForm);
+        searchForm.on("submit", function () {
+            var field = searchField.find("input");
+            var searchString = field.val();
+
+            // No enter key submit nothing :-)
+            if (!searchString) return false;
+
+            if (searchString.length >= 200) {
+                searchForm.attr("method", "post");
+                searchForm.attr("action", "/da/concepts/copypaste/");
+                field.attr("name", "text");
+            }
+        });
+    });
+</script>
+            </div>
+        
+
+
+        
+        
+            <div class="subMenu">
+                <div class="secondary">
+                    <div class="container">
+                        <nav id="main-navigation" aria-label="Hovednavigation" class="content-navigation three-third">
+                            <ul data-value="Mere" role="menubar" aria-label="Hovednavigation">
+                                <li class="" role="none">
+                                    <a href="/da/" role="menuitem" tabindex="-1">Forside</a>
+                                </li>
+
+                                
+                                    <li class="" role="none">
+                                        <a class="portal_link" tabindex="-1" role="menuitem" href="/da/persons/"><span>Profiler</span></a>
+                                    </li>
+                                
+                                    <li class="" role="none">
+                                        <a class="portal_link" tabindex="-1" role="menuitem" href="/da/projects/"><span>Projekter</span></a>
+                                    </li>
+                                
+                                    <li class="selected" role="none">
+                                        <a class="portal_link" tabindex="0" role="menuitem" href="/da/publications/"><span>Publikationer</span></a>
+                                    </li>
+                                
+                                    <li class="" role="none">
+                                        <a class="portal_link" tabindex="-1" role="menuitem" href="/da/activities/"><span>Aktiviteter</span></a>
+                                    </li>
+                                
+                                    <li class="" role="none">
+                                        <a class="portal_link" tabindex="-1" role="menuitem" href="/da/organisations/"><span>Enheder</span></a>
+                                    </li>
+                                
+                                    <li class="" role="none">
+                                        <a class="portal_link" tabindex="-1" role="menuitem" href="/da/equipments/"><span>Udstyr</span></a>
+                                    </li>
+                                
+                                    <li class="" role="none">
+                                        <a class="portal_link" tabindex="-1" role="menuitem" href="/da/clippings/"><span>Presse/medie</span></a>
+                                    </li>
+                                
+                                    <li class="" role="none">
+                                        <a class="portal_link" tabindex="-1" role="menuitem" href="/da/prizes/"><span>Priser</span></a>
+                                    </li>
+                                
+                                    <li class="" role="none">
+                                        <a class="portal_link" tabindex="-1" role="menuitem" href="/da/datasets/"><span>Forskningsdatasæt</span></a>
+                                    </li>
+                                
+                                    <li class="" role="none">
+                                        <a class="portal_link" tabindex="-1" role="menuitem" href="/da/impacts/"><span>Impacts</span></a>
+                                    </li>
+                                
+                            </ul>
+                        </nav>
+
+                    </div>
+                </div>
+            </div>
+        
+    </header>
+
+    <main id="page-content">
+        
+    <div class="page-section page-section-publications page-section-publications-view ">
+
+        
+        
+        
+        
+        <section
+                class="page-section-header page-section-header-publications page-section-header-publications-view
+                 no-backdrop-image"
+                data-stickyheader=""
+                style="">
+            
+            
+        
+
+
+<div class="container">
+    <div class="row">
+        <div class="introduction no-metrics">
+            <div class="rendering"><h1><span>Better Bang for the Buck? Generalizing Trust in Online Drug Markets</span></h1></div>
+            <div class="rendering rendering_researchoutput  rendering_researchoutput_associatespersonsclassifiedportal rendering_contributiontojournal rendering_associatespersonsclassifiedportal rendering_contributiontojournal_associatespersonsclassifiedportal"><ul class="relations persons"><li><a rel="Person" href="https://vbn.aau.dk/da/persons/ramuan/" class="link person"><span>Rasmus Munksgaard</span></a><sup>*</sup></li><li>, Jason A. Ferris</li><li>, Adam Winstock</li><li>, Larissa J. Maier</li><li>, Monica J. Barratt</li><div class="info-block"><div class="info"><sup>*</sup><span>Kontaktforfatter</span></div></div></div>
+            <div class="rendering rendering_researchoutput  rendering_researchoutput_associatesorganisationsportal rendering_contributiontojournal rendering_associatesorganisationsportal rendering_contributiontojournal_associatesorganisationsportal"><ul class="relations organisations"><li class="faculty"><a rel="Organisation" href="https://vbn.aau.dk/da/organisations/det-humanistiske-og-samfundsvidenskabelige-fakultet-2/" class="link"><span>Det Humanistiske og Samfundsvidenskabelige Fakultet</span></a></li><li class="researchgroup"><a rel="Organisation" href="https://vbn.aau.dk/da/organisations/castor-sociologisk-og-kriminologisk-forskning-om-social-different/" class="link"><span>CASTOR - Sociologisk og kriminologisk forskning om social differentiering og social kontrol</span></a></li></ul></div>
+            
+            <div class="rendering rendering_researchoutput  rendering_researchoutput_publicationcontenttyperendererportalng rendering_contributiontojournal rendering_publicationcontenttyperendererportalng rendering_contributiontojournal_publicationcontenttyperendererportalng"><p class="type"><span class="type_family">Publikation<span class="type_family_sep">: </span></span><span class="type_classification_parent">Bidrag til tidsskrift<span class="type_parent_sep"> › </span></span><span class="type_classification">Tidsskriftartikel</span><span class="type_classification"><span class="type_parent_sep"> › </span>Forskning</span><span class="type_classification"><span class="type_parent_sep"> › </span>peer review</span></p></div>
+        </div>
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="publication-metrics" role="region" aria-label="Afsnit med metrik til publikationer">
+        
+            <div class="metrics-container">
+                
+                    <div class="metrics-wrap metrics-top ">
+                        
+                            <div class="metric scopus-citations">
+                                
+                                    <a target="_blank" href="https://www.scopus.com/pages/publications/85150024495#tab=citedBy" aria-label="Kilde: Scopus: 16">
+                                
+                                <span class="count">16</span>
+                                
+                                    <span class="sr-only">&nbsp; Link åbnes på en ny fane</span> </a>
+                                
+                                <span class="label">Citationer
+(Scopus)</span>
+                            </div>
+                        
+                        
+                            <div class="metric metrics-downloads">
+                                <span class="count tooltipped tooltipped-n" aria-label="Samlet antal downloads">179</span>
+                                <span class="label">Downloads
+(Pure)</span>
+                            </div>
+                        
+                    </div>
+                
+                
+                    <div class="metrics-wrap metrics-bottom ">
+                        
+                            <div class="metric metric-plum-x">
+                                <a href="https://plu.mx/plum/a/?doi=10.1093/bjc/azac070" class="plumx-plum-print-popup" data-on-empty="plumXError" data-on-fail="plumXError" data-on-success="plumXSuccess" data-popup="left" data-hide-when-empty="true" data-site="plum"
+                                   data-badge="false"></a>
+                            </div>
+                        
+
+                        
+                            <div class="metric metric-altmetric">
+                                
+                                    <div data-badge-popover="top" data-badge-type="donut" data-doi="10.1093/bjc/azac070" data-hide-no-mentions="true" data-link-target='_blank'
+                                         class="altmetric-embed"></div>
+                                
+                            </div>
+                        
+                    </div>
+                
+            </div>
+        
+    </div>
+
+
+    </div>
+
+</div>
+<div class="subMenu">
+    <div class="content-profile-navigation">
+    <div class="container">
+        <nav role="navigation">
+            <ul role="menubar">
+                <li class="selected" role="none">
+                    <a class="portal_link" role="menuitem" href="/da/publications/better-bang-for-the-buck-generalizing-trust-in-online-drug-market-2/"><span>
+                        <i class="icon icon-publication" aria-hidden="true"></i>
+                        <span class="label">Oversigt</span>
+                    </span></a>
+                </li>
+                
+                    <li class="" role="none">
+                        <a class="portal_link" role="menuitem" href="/da/publications/better-bang-for-the-buck-generalizing-trust-in-online-drug-market-2/fingerprints/"><span>
+                            <i class="icon icon-fingerprint" aria-hidden="true"></i>
+                            <span class="label">Fingeraftryk</span>
+                        </span></a>
+                    </li>
+                
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+
+            </ul>
+        </nav>
+    </div>
+    </div>
+</div>
+
+    
+        </section>
+
+        <div id="main-content"
+             class="page-section-content page-section-content-publications page-section-content-publications-view  no-margin ">
+            
+        <section class="page-section content-relation-section">
+            <div class="container">
+                <div class="clearfix">
+                    <div class="content-content publication-content">
+                        
+                        
+                            <h2 class="subheader">Abstract</h2>
+                        <div class="rendering rendering_researchoutput  rendering_researchoutput_abstractportal rendering_contributiontojournal rendering_abstractportal rendering_contributiontojournal_abstractportal"><div class="textblock"><p>Past research into illicit online markets suggests that trust is produced by governance, reputation systems and the formation of social ties. In this paper, we draw on accounts of abstract and institutional trust, examining whether using a market is associated with general positive beliefs about product quality. Using data from the 2018 Global Drug Survey (n=25,471) we utilize propensity score matching and multilevel linear regression to examine the association between having purchased drugs online and general expectations about product quality in value, weight, purity and price. We find strong evidence of a positive association between general beliefs and individual experience. This suggests that trust in illicit online markets can extend beyond interpersonal relations and towards an abstract market.</p></div></div>
+                        <div class="rendering rendering_researchoutput  rendering_researchoutput_detailsportal rendering_contributiontojournal rendering_detailsportal rendering_contributiontojournal_detailsportal"><div class="article"><table class="properties"><tbody><tr class="language"><th scope="row">Originalsprog</th><td>Engelsk</td></tr><tr><th scope="row">Tidsskrift</th><td><a rel="Journal" href="#" class="link"><span>British Journal of Criminology</span></a></td></tr><tr><th scope="row">Vol/bind</th><td>63</td></tr><tr><th scope="row">Udgave nummer</th><td>4</td></tr><tr><th scope="row">Sider (fra-til)</th><td>906-928</td></tr><tr><th scope="row">Antal sider</th><td>23</td></tr><tr><th scope="row">ISSN</th><td>0007-0955</td></tr><tr class="digital_object_identifiers"><th scope="row">DOI</th><td><ul class="relations digital_object_identifiers"><li><a onclick="window.open(this.href, '_blank','noopener,noreferrer'); return false;" href="https://doi.org/10.1093/bjc/azac070" class="link"><span>https://doi.org/10.1093/bjc/azac070</span></a> </li></ul></td></tr><tr class="status"><th scope="row">Status</th><td><span class="prefix">Udgivet - </span><span class="date">1 jul. 2023</span></td></tr></tbody></table></div></div>
+                        <div class="rendering rendering_researchoutput  rendering_researchoutput_publicationbibliographicalnoteportalrenderer rendering_contributiontojournal rendering_publicationbibliographicalnoteportalrenderer rendering_contributiontojournal_publicationbibliographicalnoteportalrenderer"><h3 class="subheader">Bibliografisk note</h3>Funding Information:<br />We are grateful to each of the participants who gave so generously of their time to complete the Global Drug Survey 2018. We are indebted to each of our long list of world media and harm reduction partners for the promotion of GDS (see www.globaldrugsurvey.com ). Rasmus Munksgaard is grateful to the Université de Montréal École de Criminologie for providing a writing grant. <br /><br />Funding Information:<br />This project was funded by the Australian National Health and Medical Research Council (APP1122200). The National Drug and Alcohol Research Centre is supported by funding from the Australian Government under the Drug and Alcohol Program.<br /><br />Publisher Copyright:<br />© 2022 The Author(s). Published by Oxford University Press on behalf of the Centre for Crime and Justice Studies (ISTD). All rights reserved.</div>
+
+                        
+
+                        
+
+                        <div class="rendering rendering_keywordable rendering_expertkeywordgrouspbytypeportal rendering_keywordable_expertkeywordgrouspbytypeportal"></div>
+
+                    </div>
+
+                    <div class="content-sidebar publication-sidebar">
+                        
+                            <h2 class="subheader">Adgang til dokumentet</h2>
+                        <div class="rendering rendering_researchoutput  rendering_researchoutput_publicationaccessrenderer rendering_contributiontojournal rendering_publicationaccessrenderer rendering_contributiontojournal_publicationaccessrenderer"><ul class="dois"><li><div class="doi"><a onclick="window.open(this.href, '_blank','noopener,noreferrer'); return false;" href="https://doi.org/10.1093/bjc/azac070" class="link"><span>10.1093/bjc/azac070</span></a></div></li></ul><ul class="documents"><li class="open-access"><div class="document"><a onclick="if (this.href) {window.open(this.href)}; return false;" href="/files/551317439/Accepted_manuscript.pdf" class="link document-link"><span>Accepted manuscript</span></a><span class="meta">Accepteret manuskript, 751 KB</span></div></li></ul></div>
+
+                        <div class="rendering rendering_researchoutput  rendering_researchoutput_publicationsfxportalrenderer rendering_contributiontojournal rendering_publicationsfxportalrenderer rendering_contributiontojournal_publicationsfxportalrenderer"><h2 class="subheader">AUB Link</h2><span class="sfx"><a href="https://kbdk-aub.primo.exlibrisgroup.com/openurl/45KBDK_AUB/45KBDK_AUB:AUB?ctx_ver=Z39.88-2004&amp;ctx_tim=2026-09-28T23%3A02%3A05UTC&amp;ctx_enc=info%3Aofi%2FencUTF-8&amp;url_ver=Z39.88-2004&amp;url_ctx_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Actx&amp;rft.genre=article&amp;rft_val_fmt=info%3Aofi%2Fkev%3Afmt%3Ajournal&amp;rfr_id=info%3Asid%2Fpure.atira.dk%3Apure&amp;rft.atitle=Better%20Bang%20for%20the%20Buck%3F%20Generalizing%20Trust%20in%20Online%20Drug%20Markets&amp;rft_id=info%3Adoi%2F10.1093%2Fbjc%2Fazac070&amp;rft.aulast=Munksgaard&amp;rft.aufirst=Rasmus&amp;rft.auinit=R&amp;rft.date=2023-07-01&amp;rft.volume=63&amp;rft.issue=4&amp;rft.issn=0007-0955&amp;rft.jtitle=British%20Journal%20of%20Criminology&amp;rft.pages=906-928">Søg efter materialet i Aalborg Universitetsbiblioteks søgemaskine</a></span></div>
+
+                        
+
+                        
+                            <h2 class="subheader">Andre filer og links</h2>
+                        <div class="rendering rendering_researchoutput  rendering_researchoutput_publicationotherfilesandlinksrenderer rendering_contributiontojournal rendering_publicationotherfilesandlinksrenderer rendering_contributiontojournal_publicationotherfilesandlinksrenderer"><ul class="links"><li><div class="link"><a onclick="window.open(this.href, '_blank','noopener,noreferrer'); return false;" href="https://www.scopus.com/pages/publications/85150024495" class="link"><span>Link to publication in Scopus</span></a></div></li></ul></div>
+
+                        <div class="rendering rendering_researchoutput  rendering_researchoutput_versioneddocumentspureportal rendering_contributiontojournal rendering_versioneddocumentspureportal rendering_contributiontojournal_versioneddocumentspureportal"><ul class="relations documents"></ul></div>
+
+                        
+
+
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+            <section class="page-section content-relation-section publication-fingerprint">
+                <div class="container">
+                    <div class="header">
+                        <h2 class="section-title">
+                            <i class="icon icon-fingerprint" aria-hidden="true"></i>
+                            <span class="title">Fingeraftryk</span>
+                        </h2>
+                        <span class="sub-title">
+                            Dyk ned i forskningsemnerne om 'Better Bang for the Buck? Generalizing Trust in Online Drug Markets'. Sammen danner de et unikt fingeraftryk.
+                        </span>
+                    </div>
+
+                    <ul class="publication-top-concepts" role="menubar"  aria-label="Relaterede fingerprints">
+                        
+                            <li class="concept-badge-large-container dropdown-overflow" role="none">
+
+    <button tabindex="0"
+            class="concept-badge-large dropdown-toggle"
+            type="button"
+            role="menuitem"
+            aria-haspopup="true"
+            aria-expanded="false"
+            aria-controls="9aba25d2-6a14-4255-8fb3-dc34d7061cc2"
+            data-concept-uuid="9aba25d2-6a14-4255-8fb3-dc34d7061cc2"
+            data-rank-size="32"
+            data-rank-thickness="8"
+            data-rank-value="1.0"
+            data-summary="true"
+            data-summary-url="/da/concepts/summary/">
+        <span class="concept-wrapper" title="100%">
+            <span class="rank"></span>
+            <span class="concept">Product Quality</span>
+            <span class="thesauri">Keyphrases</span>
+            <span class="value sr-only">100%</span>
+        </span>
+    </button>
+
+    <div class="dropdown-container"></div>
+
+</li>
+                        
+                            <li class="concept-badge-large-container dropdown-overflow" role="none">
+
+    <button tabindex="0"
+            class="concept-badge-large dropdown-toggle"
+            type="button"
+            role="menuitem"
+            aria-haspopup="true"
+            aria-expanded="false"
+            aria-controls="1c01cc4d-e472-4f2e-abcc-40ec22066946"
+            data-concept-uuid="1c01cc4d-e472-4f2e-abcc-40ec22066946"
+            data-rank-size="32"
+            data-rank-thickness="8"
+            data-rank-value="1.0"
+            data-summary="true"
+            data-summary-url="/da/concepts/summary/">
+        <span class="concept-wrapper" title="100%">
+            <span class="rank"></span>
+            <span class="concept">Online Drug Markets</span>
+            <span class="thesauri">Keyphrases</span>
+            <span class="value sr-only">100%</span>
+        </span>
+    </button>
+
+    <div class="dropdown-container"></div>
+
+</li>
+                        
+                            <li class="concept-badge-large-container dropdown-overflow" role="none">
+
+    <button tabindex="0"
+            class="concept-badge-large dropdown-toggle"
+            type="button"
+            role="menuitem"
+            aria-haspopup="true"
+            aria-expanded="false"
+            aria-controls="beb12024-a2cc-41a5-82ed-28898a8c1742"
+            data-concept-uuid="beb12024-a2cc-41a5-82ed-28898a8c1742"
+            data-rank-size="32"
+            data-rank-thickness="8"
+            data-rank-value="1.0"
+            data-summary="true"
+            data-summary-url="/da/concepts/summary/">
+        <span class="concept-wrapper" title="100%">
+            <span class="rank"></span>
+            <span class="concept">Illicit Online Markets</span>
+            <span class="thesauri">Keyphrases</span>
+            <span class="value sr-only">100%</span>
+        </span>
+    </button>
+
+    <div class="dropdown-container"></div>
+
+</li>
+                        
+                            <li class="concept-badge-large-container dropdown-overflow" role="none">
+
+    <button tabindex="0"
+            class="concept-badge-large dropdown-toggle"
+            type="button"
+            role="menuitem"
+            aria-haspopup="true"
+            aria-expanded="false"
+            aria-controls="2c5f52b7-bd61-42a8-9ed0-5c809c972d50"
+            data-concept-uuid="2c5f52b7-bd61-42a8-9ed0-5c809c972d50"
+            data-rank-size="32"
+            data-rank-thickness="8"
+            data-rank-value="1.0"
+            data-summary="true"
+            data-summary-url="/da/concepts/summary/">
+        <span class="concept-wrapper" title="100%">
+            <span class="rank"></span>
+            <span class="concept">Propensity Score</span>
+            <span class="thesauri">Social Sciences</span>
+            <span class="value sr-only">100%</span>
+        </span>
+    </button>
+
+    <div class="dropdown-container"></div>
+
+</li>
+                        
+                            <li class="concept-badge-large-container dropdown-overflow" role="none">
+
+    <button tabindex="0"
+            class="concept-badge-large dropdown-toggle"
+            type="button"
+            role="menuitem"
+            aria-haspopup="true"
+            aria-expanded="false"
+            aria-controls="612c69ad-a922-4b26-9c45-02e61d34c2ab"
+            data-concept-uuid="612c69ad-a922-4b26-9c45-02e61d34c2ab"
+            data-rank-size="32"
+            data-rank-thickness="8"
+            data-rank-value="1.0"
+            data-summary="true"
+            data-summary-url="/da/concepts/summary/">
+        <span class="concept-wrapper" title="100%">
+            <span class="rank"></span>
+            <span class="concept">Interpersonal Relations</span>
+            <span class="thesauri">Social Sciences</span>
+            <span class="value sr-only">100%</span>
+        </span>
+    </button>
+
+    <div class="dropdown-container"></div>
+
+</li>
+                        
+                            <li class="concept-badge-large-container dropdown-overflow" role="none">
+
+    <button tabindex="0"
+            class="concept-badge-large dropdown-toggle"
+            type="button"
+            role="menuitem"
+            aria-haspopup="true"
+            aria-expanded="false"
+            aria-controls="e80e4c58-2b82-4389-b224-c1c14abe8801"
+            data-concept-uuid="e80e4c58-2b82-4389-b224-c1c14abe8801"
+            data-rank-size="32"
+            data-rank-thickness="8"
+            data-rank-value="1.0"
+            data-summary="true"
+            data-summary-url="/da/concepts/summary/">
+        <span class="concept-wrapper" title="100%">
+            <span class="rank"></span>
+            <span class="concept">Institutional Trust</span>
+            <span class="thesauri">Social Sciences</span>
+            <span class="value sr-only">100%</span>
+        </span>
+    </button>
+
+    <div class="dropdown-container"></div>
+
+</li>
+                        
+                            <li class="concept-badge-large-container dropdown-overflow" role="none">
+
+    <button tabindex="0"
+            class="concept-badge-large dropdown-toggle"
+            type="button"
+            role="menuitem"
+            aria-haspopup="true"
+            aria-expanded="false"
+            aria-controls="9da75850-fdb8-4544-a598-986b745636ca"
+            data-concept-uuid="9da75850-fdb8-4544-a598-986b745636ca"
+            data-rank-size="32"
+            data-rank-thickness="8"
+            data-rank-value="1.0"
+            data-summary="true"
+            data-summary-url="/da/concepts/summary/">
+        <span class="concept-wrapper" title="100%">
+            <span class="rank"></span>
+            <span class="concept">Linear Regression Analysis</span>
+            <span class="thesauri">Social Sciences</span>
+            <span class="value sr-only">100%</span>
+        </span>
+    </button>
+
+    <div class="dropdown-container"></div>
+
+</li>
+                        
+                            <li class="concept-badge-large-container dropdown-overflow" role="none">
+
+    <button tabindex="0"
+            class="concept-badge-large dropdown-toggle"
+            type="button"
+            role="menuitem"
+            aria-haspopup="true"
+            aria-expanded="false"
+            aria-controls="7f839e1a-ce3e-4069-a9c3-cb8f14a4e627"
+            data-concept-uuid="7f839e1a-ce3e-4069-a9c3-cb8f14a4e627"
+            data-rank-size="32"
+            data-rank-thickness="8"
+            data-rank-value="1.0"
+            data-summary="true"
+            data-summary-url="/da/concepts/summary/">
+        <span class="concept-wrapper" title="100%">
+            <span class="rank"></span>
+            <span class="concept">Strong Evidence</span>
+            <span class="thesauri">Mathematics</span>
+            <span class="value sr-only">100%</span>
+        </span>
+    </button>
+
+    <div class="dropdown-container"></div>
+
+</li>
+                        
+                    </ul>
+                    <div class="footer">
+                        <div class="view-all align-center">
+                            <a class="portal_link btn-primary btn-large btn-content-link" href="/da/publications/better-bang-for-the-buck-generalizing-trust-in-online-drug-market-2/fingerprints/"><span>
+                                Se fuldt fingeraftryk
+                                <i class="icon icon-right-open-mini" aria-hidden="true"></i>
+                            </span></a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        
+
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+        <section class="page-section cite">
+            <div class="container">
+                <section class="publication-cite" aria-labelledby="publications-cite-title">
+    <h2 class="subheader" id="publications-cite-title">Citationsformater</h2>
+    <ul class="tabs" role="tablist" aria-label="Citationsformater">
+        
+            <li class="selected" role="tab" id="tab-0" aria-controls="cite-apa" tabindex="-1"  aria-selected="false" >
+                APA
+            </li>
+        
+            <li class="" role="tab" id="tab-1" aria-controls="cite-author" tabindex="-1"  aria-selected="false" >
+                Author
+            </li>
+        
+            <li class="" role="tab" id="tab-2" aria-controls="cite-BIBTEX" tabindex="-1"  aria-selected="false" >
+                BIBTEX
+            </li>
+        
+            <li class="" role="tab" id="tab-3" aria-controls="cite-harvard" tabindex="-1"  aria-selected="false" >
+                Harvard
+            </li>
+        
+            <li class="" role="tab" id="tab-4" aria-controls="cite-standard" tabindex="-1"  aria-selected="false" >
+                Standard
+            </li>
+        
+            <li class="" role="tab" id="tab-5" aria-controls="cite-RIS" tabindex="-1"  aria-selected="false" >
+                RIS
+            </li>
+        
+            <li class="" role="tab" id="tab-6" aria-controls="cite-vancouver" tabindex="-1"  aria-selected="false" >
+                Vancouver
+            </li>
+        
+    </ul>
+    <div class="tab-container">
+        
+            <div id="cite-apa" class="tab selected" role="tabpanel" aria-labelledby="tab-0" tabindex="-1" aria-hidden="true">
+                <div class="rendering rendering_researchoutput  rendering_researchoutput_apa rendering_contributiontojournal rendering_apa rendering_contributiontojournal_apa"><a rel="Person" href="https://vbn.aau.dk/da/persons/ramuan/" class="link"><span>Munksgaard, R.</span></a>, Ferris, J. A., Winstock, A., Maier, L. J., &amp; Barratt, M. J. (2023). <a rel="ContributionToJournal" href="https://vbn.aau.dk/da/publications/better-bang-for-the-buck-generalizing-trust-in-online-drug-market-2/" class="link"><span>Better Bang for the Buck? Generalizing Trust in Online Drug Markets</span></a>. <span><em>British Journal of Criminology</em></span>, <em>63</em>(4), 906-928. <a onclick="window.open(this.href, '_blank','noopener,noreferrer'); return false;" href="https://doi.org/10.1093/bjc/azac070" class="link"><span>https://doi.org/10.1093/bjc/azac070</span></a></div>
+            </div>
+        
+            <div id="cite-author" class="tab " role="tabpanel" aria-labelledby="tab-1" tabindex="-1" aria-hidden="true">
+                <div class="rendering rendering_researchoutput  rendering_researchoutput_author rendering_contributiontojournal rendering_author rendering_contributiontojournal_author"><a rel="Person" href="https://vbn.aau.dk/da/persons/ramuan/" class="link"><span>Munksgaard, Rasmus</span></a> ; Ferris, Jason A. ; Winstock, Adam et al. / <a rel="ContributionToJournal" href="https://vbn.aau.dk/da/publications/better-bang-for-the-buck-generalizing-trust-in-online-drug-market-2/" class="link"><span><strong>Better Bang for the Buck? Generalizing Trust in Online Drug Markets</strong></span></a>. I: <a rel="Journal" href="#" class="link"><span>British Journal of Criminology</span></a>. 2023 ; Bind 63, Nr. 4. s. 906-928.</div>
+            </div>
+        
+            <div id="cite-BIBTEX" class="tab " role="tabpanel" aria-labelledby="tab-2" tabindex="-1" aria-hidden="true">
+                <div class="rendering rendering_researchoutput  rendering_researchoutput_bibtex rendering_contributiontojournal rendering_bibtex rendering_contributiontojournal_bibtex"><div>@article{d1ee167e82d243228ce54afe882257ed,</div><div>  title     = "Better Bang for the Buck? Generalizing Trust in Online Drug Markets",</div><div>  abstract  = "Past research into illicit online markets suggests that trust is produced by governance, reputation systems and the formation of social ties. In this paper, we draw on accounts of abstract and institutional trust, examining whether using a market is associated with general positive beliefs about product quality. Using data from the 2018 Global Drug Survey (n=25,471) we utilize propensity score matching and multilevel linear regression to examine the association between having purchased drugs online and general expectations about product quality in value, weight, purity and price. We find strong evidence of a positive association between general beliefs and individual experience. This suggests that trust in illicit online markets can extend beyond interpersonal relations and towards an abstract market.",</div><div>  keywords  = "cryptomarkets, darknet, drug markets, drug supply, illicit markets, trust",</div><div>  author    = "Rasmus Munksgaard and Ferris, \{Jason A.\} and Adam Winstock and Maier, \{Larissa J.\} and Barratt, \{Monica J.\}",</div><div>  note      = "Publisher Copyright: {\textcopyright} 2022 The Author(s). Published by Oxford University Press on behalf of the Centre for Crime and Justice Studies (ISTD). All rights reserved.",</div><div>  year      = "2023",</div><div>  month     = jul,</div><div>  day       = "1",</div><div>  doi       = "10.1093/bjc/azac070",</div><div>  language  = "English",</div><div>  volume    = "63",</div><div>  pages     = "906--928",</div><div>  journal   = "British Journal of Criminology",</div><div>  issn      = "0007-0955",</div><div>  publisher = "Oxford University Press",</div><div>  number    = "4",</div><p>}</p></div>
+            </div>
+        
+            <div id="cite-harvard" class="tab " role="tabpanel" aria-labelledby="tab-3" tabindex="-1" aria-hidden="true">
+                <div class="rendering rendering_researchoutput  rendering_researchoutput_harvard rendering_contributiontojournal rendering_harvard rendering_contributiontojournal_harvard"><a rel="Person" href="https://vbn.aau.dk/da/persons/ramuan/" class="link"><span>Munksgaard, R</span></a>, Ferris, JA, Winstock, A, Maier, LJ &amp; Barratt, MJ 2023, '<a rel="ContributionToJournal" href="https://vbn.aau.dk/da/publications/better-bang-for-the-buck-generalizing-trust-in-online-drug-market-2/" class="link harvard_title"><span>Better Bang for the Buck? Generalizing Trust in Online Drug Markets</span></a>', <span><em>British Journal of Criminology</em></span>, bind 63, nr. 4, s. 906-928. <a onclick="window.open(this.href, '_blank','noopener,noreferrer'); return false;" href="https://doi.org/10.1093/bjc/azac070" class="link"><span>https://doi.org/10.1093/bjc/azac070</span></a></div>
+            </div>
+        
+            <div id="cite-standard" class="tab " role="tabpanel" aria-labelledby="tab-4" tabindex="-1" aria-hidden="true">
+                <div class="rendering rendering_researchoutput  rendering_researchoutput_standard rendering_contributiontojournal rendering_standard rendering_contributiontojournal_standard"><a rel="ContributionToJournal" href="https://vbn.aau.dk/da/publications/better-bang-for-the-buck-generalizing-trust-in-online-drug-market-2/" class="link"><span><strong>Better Bang for the Buck? Generalizing Trust in Online Drug Markets.</strong></span></a> / <a rel="Person" href="https://vbn.aau.dk/da/persons/ramuan/" class="link"><span>Munksgaard, Rasmus</span></a>; Ferris, Jason A.; Winstock, Adam et al. <br />I: <span>British Journal of Criminology</span>, Bind 63, Nr. 4, 01.07.2023, s. 906-928.<p class="type"><span class="type_family">Publikation<span class="type_family_sep">: </span></span><span class="type_classification_parent">Bidrag til tidsskrift<span class="type_parent_sep"> › </span></span><span class="type_classification">Tidsskriftartikel</span><span class="type_classification"><span class="type_parent_sep"> › </span>Forskning</span><span class="type_classification"><span class="type_parent_sep"> › </span>peer review</span></p></div>
+            </div>
+        
+            <div id="cite-RIS" class="tab " role="tabpanel" aria-labelledby="tab-5" tabindex="-1" aria-hidden="true">
+                <div class="rendering rendering_researchoutput  rendering_researchoutput_ris rendering_contributiontojournal rendering_ris rendering_contributiontojournal_ris"><p>TY  - JOUR</p><p>T1  - Better Bang for the Buck? Generalizing Trust in Online Drug Markets</p><p>AU  - Munksgaard, Rasmus</p><p>AU  - Ferris, Jason A.</p><p>AU  - Winstock, Adam</p><p>AU  - Maier, Larissa J.</p><p>AU  - Barratt, Monica J.</p><p>N1  - Publisher Copyright:
+© 2022 The Author(s). Published by Oxford University Press on behalf of the Centre for Crime and Justice Studies (ISTD). All rights reserved.</p><p>PY  - 2023/7/1</p><p>Y1  - 2023/7/1</p><p>N2  - Past research into illicit online markets suggests that trust is produced by governance, reputation systems and the formation of social ties. In this paper, we draw on accounts of abstract and institutional trust, examining whether using a market is associated with general positive beliefs about product quality. Using data from the 2018 Global Drug Survey (n=25,471) we utilize propensity score matching and multilevel linear regression to examine the association between having purchased drugs online and general expectations about product quality in value, weight, purity and price. We find strong evidence of a positive association between general beliefs and individual experience. This suggests that trust in illicit online markets can extend beyond interpersonal relations and towards an abstract market.</p><p>AB  - Past research into illicit online markets suggests that trust is produced by governance, reputation systems and the formation of social ties. In this paper, we draw on accounts of abstract and institutional trust, examining whether using a market is associated with general positive beliefs about product quality. Using data from the 2018 Global Drug Survey (n=25,471) we utilize propensity score matching and multilevel linear regression to examine the association between having purchased drugs online and general expectations about product quality in value, weight, purity and price. We find strong evidence of a positive association between general beliefs and individual experience. This suggests that trust in illicit online markets can extend beyond interpersonal relations and towards an abstract market.</p><p>KW  - cryptomarkets</p><p>KW  - darknet</p><p>KW  - drug markets</p><p>KW  - drug supply</p><p>KW  - illicit markets</p><p>KW  - trust</p><p>UR  - https://www.scopus.com/pages/publications/85150024495</p><p>U2  - 10.1093/bjc/azac070</p><p>DO  - 10.1093/bjc/azac070</p><p>M3  - Journal article</p><p>AN  - SCOPUS:85150024495</p><p>SN  - 0007-0955</p><p>VL  - 63</p><p>SP  - 906</p><p>EP  - 928</p><p>JO  - British Journal of Criminology</p><p>JF  - British Journal of Criminology</p><p>IS  - 4</p><p>ER  - </p></div>
+            </div>
+        
+            <div id="cite-vancouver" class="tab " role="tabpanel" aria-labelledby="tab-6" tabindex="-1" aria-hidden="true">
+                <div class="rendering rendering_researchoutput  rendering_researchoutput_vancouver rendering_contributiontojournal rendering_vancouver rendering_contributiontojournal_vancouver"><a rel="Person" href="https://vbn.aau.dk/da/persons/ramuan/" class="link"><span>Munksgaard R</span></a>, Ferris JA, Winstock A, Maier LJ, Barratt MJ. <span class="title"><a rel="ContributionToJournal" href="https://vbn.aau.dk/da/publications/better-bang-for-the-buck-generalizing-trust-in-online-drug-market-2/" class="link"><span>Better Bang for the Buck? Generalizing Trust in Online Drug Markets</span></a></span>. <span>British Journal of Criminology</span>. 2023 jul. 1;63(4):906-928. doi: 10.1093/bjc/azac070</div>
+            </div>
+        
+
+        <script>
+            $(function() {
+                $(".tab-container .rendering a:not([href^='http://dx.doi.org'])").contents().unwrap();
+            });
+        </script>
+    </div>
+</section>
+
+            </div>
+        </section>
+        <script>
+    $(function () {
+        if($('.publication-sidebar').length > 0){
+            if($('a.document-link').length === 0){
+                $(".metrics-top").addClass("one");
+                $('div.metrics-downloads').remove();
+            }
+        }
+    });
+
+    function plumXError(e) {
+        $(e).closest('.metric-plum-x').closest('.metrics-bottom').addClass('one');
+        $(e).closest('.metric-plum-x').remove();
+    }
+    $('div.altmetric-embed').on('altmetric:hide', function () {
+        $(this).closest('.metric-altmetric').closest('.metrics-bottom').addClass('one');
+        $(this).closest('.metric-altmetric').remove();
+    });
+</script>
+        
+
+
+
+    
+    
+    
+    
+    
+    
+
+    
+        
+        
+        
+    
+
+    <div class="share-box">
+        <ul>
+            <li class="icon-share"></li>
+            <li><a aria-label="Del på Facebook"
+                   href="https://www.facebook.com/sharer.php?u=https://vbn.aau.dk/da/publications/better-bang-for-the-buck-generalizing-trust-in-online-drug-market-2/%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dsharelink%26doi%3D10.1093%2Fbjc%2Fazac070&p[summary]=Tjek+denne+publikation+ud+p%C3%A5+Aalborg+Universitets+forskningsportal%3A+Better+Bang+for+the+Buck%3F+Generalizing+Trust+in+Online+Drug+Markets"
+                   class="icon-facebook"
+                   onclick="window.location.origin('https://www.facebook.com/sharer.php?u=https://vbn.aau.dk/da/publications/better-bang-for-the-buck-generalizing-trust-in-online-drug-market-2/%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dsharelink%26doi%3D10.1093%2Fbjc%2Fazac070&p[summary]=Tjek+denne+publikation+ud+p%C3%A5+Aalborg+Universitets+forskningsportal%3A+Better+Bang+for+the+Buck%3F+Generalizing+Trust+in+Online+Drug+Markets', 'Facebook', 'width=600,height=600,scrollbars=no,resizable=no');
+                   return false;" target="popup"></a></li>
+            <li><a aria-label="Del på X"
+                   href="https://twitter.com/intent/tweet?url=https://vbn.aau.dk/da/publications/better-bang-for-the-buck-generalizing-trust-in-online-drug-market-2/%3Futm_source%3Dtwitter%26utm_medium%3Dsocial%26utm_campaign%3Dsharelink%26doi%3D10.1093%2Fbjc%2Fazac070&text=Tjek+denne+publikation+ud+p%C3%A5+Aalborg+Universitets+forskningsportal%3A+Better+Bang+for+the+Buck%3F+Generalizing+Trust+in+Online+Drug+Markets"
+                   onclick="window.location.origin('https://twitter.com/intent/tweet?url=https://vbn.aau.dk/da/publications/better-bang-for-the-buck-generalizing-trust-in-online-drug-market-2/%3Futm_source%3Dtwitter%26utm_medium%3Dsocial%26utm_campaign%3Dsharelink%26doi%3D10.1093%2Fbjc%2Fazac070&text=Tjek+denne+publikation+ud+p%C3%A5+Aalborg+Universitets+forskningsportal%3A+Better+Bang+for+the+Buck%3F+Generalizing+Trust+in+Online+Drug+Markets doi%3A10.1093%2Fbjc%2Fazac070', 'Twitter', 'width=600,height=600,scrollbars=no,resizable=no');
+                   return false;" class="twitter" target="popup"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 300 271">
+                    
+                    <path d="m236 0h46l-101 115 118 156h-92.6l-72.5-94.8-83 94.8h-46l107-123-113-148h94.9l65.5 86.6zm-16.1 244h25.5l-165-218h-27.4z"></path>
+                </svg></a></li>
+            <li><a aria-label="Del på LinkedIn"
+                   href="https://www.linkedin.com/shareArticle?mini=true&url=https://vbn.aau.dk/da/publications/better-bang-for-the-buck-generalizing-trust-in-online-drug-market-2/%3Futm_source%3Dlinkedin%26utm_medium%3Dsocial%26utm_campaign%3Dsharelink%26doi%3D10.1093%2Fbjc%2Fazac070&summary=Tjek+denne+publikation+ud+p%C3%A5+Aalborg+Universitets+forskningsportal%3A+Better+Bang+for+the+Buck%3F+Generalizing+Trust+in+Online+Drug+Markets"
+                   onclick="window.location.origin('https://www.linkedin.com/shareArticle?mini=true&url=https://vbn.aau.dk/da/publications/better-bang-for-the-buck-generalizing-trust-in-online-drug-market-2/%3Futm_source%3Dlinkedin%26utm_medium%3Dsocial%26utm_campaign%3Dsharelink%26doi%3D10.1093%2Fbjc%2Fazac070&summary=Tjek+denne+publikation+ud+p%C3%A5+Aalborg+Universitets+forskningsportal%3A+Better+Bang+for+the+Buck%3F+Generalizing+Trust+in+Online+Drug+Markets doi%3A10.1093%2Fbjc%2Fazac070', 'LinkedIn', 'width=600,height=600,scrollbars=no,resizable=no');
+                   return false;" class="icon-linkedin" target="popup"></a></li>
+            <li><a aria-label="Del via e-mail" href="/cdn-cgi/l/email-protection#fec18d8b9c949b9d8ac3bc9b8a8a9b8cdbcccebc9f9099dbccce98918cdbccce8a969bdbcccebc8b9d95dbcdb8dbccceb99b909b8c9f929784979099dbccceaa8c8b8d8adbccce9790dbccceb1909297909bdbccceba8c8b99dbccceb39f8c959b8a8dd89c919a87c3aa949b95dbccce9a9b90909bdbccce8e8b9c9297959f8a979190dbccce8b9adbccce8edbbdcddbbfcbdbcccebf9f929c918c99dbccceab9097889b8c8d978a9b8a8ddbccce98918c8d95909790998d8e918c8a9f92dbcdbfdbcccebc9b8a8a9b8cdbcccebc9f9099dbccce98918cdbccce8a969bdbcccebc8b9d95dbcdb8dbccceb99b909b8c9f929784979099dbccceaa8c8b8d8adbccce9790dbccceb1909297909bdbccceba8c8b99dbccceb39f8c959b8a8dde82de968a8a8e8dc4d1d1889c90d09f9f8bd09a95d19a9fd18e8b9c92979d9f8a9791908dd19c9b8a8a9b8cd39c9f9099d398918cd38a969bd39c8b9d95d3999b909b8c9f929784979099d38a8c8b8d8ad39790d391909297909bd39a8c8b99d3939f8c959b8ad3ccd1c18b8a93a18d918b8c9d9bc39b939f9792d89f938ec58b8a93a1939b9a978b93c39b939f9792d89f938ec58b8a93a19d9f938e9f979990c38d969f8c9b92979095" class="icon-email"></a></li>
+        </ul>
+    </div>
+
+
+
+
+    
+        </div>
+    </div>
+
+    <div id="new-modal-overlay"></div>
+    
+    </main>
+
+    <footer id="page-footer" class="main-footer">
+        <div class="container">
+            <div class="footer-wrapper">
+                <div class="content-navigation three-third">
+                    <div dir="ltr" class="footer-columns">
+                        
+                            <div class="footer-column">
+                                <div class="footer-icon">
+                                    <img src="/skin/footerIcon/" alt="Aalborg Universitets forskningsportal Logo"/>
+                                </div>
+                            </div>
+                        
+                        <div class="footer-column">
+                            <p>
+                                Drevet af <a href="http://www.elsevier.com/online-tools/research-intelligence/products-and-services/pure">Pure</a>, <a href="http://www.scopus.com/">Scopus</a> & <a href="https://www.elsevier.com/products/elsevier-fingerprint-engine">Elsevier Fingerprint Engine&trade;</a>
+                            </p>
+
+                            <p>
+                                Alt indhold på dette websted: Copyright © 2026 Aalborg Universitets forskningsportal, dets licensgivere og bidragydere. Alle rettigheder forbeholdes, herunder dem til tekst- og datamining, AI-træning og lignende teknologier. For alt Open Access indhold gælder de relevante licensbetingelser.
+                            </p>
+
+                            <p>Vi bruger cookies til at hjælpe med at tilvejebringe og forbedre vores service og tilpasse indhold. Ved at fortsætte accepterer du <a href="/da/about/cookies/">brug af cookies</a></p>
+                            <p><button id="ot-sdk-btn" class="ot-sdk-show-settings"></button></p>
+                            
+                                <p><a href="https://vbn.aau.dk/admin/workspace.xhtml" rel="nofollow" target="_blank">Log ind i Pure <span class="sr-only">&nbsp; Link åbnes på en ny fane</span></a></p>
+                            
+                            <p></p>
+                        </div>
+
+                        <div class="footer-column">
+                            
+                            
+                            
+                                <p><a href="/da/web-accessibility/" rel="nofollow" target="_blank">Om webtilgængelighed <span class="sr-only">&nbsp; Link åbnes på en ny fane</span></a></p>
+                            
+
+                            <p>
+                                
+                            </p>
+
+                            <p>
+                                
+                            </p>
+
+                            <p>
+                                <a href="https://elsevier.responsibledisclosure.com/hc/en-us/requests/new" target="_blank" rel="nofollow">Rapport sårbarhed <span class="sr-only">&nbsp; Link åbnes på en ny fane</span></a>
+                            </p>
+                        </div>
+
+                        
+                            <div class="footer-column">
+                                
+                                    
+                                        <p><a href="/cdn-cgi/l/email-protection#6f190d012f0e1a0d410e0e1a410b04"> Kontakt os</a></p>
+                                    
+                                
+
+                            </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="back-to-top">
+            <a href="#" class="back-to-top" aria-label="Gå til toppen"><i class="icon icon-up-open"></i></a>
+        </div>
+    </footer>
+
+
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="//d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+
+
+
+    
+
+    
+
+
+<script>window.appData = window.appData || [];</script><script type="text/javascript">
+try {(function() {
+appData.push({...{"page":{"businessUnit":"ELS:RP:ST","cmsName":"Pure Portal","environment":"prod","language":"da","loadTime":"220","loadTimestamp":"1791124608114","name":"pure portal:publications:view","noTracking":"false","productName":"PR","type":"CP-CA"},"visitor":{"accountId":"","accountName":"pr:Aalborg Universitet","ipAddress":"","accessType":"pr:ANON_GUEST","loginStatus":"anonymous"},"content":[{"id":"d1ee167e-82d2-4322-8ce5-4afe882257ed","title":"Better Bang for the Buck? Generalizing Trust in Online Drug Markets","recordType":"researchoutput"}]}, event: "pageLoad"});})();} catch(e) {if(console) { console.log(e) } }</script>
+<script>function trackPage(){try {(function() {
+window.appData = window.appData || [];
+})();} catch(e) {if(console) { console.log(e) } }}</script>
+
+</body>
+</html>
+

@@ -1,0 +1,2618 @@
+
+<!DOCTYPE html>
+<html lang="en" >
+    <head >
+
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="HandheldFriendly" content="True" />
+        <meta name="MobileOptimized" content="320" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        
+        
+
+        
+        
+  <link  rel="stylesheet" href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/assets/base_style-BxRs1iOp.css" />
+<script type="module" crossorigin="" src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/assets/base_style-D-jH62-1.js"></script>
+
+  <link  rel="stylesheet" href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/assets/article_style-B67IZFds.css" />
+<link  rel="stylesheet" href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/assets/style-D77LS1kY.css" />
+<script type="module" crossorigin="" src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/assets/article_style-CTAd1LmM.js"></script>
+
+  
+  
+    <style>
+  
+  
+  @media screen and (min-width: 64em) {
+    div.pmc-wm {
+      background: repeat-y;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='350' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Cdefs%3E%3Cfilter x='-.02' y='0' width='1.05' height='1' id='c'%3E%3CfeFlood flood-color='%23FFF'/%3E%3CfeComposite in='SourceGraphic'/%3E%3C/filter%3E%3Ctext id='b' font-family='Helvetica' font-size='11pt' style='opacity:1;fill:%23005ea2;stroke:none;text-anchor:middle' x='175' y='14'%3EAuthor Manuscript%3C/text%3E%3Cpath id='a' style='fill:%23005ea2' d='M0 8h350v3H0z'/%3E%3C/defs%3E%3Cuse xlink:href='%23a' transform='rotate(90 10 10)'/%3E%3Cuse xlink:href='%23b' transform='rotate(90 10 10)' filter='url(%23c)'/%3E%3C/svg%3E");
+      padding-left: 3rem;
+    }
+  }
+</style>
+
+  
+
+
+
+        
+            <link rel="apple-touch-icon"
+                  sizes="180x180"
+                  href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/favicons/apple-touch-icon.png" />
+            <link rel="icon"
+                  type="image/png"
+                  sizes="48x48"
+                  href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/favicons/favicon-48x48.png" />
+            <link rel="icon"
+                  type="image/png"
+                  sizes="32x32"
+                  href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/favicons/favicon-32x32.png" />
+            <link rel="icon"
+                  type="image/png"
+                  sizes="16x16"
+                  href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/favicons/favicon-16x16.png" />
+            <link rel="manifest" href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/favicons/site.webmanifest" />
+            <link rel="mask-icon"
+                  href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/favicons/safari-pinned-tab.svg"
+                  color="#0071bc" />
+            <meta name="msapplication-config"
+                  content="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/favicons/browserconfig.xml" />
+            <meta name="theme-color" content="#ffffff" />
+        
+
+        <title>
+            Illicit fentanyls in the opioid street market: desired or imposed? - PMC
+        </title>
+
+        
+        
+  
+  <!-- Logging params: Pinger defaults -->
+<meta name="ncbi_app" content="cloudpmc-viewer" />
+<meta name="ncbi_db" content="pmc" />
+<meta name="ncbi_phid" content="96391AB7AC25FE230B1AB70044B1B88B.m_1" />
+<meta name="ncbi_pinger_stat_url" content="https://pmc.ncbi.nlm.nih.gov/stat" />
+<!-- Logging params: Pinger custom -->
+<meta name="ncbi_pdid" content="article" />
+  
+    <link rel="preconnect" href="https://www.google-analytics.com" />
+
+    
+        <link rel="preconnect" href="https://cdn.ncbi.nlm.nih.gov" />
+    
+
+    <!-- Include USWDS Init Script -->
+    <script src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/assets/uswds-init.js"></script>
+
+
+    <meta name="ncbi_domain" content="nihpa">
+<meta name="ncbi_type" content="fulltext">
+<meta name="ncbi_pcid" content="manuscript">
+<link rel="canonical" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6548693/">
+<meta name="robots" content="INDEX,NOFOLLOW,NOARCHIVE">
+<meta name="citation_journal_title" content="Addiction (Abingdon, England)">
+<meta name="citation_title" content="Illicit fentanyls in the opioid street market: desired or imposed?">
+<meta name="citation_author" content="Sarah G Mars">
+<meta name="citation_author_institution" content="Department of Family and Community Medicine, University of California San Francisco, CA, USA">
+<meta name="citation_author" content="Daniel Rosenblum">
+<meta name="citation_author_institution" content="Department of Economics, Dalhousie University, Halifax, NS, Canada">
+<meta name="citation_author" content="Daniel Ciccarone">
+<meta name="citation_author_institution" content="Department of Family and Community Medicine, University of California San Francisco, CA, USA">
+<meta name="citation_publication_date" content="2018 Dec 4">
+<meta name="citation_volume" content="114">
+<meta name="citation_issue" content="5">
+<meta name="citation_firstpage" content="774">
+<meta name="citation_doi" content="10.1111/add.14474">
+<meta name="citation_pmid" content="30512204">
+<meta name="citation_abstract_html_url" content="https://pmc.ncbi.nlm.nih.gov/articles/PMC6548693/">
+<meta name="citation_fulltext_html_url" content="https://pmc.ncbi.nlm.nih.gov/articles/PMC6548693/">
+<meta name="citation_pdf_url" content="https://pmc.ncbi.nlm.nih.gov/articles/PMC6548693/pdf/nihms-1001711.pdf">
+<meta name="description" content="Illicitly manufactured fentanyl and its analogues are appearing in countries throughout the world, often disguised as heroin or counterfeit prescription pills, with resulting high overdose mortality. Possible explanations for this phenomenon include ...">
+<meta name="og:title" content="Illicit fentanyls in the opioid street market: desired or imposed?">
+<meta name="og:type" content="article">
+<meta name="og:site_name" content="PubMed Central (PMC)">
+<meta name="og:description" content="Illicitly manufactured fentanyl and its analogues are appearing in countries throughout the world, often disguised as heroin or counterfeit prescription pills, with resulting high overdose mortality. Possible explanations for this phenomenon include ...">
+<meta name="og:url" content="https://pmc.ncbi.nlm.nih.gov/articles/PMC6548693/">
+<meta name="og:image" content="https://cdn.ncbi.nlm.nih.gov/pmc/cms/images/pmc-card-share.jpg?_=0">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@ncbi">
+    
+    
+
+    </head>
+    <body >
+        
+    <a class="usa-skipnav " href="#main-content">
+      Skip to main content
+    </a>
+
+
+        
+            
+
+<section class="usa-banner " aria-label="Official website of the United States government" >
+    <div class="usa-accordion">
+        <header class="usa-banner__header">
+            <div class="usa-banner__inner">
+                <div class="grid-col-auto">
+                    <img aria-hidden="true"
+                         class="usa-banner__header-flag"
+                         src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/us_flag.svg"
+                         alt="" />
+                </div>
+
+                <div class="grid-col-fill tablet:grid-col-auto" aria-hidden="true">
+                    <p class="usa-banner__header-text">
+                        An official website of the United States government
+                    </p>
+                    <span class="usa-banner__header-action">Here's how you know</span>
+                </div>
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="button"
+        
+    
+    class="usa-accordion__button usa-banner__button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           
+           "
+    aria-expanded="false"
+    aria-controls="gov-banner-default"
+    
+    data-testid="storybook-django-banner"
+    
+    >
+    
+        
+
+        
+                    <span class="usa-banner__button-text">Here's how you know</span>
+                
+
+        
+    
+        
+            </button>
+        
+
+
+            </div>
+        </header>
+
+        <div class="usa-banner__content usa-accordion__content"
+             id="gov-banner-default"
+             hidden>
+            <div class="grid-row grid-gap-lg">
+                <div class="usa-banner__guidance tablet:grid-col-6">
+                    <img class="usa-banner__icon usa-media-block__img"
+                         src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-dot-gov.svg"
+                         alt=""
+                         aria-hidden="true" />
+                    <div class="usa-media-block__body">
+                        <p>
+                            <strong>Official websites use .gov</strong>
+                            <br />
+                            A
+                            <strong>.gov</strong> website belongs to an official
+                            government organization in the United States.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="usa-banner__guidance tablet:grid-col-6">
+                    <img class="usa-banner__icon usa-media-block__img"
+                         src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-https.svg"
+                         alt=""
+                         aria-hidden="true" />
+
+                    <div class="usa-media-block__body">
+                        <p>
+                            <strong>Secure .gov websites use HTTPS</strong>
+                            <br />
+                            A <strong>lock</strong> (
+                            <span class="icon-lock">
+                                <svg xmlns="http://www.w3.org/2000/svg"
+                                     width="52"
+                                     height="64"
+                                     viewBox="0 0 52 64"
+                                     class="usa-banner__lock-image"
+                                     role="graphics-symbol"
+                                     aria-labelledby="banner-lock-description"
+                                     focusable="false">
+                                    <title id="banner-lock-title">Lock</title>
+                                    <desc id="banner-lock-description">
+                                    Locked padlock icon
+                                    </desc>
+                                    <path fill="#000000"
+                                          fill-rule="evenodd"
+                                          d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z" />
+                                </svg>
+</span>) or <strong>https://</strong> means you've safely
+                                connected to the .gov website. Share sensitive
+                                information only on official, secure websites.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+        
+
+        
+    
+    
+    
+
+<div class="usa-overlay">
+</div>
+
+
+
+<header class="usa-header usa-header--extended usa-header--wide" data-header data-testid="header"    >
+    <div class="ncbi-header">
+        <div class="ncbi-header__container">
+            <a class="ncbi-header__logo-container"
+               href="https://www.ncbi.nlm.nih.gov/">
+                <img alt="NCBI home page"
+                     class="ncbi-header__logo-image"
+                     src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/ncbi-logos/nih-nlm-ncbi--white.svg"
+                     width="410"
+                     height="100" />
+            </a>
+
+            <!-- Mobile menu hamburger button -->
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="button"
+        
+    
+    class="usa-menu-btn ncbi-header__hamburger-button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           
+           "
+    
+    
+    aria-label="Show menu"
+    data-testid="navMenuButton"
+    
+    >
+    
+        
+
+        
+                <svg aria-hidden="true"
+                     class="ncbi-hamburger-icon"
+                     fill="none"
+                     focusable="false"
+                     height="21"
+                     viewBox="0 0 31 21"
+                     width="31"
+                     xmlns="http://www.w3.org/2000/svg">
+                    <path clip-rule="evenodd"
+                          d="M0.125 20.75H30.875V17.3333H0.125V20.75ZM0.125 12.2083H30.875V8.79167H0.125V12.2083ZM0.125 0.25V3.66667H30.875V0.25H0.125Z"
+                          fill="#F1F1F1"
+                          fill-rule="evenodd" />
+                </svg>
+            
+
+        
+    
+        
+            </button>
+        
+
+
+
+            
+                <!-- Desktop buttons-->
+                <div class="ncbi-header__desktop-buttons">
+                    
+                        <!-- Desktop search button -->
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="button"
+        
+    
+    class="usa-button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           usa-button--unstyled ncbi-header__desktop-button
+           "
+    aria-expanded="false"
+    aria-controls="search-field-desktop-navigation"
+    aria-label="Show search overlay"
+    data-testid="toggleSearchPanelButton"
+    data-toggle-search-panel-button
+    >
+    
+        
+
+        
+                            
+
+
+
+    <img
+        src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/search.svg"
+        class="usa-icon "
+        aria-hidden="true"
+        
+        
+    />
+
+
+                            Search
+                        
+
+        
+    
+        
+            </button>
+        
+
+
+                    
+
+                    <!-- Desktop login dropdown -->
+                    
+                        <div class="ncbi-header__login-dropdown">
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="button"
+        
+    
+    class="usa-button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           usa-button--unstyled ncbi-header__desktop-button ncbi-header__login-dropdown-button
+           "
+    aria-expanded="false"
+    aria-controls="login-dropdown-menu"
+    aria-label="Show login menu"
+    data-testid="toggleLoginMenuDropdown"
+    data-desktop-login-button
+    >
+    
+        
+
+        
+                                
+
+
+
+    <img
+        src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/person.svg"
+        class="usa-icon "
+        aria-hidden="true"
+        
+        
+    />
+
+
+
+                                <span data-login-dropdown-text>Log in</span>
+
+                                <!-- Dropdown icon pointing up -->
+                                
+
+
+
+    <img
+        src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/expand_less.svg"
+        class="usa-icon ncbi-header__login-dropdown-icon ncbi-header__login-dropdown-icon--expand-less ncbi-header__login-dropdown-icon--hidden"
+        aria-hidden="true"
+        data-login-dropdown-up-arrow
+        
+    />
+
+
+
+                                <!-- Dropdown icon pointing down -->
+                                
+
+
+
+    <img
+        src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/expand_more.svg"
+        class="usa-icon ncbi-header__login-dropdown-icon ncbi-header__login-dropdown-icon--expand-more ncbi-header__login-dropdown-icon--hidden"
+        aria-hidden="true"
+        data-login-dropdown-down-arrow
+        
+    />
+
+
+                            
+
+        
+    
+        
+            </button>
+        
+
+
+
+                            <!-- Login dropdown menu -->
+                            <ul class="usa-nav__submenu ncbi-header__login-dropdown-menu"
+                                id="login-dropdown-menu"
+                                data-desktop-login-menu-dropdown
+                                hidden>
+                                
+                                    <li class="usa-nav__submenu-item">
+                                        <!-- Uses custom style overrides to render external and document links. -->
+                                        
+
+
+
+
+
+
+
+
+
+    <a href="https://www.ncbi.nlm.nih.gov/myncbi/" class="usa-link  "  >
+        
+
+        
+            Dashboard
+        
+
+        
+    </a>
+
+
+                                    </li>
+                                
+                                    <li class="usa-nav__submenu-item">
+                                        <!-- Uses custom style overrides to render external and document links. -->
+                                        
+
+
+
+
+
+
+
+
+
+    <a href="https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/" class="usa-link  "  >
+        
+
+        
+            Publications
+        
+
+        
+    </a>
+
+
+                                    </li>
+                                
+                                    <li class="usa-nav__submenu-item">
+                                        <!-- Uses custom style overrides to render external and document links. -->
+                                        
+
+
+
+
+
+
+
+
+
+    <a href="https://www.ncbi.nlm.nih.gov/account/settings/" class="usa-link  "  >
+        
+
+        
+            Account settings
+        
+
+        
+    </a>
+
+
+                                    </li>
+                                
+                                <li class="usa-nav__submenu-item">
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="button"
+        
+    
+    class="usa-button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           usa-button--outline ncbi-header__login-dropdown-logout-button
+           "
+    
+    
+    
+    data-testid="desktopLogoutButton"
+    data-desktop-logout-button
+    >
+    
+        
+
+        Log out
+
+        
+    
+        
+            </button>
+        
+
+
+                                </li>
+                            </ul>
+                        </div>
+                    
+                </div>
+            
+        </div>
+    </div>
+
+    <!-- Search panel -->
+    
+        <div class="ncbi-search-panel ncbi--show-only-at-desktop"
+             data-header-search-panel
+             hidden>
+            <div class="ncbi-search-panel__container">
+                <form action="https://www.ncbi.nlm.nih.gov/search/all/"
+                      
+                      autocomplete="off"
+                      class="usa-search usa-search--big ncbi-search-panel__form"
+                      data-testid="desktop-navigation-search-form"
+                      method="GET"
+                      role="search">
+                    <label class="usa-sr-only" for="search-field-desktop-navigation">
+                        Search…
+                    </label>
+                    <input class="usa-input"
+                           id="search-field-desktop-navigation"
+                           name="term"
+                           
+                               placeholder="Search NCBI"
+                           
+                           type="search"
+                           value="" />
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="submit"
+        
+    
+    class="usa-button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           
+           "
+    
+    
+    
+    
+    
+    >
+    
+        
+
+        
+                        <span class="usa-search__submit-text">
+                            Search NCBI
+                        </span>
+                    
+
+        
+    
+        
+            </button>
+        
+
+
+                </form>
+
+                
+            </div>
+        </div>
+    
+
+    <nav aria-label="Primary navigation" class="usa-nav">
+        <p class="usa-sr-only" id="primary-navigation-sr-only-title">
+            Primary site navigation
+        </p>
+
+        <!-- Mobile menu close button -->
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="button"
+        
+    
+    class="usa-nav__close ncbi-nav__close-button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           
+           "
+    
+    
+    aria-label="Close navigation menu"
+    data-testid="navCloseButton"
+    
+    >
+    
+        
+
+        
+            <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg" alt="Close" />
+        
+
+        
+    
+        
+            </button>
+        
+
+
+
+        
+            <!-- Mobile search component -->
+            <form class="usa-search usa-search--small ncbi--hide-at-desktop"
+                  action="https://www.ncbi.nlm.nih.gov/search/all/"
+                  
+                  autocomplete="off"
+                  data-testid="mobile-navigation-search-form"
+                  method="GET"
+                  role="search">
+                <label class="usa-sr-only" for="search-field-mobile-navigation">
+                    Search
+                </label>
+
+                <input class="usa-input"
+                       id="search-field-mobile-navigation"
+                       type="search"
+                       
+                           placeholder="Search NCBI"
+                       
+                       name="term" />
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="submit"
+        
+    
+    class="usa-button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           
+           "
+    
+    
+    
+    
+    
+    >
+    
+        
+
+        
+                    <!-- This SVG should be kept inline and not replaced with a link to the icon as otherwise it will render in the wrong color -->
+                    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0Ij48cGF0aCBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIi8+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE1LjUgMTRoLS43OWwtLjI4LS4yN0E2LjQ3MSA2LjQ3MSAwIDAgMCAxNiA5LjUgNi41IDYuNSAwIDEgMCA5LjUgMTZjMS42MSAwIDMuMDktLjU5IDQuMjMtMS41N2wuMjcuMjh2Ljc5bDUgNC45OUwyMC40OSAxOWwtNC45OS01em0tNiAwQzcuMDEgMTQgNSAxMS45OSA1IDkuNVM3LjAxIDUgOS41IDUgMTQgNy4wMSAxNCA5LjUgMTEuOTkgMTQgOS41IDE0eiIvPjwvc3ZnPg=="
+                         class="usa-search__submit-icon"
+                         alt="Search" />
+                
+
+        
+    
+        
+            </button>
+        
+
+
+            </form>
+
+            
+        
+
+        <!-- Primary navigation menu items -->
+        <!-- This usa-nav__inner wrapper is required to correctly style the navigation items on Desktop -->
+        
+
+        
+            <div class="ncbi-nav__mobile-login-menu ncbi--hide-at-desktop"
+                 data-mobile-login-menu
+                 hidden>
+                <p class="ncbi-nav__mobile-login-menu-status">
+                    Logged in as:
+                    <strong class="ncbi-nav__mobile-login-menu-email"
+                            data-mobile-login-email-text></strong>
+                </p>
+                <ul class="usa-nav__primary usa-accordion">
+                    
+                        <li class="usa-nav__primary-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.ncbi.nlm.nih.gov/myncbi/" class="usa-link  "  >
+        
+
+        
+            Dashboard
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="usa-nav__primary-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/" class="usa-link  "  >
+        
+
+        
+            Publications
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="usa-nav__primary-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.ncbi.nlm.nih.gov/account/settings/" class="usa-link  "  >
+        
+
+        
+            Account settings
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                </ul>
+            </div>
+        
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="button"
+        
+    
+    class="usa-button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           ncbi-nav__mobile-login-button ncbi--hide-at-desktop
+           "
+    
+    
+    
+    data-testid="mobileLoginButton"
+    data-mobile-login-button
+    >
+    
+        
+
+        Log in
+
+        
+    
+        
+            </button>
+        
+
+
+    </nav>
+</header>
+
+    
+    
+        
+
+<section class="pmc-header pmc-header--basic" aria-label="PMC Header with search box">
+    <div class="pmc-nav-container">
+        <div class="pmc-header__bar">
+           <div class="pmc-header__logo">
+               <a href="/" title="Home" aria-label="PMC Home"></a>
+           </div>
+            <button
+                    type="button"
+                    class="usa-button usa-button--unstyled pmc-header__search__button"
+                    aria-label="Open search"
+                    data-ga-category="search"
+                    data-ga-action="PMC"
+                    data-ga-label="pmc_search_panel_mobile"
+            >
+                <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/search.svg" alt="PMC search open icon" aria-hidden="true" class="usa-icon usa-icon--size-4 pmc-icon__open" />
+                <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg" alt="PMC search close ison" aria-hidden="true" class="usa-icon usa-icon--size-4 pmc-icon__close" />
+            </button>
+        </div>
+        <div class="pmc-header__search">
+            
+
+
+<form class="usa-search usa-search--extra usa-search--article-right-column  pmc-header__search__form" id="pmc-search-form" autocomplete="off" role="search">
+<label class="usa-sr-only" for="pmc-search">Search PMC Full-Text Archive</label>
+<span class="autoComplete_wrapper flex-1">
+<input class="usa-input width-full maxw-none" required="required" placeholder="Search PMC Full-Text Archive" id="pmc-search"  type="search" name="term" data-autocomplete-url="https://pmc.ncbi.nlm.nih.gov/autocomp/search/autocomp/"/>
+</span>
+<button
+class="usa-button"
+type="submit"
+formaction="https://pmc.ncbi.nlm.nih.gov/search/"
+data-ga-category="search"
+data-ga-action="PMC"
+data-ga-label="PMC_search_button"
+>
+<span class="usa-search__submit-text">Search in PMC</span>
+<img
+src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons-bg/search--white.svg"
+class="usa-search__submit-icon"
+alt="Search"
+/>
+</button>
+</form>
+            <div class="display-flex flex-column tablet:flex-row tablet:flex-justify flex-justify-center flex-align-center width-full desktop:maxw-44">
+                <ul class="pmc-header__search__menu">
+                    <li>
+                        
+                            <a class="usa-link" href="/journals/" data-ga-action="featured_link" data-ga-label="journal list">
+                                Journal List
+                            </a>
+                        
+                    </li>
+                    <li>
+                        
+                            <a class="usa-link" href="/about/userguide/" data-ga-action="featured_link"
+                            data-ga-label="user guide">
+                                User Guide
+                            </a>
+                        
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+    
+
+
+        
+        
+
+       
+  <div class="usa-section padding-top-0 desktop:padding-top-6 pmc-article-section" data-article-db="pmc" data-article-id="6548693">
+
+    
+
+   
+
+
+
+<div class="grid-container pmc-actions-bar" aria-label="Actions bar" role="complementary">
+    <div class="grid-row">
+        <div class="grid-col-fill display-flex">
+             <div class="display-flex">
+                <ul class="usa-list usa-list--unstyled usa-list--horizontal">
+                    <li class="margin-right-2 mobile-lg:margin-right-4 display-flex mob">
+                        <button
+                                type="button"
+                                class="usa-button pmc-sidenav__container__open usa-button--unstyled width-auto display-flex"
+                                aria-label="Open resources"
+                                data-extra-class="is-visible-resources"
+                                data-ga-category="resources_accordion"
+                                data-ga-action="click"
+                                data-ga-label="mobile_icon"
+                        >
+                            <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/more_vert.svg" alt="Open resources icon" class="usa-icon usa-icon--size-4 usa-icon--link" />
+                        </button>
+                    </li>
+                    
+                    <li class="margin-right-2 mobile-lg:margin-right-4 display-flex mob">
+                        <a
+                                href="https://doi.org/10.1111/add.14474"
+                                class="usa-link display-flex usa-tooltip"
+                                role="button"
+                                target="_blank"
+                                rel="noreferrer noopener"
+                                title="View on publisher site"
+                                data-position="bottom"
+                                aria-label="View on publisher site"
+                                data-ga-category="actions"
+                                data-ga-action="click"
+                                data-ga-label="publisher_link_mobile"
+                        >
+                                <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/launch.svg" alt="View on publisher site icon" class="usa-icon usa-icon--size-4 usa-icon--link" />
+                        </a>
+                    </li>
+                    
+                    
+                        <li class="margin-right-2 mobile-lg:margin-right-4 display-flex">
+                             <a
+                                     href="pdf/nihms-1001711.pdf"
+                                     class="usa-link display-flex usa-tooltip"
+                                     role="button"
+                                     title="Download PDF"
+                                     data-position="bottom"
+                                     aria-label="Download PDF"
+                                     data-ga-category="actions"
+                                     data-ga-action="click"
+                                     data-ga-label="pdf_download_mobile"
+                             >
+
+                                 <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg" alt="Download PDF icon" aria-hidden="true" class="usa-icon usa-icon--size-4 usa-icon--link" />
+                            </a>
+                        </li>
+                    
+                    <li class="margin-right-2 mobile-lg:margin-right-4 display-flex">
+                        <button
+                            class="usa-button usa-button--unstyled  usa-tooltip collections-dialog-trigger collections-button display-flex collections-button-empty"
+                            title="Add to Collections"
+                            data-position="bottom"
+                            aria-label="Save article in MyNCBI collections."
+                            data-ga-category="actions"
+                            data-ga-action="click"
+                            data-ga-label="collections_button_mobile"
+                            data-collections-open-dialog-enabled="false"
+                            data-collections-open-dialog-url="https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpmc.ncbi.nlm.nih.gov%2Farticles%2FPMC6548693%2F%23open-collections-dialog"
+                            data-in-collections="false"
+                        >
+                            <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-full.svg" alt="Collections icon" aria-hidden="true" class="usa-icon usa-icon--size-4 usa-icon--link usa-icon--bookmark-full" />
+                            <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-empty.svg" alt="Collections icon" aria-hidden="true" class="usa-icon usa-icon--size-4 usa-icon--link usa-icon--bookmark-empty" />
+                        </button>
+                    </li>
+                    
+                    <li class="margin-right-2 mobile-lg:margin-right-4 display-flex">
+                        <button role="button" class="usa-button usa-button--unstyled usa-tooltip citation-dialog-trigger display-flex"
+                            aria-label="Open dialog with citation text in different styles"
+                            title="Cite"
+                            data-position="bottom"
+                            data-ga-category="actions"
+                            data-ga-action="open"
+                            data-ga-label="cite_mobile"
+                            data-all-citations-url="/resources/citations/6548693/"
+                            data-citation-style="nlm"
+                            data-download-format-link="/resources/citations/6548693/export/"
+                        >
+                            <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/format_quote.svg" alt="Cite icon" aria-hidden="true" class="usa-icon usa-icon--size-4 usa-icon--link" />
+                        </button>
+                    </li>
+                    
+                    <li class="pmc-permalink display-flex" >
+                         <button
+                                 type="button"
+                                 title="Permalink"
+                                 data-position="bottom"
+                                 class="usa-button usa-button--unstyled display-flex usa-tooltip"
+                                 aria-label="Show article permalink"
+                                 aria-expanded="false"
+                                 aria-haspopup="true"
+                                 data-ga-category="actions"
+                                 data-ga-action="open"
+                                 data-ga-label="permalink_mobile"
+                         >
+                            <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/share.svg" alt="Show article permalink icon" aria-hidden="true" class="usa-icon usa-icon--size-4 usa-icon--link" />
+                        </button>
+                        
+
+<div class="pmc-permalink__dropdown" hidden>
+    <div class="pmc-permalink__dropdown__container">
+          <h2 class="usa-modal__heading margin-top-0 margin-bottom-2 text-uppercase font-sans-xs">PERMALINK</h2>
+          <div class="pmc-permalink__dropdown__content">
+              <input type="text" class="usa-input" value="https://pmc.ncbi.nlm.nih.gov/articles/PMC6548693/" aria-label="Article permalink">
+              <button class="usa-button display-inline-flex pmc-permalink__dropdown__copy__btn margin-right-0" title="Copy article permalink" data-ga-category="save_share" data-ga-action="link" data-ga-label="copy_link">
+                  <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg" alt="Copy icon" aria-hidden="true" class="usa-icon usa-icon--white" />
+                  <span class="margin-left-1">Copy</span>
+              </button>
+          </div>
+    </div>
+</div>
+                    </li>
+                </ul>
+            </div>
+            <button
+                    type="button"
+                    class="usa-button pmc-sidenav__container__open usa-button--unstyled width-auto display-flex"
+                    aria-label="Open article navigation"
+                    data-extra-class="is-visible-in-page"
+                    data-ga-category="actions"
+                    data-ga-action="open"
+                    data-ga-label="article_nav_mobile"
+            >
+                <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/list.svg" alt="Open article navigation icon" aria-hidden="true" class="usa-icon usa-icon--size-4 usa-icon--link" />
+            </button>
+        </div>
+    </div>
+</div>
+    <div class="grid-container desktop:padding-left-6">
+      <div id="article-container" class="grid-row grid-gap">
+        <div class="grid-col-12 desktop:grid-col-8 order-2 pmc-layout__content">
+            <div class="grid-container padding-left-0 padding-right-0">
+                <div class="grid-row desktop:margin-left-neg-6">
+                    <div class="grid-col-12">
+                        <div class="pmc-layout__disclaimer" role="complementary" aria-label="Disclaimer note">
+    As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+    the contents by NLM or the National Institutes of Health.<br/>
+    Learn more:
+    <a class="usa-link" data-ga-category="Link click" data-ga-action="Disclaimer" data-ga-label="New disclaimer box" href="/about/disclaimer/">PMC Disclaimer</a>
+    |
+    <a class="usa-link" data-ga-category="Link click" data-ga-action="PMC Copyright Notice" data-ga-label="New disclaimer box" href="/about/copyright/">
+        PMC Copyright Notice
+    </a>
+</div>
+                    </div>
+                </div>
+                <div class="grid-row pmc-wm desktop:margin-left-neg-6">
+                    <!-- Main content -->
+                    <main
+                      id="main-content"
+                      class="usa-layout-docs__main usa-layout-docs grid-col-12 pmc-layout pmc-prose padding-0"
+                    >
+
+                      
+                        <section class="pmc-journal-banner text-center line-height-none" aria-label="Journal banner"><img src="https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-nihpa.png" alt="NIHPA Author Manuscripts logo" usemap="#pmc-banner-imagemap" width="500" height="75"><map name="pmc-banner-imagemap"><area alt="Link to NIHPA Author Manuscripts" title="Link to NIHPA Author Manuscripts" shape="default" href="https://pmc.ncbi.nlm.nih.gov/about/public-access/" target="_blank" rel="noopener noreferrer"></map></section><article lang="en"><section aria-label="Article citation and metadata"><section class="pmc-layout__citation font-secondary font-xs"><div>
+<div class="display-inline-block"><button type="button" class="cursor-pointer text-no-underline bg-transparent border-0 padding-0 text-left margin-0 text-normal text-primary" aria-controls="journal_context_menu">Addiction</button></div>. Author manuscript; available in PMC: 2020 May 1.</div>
+<div>
+<em>Published in final edited form as: </em>Addiction. 2018 Dec 4;114(5):774–780. doi: <a href="https://doi.org/10.1111/add.14474" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">10.1111/add.14474</a>
+</div>
+<nav id="journal_context_menu" hidden="hidden"><ul class="menu-list font-family-ui" role="menu">
+<li role="presentation"><a href='https://pmc.ncbi.nlm.nih.gov/search/?term="Addiction"[jour]' class="usa-link" role="menuitem">Search in PMC</a></li>
+<li role="presentation"><a href='https://pubmed.ncbi.nlm.nih.gov/?term="Addiction"[jour]' lang="en" class="usa-link" role="menuitem">Search in PubMed</a></li>
+<li role="presentation"><a href='https://www.ncbi.nlm.nih.gov/nlmcatalog?term="Addiction"[Title%20Abbreviation]' class="usa-link" role="menuitem">View in NLM Catalog</a></li>
+<li role="presentation"><a href='?term="Addiction"[jour]' class="usa-link" role="menuitem" data-add-to-search="true">Add to search</a></li>
+</ul></nav></section><section class="front-matter"><div class="ameta p font-secondary font-xs">
+<hgroup><h1>Illicit fentanyls in the opioid street market: desired or imposed?</h1></hgroup><div class="cg p">
+<a href='https://pubmed.ncbi.nlm.nih.gov/?term="Mars%20SG"[Author]' class="usa-link" aria-describedby="id1"><span class="name western">Sarah G Mars</span></a><div hidden="hidden" id="id1">
+<h3><span class="name western">Sarah G Mars</span></h3>
+<div class="p">
+<sup>1</sup>Department of Family and Community Medicine, University of California San Francisco, CA, USA</div>
+<div class="p">Find articles by <a href='https://pubmed.ncbi.nlm.nih.gov/?term="Mars%20SG"[Author]' class="usa-link"><span class="name western">Sarah G Mars</span></a>
+</div>
+</div>
+<sup>1</sup>, <a href='https://pubmed.ncbi.nlm.nih.gov/?term="Rosenblum%20D"[Author]' class="usa-link" aria-describedby="id2"><span class="name western">Daniel Rosenblum</span></a><div hidden="hidden" id="id2">
+<h3><span class="name western">Daniel Rosenblum</span></h3>
+<div class="p">
+<sup>2</sup>Department of Economics, Dalhousie University, Halifax, NS, Canada</div>
+<div class="p">Find articles by <a href='https://pubmed.ncbi.nlm.nih.gov/?term="Rosenblum%20D"[Author]' class="usa-link"><span class="name western">Daniel Rosenblum</span></a>
+</div>
+</div>
+<sup>2</sup>, <a href='https://pubmed.ncbi.nlm.nih.gov/?term="Ciccarone%20D"[Author]' class="usa-link" aria-describedby="id3"><span class="name western">Daniel Ciccarone</span></a><div hidden="hidden" id="id3">
+<h3><span class="name western">Daniel Ciccarone</span></h3>
+<div class="p">
+<sup>1</sup>Department of Family and Community Medicine, University of California San Francisco, CA, USA</div>
+<div class="p">Find articles by <a href='https://pubmed.ncbi.nlm.nih.gov/?term="Ciccarone%20D"[Author]' class="usa-link"><span class="name western">Daniel Ciccarone</span></a>
+</div>
+</div>
+<sup>1</sup>
+</div>
+<ul class="d-buttons inline-list">
+<li><button class="d-button" aria-controls="aip_a" aria-expanded="false">Author information</button></li>
+<li><button class="d-button" aria-controls="anp_a" aria-expanded="false">Article notes</button></li>
+<li><button class="d-button" aria-controls="clp_a" aria-expanded="false">Copyright and License information</button></li>
+</ul>
+<div class="d-panels font-secondary-light">
+<div id="aip_a" class="d-panel p" style="display: none">
+<div class="p" id="A1">
+<sup>1</sup>Department of Family and Community Medicine, University of California San Francisco, CA, USA</div>
+<div id="A2">
+<sup>2</sup>Department of Economics, Dalhousie University, Halifax, NS, Canada</div>
+<div class="author-notes p"><div class="fn" id="CR1">
+<sup>✉</sup><p class="display-inline"><em>Correspondence to:</em> Sarah G. Mars, Department of Family and Community Medicine, University of California, 500 Parnassus Avenue, MUE3, San Francisco, CA 94143, USA. <span>sarah.mars@ucsf.edu</span></p>
+</div></div>
+</div>
+<div id="anp_a" class="d-panel p" style="display: none"><div class="notes p"><section id="historyarticle-meta1" class="history"><p>Issue date 2019 May.</p></section></div></div>
+<div id="clp_a" class="d-panel p" style="display: none"><div class="p"><a href="/about/copyright/" class="usa-link">PMC Copyright notice</a></div></div>
+</div>
+<div>PMCID: PMC6548693  NIHMSID: NIHMS1001711  PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/30512204/" class="usa-link">30512204</a>
+</div>
+<div class="ra xbox p" role="complementary" aria-label="Related or updated information about this article">
+<div>The publisher's version of this article is available at <a href="https://doi.org/10.1111/add.14474" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Addiction</a>
+</div>
+<div>See commentary "<a href="/articles/PMC9994535/" class="usa-link">Fentanyl: the many challenges ahead</a>" on page 785.</div>
+</div>
+</div></section></section><section aria-label="Article content"><section class="body main-article-body"><section class="abstract" id="ABS1"><h2>Abstract</h2>
+<section id="S1"><h3 class="pmc_sec_title">Background</h3>
+<p id="P1">Illicitly manufactured fentanyl and its analogues are appearing in countries throughout the world, often disguised as heroin or counterfeit prescription pills, with resulting high overdose mortality. Possible explanations for this phenomenon include reduced costs and risks to heroin suppliers, heroin shortages, user preferences for a strong, fast-acting opioid and the emergence of Dark Web cryptomarkets. This paper addresses these potential causes and asks three questions: (1) can users identify fentanyl; (2) do users desire fentanyl; and (3) if users want fentanyl, can they express this demand in a way that influences the supply?</p></section><section id="S2"><h3 class="pmc_sec_title">Argument/analysis</h3>
+<p id="P2">Existing evidence, while limited, suggests that some users can identify fentanyl, although not reliably, and some desire it, but because fentanyl is frequently marketed deceptively as other drugs, users lack information and choice to express demand effectively. Even when aware of fentanyl’s presence, drug users may lack fentanyl-free alternatives. Cryptomarkets, while difficult to quantify, appear to offer buyers greater information and competition than offline markets. However, access barriers and patterns of fentanyl-related health consequences make cryptomarkets unlikely sources of user influence on the fentanyl supply. Market condition data indicate heroin supply shocks and shortages prior to the introduction of fentanyl in the United States and parts of Europe, but the much lower production cost of fentanyl compared with heroin may be a more significant factor</p></section><section id="S3"><h3 class="pmc_sec_title">Conclusion</h3>
+<p id="P3">Current evidence points to a supply-led addition of fentanyl to the drug market in response to heroin supply shocks and shortages, changing prescription opioid availability and/or reduced costs and risks to suppliers. Current drug users in affected regions of the United States, Canada and Europe appear largely to lack both concrete knowledge of fentanyl’s presence in the drugs they buy and access to fentanyl-free alternatives.</p></section><section id="kwd-group1" class="kwd-group"><p><strong>Keywords:</strong> Demand-led, fentanyl, heroin, illicit opioids, markets, supply-led, supply shock, prescription opioids</p></section></section><section id="S4"><h2 class="pmc_sec_title">INTRODUCTION</h2>
+<p id="P4">Fentanyl was first synthesized in 1960 by Paul Janssen at his family’s pharmaceutical company in Belgium. Since Dr Janssen originated this opioid many analogues of varying potency have emerged, ranging from approximately three times the strength of morphine (acetyl-alpha-methyl fentanyl) to 10 000 times stronger (carfentanil) [<a href="#R1" class="usa-link" aria-describedby="R1">1</a>]. Like all opioids, fentanyl relieves pain and induces pleasure so, unsurprisingly, after its clinical introduction as an intravenous anesthetic in the early 1970s, diverted non-medical use followed and then illicit manufacture. Compared to heroin, fentanyl is 30–40 times more potent [<a href="#R2" class="usa-link" aria-describedby="R2">2</a>], has a faster onset and shorter half-life, characteristics important to its unfolding story.</p>
+<p id="P5">Unfortunately, it is often through overdose deaths that the presence of fentanyl in the drug supply becomes known, as was the case in the United States in 1979, when its illicit manufacture was first determined [<a href="#R3" class="usa-link" aria-describedby="R3">3</a>]. Where fentanyl testing is not routine in postmortem toxicology, or an unusual or novel analogue is involved, these occurrences may go undetected.</p>
+<p id="P6">Fentanyls represent a positive supply shock and a significant shift in the structural risk environment for opioid users [<a href="#R2" class="usa-link" aria-describedby="R2">2</a>]. In 2017 an estimated 29 000 people died from overdoses related to synthetic opioids,<sup><a href="#FN2" class="usa-link">1</a></sup> predominantly illicitly produced fentanyl, in the United States alone and the number may be higher [<a href="#R4" class="usa-link" aria-describedby="R4">4</a>–<a href="#R7" class="usa-link" aria-describedby="R7">7</a>]. The current largest wave of fentanyl in the street supply, dating from 2013 in the United States [<a href="#R8" class="usa-link" aria-describedby="R8">8</a>,<a href="#R9" class="usa-link" aria-describedby="R9">9</a>], is mostly illicitly manufactured with a far smaller contribution from diverted pharmaceutical supplies [<a href="#R10" class="usa-link" aria-describedby="R10">10</a>]. Fentanyl is now being found in European countries, Russia, Brazil and Canada [<a href="#R10" class="usa-link" aria-describedby="R10">10</a>–<a href="#R15" class="usa-link" aria-describedby="R15">15</a>]. In Europe, both illicitly manufactured and diverted sources are in play [<a href="#R12" class="usa-link" aria-describedby="R12">12</a>,<a href="#R14" class="usa-link" aria-describedby="R14">14</a>] but, with the exception of Estonia’s endemic supply, less widely distributed than in North America. Fentanyl deaths in Australia, while also rising, have been attributed to diverted pharmaceutical supplies [<a href="#R16" class="usa-link" aria-describedby="R16">16</a>]. This paper focuses solely on illicitly manufactured fentanyl and its analogues, referred to here simply as ‘fentanyl’.</p>
+<p id="P7">While opioids are not all created equal, for the purposes of dependent users they can substitute for each other; whether naturally occurring, such as morphine, semi-synthetic, such as heroin, or entirely synthetic, such as fentanyl, they all relieve withdrawal symptoms and pain, produce tolerance, depress respiration and a host of other desired and undesired effects. Some claim that users’ preference for fentanyl in North America has increased, driving demand, while also pointing to increased profits for suppliers as a motivating factor for their spread [<a href="#R17" class="usa-link" aria-describedby="R17">17</a>]. With the availability of a more potent, faster-acting substitute, are opioid users choosing fentanyl or is it being imposed upon them? Is it ‘demand-led’ or ‘supply-led’?</p>
+<p id="P8">By ‘demand-led’, we mean that producers think that at least some people will prefer and choose a product over existing substitutes; iPods could be argued to be ‘demand-led’ in the sense that Apple thought consumers wanted a better portable music-playing device. When proposing that the supply of fentanyl is ‘demand-led’, we mean that illicit opioid producers think that consumers prefer a stronger drug than what is available and thus manufactured fentanyl to fill that demand. If producers see a high demand for heroin and are substituting heroin with fentanyl as a cheaper, inferior product but are marketing it falsely as heroin, then fentanyl is not demand-led in this sense.</p>
+<p id="P9">Supply defines the other side of the market: for any price, firms are willing to sell a certain quantity of a product. In a competitive market, the higher the price, the more they would like to produce and sell. If suppliers are able to lower their costs of production by finding a cheaper input, firms will produce more at any given price. When one proposes that fentanyl’s emergence was ‘supply-led’, we take that to mean that it was adopted to reduce the costs of production and/or distribution.</p>
+<p id="P10">Where studied, the data show an unusual feature of the sale of fentanyl in both North America and parts of Europe: it is generally sold as ‘heroin’, as if fentanyl itself were an insignificant adulterant or not present at all [<a href="#R18" class="usa-link" aria-describedby="R18">18</a>–<a href="#R21" class="usa-link" aria-describedby="R21">21</a>]. Sometimes the ambiguous term ‘China White’ is used, which can refer to either heroin, historically from Southeast Asia, or a synthetic replacement. Chemical analysis shows that in some drug samples sold as heroin both heroin and fentanyl are present; in others, and possibly increasingly so, only fentanyl [<a href="#R10" class="usa-link" aria-describedby="R10">10</a>,<a href="#R22" class="usa-link" aria-describedby="R22">22</a>]. Fentanyl is sometimes also the active ingredient in counterfeit branded prescription opioid and benzodiazepine pills [<a href="#R13" class="usa-link" aria-describedby="R13">13</a>,<a href="#R23" class="usa-link" aria-describedby="R23">23</a>,<a href="#R24" class="usa-link" aria-describedby="R24">24</a>].</p>
+<p id="P11">This disguised sale complicates our ability to determine whether users like these drugs or not, but also suggests that those supplying them are relying on demand for the named drug to sell their products, i.e. heroin, <em>OxyContin</em>, <em>Xanax</em>, etc. By contrast, in some markets, such as Estonia, fentanyl appears to be sold as such, with users aware of what they are consuming [<a href="#R25" class="usa-link" aria-describedby="R25">25</a>]. Fentanyl is also found mixed with cocaine, crystal methamphetamine and other drugs [<a href="#R20" class="usa-link" aria-describedby="R20">20</a>,<a href="#R26" class="usa-link" aria-describedby="R26">26</a>].</p>
+<p id="P12">To answer the question of whether demand from users is spurring suppliers to sell fentanyl or users are being supplied with something they would not select, given the choice, requires three further questions. (1) Can users identify fentanyl? To some degree, but not reliably. (2) Do users desire fentanyl? The evidence is mixed. (3) If users want fentanyl, can they express this demand in a way that influences the supply? For the most part, we consider that the answer is ‘no’. These conclusions are preliminary, as the quantity and geographical coverage of data on which they are based is somewhat limited and the picture rapidly shifting.</p></section><section id="S5"><h2 class="pmc_sec_title">EVIDENCE FOR A SUPPLY-LED PHENOMENON</h2>
+<section id="S6"><h3 class="pmc_sec_title">Can users identify fentanyl?</h3>
+<p id="P13">Most of the qualitative research on this question has been undertaken on the United States’ East Coast [<a href="#R18" class="usa-link" aria-describedby="R18">18</a>,<a href="#R27" class="usa-link" aria-describedby="R27">27</a>–<a href="#R29" class="usa-link" aria-describedby="R29">29</a>], where some users are employing a range of techniques to detect fentanyl in the heroin supply, including their embodied experiences of the drug, its taste and the color of the drug in solution and as dry powder. They also gather information from peers’ experiences and sometimes from dealers [<a href="#R18" class="usa-link" aria-describedby="R18">18</a>,<a href="#R27" class="usa-link" aria-describedby="R27">27</a>,<a href="#R28" class="usa-link" aria-describedby="R28">28</a>], expressing varying levels of confidence regarding their ability to identify fentanyl [<a href="#R18" class="usa-link" aria-describedby="R18">18</a>,<a href="#R29" class="usa-link" aria-describedby="R29">29</a>]. Supporting the more confident assertions are their descriptions of fentanyl’s effects as short-acting, with a fast and powerful onset, corresponding to the pharmaceutical’s known profile. On the more doubtful side, a majority of drug users tested in Canadian research were unaware that they had been exposed to fentanyl when using heroin and other drugs [<a href="#R26" class="usa-link" aria-describedby="R26">26</a>], although this could change as users become more experienced and informed about identification and use over time. Further complicating matters, there are non-fentanyl synthetic opioids in circulation, e.g. <a href="https://www.ncbi.nlm.nih.gov/nuccore/U47700" class="usa-link" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">U47700</a>, which may be mistaken for fentanyl.</p>
+<p id="P14">In the case of counterfeit pharmaceuticals, visual detection of fentanyl before use may be difficult. Imitations can be convincing and, even where poorly reproduced, their ingredients are still unknown to most buyers. Fake oxyco-done and benzodiazepine tablets containing fentanyl or other synthetic opioids have caused deaths in Canada and the United States, markets characterized by high levels of opioid pill prescribing [<a href="#R10" class="usa-link" aria-describedby="R10">10</a>,<a href="#R24" class="usa-link" aria-describedby="R24">24</a>,<a href="#R30" class="usa-link" aria-describedby="R30">30</a>,<a href="#R31" class="usa-link" aria-describedby="R31">31</a>].</p>
+<p id="P15">The addition of fentanyl to the heroin supply appears to occur at a wholesale level, with regional distribution; consequently, retail dealers often lack knowledge of the content of the products they sell [<a href="#R18" class="usa-link" aria-describedby="R18">18</a>,<a href="#R27" class="usa-link" aria-describedby="R27">27</a>,<a href="#R32" class="usa-link" aria-describedby="R32">32</a>]. Hence, users may regard dealers’ knowledge or claims with skepticism [<a href="#R18" class="usa-link" aria-describedby="R18">18</a>], although some believe they can avoid fentanyl through loyalty to a known, reliable dealer, either because he/she refuses to sell fentanyl or because they warn users of its presence. Whether this trust is well placed is unknown [<a href="#R28" class="usa-link" aria-describedby="R28">28</a>].</p>
+<p id="P16">Point-of-use testing, more commonly associated with dance drugs such as 3,4-methylenedioxymethamphetamine (MDMA), has also become possible with fentanyl test strips. Although they can reliably detect fentanyl in drug solutions [<a href="#R33" class="usa-link" aria-describedby="R33">33</a>] and users have shown interest in trying them [<a href="#R34" class="usa-link" aria-describedby="R34">34</a>] they are extremely sensitive, and do not quantify the fentanyl present or distinguish between analogues of differing potency [<a href="#R35" class="usa-link" aria-describedby="R35">35</a>]. Along with most sensory methods of identifying fentanyl, using test strips is generally only feasible after purchase and learning that a particular source sold a drug containing fentanyl on one occasion does not necessarily predict that this will be the case next time. In sum, after purchase, a portion of experienced heroin users can probably determine with some accuracy that what they are using is not heroin and that it is an opioid, perhaps fentanyl, but it is less likely that they can determine which fentanyl analogue or other synthetic opioid it actually is.</p></section><section id="S7"><h3 class="pmc_sec_title">Do users desire fentanyl?</h3>
+<p id="P17">Previous findings have shown users preferring to buy the strongest available heroin, sometimes regardless of purity, even to the point of seeking heroin implicated in overdoses [<a href="#R36" class="usa-link" aria-describedby="R36">36</a>–<a href="#R38" class="usa-link" aria-describedby="R38">38</a>]. However, in the current fentanyl wave, with its enormous death toll, regional US studies suggest that attitudes have polarized: some users seek out fentanyl despite the risks and others try hard to avoid it [<a href="#R18" class="usa-link" aria-describedby="R18">18</a>,<a href="#R27" class="usa-link" aria-describedby="R27">27</a>–<a href="#R29" class="usa-link" aria-describedby="R29">29</a>].</p>
+<p id="P18">Enthusiastic users describe fentanyl as having a more intense onset or ‘rush’ than heroin, bringing back an opioid euphoria lost to tolerance; a subset favored a cocktail where heroin provided the longer duration (‘legs’), complementing fentanyl’s rush [<a href="#R18" class="usa-link" aria-describedby="R18">18</a>]. For some using medications intended to block the effects of opioids, e.g. buprenorphine, fentanyl’s ability to ‘break through’ allows users to experience an opioid high. Others vehemently dislike perceived fentanyl’s effects, and its heightened overdose dangers. Its short duration was also mentioned as a drawback making it less cost-effective [<a href="#R18" class="usa-link" aria-describedby="R18">18</a>,<a href="#R27" class="usa-link" aria-describedby="R27">27</a>,<a href="#R28" class="usa-link" aria-describedby="R28">28</a>]. There are hints that, among some dependent heroin users, fentanyl’s higher potency has increased their opioid tolerance, making regular heroin alone insufficient to satisfy the demands of their addiction, leading them to favor fentanyl over heroin regardless of their initial preference. There is, therefore, evidence of some demand for fentanyl, but this does not mean that its availability is ‘demand-led’.</p>
+<p id="P19">Fentanyl is cheaper to produce dose-for-dose than heroin [<a href="#R2" class="usa-link" aria-describedby="R2">2</a>], wholesaling at approximately one-tenth of heroin’s price by weight [<a href="#R39" class="usa-link" aria-describedby="R39">39</a>]. Given that fentanyl is approximately 30–40 times stronger than heroin, an equivalent dose would be therefore be 1/300 or 1/400 of the wholesale price of heroin. For stronger analogues, the difference may be even greater. However, these cost savings appear to accrue largely to the suppliers. When sold as heroin, at least in the United States, indications are that the same price is charged per unit sold as if it were heroin, unsurprising if the intention is to deceive retail sellers and buyers into thinking they are trading heroin. In markets such as Estonia, where fentanyl is sold under its own name, insufficient evidence exists to show whether users are buying it due to preference or simply as a substitute amid a heroin shortage [<a href="#R40" class="usa-link" aria-describedby="R40">40</a>].</p></section><section id="S8"><h3 class="pmc_sec_title">If users want fentanyl, can they express this demand in a way that influences the supply?</h3>
+<p id="P20">A perfectly competitive market exists only in theory, but would consist of many buyers and sellers, each with perfect information about the products on sale. Illicit drug markets differ in two key ways: monopolies and duopolies dominate and they suffer from asymmetric information problems, with buyers lacking information about the quality or content of products [<a href="#R41" class="usa-link" aria-describedby="R41">41</a>].</p>
+<p id="P21">Information-sharing between buyers regarding drug availability and quality can differ depending on the type of market in which drugs are sold. A wide range of distribution methods flourish in illicit drug sales. Initial contact may be made in person at an open-air street market, at a store front, by telephone or over the internet. Transactions may take place on the street, at a user or dealer’s home, petrol stations, fast-food restaurants, clubs or other retail businesses, in parks or abandoned buildings.</p>
+<p id="P22">Street-based heroin users in many national contexts commonly discuss current drug availability, potency, adulteration and other characteristics of interest in their quest to obtain drugs. Both information and rumours spread more or less efficiently depending upon the type of drug distribution involved. A study of heroin sales in two US cities found that in a street market with multiple competing sellers, buyers were able to gather and act upon information about drug quality on a given day more quickly and easily than buyers whose dealers operated by cellphone contact [<a href="#R36" class="usa-link" aria-describedby="R36">36</a>]. However, even where there is an appearance of competition between retail sellers, monopolies and duopolies at the wholesale level abound in drug markets, making real competition rare [<a href="#R42" class="usa-link" aria-describedby="R42">42</a>].</p>
+<p id="P23">Just as the internet has revolutionized the speed and accessibility of information while linking geographically distant markets, a similar development has taken place in drug distribution. Although connections have been made in internet chat rooms for many years, the emergence of Darkweb cryptomarkets and digital currency offers anonymized transactions and an efficient method of information- and opinion-sharing. The use of cryptomarkets requires sophisticated online access, a reliable mailing address and bitcoin currency [<a href="#R43" class="usa-link" aria-describedby="R43">43</a>]. Unlike the immediacy of hand-to-hand sales, cryptomarkets mail their products to customers, so dependent opioid users would need either to stockpile drugs, plan their purchases and consumption very carefully or face periods of withdrawal between deliveries.</p>
+<p id="P24">When consumers have access to both knowledge and choice, they can express their preference for one product over others. Cryptomarket customers can compare the price of goods offered for sale between several vendors, read consumer reviews and ratings and leave their own feedback [<a href="#R44" class="usa-link" aria-describedby="R44">44</a>]. A customer wanting to buy fentanyl rather than heroin could find it advertised as such and in a range of delivery systems, including pills, nasal sprays and blotter paper [<a href="#R45" class="usa-link" aria-describedby="R45">45</a>]. However, substances sold in cryptomarkets as heroin have also turned out to be adulterated with fentanyl [<a href="#R46" class="usa-link" aria-describedby="R46">46</a>]. In some respects, cryptomarkets resemble licit online market-places, but opioid consumers remain at an informational disadvantage.</p>
+<p id="P25">We do not know what volume of drugs cryptomarkets distribute or what proportion of purchases are wholesale for subsequent distribution rather than personal use [<a href="#R45" class="usa-link" aria-describedby="R45">45</a>]. However, given the frequency of dependence associated with opioid use and the barriers to accessing cryptomarkets, it seems unlikely that enough opioid users are buying fentanyl in this way to significantly influence the supply and the addition of fentanyl to heroin supplies. Furthermore, if retail cryptomarket fentanyl purchases were common, we would expect a wider, less uneven distribution of fentanyl and its adverse consequences. The sporadic and unpredictable appearance of fentanyl analogues of wildly varying potency in different US locations, singly or combined, suggests that consumer preference is not taking the lead, but instead suppliers are using whatever is convenient or lower legal risk. The regulation of fentanyl analogues tends to be reactive and, once controlled, new unregulated ones emerge [<a href="#R8" class="usa-link" aria-describedby="R8">8</a>].</p>
+<p id="P26">Information about opioids on sale and choice between different options vary considerably between types of drug markets, whether online or among the different offline models, but even if users desire fentanyl and can identify it before purchase, for most retail sales they do not have sufficient choice to produce a demand-led change in the opioid supply.</p></section><section id="S9"><h3 class="pmc_sec_title">Do market conditions explain the spread of fentanyl?</h3>
+<p id="P27">In addition to users’ preferences and sellers’ sales methods, researchers have considered heroin market conditions to determine the reasons behind the rapid upswing in fentanyl supply. Economic theory would predict that the adulteration or replacement of heroin with fentanyl might occur where demand for heroin is outstripping supply, either as a result of reduced heroin supply—a ‘supply shock’—or a rise in demand. Despite complexity and some contradictory evidence, existing data suggest heroin shortages prior to European and North American fentanyl waves. Bedeviling any analysis is uncertainty over estimates of the size of the heroin using population, the production of opium and local variations in drug distribution.</p>
+<p id="P28">Regarding a 2005–06 US fentanyl episode, when approximately 1000 people died, research indicates that fentanyl was introduced as a supply-side response to low heroin purity alongside competition from prescription opioid pills [<a href="#R47" class="usa-link" aria-describedby="R47">47</a>]. This corresponds with findings that fentanyl has been added to the heroin supply in certain European countries experiencing heroin shortages [<a href="#R14" class="usa-link" aria-describedby="R14">14</a>]. In 2010–11, such shortages occurred in Bulgaria, Ireland, Hungary, Slovenia, Slovakia, the United Kingdom and Croatia, while in Finland and Estonia the heroin markets had already largely disintegrated before 2010, with substitute opioids taking their place [<a href="#R48" class="usa-link" aria-describedby="R48">48</a>].</p>
+<p id="P29">Leading up to the current North American fentanyl phenomenon, the US heroin-using population was increasing in the wake of an opioid pill epidemic [<a href="#R49" class="usa-link" aria-describedby="R49">49</a>,<a href="#R50" class="usa-link" aria-describedby="R50">50</a>]. However, estimates vary widely, ranging from 281 000 current heroin users for 2011 (almost doubling from 2002) to 1.5 million current heroin users for 2010 [<a href="#R51" class="usa-link" aria-describedby="R51">51</a>,<a href="#R52" class="usa-link" aria-describedby="R52">52</a>]. This increase in demand may have caused a heroin shortage, but the evidence is unclear.</p>
+<p id="P30">Mixed evidence for a supply shock comes from changing heroin source-country production. Since the mid-1990s almost all US heroin originated in Mexico and Colombia [<a href="#R53" class="usa-link" aria-describedby="R53">53</a>], but between 2000 and 2009, estimated Colombian production of opium, the raw ingredient that is refined into heroin, fell by 90%. Meanwhile, estimated Mexican opium production rose by more than 1900% from its low point in 2000 to dominate the US market, with total production for the US market quadrupling [<a href="#R10" class="usa-link" aria-describedby="R10">10</a>,<a href="#R54" class="usa-link" aria-describedby="R54">54</a>]. This rise was followed by a 46% decline in combined estimated opium production in 2009–13, leading up to the current US fentanyl wave.</p>
+<p id="P31">Even during the period of increased overall production of heroin destined for the United States, the major logistical transition required to distribute Mexican-sourced heroin to markets previously supplied by Colombian sources suggests potential for shortfalls or distribution gaps. Together, these supply shocks may have spurred the introduction of fentanyl-as-substitute in 2013, which occurred in the US Northeast and Midwest regions formerly supplied by Colombian-sourced heroin. Despite a recovery in total opium production in 2015 to above 2009 levels, fentanyl and other synthetic substitutes persist.</p>
+<p id="P32">As well as the rising user population and changes in production, heroin’s price and purity can indicate relative supply and demand. Between 2007 and early 2010, US Drug Enforcement Administration (DEA) data show heroin price per pure gram doubling, with a spike in 2009–10. Despite no evidence of a fall in demand post-2010, prices settled down to 2007 levels by late 2013, indicating that supply increased enough to satisfy demand. DEA price data, however, are gathered predominantly from larger cities, potentially missing heroin shortages and price variation further down the supply chain in small towns and rural areas.</p>
+<p id="P33">Overall, market conditions appear to point to supply shocks and heroin shortages before the introduction of fentanyl to the opioid supply, both in the United States and parts of Europe, with the United States experiencing rising demand and increasing prices. However, such market conditions are not a necessary condition for fentanyl adulteration if it offers suppliers greater profitability through cheaper substitution or distribution.</p></section><section id="S10"><h3 class="pmc_sec_title">Towards total substitution?</h3>
+<p id="P34">Motivations for suppliers to add fentanyl to street opioids are probably profit-oriented with an eye towards future sustainability. By dose-equivalency, fentanyl is orders of magnitude cheaper to produce than heroin [<a href="#R39" class="usa-link" aria-describedby="R39">39</a>] and entirely synthetic, protected from the vicissitudes of climate and plant diseases. In 2010 a fungus damaged the Afghanistan poppy crop, suspected to be the result of infection with a US-deployed biological weapon [<a href="#R55" class="usa-link" aria-describedby="R55">55</a>], a threat which may have stimulated wider consideration of sustainable synthetic alternatives to heroin among suppliers.</p>
+<p id="P35">For the purposes of efficient smuggling, fentanyl is more concentrated than heroin [<a href="#R56" class="usa-link" aria-describedby="R56">56</a>], which may be particularly important as the world heroin trade has increasingly broken into ‘exclusive markets’ with regional supply lines from producer countries more vulnerable to interruption [<a href="#R57" class="usa-link" aria-describedby="R57">57</a>–<a href="#R59" class="usa-link" aria-describedby="R59">59</a>]. From a cold-hearted business perspective, high fentanyl-related mortality would seem to counter the advantages of a robust, lower-cost supply, but new users may be replacing or exceeding those lost from the market.</p>
+<p id="P36">Instead of appearing in intermittent waves, fentanyl may become a permanent addition to [<a href="#R2" class="usa-link" aria-describedby="R2">2</a>], or even replacement of, the heroin street supply. Synthetic opioids have already taken heroin’s place in Estonia and Finland after a shortage caused by the Taliban’s opium poppy ban in 2001 [<a href="#R48" class="usa-link" aria-describedby="R48">48</a>] and recent data show that, while at the outset of the current US wave fentanyl entered the market as an adulterant of heroin, fentanyl is increasingly being sold as heroin with no heroin in the product [<a href="#R10" class="usa-link" aria-describedby="R10">10</a>,<a href="#R22" class="usa-link" aria-describedby="R22">22</a>].</p></section></section><section id="S11"><h2 class="pmc_sec_title">CONCLUSION</h2>
+<p id="P37">Without a full understanding of the forces behind major changes in the drug supply, it is challenging to predict their trajectory or design effective policy interventions. Policies that punish the powerless, such as dependent heroin users or low-level retail suppliers, will make no inroads in this crisis. Any determination of whether the current wave of fentanyl in the opioid street supply is demand- or supply-led relies on understanding sales methods, its reception among users and market conditions in specific national contexts. More data are needed in all these areas, particularly as the epidemic evolves, but existing evidence points to heroin supply shocks and shortages, changing prescription opioid availability and/or reduced costs and risks to suppliers as explanations.</p>
+<p id="P38">For a product to be demand-led, users must have both knowledge and choice. These are lacking in the parts of the United States, Canada, and Europe studied to date. False marketing of fentanyl of widely varying strengths as heroin or prescription pills in monopolistic markets mean that users cannot effectively express demand for fentanyl even if they prefer it. Even when able to detect fentanyl’s presence after purchase, drug users may be unable to find a fentanyl-free alternative. In countries where fentanyl is sold as such, an absence of alternatives may mean that, while these consumers have knowledge, they lack the choice to exert effective demand in the market.</p></section><section id="S12" class="ack"><h2 class="pmc_sec_title">Acknowledgements</h2>
+<p id="P39">The authors would like to thank John Witton and Professor Sir John Strang for inviting Sarah Mars to speak at the Addictions Department, King’s College London in 2017, the presentation which formed the origin of this paper. Andreas Kimergård at King’s College London was generous in sharing his knowledge and advice about the European fentanyl situation; we also thank our colleagues on the Heroin in Transition study, Jeff Ondocsin, Jay Unick, Georgiy Bobashev and Philippe Bourgois and Jason Fessel for his helpful feedback on earlier drafts. Finally, we thank the funder, the National Institutes of Health and National Institute on Drug Abuse (Grant number DA037820).</p></section><section id="fn-group1" class="fn-group"><h2 class="pmc_sec_title">Footnotes</h2>
+<div class="fn-group p font-secondary-light font-sm">
+<div class="fn p" id="FN1">
+<p id="P40">Declaration of interests</p>
+<p id="P41">None.</p>
+</div>
+<div class="fn p" id="FN2">
+<sup>1</sup><p class="display-inline" id="P42">Excluding methadone.</p>
+</div>
+</div></section><section id="ref-list1" class="ref-list"><h2 class="pmc_sec_title">References</h2>
+<section id="ref-list1_sec2"><ul class="ref-list font-sm" style="list-style-type:none">
+<li id="R1">
+<span class="label">1.</span><cite>Suzuki J, El-Haddad S
+A review: fentanyl and non-pharmaceutical fentanyls. Drug Alcohol Depend
+2017; 171: 107–16.</cite> [<a href="https://doi.org/10.1016/j.drugalcdep.2016.11.033" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/28068563/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Drug%20Alcohol%20Depend&amp;title=A%20review:%20fentanyl%20and%20non-pharmaceutical%20fentanyls&amp;author=J%20Suzuki&amp;author=S%20El-Haddad&amp;volume=171&amp;publication_year=2017&amp;pages=107-16&amp;pmid=28068563&amp;doi=10.1016/j.drugalcdep.2016.11.033&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R2">
+<span class="label">2.</span><cite>Ciccarone D
+Fentanyl in the US heroin supply: a rapidly changing risk environment. Int J Drug Policy
+2017; 46: 107–11.</cite> [<a href="https://doi.org/10.1016/j.drugpo.2017.06.010" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC5742018/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/28735776/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Int%20J%20Drug%20Policy&amp;title=Fentanyl%20in%20the%20US%20heroin%20supply:%20a%20rapidly%20changing%20risk%20environment&amp;author=D%20Ciccarone&amp;volume=46&amp;publication_year=2017&amp;pages=107-11&amp;pmid=28735776&amp;doi=10.1016/j.drugpo.2017.06.010&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R3">
+<span class="label">3.</span><cite>Hibbs J, Perper J, Winek CL
+An outbreak of designer drug-related deaths in Pennsylvania. JAMA
+1991; 265: 1011–3.</cite> [<a href="https://doi.org/10.1001/jama.265.8.1011" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/1867667/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=JAMA&amp;title=An%20outbreak%20of%20designer%20drug-related%20deaths%20in%20Pennsylvania&amp;author=J%20Hibbs&amp;author=J%20Perper&amp;author=CL%20Winek&amp;volume=265&amp;publication_year=1991&amp;pages=1011-3&amp;pmid=1867667&amp;doi=10.1001/jama.265.8.1011&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R4">
+<span class="label">4.</span><cite>National Institute on Drug Abuse (NIDA). Overdose Death Rates. 2018. 
+August 2018 [cited 2018 8/21/18]. Available at: <a href="https://www.drugabuse.gov/related-topics/trends-statistics/overdose-death-rates" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">https://www.drugabuse.gov/related-topics/trends-statistics/overdose-death-rates</a> (accessed
+21 August 2018).</cite>
+</li>
+<li id="R5">
+<span class="label">5.</span><cite>O’Donnell JK, Halpin J, Mattson CL, Goldberger BA, Gladden RM
+deaths involving fentanyl, fentanyl analogs, and U-47700–10 States, July–December 2016. Morb Mortal Wkly Rep
+2017; 66: 1197–202.</cite> [<a href="https://doi.org/10.15585/mmwr.mm6643e1" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC5689219/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/29095804/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Morb%20Mortal%20Wkly%20Rep&amp;title=deaths%20involving%20fentanyl,%20fentanyl%20analogs,%20and%20U-47700%E2%80%9310%20States,%20July%E2%80%93December%202016&amp;author=JK%20O%E2%80%99Donnell&amp;author=J%20Halpin&amp;author=CL%20Mattson&amp;author=BA%20Goldberger&amp;author=RM%20Gladden&amp;volume=66&amp;publication_year=2017&amp;pages=1197-202&amp;pmid=29095804&amp;doi=10.15585/mmwr.mm6643e1&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R6">
+<span class="label">6.</span><cite>Centers for Disease Control and Prevention/National Center for Health Statistics. Provisional Drug Overdose Death Counts. Vital Statistics Rapid Release
+2018. 
+8/15/18 [cited 2018 08/16/18]. Available at: <a href="https://www.cdc.gov/nchs/nvss/vsrr/drug-overdose-data.htm" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">https://www.cdc.gov/nchs/nvss/vsrr/drug-overdose-data.htm</a> (accessed
+16 August 2018).</cite>
+</li>
+<li id="R7">
+<span class="label">7.</span><cite>Ruhm CJ
+Corrected US opioid-involved drug poisoning deaths and mortality rates, 1999–2015. Addiction
+2018; 113: 1339–44.</cite> [<a href="https://doi.org/10.1111/add.14144" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/29430760/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Addiction&amp;title=Corrected%20US%20opioid-involved%20drug%20poisoning%20deaths%20and%20mortality%20rates,%201999%E2%80%932015&amp;author=CJ%20Ruhm&amp;volume=113&amp;publication_year=2018&amp;pages=1339-44&amp;pmid=29430760&amp;doi=10.1111/add.14144&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R8">
+<span class="label">8.</span><cite>Armenian P, Vo KT, Barr-Walker J, Lynch KL
+Fentanyl, fentanyl analogs and novel synthetic opioids: a comprehensive review. Neuropharmacology
+2018; 134: 121–32.</cite> [<a href="https://doi.org/10.1016/j.neuropharm.2017.10.016" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/29042317/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Neuropharmacology&amp;title=Fentanyl,%20fentanyl%20analogs%20and%20novel%20synthetic%20opioids:%20a%20comprehensive%20review&amp;author=P%20Armenian&amp;author=KT%20Vo&amp;author=J%20Barr-Walker&amp;author=KL%20Lynch&amp;volume=134&amp;publication_year=2018&amp;pages=121-32&amp;pmid=29042317&amp;doi=10.1016/j.neuropharm.2017.10.016&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R9">
+<span class="label">9.</span><cite>Gladden RM
+Fentanyl law enforcement submissions and increases in synthetic opioid-involved overdose deaths—27 states, 2013–2014. Morb Mortal Wkly Rep
+2016; 65: 837–43.</cite> [<a href="https://doi.org/10.15585/mmwr.mm6533a2" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/27560775/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Morb%20Mortal%20Wkly%20Rep&amp;title=Fentanyl%20law%20enforcement%20submissions%20and%20increases%20in%20synthetic%20opioid-involved%20overdose%20deaths%E2%80%9427%20states,%202013%E2%80%932014&amp;author=RM%20Gladden&amp;volume=65&amp;publication_year=2016&amp;pages=837-43&amp;pmid=27560775&amp;doi=10.15585/mmwr.mm6533a2&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R10">
+<span class="label">10.</span><cite>US Drug Enforcement Administration (DEA)
+2017 National Drug Threat Assessment. Springfield, VA: DEA; 2017.</cite> [<a href="https://scholar.google.com/scholar_lookup?title=2017%20National%20Drug%20Threat%20Assessment&amp;publication_year=2017&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R11">
+<span class="label">11.</span><cite>Canadian Community Epidemiology Network on Drug Use (CCENDU)
+Deaths Involving Fentanyl in Canada, 2009–2014. CCENDU Bulletin 2015. Ottowa, ON: CCNDU; 2015.</cite> [<a href="https://scholar.google.com/scholar_lookup?title=Deaths%20Involving%20Fentanyl%20in%20Canada,%202009%E2%80%932014.%20CCENDU%20Bulletin%202015&amp;publication_year=2015&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R12">
+<span class="label">12.</span><cite>European Monitoring Centre for Drugs and Drug Addiction (EMCDDA)
+EMCDDA Trendspotter study on fentanyl in Europe. Luxembourg: EMCDDA; 2012.</cite> [<a href="https://scholar.google.com/scholar_lookup?title=EMCDDA%20Trendspotter%20study%20on%20fentanyl%20in%20Europe&amp;publication_year=2012&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R13">
+<span class="label">13.</span><cite>United Nations Office on Drugs and Crime (UNODC)
+Fentanyl and its Analogues<em>—</em>50 Years On. Global Smart Update. Vienna, Austria: UNODC; 2017.</cite> [<a href="https://scholar.google.com/scholar_lookup?title=Fentanyl%20and%20its%20Analogues%E2%80%9450%20Years%20On.%20Global%20Smart%20Update.%20Vienna&amp;publication_year=2017&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R14">
+<span class="label">14.</span><cite>Mounteney J, Giraudon I, Denissov G, Griffiths P
+Fentanyls: are we missing the signs? Highly potent and on the rise in Europe. Int J Drug Policy
+2015; 26: 626–31.</cite> [<a href="https://doi.org/10.1016/j.drugpo.2015.04.003" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/25976511/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Int%20J%20Drug%20Policy&amp;title=Fentanyls:%20are%20we%20missing%20the%20signs?%20Highly%20potent%20and%20on%20the%20rise%20in%20Europe&amp;author=J%20Mounteney&amp;author=I%20Giraudon&amp;author=G%20Denissov&amp;author=P%20Griffiths&amp;volume=26&amp;publication_year=2015&amp;pages=626-31&amp;pmid=25976511&amp;doi=10.1016/j.drugpo.2015.04.003&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R15">
+<span class="label">15.</span><cite>Harm Reduction International
+The Global State of Harm Reduction 2016. London, UK: Harm Reduction International; 2017.</cite> [<a href="https://scholar.google.com/scholar_lookup?title=The%20Global%20State%20of%20Harm%20Reduction%202016&amp;publication_year=2017&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R16">
+<span class="label">16.</span><cite>Roxburgh A, Burns L, Drummer OH, Pilgrim J, Farrell M, Degenhardt L
+Trends in fentanyl prescriptions and fentanyl-related mortality in Australia. Drug Alcohol Rev
+2013; 32: 269–75.</cite> [<a href="https://doi.org/10.1111/dar.12033" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/23442164/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Drug%20Alcohol%20Rev&amp;title=Trends%20in%20fentanyl%20prescriptions%20and%20fentanyl-related%20mortality%20in%20Australia&amp;author=A%20Roxburgh&amp;author=L%20Burns&amp;author=OH%20Drummer&amp;author=J%20Pilgrim&amp;author=M%20Farrell&amp;volume=32&amp;publication_year=2013&amp;pages=269-75&amp;pmid=23442164&amp;doi=10.1111/dar.12033&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R17">
+<span class="label">17.</span><cite>National Crime Agency
+Recent Deaths Possibly Linked to Fentanyl. London, UK: National Crime Agency; 2017.</cite> [<a href="https://scholar.google.com/scholar_lookup?title=Recent%20Deaths%20Possibly%20Linked%20to%20Fentanyl&amp;publication_year=2017&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R18">
+<span class="label">18.</span><cite>Ciccarone D, Ondocsin J, Mars SG
+Heroin uncertainties: exploring users’ perceptions of fentanyl-adulterated and -substituted ‘heroin’. Int J Drug Policy
+2017; 46: –155.</cite> [<a href="https://doi.org/10.1016/j.drugpo.2017.06.004" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC5577861/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/28735775/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Int%20J%20Drug%20Policy&amp;title=Heroin%20uncertainties:%20exploring%20users%E2%80%99%20perceptions%20of%20fentanyl-adulterated%20and%20-substituted%20%E2%80%98heroin%E2%80%99&amp;author=D%20Ciccarone&amp;author=J%20Ondocsin&amp;author=SG%20Mars&amp;volume=46&amp;publication_year=2017&amp;pmid=28735775&amp;doi=10.1016/j.drugpo.2017.06.004&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R19">
+<span class="label">19.</span><cite>Baldwin N, Gray R, Goel A, Wood E, Buxton JA, Rieb LM
+Fentanyl and heroin contained in seized illicit drugs and overdose-related deaths in British Columbia, Canada: an observational analysis. Drug Alcohol Depend
+2018; 185: 322–7.</cite> [<a href="https://doi.org/10.1016/j.drugalcdep.2017.12.032" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC5889734/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/29486421/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Drug%20Alcohol%20Depend&amp;title=Fentanyl%20and%20heroin%20contained%20in%20seized%20illicit%20drugs%20and%20overdose-related%20deaths%20in%20British%20Columbia,%20Canada:%20an%20observational%20analysis&amp;author=N%20Baldwin&amp;author=R%20Gray&amp;author=A%20Goel&amp;author=E%20Wood&amp;author=JA%20Buxton&amp;volume=185&amp;publication_year=2018&amp;pages=322-7&amp;pmid=29486421&amp;doi=10.1016/j.drugalcdep.2017.12.032&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R20">
+<span class="label">20.</span><cite>European Monitoring Centre for Drugs and Drug Addiction (EMCDDA)
+EMCDDA–Europol Joint Report on a new psychoactive substance: methyl 1-(2-phenylethyl)-4-[phenyl (propanoyl) amino]piperidine-4-carboxylate (carfentanil). Joint Reports. Luxembourg: EMCDDA; 2017.</cite> [<a href="https://scholar.google.com/scholar_lookup?title=EMCDDA%E2%80%93Europol%20Joint%20Report%20on%20a%20new%20psychoactive%20substance:%20methyl%201-(2-phenylethyl)-4-[phenyl%20(propanoyl)%20amino]piperidine-4-carboxylate%20(carfentanil).%20Joint%20Reports&amp;publication_year=2017&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R21">
+<span class="label">21.</span><cite>Drug Enforcement Administration (DEA)
+National Heroin Threat Assessment Summary<em>—</em>Updated. DEA Intelligence Report. Springfield, VA: Department of Justice; 2016.</cite> [<a href="https://scholar.google.com/scholar_lookup?title=National%20Heroin%20Threat%20Assessment%20Summary%E2%80%94Updated.%20DEA%20Intelligence%20Report&amp;publication_year=2016&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R22">
+<span class="label">22.</span><cite>Daniulaityte R, Juhascik MP, Strayer KE, Sizemore IE, Harshbarger KE, Antonides HM
+et al. 
+Overdose deaths related to fentanyl and its analogs—Ohio, January–February 2017. Morb Mortal Wkly Rep
+2017; 66: 904.</cite> [<a href="https://doi.org/10.15585/mmwr.mm6634a3" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC5657791/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/28859050/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Morb%20Mortal%20Wkly%20Rep&amp;title=Overdose%20deaths%20related%20to%20fentanyl%20and%20its%20analogs%E2%80%94Ohio,%20January%E2%80%93February%202017&amp;author=R%20Daniulaityte&amp;author=MP%20Juhascik&amp;author=KE%20Strayer&amp;author=IE%20Sizemore&amp;author=KE%20Harshbarger&amp;volume=66&amp;publication_year=2017&amp;pages=904&amp;pmid=28859050&amp;doi=10.15585/mmwr.mm6634a3&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R23">
+<span class="label">23.</span><cite>British Columbia Emergency Health Services (BCEH). Fentanyl Safety for First Responders
+[3/27/18]. Available at: <a href="http://www.fentanylsafety.com/about-fentanyl/" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">http://www.fentanylsafety.com/about-fentanyl/</a> (accessed
+27 March 2018).</cite>
+</li>
+<li id="R24">
+<span class="label">24.</span><cite>San Francisco Department of Public Health. HEALTH ADVISORY: Severe Opioid Overdoses in San Francisco Caused by Fentanyl-Containing ‘Xanax’ Pill. San Francisco, CA: San Francisco Department of Public Health; 2015.</cite> [<a href="https://scholar.google.com/scholar_lookup?title=HEALTH%20ADVISORY:%20Severe%20Opioid%20Overdoses%20in%20San%20Francisco%20Caused%20by%20Fentanyl-Containing%20%E2%80%98Xanax%E2%80%99%20Pill&amp;publication_year=2015&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R25">
+<span class="label">25.</span><cite>Vorobjov S, Uusküla A, Des Jarlais DC, Abel-Ollo K, Talu A, Rüütel K
+Multiple routes of drug administration and HIV risk among injecting drug users. J Subst Abuse Treat
+2012; 42: 413–20.</cite> [<a href="https://doi.org/10.1016/j.jsat.2011.09.014" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC3289756/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/22116012/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=J%20Subst%20Abuse%20Treat&amp;title=Multiple%20routes%20of%20drug%20administration%20and%20HIV%20risk%20among%20injecting%20drug%20users&amp;author=S%20Vorobjov&amp;author=A%20Uusk%C3%BCla&amp;author=DC%20Des%20Jarlais&amp;author=K%20Abel-Ollo&amp;author=A%20Talu&amp;volume=42&amp;publication_year=2012&amp;pages=413-20&amp;pmid=22116012&amp;doi=10.1016/j.jsat.2011.09.014&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R26">
+<span class="label">26.</span><cite>Amlani A, McKee G, Khamis N, Raghukumar G, Tsang E, Buxton JA
+Why the FUSS (Fentanyl Urine Screen Study)? A cross-sectional survey to characterize an emerging threat to people who use drugs in British Columbia, Canada. Harm Reduc J
+2015; 12: 54.</cite> [<a href="https://doi.org/10.1186/s12954-015-0088-4" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC4650899/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/26577516/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Harm%20Reduc%20J&amp;title=Why%20the%20FUSS%20(Fentanyl%20Urine%20Screen%20Study)?%20A%20cross-sectional%20survey%20to%20characterize%20an%20emerging%20threat%20to%20people%20who%20use%20drugs%20in%20British%20Columbia,%20Canada&amp;author=A%20Amlani&amp;author=G%20McKee&amp;author=N%20Khamis&amp;author=G%20Raghukumar&amp;author=E%20Tsang&amp;volume=12&amp;publication_year=2015&amp;pages=54&amp;pmid=26577516&amp;doi=10.1186/s12954-015-0088-4&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R27">
+<span class="label">27.</span><cite>Mars SG, Ondocsin J, Ciccarone D
+Sold as heroin: perceptions and use of an evolving drug in Baltimore, MD. J Psychoact Drugs
+2018; 50: 167–76.</cite> [<a href="https://doi.org/10.1080/02791072.2017.1394508" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC6114137/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/29211971/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=J%20Psychoact%20Drugs&amp;title=Sold%20as%20heroin:%20perceptions%20and%20use%20of%20an%20evolving%20drug%20in%20Baltimore,%20MD&amp;author=SG%20Mars&amp;author=J%20Ondocsin&amp;author=D%20Ciccarone&amp;volume=50&amp;publication_year=2018&amp;pages=167-76&amp;pmid=29211971&amp;doi=10.1080/02791072.2017.1394508&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R28">
+<span class="label">28.</span><cite>Carroll JJ, Marshall BDL, Rich JD, Green TC
+Exposure to fentanyl-contaminated heroin and overdose risk among illicit opioid users in Rhode Island: a mixed methods study. Int J Drug Policy
+2017; 46: 136–45.</cite> [<a href="https://doi.org/10.1016/j.drugpo.2017.05.023" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC5560423/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/28578864/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Int%20J%20Drug%20Policy&amp;title=Exposure%20to%20fentanyl-contaminated%20heroin%20and%20overdose%20risk%20among%20illicit%20opioid%20users%20in%20Rhode%20Island:%20a%20mixed%20methods%20study&amp;author=JJ%20Carroll&amp;author=BDL%20Marshall&amp;author=JD%20Rich&amp;author=TC%20Green&amp;volume=46&amp;publication_year=2017&amp;pages=136-45&amp;pmid=28578864&amp;doi=10.1016/j.drugpo.2017.05.023&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R29">
+<span class="label">29.</span><cite>Somerville NJ, O’Donnell J, Gladden RM, Zibbell JE, Green TC, Younkin M
+et al. 
+Characteristics of Fentanyl Overdose—Massachusetts, 2014–2016. Morb Mortal Wkly Rep
+2017; 66: 382–6.</cite> [<a href="https://doi.org/10.15585/mmwr.mm6614a2" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC5657806/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/28406883/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Morb%20Mortal%20Wkly%20Rep&amp;title=Characteristics%20of%20Fentanyl%20Overdose%E2%80%94Massachusetts,%202014%E2%80%932016&amp;author=NJ%20Somerville&amp;author=J%20O%E2%80%99Donnell&amp;author=RM%20Gladden&amp;author=JE%20Zibbell&amp;author=TC%20Green&amp;volume=66&amp;publication_year=2017&amp;pages=382-6&amp;pmid=28406883&amp;doi=10.15585/mmwr.mm6614a2&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R30">
+<span class="label">30.</span><cite>Gomes T, Mamdani MM, Paterson JM, Dhalla IA, Juurlink DN
+Trends in high-dose opioid prescribing in Canada. Can Fam Physician
+2014; 60: 826–32.</cite> [<a href="/articles/PMC4162700/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/25217680/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Can%20Fam%20Physician&amp;title=Trends%20in%20high-dose%20opioid%20prescribing%20in%20Canada&amp;author=T%20Gomes&amp;author=MM%20Mamdani&amp;author=JM%20Paterson&amp;author=IA%20Dhalla&amp;author=DN%20Juurlink&amp;volume=60&amp;publication_year=2014&amp;pages=826-32&amp;pmid=25217680&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R31">
+<span class="label">31.</span><cite>Dhalla IA, Mamdani MM, Sivilotti MLA, Kopp A, Qureshi O, Juurlink DN
+Prescribing of opioid analgesics and related mortality before and after the introduction of long-acting oxycodone. Can Med Assoc J
+2009; 181: 896.</cite> [<a href="https://doi.org/10.1503/cmaj.090784" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC2789126/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/19969578/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Can%20Med%20Assoc%20J&amp;title=Prescribing%20of%20opioid%20analgesics%20and%20related%20mortality%20before%20and%20after%20the%20introduction%20of%20long-acting%20oxycodone&amp;author=IA%20Dhalla&amp;author=MM%20Mamdani&amp;author=MLA%20Sivilotti&amp;author=A%20Kopp&amp;author=O%20Qureshi&amp;volume=181&amp;publication_year=2009&amp;pages=896&amp;pmid=19969578&amp;doi=10.1503/cmaj.090784&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R32">
+<span class="label">32.</span><cite>Unick GJ, Ciccarone D
+US regional and demographic differences in prescription opioid and heroin-related overdose hospitalizations. Int J Drug Policy
+2017; 46: 112–9.</cite> [<a href="https://doi.org/10.1016/j.drugpo.2017.06.003" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC5722230/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/28688539/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Int%20J%20Drug%20Policy&amp;title=US%20regional%20and%20demographic%20differences%20in%20prescription%20opioid%20and%20heroin-related%20overdose%20hospitalizations&amp;author=GJ%20Unick&amp;author=D%20Ciccarone&amp;volume=46&amp;publication_year=2017&amp;pages=112-9&amp;pmid=28688539&amp;doi=10.1016/j.drugpo.2017.06.003&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R33">
+<span class="label">33.</span><cite>Sherman SG, Park JN, Glick J, McKenzie M, Morales K, Christensen T
+et al. 
+FORECAST Study Summary Report. Baltimore, MD: Johns Hopkins Bloomberg School of Public Health; 2018.</cite> [<a href="https://scholar.google.com/scholar_lookup?title=FORECAST%20Study%20Summary%20Report&amp;author=SG%20Sherman&amp;author=JN%20Park&amp;author=J%20Glick&amp;author=M%20McKenzie&amp;author=K%20Morales&amp;publication_year=2018&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R34">
+<span class="label">34.</span><cite>Krieger MS, Yedinak JL, Buxton JA, Lysyshyn M, Bernstein E, Rich JD
+et al. 
+High willingness to use rapid fentanyl test strips among young adults who use drugs. Harm Reduc J
+2018; 15: 7.</cite> [<a href="https://doi.org/10.1186/s12954-018-0213-2" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC5806485/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/29422052/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Harm%20Reduc%20J&amp;title=High%20willingness%20to%20use%20rapid%20fentanyl%20test%20strips%20among%20young%20adults%20who%20use%20drugs&amp;author=MS%20Krieger&amp;author=JL%20Yedinak&amp;author=JA%20Buxton&amp;author=M%20Lysyshyn&amp;author=E%20Bernstein&amp;volume=15&amp;publication_year=2018&amp;pages=7&amp;pmid=29422052&amp;doi=10.1186/s12954-018-0213-2&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R35">
+<span class="label">35.</span><cite>McGowan C, Magdalena Harris M, Platt L, Hope V, Rhodes T
+Fentanyl self-testing outside supervised injection settings to prevent opioid overdose: do we know enough to promote it?
+Int J Drug Policy
+2018; 58: 31–6.</cite> [<a href="https://doi.org/10.1016/j.drugpo.2018.04.017" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/29758542/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Int%20J%20Drug%20Policy&amp;title=Fentanyl%20self-testing%20outside%20supervised%20injection%20settings%20to%20prevent%20opioid%20overdose:%20do%20we%20know%20enough%20to%20promote%20it?&amp;author=C%20McGowan&amp;author=M%20Magdalena%20Harris&amp;author=L%20Platt&amp;author=V%20Hope&amp;author=T%20Rhodes&amp;volume=58&amp;publication_year=2018&amp;pages=31-6&amp;pmid=29758542&amp;doi=10.1016/j.drugpo.2018.04.017&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R36">
+<span class="label">36.</span><cite>Mars SG, Fessel JN, Bourgois P, Montero F, Karandinos G, Ciccarone D
+Heroin-related overdose: the unexplored influences of markets, marketing and source-types in the United States. Soc Sci Med
+2015; 140: 44–53.</cite> [<a href="https://doi.org/10.1016/j.socscimed.2015.06.032" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC4587985/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/26202771/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Soc%20Sci%20Med&amp;title=Heroin-related%20overdose:%20the%20unexplored%20influences%20of%20markets,%20marketing%20and%20source-types%20in%20the%20United%20States&amp;author=SG%20Mars&amp;author=JN%20Fessel&amp;author=P%20Bourgois&amp;author=F%20Montero&amp;author=G%20Karandinos&amp;volume=140&amp;publication_year=2015&amp;pages=44-53&amp;pmid=26202771&amp;doi=10.1016/j.socscimed.2015.06.032&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R37">
+<span class="label">37.</span><cite>Preble E, Casey JJ
+Taking care of business—the heroin user’s life on the street. Int J Addict
+1969; 4: 1–24.</cite> [<a href="https://scholar.google.com/scholar_lookup?journal=Int%20J%20Addict&amp;title=Taking%20care%20of%20business%E2%80%94the%20heroin%20user%E2%80%99s%20life%20on%20the%20street&amp;author=E%20Preble&amp;author=JJ%20Casey&amp;volume=4&amp;publication_year=1969&amp;pages=1-24&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R38">
+<span class="label">38.</span><cite>Mars SG, Bourgois P, Karandinos G, Montero F, Ciccarone D
+The textures of heroin: user perspectives on ‘black tar’ and powder heroin in two US Cities. J Psychoact Drugs
+2016; 48: 270–8.</cite> [<a href="https://doi.org/10.1080/02791072.2016.1207826" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC5027195/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/27440088/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=J%20Psychoact%20Drugs&amp;title=The%20textures%20of%20heroin:%20user%20perspectives%20on%20%E2%80%98black%20tar%E2%80%99%20and%20powder%20heroin%20in%20two%20US%20Cities&amp;author=SG%20Mars&amp;author=P%20Bourgois&amp;author=G%20Karandinos&amp;author=F%20Montero&amp;author=D%20Ciccarone&amp;volume=48&amp;publication_year=2016&amp;pages=270-8&amp;pmid=27440088&amp;doi=10.1080/02791072.2016.1207826&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R39">
+<span class="label">39.</span><cite>Rothberg RL, Stith K
+Fentanyl: a whole new world?
+J Law Med Ethics
+2018; 46: 314–24.</cite> [<a href="https://doi.org/10.1177/1073110518782937" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/30147007/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=J%20Law%20Med%20Ethics&amp;title=Fentanyl:%20a%20whole%20new%20world?&amp;author=RL%20Rothberg&amp;author=K%20Stith&amp;volume=46&amp;publication_year=2018&amp;pages=314-24&amp;pmid=30147007&amp;doi=10.1177/1073110518782937&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R40">
+<span class="label">40.</span><cite>Talu A, Rajaleid K, Abel-Ollo K, Rüütel K, Rahu M, Rhodes T
+et al. 
+HIV infection and risk behaviour of primary fentanyl and amphetamine injectors in Tallinn, Estonia: implications for intervention. Int J Drug Policy; 21: 56–63.</cite> [<a href="https://doi.org/10.1016/j.drugpo.2009.02.007" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/19395249/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Int%20J%20Drug%20Policy&amp;title=HIV%20infection%20and%20risk%20behaviour%20of%20primary%20fentanyl%20and%20amphetamine%20injectors%20in%20Tallinn,%20Estonia:%20implications%20for%20intervention&amp;author=A%20Talu&amp;author=K%20Rajaleid&amp;author=K%20Abel-Ollo&amp;author=K%20R%C3%BC%C3%BCtel&amp;author=M%20Rahu&amp;volume=21&amp;pages=56-63&amp;pmid=19395249&amp;doi=10.1016/j.drugpo.2009.02.007&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R41">
+<span class="label">41.</span><cite>Akerloff G
+The market for lemons: quality uncertainty and the market mechanism. Q J Econ
+1970; 84: 488–500.</cite> [<a href="https://scholar.google.com/scholar_lookup?journal=Q%20J%20Econ&amp;title=The%20market%20for%20lemons:%20quality%20uncertainty%20and%20the%20market%20mechanism&amp;author=G%20Akerloff&amp;volume=84&amp;publication_year=1970&amp;pages=488-500&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R42">
+<span class="label">42.</span><cite>Rosenblum D, Unick G, Ciccarone D
+The entry of Colombian-sourced heroin into the US market: the relationship between competition, price, and purity. Int J Drug Policy
+2014; 25: 88–95.</cite> [<a href="https://doi.org/10.1016/j.drugpo.2013.10.003" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC3946788/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/24211155/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Int%20J%20Drug%20Policy&amp;title=The%20entry%20of%20Colombian-sourced%20heroin%20into%20the%20US%20market:%20the%20relationship%20between%20competition,%20price,%20and%20purity&amp;author=D%20Rosenblum&amp;author=G%20Unick&amp;author=D%20Ciccarone&amp;volume=25&amp;publication_year=2014&amp;pages=88-95&amp;pmid=24211155&amp;doi=10.1016/j.drugpo.2013.10.003&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R43">
+<span class="label">43.</span><cite>Barratt MJ, Ferris JA, Winstock AR
+Use of Silk Road, the online drug marketplace, in the United Kingdom, Australia and the United States. Addiction
+2014; 109: 774–83.</cite> [<a href="https://doi.org/10.1111/add.12470" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/24372954/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Addiction&amp;title=Use%20of%20Silk%20Road,%20the%20online%20drug%20marketplace,%20in%20the%20United%20Kingdom,%20Australia%20and%20the%20United%20States&amp;author=MJ%20Barratt&amp;author=JA%20Ferris&amp;author=AR%20Winstock&amp;volume=109&amp;publication_year=2014&amp;pages=774-83&amp;pmid=24372954&amp;doi=10.1111/add.12470&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R44">
+<span class="label">44.</span><cite>Bancroft A, Scott Reid P
+Concepts of illicit drug quality among darknet market users: purity, embodied experience, craft and chemical knowledge. Int J Drug Policy
+2015; 35: 42–9.</cite> [<a href="https://doi.org/10.1016/j.drugpo.2015.11.008" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/26777135/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Int%20J%20Drug%20Policy&amp;title=Concepts%20of%20illicit%20drug%20quality%20among%20darknet%20market%20users:%20purity,%20embodied%20experience,%20craft%20and%20chemical%20knowledge&amp;author=A%20Bancroft&amp;author=P%20Scott%20Reid&amp;volume=35&amp;publication_year=2015&amp;pages=42-9&amp;pmid=26777135&amp;doi=10.1016/j.drugpo.2015.11.008&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R45">
+<span class="label">45.</span><cite>Gilbert M, Dasgupta N
+Silicon to syringe: cryptomarkets and disruptive innovation in opioid supply chains. Int J Drug Policy
+2017; 46: 160–7.</cite> [<a href="https://doi.org/10.1016/j.drugpo.2017.05.052" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/28735772/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Int%20J%20Drug%20Policy&amp;title=Silicon%20to%20syringe:%20cryptomarkets%20and%20disruptive%20innovation%20in%20opioid%20supply%20chains&amp;author=M%20Gilbert&amp;author=N%20Dasgupta&amp;volume=46&amp;publication_year=2017&amp;pages=160-7&amp;pmid=28735772&amp;doi=10.1016/j.drugpo.2017.05.052&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R46">
+<span class="label">46.</span><cite>Quintana P, Ventura M, Grifell M, Palma A, Galindo L, Fornís I
+et al. 
+The hidden web and the fentanyl problem: detection of ocfentanil as an adulterant in heroin. Int J Drug Policy
+2017; 40: 78–83.</cite> [<a href="https://doi.org/10.1016/j.drugpo.2016.10.006" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/27889114/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Int%20J%20Drug%20Policy&amp;title=The%20hidden%20web%20and%20the%20fentanyl%20problem:%20detection%20of%20ocfentanil%20as%20an%20adulterant%20in%20heroin&amp;author=P%20Quintana&amp;author=M%20Ventura&amp;author=M%20Grifell&amp;author=A%20Palma&amp;author=L%20Galindo&amp;volume=40&amp;publication_year=2017&amp;pages=78-83&amp;pmid=27889114&amp;doi=10.1016/j.drugpo.2016.10.006&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R47">
+<span class="label">47.</span><cite>Hempstead K, Yildirim EO
+Supply-side response to declining heroin purity: fentanyl overdose episode in New Jersey. Health Econ
+2014; 23: 688–705.</cite> [<a href="https://doi.org/10.1002/hec.2937" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/23740651/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Health%20Econ&amp;title=Supply-side%20response%20to%20declining%20heroin%20purity:%20fentanyl%20overdose%20episode%20in%20New%20Jersey&amp;author=K%20Hempstead&amp;author=EO%20Yildirim&amp;volume=23&amp;publication_year=2014&amp;pages=688-705&amp;pmid=23740651&amp;doi=10.1002/hec.2937&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R48">
+<span class="label">48.</span><cite>Griffiths P, Mounteney J, Laniel L
+Understanding changes in heroin availability in Europe over time: emerging evidence for a slide, a squeeze and a shock. Addiction
+2012; 107: 1539–40.</cite> [<a href="https://doi.org/10.1111/j.1360-0443.2012.03829.x" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/22509981/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Addiction&amp;title=Understanding%20changes%20in%20heroin%20availability%20in%20Europe%20over%20time:%20emerging%20evidence%20for%20a%20slide,%20a%20squeeze%20and%20a%20shock&amp;author=P%20Griffiths&amp;author=J%20Mounteney&amp;author=L%20Laniel&amp;volume=107&amp;publication_year=2012&amp;pages=1539-40&amp;pmid=22509981&amp;doi=10.1111/j.1360-0443.2012.03829.x&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R49">
+<span class="label">49.</span><cite>Mars S, Bourgois P, Karandinos G, Montero F, Ciccarone D
+Every ‘never’ I ever said came true: pathways from pills to heroin injecting. Int J Drug Policy
+2014; 25: 257–66.</cite> [<a href="https://doi.org/10.1016/j.drugpo.2013.10.004" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC3961517/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/24238956/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Int%20J%20Drug%20Policy&amp;title=Every%20%E2%80%98never%E2%80%99%20I%20ever%20said%20came%20true:%20pathways%20from%20pills%20to%20heroin%20injecting&amp;author=S%20Mars&amp;author=P%20Bourgois&amp;author=G%20Karandinos&amp;author=F%20Montero&amp;author=D%20Ciccarone&amp;volume=25&amp;publication_year=2014&amp;pages=257-66&amp;pmid=24238956&amp;doi=10.1016/j.drugpo.2013.10.004&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R50">
+<span class="label">50.</span><cite>Unick GJ, Rosenblum D, Mars S, Ciccarone D
+Intertwined epidemics: national demographic trends in hospitalizations for heroin- and opioid-related overdoses, 1993–2009. PLoS One 2013; 8: e54496.</cite> [<a href="https://doi.org/10.1371/journal.pone.0054496" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC3566161/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/23405084/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=PLoS%20One%202013&amp;title=Intertwined%20epidemics:%20national%20demographic%20trends%20in%20hospitalizations%20for%20heroin-%20and%20opioid-related%20overdoses,%201993%E2%80%932009&amp;author=GJ%20Unick&amp;author=D%20Rosenblum&amp;author=S%20Mars&amp;author=D%20Ciccarone&amp;volume=8&amp;pages=e54496&amp;pmid=23405084&amp;doi=10.1371/journal.pone.0054496&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R51">
+<span class="label">51.</span><cite>Substance Abuse and Mental Health Services Administration. Results from the 2011 National Survey on Drug Use and Health: Summary of National Findings in NSDUH Series H-44. Rockville, MD: Substance Abuse and Mental Health Services Administration; 2012.</cite> [<a href="https://scholar.google.com/scholar_lookup?title=Results%20from%20the%202011%20National%20Survey%20on%20Drug%20Use%20and%20Health:%20Summary%20of%20National%20Findings%20in%20NSDUH%20Series%20H-44&amp;publication_year=2012&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R52">
+<span class="label">52.</span><cite>Kilmer B, Everingham S, Caulkins J, Midgette G, Pacula R, Reuter P
+et al. 
+What America’s users spend on illegal drugs: 2000–2010. Santa Monica, CA: RAND Corporation; 2014.</cite> [<a href="https://scholar.google.com/scholar_lookup?title=What%20America%E2%80%99s%20users%20spend%20on%20illegal%20drugs:%202000%E2%80%932010&amp;author=B%20Kilmer&amp;author=S%20Everingham&amp;author=J%20Caulkins&amp;author=G%20Midgette&amp;author=R%20Pacula&amp;publication_year=2014&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R53">
+<span class="label">53.</span><cite>Ciccarone D, Unick GJ, Kraus A
+Impact of South American heroin on the US heroin market 1993–2004. Int J Drug Policy 2009; 20: 392–401.</cite> [<a href="https://doi.org/10.1016/j.drugpo.2008.12.001" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC2719678/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/19201184/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Int%20J%20Drug%20Policy%202009&amp;title=Impact%20of%20South%20American%20heroin%20on%20the%20US%20heroin%20market%201993%E2%80%932004&amp;author=D%20Ciccarone&amp;author=GJ%20Unick&amp;author=A%20Kraus&amp;volume=20&amp;pages=392-401&amp;pmid=19201184&amp;doi=10.1016/j.drugpo.2008.12.001&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R54">
+<span class="label">54.</span><cite>United Nations Office on Drug and Crime (UNODC)
+World Drug Report 2017. Vienna, Austria: UNODC; 2017.</cite> [<a href="https://scholar.google.com/scholar_lookup?title=World%20Drug%20Report%202017&amp;publication_year=2017&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R55">
+<span class="label">55.</span><cite>Arbabzadah N
+Killer fungus is no mystery to Afghan poppy growers. Guardian
+2010.  Available at: <a href="https://www.theguardian.com/commentisfree/2010/may/17/poppy-fungus-mystery-afghanistan" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">https://www.theguardian.com/commentisfree/2010/may/17/poppy-fungus-mystery-afghanistan</a> (accessed
+31 March 2018).</cite>
+</li>
+<li id="R56">
+<span class="label">56.</span><cite>Beletsky L, Davis CS
+Today’s fentanyl crisis: prohibition’s iron law, revisited. Int J Drug Policy
+2017; 46: 156–9.</cite> [<a href="https://doi.org/10.1016/j.drugpo.2017.05.050" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/28735773/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Int%20J%20Drug%20Policy&amp;title=Today%E2%80%99s%20fentanyl%20crisis:%20prohibition%E2%80%99s%20iron%20law,%20revisited&amp;author=L%20Beletsky&amp;author=CS%20Davis&amp;volume=46&amp;publication_year=2017&amp;pages=156-9&amp;pmid=28735773&amp;doi=10.1016/j.drugpo.2017.05.050&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R57">
+<span class="label">57.</span><cite>Ciccarone D
+The political economy of heroin: regional markets, practices and consequences. Int J Drug Policy
+2005; 16: 289–90.</cite> [<a href="https://scholar.google.com/scholar_lookup?journal=Int%20J%20Drug%20Policy&amp;title=The%20political%20economy%20of%20heroin:%20regional%20markets,%20practices%20and%20consequences&amp;author=D%20Ciccarone&amp;volume=16&amp;publication_year=2005&amp;pages=289-90&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R58">
+<span class="label">58.</span><cite>Ciccarone D
+Heroin in brown, black and white: structural factors and medical consequences in the US heroin market. Int J Drug Policy
+2009; 20: 277–82.</cite> [<a href="https://doi.org/10.1016/j.drugpo.2008.08.003" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC2704563/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/18945606/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Int%20J%20Drug%20Policy&amp;title=Heroin%20in%20brown,%20black%20and%20white:%20structural%20factors%20and%20medical%20consequences%20in%20the%20US%20heroin%20market&amp;author=D%20Ciccarone&amp;volume=20&amp;publication_year=2009&amp;pages=277-82&amp;pmid=18945606&amp;doi=10.1016/j.drugpo.2008.08.003&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R59">
+<span class="label">59.</span><cite>Paoli L, Greenfield VA, Reuter P
+The world heroin market: can supply be cut?
+New York: Oxford University Press; 2009.</cite> [<a href="https://scholar.google.com/scholar_lookup?title=The%20world%20heroin%20market:%20can%20supply%20be%20cut?&amp;author=L%20Paoli&amp;author=VA%20Greenfield&amp;author=P%20Reuter&amp;publication_year=2009&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+</ul></section></section></section></section></article>
+
+                      
+
+                    </main>
+                </div>
+            </div>
+        </div>
+
+        
+
+
+
+<!-- Secondary navigation placeholder -->
+<div class="pmc-sidenav desktop:grid-col-4 display-flex">
+    <section class="pmc-sidenav__container" aria-label="Article resources and navigation">
+        <button type="button" class="pmc-sidenav__container__close">
+            <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg" role="img" alt="Close" />
+        </button>
+    <div class="display-none desktop:display-block">
+       <section class="margin-top-4 desktop:margin-top-0">
+              <h2 class="margin-top-0">ACTIONS</h2>
+           <ul class="usa-list usa-list--unstyled usa-list--actions">
+               
+               <li>
+                     <a
+                             href="https://doi.org/10.1111/add.14474"
+                             class="usa-button usa-button--outline width-24 font-xs display-inline-flex flex-align-center flex-justify-start padding-left-1"
+                             target="_blank"
+                             rel="noreferrer noopener"
+                             data-ga-category="actions"
+                             data-ga-action="click"
+                             data-ga-label="publisher_link_desktop"
+                     >
+                         <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/launch.svg" alt="View on publisher site icon" class="usa-icon usa-icon--size-3 usa-icon--link"/>
+                         <span class="display-inline-flex flex-justify-center flex-1 padding-right-2">View on publisher site</span>
+                     </a>
+               </li>
+               
+               
+               <li>
+                    <a
+                            href="pdf/nihms-1001711.pdf"
+                            class="usa-button usa-button--outline width-24 display-inline-flex flex-align-center flex-justify-start padding-left-1"
+                            data-ga-category="actions"
+                            data-ga-action="click"
+                            data-ga-label="pdf_download_desktop"
+                    >
+                         <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg" alt="Download PDF icon" class="usa-icon usa-icon--size-3 usa-icon--link"/>
+                        <span class="display-inline-flex flex-justify-center flex-1">PDF (67.2 KB)</span>
+                    </a>
+               </li>
+               
+                
+               <li>
+                   <button role="button" class="usa-button width-24 citation-dialog-trigger display-inline-flex flex-align-center flex-justify-start padding-left-1"
+                        aria-label="Open dialog with citation text in different styles"
+                        data-ga-category="actions"
+                        data-ga-action="open"
+                        data-ga-label="cite_desktop"
+                        data-all-citations-url="/resources/citations/6548693/"
+                        data-citation-style="nlm"
+                        data-download-format-link="/resources/citations/6548693/export/"
+                    >
+                       <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/format_quote.svg" alt="Cite icon" class="usa-icon usa-icon--size-3 usa-icon--white"/>
+                       <span class="display-inline-flex flex-justify-center flex-1 button-label">Cite</span>
+                    </button>
+               </li>
+                
+               <li>
+
+                        <button class="usa-button width-24 collections-dialog-trigger collections-button display-inline-flex flex-align-center flex-justify-start padding-left-1 collections-button-empty"
+                              aria-label="Save article in MyNCBI collections."
+                              data-ga-category="actions"
+                              data-ga-action="click"
+                              data-ga-label="collections_button_desktop"
+                              data-collections-open-dialog-enabled="false"
+                              data-collections-open-dialog-url="https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpmc.ncbi.nlm.nih.gov%2Farticles%2FPMC6548693%2F%23open-collections-dialog"
+                              data-in-collections="false">
+                            <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-full.svg" alt="Collections icon" class="usa-icon usa-icon--size-3 usa-icon--white usa-icon--bookmark-full" hidden />
+                            <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-empty.svg" alt="Collections icon" class="usa-icon usa-icon--size-3 usa-icon--white usa-icon--bookmark-empty" hidden />
+                            <span class="display-inline-flex flex-justify-center flex-1">Collections</span>
+                       </button>
+               </li>
+               <li class="pmc-permalink">
+                    <button
+                            type="button"
+                            class="usa-button width-24 display-inline-flex flex-align-center flex-justify padding-left-1 shadow-none"
+                            aria-label="Show article permalink"
+                            aria-expanded="false"
+                            aria-haspopup="true"
+                            data-ga-category="actions"
+                            data-ga-action="open"
+                            data-ga-label="permalink_desktop"
+                    >
+                        <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/share.svg" alt="Permalink icon" class="usa-icon usa-icon--size-3 usa-icon--white"/>
+                        <span class="display-inline-flex flex-justify-center flex-1 button-label">Permalink</span>
+                    </button>
+                   
+
+<div class="pmc-permalink__dropdown" hidden>
+    <div class="pmc-permalink__dropdown__container">
+          <h2 class="usa-modal__heading margin-top-0 margin-bottom-2 text-uppercase font-sans-xs">PERMALINK</h2>
+          <div class="pmc-permalink__dropdown__content">
+              <input type="text" class="usa-input" value="https://pmc.ncbi.nlm.nih.gov/articles/PMC6548693/" aria-label="Article permalink">
+              <button class="usa-button display-inline-flex pmc-permalink__dropdown__copy__btn margin-right-0" title="Copy article permalink" data-ga-category="save_share" data-ga-action="link" data-ga-label="copy_link">
+                  <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg" alt="Copy icon" aria-hidden="true" class="usa-icon usa-icon--white" />
+                  <span class="margin-left-1">Copy</span>
+              </button>
+          </div>
+    </div>
+</div>
+               </li>
+           </ul>
+       </section>
+     </div>
+
+        <section class="pmc-resources margin-top-6 desktop:margin-top-4" data-page-path="/articles/PMC6548693/">
+            <h2 class="margin-top-0">RESOURCES</h2>
+            
+                <div class="usa-accordion usa-accordion--multiselectable" data-allow-multiple>
+                    <h3 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button"
+                        aria-expanded="false"
+                        aria-controls="resources-similar-articles"
+                        data-ga-category="resources_accordion"
+                        data-ga-action="open_similar_articles"
+                        data-ga-label="/articles/PMC6548693/"
+                        data-action-open="open_similar_articles"
+                        data-action-close="close_similar_articles"
+                        >
+                            Similar articles
+                        </button>
+                    </h3>
+                    <div
+                            id="resources-similar-articles"
+                            class="usa-accordion__content usa-prose"
+                            
+                                data-source-url="/resources/similar-article-links/30512204/"
+                            
+                    >
+                        
+                    </div>
+                    <h3 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button"
+                        aria-expanded="false"
+                        aria-controls="resources-cited-by-other-articles"
+                        data-ga-category="resources_accordion"
+                        data-ga-action="open_cited_by"
+                        data-ga-label="/articles/PMC6548693/"
+                        data-action-open="open_cited_by"
+                        data-action-close="close_cited_by"
+                        >
+                             Cited by other articles
+                        </button>
+                    </h3>
+                    <div
+                            id="resources-cited-by-other-articles"
+                            class="usa-accordion__content usa-prose"
+                            
+                                data-source-url="/resources/cited-by-links/30512204/"
+                            
+                    >
+                          
+                    </div>
+                    
+                        <h3 class="usa-accordion__heading">
+                            <button
+                            type="button"
+                            class="usa-accordion__button"
+                            aria-expanded="false"
+                            aria-controls="resources-links-to-ncbi-databases"
+                            data-ga-category="resources_accordion"
+                            data-ga-action="open_NCBI_links"
+                            data-ga-label="/articles/PMC6548693/"
+                            data-action-open="open_NCBI_links"
+                            data-action-close="close_NCBI_link"
+                            >
+                                 Links to NCBI Databases
+                            </button>
+                        </h3>
+                        <div
+                                id="resources-links-to-ncbi-databases"
+                                class="usa-accordion__content usa-prose"
+                                data-source-url="/resources/db-links/6548693/"
+                        >
+                        </div>
+                    
+                    
+                </div>
+            
+        </section>
+
+
+        <section
+        class="usa-in-page-nav usa-in-page-nav--wide margin-top-6 desktop:margin-top-4"
+        data-title-text="On this page"
+        data-title-heading-level="h2"
+        data-scroll-offset="0"
+        data-root-margin="-10% 0px -80% 0px"
+        data-main-content-selector="main"
+        data-threshold="1"
+        hidden
+        ></section>
+    </section>
+</div>
+
+        
+
+<div class="overlay" role="dialog" aria-label="Citation Dialog" hidden>
+    <div class="dialog citation-dialog" aria-hidden="true">
+        <div class="display-inline-flex flex-align-center flex-justify width-full margin-bottom-2">
+            <h2 class="usa-modal__heading margin-0">Cite</h2>
+             <button type="button" class="usa-button usa-button--unstyled close-overlay text-black width-auto"  tabindex="1">
+                 <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg" alt="Close icon" class="usa-icon usa-icon--size-3 usa-icon--button" />
+             </button>
+        </div>
+
+        
+
+<div class="citation-text-block">
+  <div class="citation-text margin-bottom-2"></div>
+  <ul class="usa-list usa-list--unstyled display-inline-flex flex-justify width-full flex-align-center">
+      <li>
+        <button
+          class="usa-button usa-button--unstyled text-no-underline display-flex flex-align-center copy-button dialog-focus"
+          data-ga-category="save_share"
+          data-ga-action="cite"
+          data-ga-label="copy"
+          tabindex="2">
+            <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg" alt="Copy icon" class="usa-icon usa-icon--size-3 usa-icon--link" />
+            <span>Copy</span>
+        </button>
+      </li>
+      <li>
+          <a
+              href="#"
+              role="button"
+              class="usa-button usa-button--unstyled text-no-underline display-flex flex-align-center export-button"
+              data-ga-category="save_share"
+              data-ga-action="cite"
+              data-ga-label="download"
+              title="Download a file for external citation management software"
+              tabindex="3">
+                <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg" alt="Download icon" aria-hidden="true" class="usa-icon usa-icon--size-3 usa-icon--link" />
+                <span class="display-none mobile-lg:display-inline">Download .nbib</span>
+                <span class="display-inline mobile-lg:display-none">.nbib</span>
+            </a>
+      </li>
+      <li>
+          
+
+<div class="display-inline-flex flex-align-center">
+  <label class="usa-label margin-top-0">Format:</label>
+  <select aria-label="Format" class="usa-select citation-style-selector padding-1 margin-top-0 border-0 padding-right-4" tabindex="4" >
+    
+      <option data-style-url-name="ama"
+              value="AMA"
+              >
+        AMA
+      </option>
+    
+      <option data-style-url-name="apa"
+              value="APA"
+              >
+        APA
+      </option>
+    
+      <option data-style-url-name="mla"
+              value="MLA"
+              >
+        MLA
+      </option>
+    
+      <option data-style-url-name="nlm"
+              value="NLM"
+              selected="selected">
+        NLM
+      </option>
+    
+  </select>
+</div>
+      </li>
+  </ul>
+</div>
+    </div>
+</div>
+
+        <div class="overlay" role="dialog" hidden>
+  <div id="collections-action-dialog" class="dialog collections-dialog" aria-hidden="true">
+   <div class="display-inline-flex flex-align-center flex-justify width-full margin-bottom-2">
+        <h2 class="usa-modal__heading margin-0">Add to Collections</h2>
+    </div>
+    <div class="collections-action-panel action-panel">
+      
+
+
+<form id="collections-action-dialog-form"
+      class="usa-form maxw-full collections-action-panel-form action-panel-content action-form action-panel-smaller-selectors"
+      data-existing-collections-url="/list-existing-collections/"
+      data-add-to-existing-collection-url="/add-to-existing-collection/"
+      data-create-and-add-to-new-collection-url="/create-and-add-to-new-collection/"
+      data-myncbi-max-collection-name-length="100"
+      data-collections-root-url="https://www.ncbi.nlm.nih.gov/myncbi/collections/">
+
+    <input type="hidden" name="csrfmiddlewaretoken" value="W7rFDtKevgnwGHLJGBInrId2QHojL5GJebMV0j4n0rFTDbdl7OuTq063ziyDomNZ">
+
+    <fieldset class="usa-fieldset margin-bottom-2">
+        <div class="usa-radio">
+            <input type="radio"
+            id="collections-action-dialog-new"
+            class="usa-radio__input usa-radio__input--tile collections-new  margin-top-0"
+            name="collections"
+            value="new"
+            data-ga-category="collections_button"
+            data-ga-action="click"
+            data-ga-label="collections_radio_new" />
+            <label class="usa-radio__label" for="collections-action-dialog-new">Create a new collection</label>
+        </div>
+        <div class="usa-radio">
+            <input type="radio"
+            id="collections-action-dialog-existing"
+            class="usa-radio__input usa-radio__input--tile collections-existing"
+            name="collections"
+            value="existing"
+            checked="true"
+            data-ga-category="collections_button"
+            data-ga-action="click"
+            data-ga-label="collections_radio_existing" />
+            <label class="usa-radio__label" for="collections-action-dialog-existing">Add to an existing collection</label>
+        </div>
+    </fieldset>
+
+    <fieldset class="usa-fieldset margin-bottom-2">
+        <div class="action-panel-control-wrap new-collections-controls">
+           <label for="collections-action-dialog-add-to-new" class="usa-label margin-top-0">
+                Name your collection
+               <abbr title="required" class="usa-hint usa-hint--required text-no-underline">*</abbr>
+          </label>
+          <input
+            type="text"
+            name="add-to-new-collection"
+            id="collections-action-dialog-add-to-new"
+            class="usa-input collections-action-add-to-new"
+            pattern="[^&quot;&amp;=&lt;&gt;/]*" title="The following characters are not allowed in the Name field: &quot;&amp;=&lt;&gt;/"
+            maxlength=""
+            data-ga-category="collections_button"
+            data-ga-action="create_collection"
+            data-ga-label="non_favorties_collection"
+            required
+          />
+        </div>
+        <div class="action-panel-control-wrap existing-collections-controls">
+             <label for="collections-action-dialog-add-to-existing" class="usa-label margin-top-0">
+                Choose a collection
+              </label>
+              <select id="collections-action-dialog-add-to-existing"
+                      class="usa-select collections-action-add-to-existing"
+                      data-ga-category="collections_button"
+                      data-ga-action="select_collection"
+                      data-ga-label="($('.collections-action-add-to-existing').val() === 'Favorites') ? 'Favorites' : 'non_favorites_collection'">
+              </select>
+              <div class="collections-retry-load-on-error usa-input-error-message selection-validation-message">
+                Unable to load your collection due to an error<br>
+                <a href="#">Please try again</a>
+              </div>
+        </div>
+    </fieldset>
+
+    <div class="display-inline-flex">
+        <button class="usa-button margin-top-0 action-panel-submit"
+            type="submit"
+            data-loading-label="Adding..."
+            data-pinger-ignore
+            data-ga-category="collections_button"
+            data-ga-action="click"
+            data-ga-label="add">
+          Add
+        </button>
+        <button class="usa-button usa-button--outline margin-top-0 action-panel-cancel"
+                aria-label="Close 'Add to Collections' panel"
+                ref="linksrc=close_collections_panel"
+                data-ga-category="collections_button"
+                data-ga-action="click"
+                data-ga-label="cancel">
+          Cancel
+        </button>
+    </div>
+</form>
+    </div>
+  </div>
+</div>
+
+        
+
+      </div>
+    </div>
+  </div>
+
+
+
+        
+    
+    
+
+<footer class="ncbi-footer ncbi-dark-background " >
+    
+        <div class="ncbi-footer__icon-section">
+            <div class="ncbi-footer__social-header">
+                Follow NCBI
+            </div>
+
+            <div class="grid-container ncbi-footer__ncbi-social-icons-container">
+                
+                    <a href="https://twitter.com/ncbi"
+                       class="ncbi-footer__social-icon ncbi-footer__social-icon--gray"
+                       target="_blank"
+                       rel="noreferrer noopener">
+                        <svg width="40"
+                             height="40"
+                             viewBox="0 0 40 40"
+                             fill="none"
+                             xmlns="http://www.w3.org/2000/svg"
+                             focusable="false"
+                             aria-hidden="true">
+                            <path d="m6.067 8 10.81 13.9L6 33.2h4.2l8.4-9.1 7.068 9.1H34L22.8 18.5 31.9 8h-3.5l-7.7 8.4L14.401 8H6.067Zm3.6 1.734h3.266l16.8 21.732H26.57L9.668 9.734Z">
+                            </path>
+                        </svg>
+                        <span class="usa-sr-only">NCBI on X (formerly known as Twitter)</span>
+                    </a>
+                
+
+                
+                    <a href="https://www.facebook.com/ncbi.nlm"
+                       class="ncbi-footer__social-icon ncbi-footer__social-icon--gray"
+                       target="_blank"
+                       rel="noreferrer noopener">
+                        <svg width="16"
+                             height="29"
+                             focusable="false"
+                             aria-hidden="true"
+                             viewBox="0 0 16 29"
+                             fill="none"
+                             xmlns="http://www.w3.org/2000/svg">
+                            <path d="M3.8809 21.4002C3.8809 19.0932 3.8809 16.7876 3.8809 14.478C3.8809 14.2117 3.80103 14.1452 3.54278 14.1492C2.53372 14.1638 1.52334 14.1492 0.514288 14.1598C0.302626 14.1598 0.248047 14.0972 0.248047 13.8936C0.256034 12.4585 0.256034 11.0239 0.248047 9.58978C0.248047 9.37013 0.302626 9.30224 0.528931 9.3049C1.53798 9.31688 2.54837 9.3049 3.55742 9.31555C3.80103 9.31555 3.8809 9.26097 3.87957 9.00272C3.87158 8.00565 3.85428 7.00592 3.90753 6.00884C3.97142 4.83339 4.31487 3.73115 5.04437 2.78467C5.93095 1.63318 7.15699 1.09005 8.56141 0.967577C10.5582 0.79319 12.555 0.982221 14.5518 0.927641C14.7102 0.927641 14.7462 0.99287 14.7449 1.13664C14.7449 2.581 14.7449 4.02668 14.7449 5.47104C14.7449 5.67604 14.6517 5.68669 14.4946 5.68669C13.4523 5.68669 12.4113 5.68669 11.3703 5.68669C10.3506 5.68669 9.92057 6.10868 9.90593 7.13904C9.89661 7.7647 9.91525 8.39303 9.89794 9.01869C9.88995 9.26364 9.96583 9.31822 10.2015 9.31688C11.7204 9.30623 13.2393 9.31688 14.7595 9.3049C15.0257 9.3049 15.0723 9.3728 15.0444 9.62439C14.89 10.9849 14.7515 12.3467 14.6144 13.7085C14.5691 14.1571 14.5785 14.1585 14.1458 14.1585C12.8386 14.1585 11.5313 14.1665 10.2254 14.1518C9.95119 14.1518 9.89794 14.2317 9.89794 14.4899C9.90593 19.0799 9.89794 23.6752 9.91125 28.2612C9.91125 28.5674 9.8407 28.646 9.53186 28.6433C7.77866 28.6273 6.02414 28.6366 4.27094 28.634C3.82499 28.634 3.87158 28.6992 3.87158 28.22C3.87602 25.9472 3.87913 23.6739 3.8809 21.4002Z">
+                            </path>
+                        </svg>
+                        <span class="usa-sr-only">NCBI on Facebook</span>
+                    </a>
+                
+
+                
+                    <a href="https://www.linkedin.com/company/ncbinlm"
+                       class="ncbi-footer__social-icon ncbi-footer__social-icon--gray"
+                       target="_blank"
+                       rel="noreferrer noopener">
+                        <svg width="25"
+                             height="23"
+                             viewBox="0 0 26 24"
+                             fill="none"
+                             xmlns="http://www.w3.org/2000/svg"
+                             focusable="false"
+                             aria-hidden="true">
+                            <path d="M14.6983 9.98423C15.6302 9.24808 16.5926 8.74754 17.6762 8.51991C19.673 8.09126 21.554 8.30824 23.1262 9.7526C24.2351 10.7723 24.7529 12.1115 25.0165 13.5612C25.1486 14.3363 25.2105 15.1218 25.2015 15.9081C25.2015 18.3043 25.2015 20.6898 25.2082 23.0806C25.2082 23.3468 25.1549 23.444 24.8621 23.4414C23.1297 23.4272 21.3992 23.4272 19.6704 23.4414C19.4041 23.4414 19.3429 23.3588 19.3442 23.1019C19.3535 20.5194 19.3442 17.9368 19.3442 15.3543C19.3442 14.0005 18.3258 12.9448 17.0266 12.9488C15.7273 12.9528 14.6983 14.0071 14.6983 15.361C14.6983 17.9328 14.6917 20.5047 14.6983 23.0753C14.6983 23.3708 14.6198 23.444 14.3296 23.4427C12.6185 23.4294 10.9079 23.4294 9.19779 23.4427C8.93155 23.4427 8.86099 23.3735 8.86232 23.1086C8.8783 19.7619 8.88628 16.4144 8.88628 13.066C8.88628 11.5688 8.87874 10.0708 8.86365 8.57182C8.86365 8.3575 8.90758 8.27896 9.14054 8.28029C10.9048 8.29094 12.6687 8.29094 14.4321 8.28029C14.6464 8.28029 14.6983 8.34818 14.6983 8.54653C14.6903 9.00047 14.6983 9.45441 14.6983 9.98423Z">
+                            </path>
+                            <path d="M6.55316 15.8443C6.55316 18.2564 6.55316 20.6699 6.55316 23.082C6.55316 23.3629 6.48127 23.4388 6.19906 23.4374C4.47737 23.4241 2.75568 23.4241 1.03399 23.4374C0.767751 23.4374 0.69986 23.3629 0.701191 23.1006C0.709178 18.2648 0.709178 13.4281 0.701191 8.59053C0.701191 8.34026 0.765089 8.27237 1.01669 8.2737C2.74991 8.28435 4.48048 8.28435 6.20838 8.2737C6.47462 8.2737 6.5465 8.33627 6.54517 8.6065C6.54783 11.0186 6.55316 13.4308 6.55316 15.8443Z">
+                            </path>
+                            <path d="M3.65878 0.243898C5.36804 0.243898 6.58743 1.45529 6.58743 3.1406C6.58743 4.75801 5.32145 5.95742 3.60819 5.96807C3.22177 5.97614 2.83768 5.90639 2.47877 5.76299C2.11985 5.61959 1.79344 5.40546 1.51897 5.13334C1.24449 4.86123 1.02755 4.53668 0.881058 4.17902C0.734563 3.82136 0.661505 3.43788 0.666231 3.05141C0.67555 1.42601 1.9362 0.242566 3.65878 0.243898Z">
+                            </path>
+                        </svg>
+                        <span class="usa-sr-only">NCBI on LinkedIn</span>
+                    </a>
+                
+
+                
+                    <a href="https://github.com/ncbi"
+                       class="ncbi-footer__social-icon ncbi-footer__social-icon--gray"
+                       target="_blank"
+                       rel="noreferrer noopener">
+                        <svg width="28"
+                             height="27"
+                             viewBox="0 0 28 28"
+                             fill="none"
+                             xmlns="http://www.w3.org/2000/svg"
+                             focusable="false"
+                             aria-hidden="true">
+                            <path d="M16.7228 20.6334C17.5057 20.5527 18.2786 20.3944 19.0301 20.1608C21.3108 19.4193 22.5822 17.8259 22.963 15.4909C23.1228 14.5112 23.1814 13.5287 22.9883 12.5437C22.8106 11.6423 22.4013 10.8028 21.8007 10.1076C21.7526 10.0605 21.7197 10 21.7064 9.934C21.6931 9.86799 21.7 9.79952 21.7262 9.73748C22.0856 8.6206 21.9711 7.51969 21.601 6.42677C21.582 6.3497 21.5345 6.2827 21.468 6.23923C21.4016 6.19577 21.3211 6.17906 21.2429 6.19248C20.7329 6.21649 20.2313 6.33051 19.7611 6.52928C19.1103 6.7908 18.4899 7.12198 17.9104 7.51703C17.84 7.56996 17.7581 7.60551 17.6713 7.62078C17.5846 7.63605 17.4954 7.6306 17.4112 7.60489C15.2596 7.05882 13.0054 7.06203 10.8554 7.61421C10.7806 7.63586 10.7018 7.63967 10.6253 7.62534C10.5487 7.611 10.4766 7.57892 10.4148 7.53167C9.64788 7.03247 8.85171 6.58918 7.96368 6.33359C7.65781 6.24338 7.34123 6.19458 7.02239 6.18849C6.94879 6.17986 6.87462 6.19893 6.81432 6.242C6.75402 6.28507 6.71191 6.34904 6.69621 6.42145C6.32342 7.51437 6.2209 8.61527 6.56307 9.73348C6.59635 9.84264 6.64694 9.93316 6.54177 10.0516C5.47666 11.2604 5.09988 12.6834 5.19574 14.2676C5.2663 15.4244 5.46201 16.5466 6.01454 17.5769C6.84399 19.1171 8.21664 19.9119 9.85158 20.3352C10.3938 20.4706 10.9444 20.5698 11.4998 20.632C11.5384 20.7492 11.4506 20.7798 11.408 20.8291C11.1734 21.1179 10.9894 21.4441 10.8634 21.7942C10.7622 22.0458 10.8315 22.4039 10.6065 22.5516C10.263 22.7766 9.83827 22.8485 9.42421 22.8871C8.17936 23.0056 7.26471 22.4877 6.6283 21.4348C6.25552 20.8184 5.76956 20.3325 5.08523 20.0663C4.76981 19.9325 4.42139 19.8967 4.08537 19.9638C3.7898 20.029 3.73788 20.1901 3.93891 20.4111C4.03639 20.5234 4.14989 20.6207 4.27575 20.6999C4.9796 21.1318 5.51717 21.7884 5.80152 22.5636C6.37002 23.9973 7.48039 24.5697 8.93825 24.6323C9.43741 24.6575 9.93768 24.615 10.4254 24.5058C10.5892 24.4672 10.6531 24.4872 10.6517 24.6762C10.6451 25.4936 10.6637 26.3123 10.6517 27.131C10.6517 27.6635 10.1684 27.9297 9.58663 27.7393C8.17396 27.2671 6.84977 26.5631 5.66838 25.656C2.59555 23.2891 0.720966 20.1861 0.217704 16.3376C-0.357453 11.9127 0.911353 8.00824 3.98551 4.73881C6.11909 2.42656 8.99932 0.939975 12.1203 0.540191C16.5351 -0.0601815 20.4347 1.14323 23.7232 4.16373C26.2449 6.47869 27.724 9.37672 28.1048 12.7726C28.5828 17.0325 27.3686 20.7945 24.4768 23.9827C22.9762 25.6323 21.0956 26.8908 18.9982 27.6488C18.8783 27.6927 18.7585 27.738 18.636 27.7726C18.0356 27.9404 17.6189 27.6395 17.6189 27.0098C17.6189 25.7452 17.6308 24.4806 17.6295 23.2159C17.6329 22.9506 17.6128 22.6856 17.5696 22.4238C17.4325 21.6664 17.3419 21.484 16.7228 20.6334Z">
+                            </path>
+                        </svg>
+                        <span class="usa-sr-only">NCBI on GitHub</span>
+                    </a>
+                
+
+                
+                    <a href="https://ncbiinsights.ncbi.nlm.nih.gov/"
+                       class="ncbi-footer__social-icon ncbi-footer__social-icon--gray"
+                       target="_blank"
+                       rel="noreferrer noopener">
+                        <svg width="26"
+                             height="26"
+                             viewBox="0 0 27 27"
+                             fill="none"
+                             xmlns="http://www.w3.org/2000/svg"
+                             focusable="false"
+                             aria-hidden="true">
+                            <path d="M23.7778 26.4574C23.1354 26.3913 22.0856 26.8024 21.636 26.3087C21.212 25.8444 21.4359 24.8111 21.324 24.0347C19.9933 14.8323 14.8727 8.80132 6.09057 5.85008C4.37689 5.28406 2.58381 4.99533 0.779072 4.99481C0.202773 4.99481 -0.0229751 4.83146 0.00455514 4.21479C0.0660406 3.08627 0.0660406 1.95525 0.00455514 0.826734C-0.0413285 0.0815827 0.259669 -0.0193618 0.896534 0.00266238C6.96236 0.222904 12.3693 2.24179 16.9889 6.16209C22.9794 11.2478 26.1271 17.7688 26.4372 25.648C26.4629 26.294 26.3179 26.5271 25.6609 26.4684C25.0827 26.417 24.4991 26.4574 23.7778 26.4574Z">
+                            </path>
+                            <path d="M14.8265 26.441C14.0924 26.441 13.2371 26.6795 12.6626 26.3786C12.0092 26.0372 12.3781 25.0644 12.246 24.378C11.1154 18.5324 6.6849 14.5497 0.74755 14.1001C0.217135 14.0615 -0.0104482 13.9422 0.0134113 13.3659C0.0519536 12.1454 0.0482829 10.9213 0.0134113 9.69524C-0.00127145 9.14464 0.196946 9.03268 0.703502 9.04736C9.21217 9.27128 16.5994 16.2511 17.2804 24.7231C17.418 26.4446 17.418 26.4446 15.6579 26.4446H14.832L14.8265 26.441Z">
+                            </path>
+                            <path d="M3.58928 26.4555C2.64447 26.4618 1.73584 26.0925 1.06329 25.4289C0.39073 24.7653 0.00933763 23.8617 0.0030097 22.9169C-0.00331824 21.9721 0.365937 21.0635 1.02954 20.3909C1.69315 19.7184 2.59675 19.337 3.54156 19.3306C4.48637 19.3243 5.39499 19.6936 6.06755 20.3572C6.7401 21.0208 7.1215 21.9244 7.12782 22.8692C7.13415 23.814 6.7649 24.7226 6.10129 25.3952C5.43768 26.0677 4.53409 26.4491 3.58928 26.4555Z">
+                            </path>
+                        </svg>
+                        <span class="usa-sr-only">NCBI RSS feed</span>
+                    </a>
+                
+            </div>
+        </div>
+    
+
+    <div data-testid="gridContainer"
+         class="grid-container ncbi-footer__container">
+        <div class="grid-row ncbi-footer__main-content-container"
+             data-testid="grid">
+            
+                <div class="ncbi-footer__column">
+                    
+                        <p class="ncbi-footer__circled-icons-heading">
+                            Connect with NLM
+                        </p>
+                    
+
+                    <div class="ncbi-footer__circled-icons-list">
+                        
+                            <a href=https://twitter.com/nlm_nih class="ncbi-footer__social-icon ncbi-footer__social-icon--circled" target="_blank" rel="noreferrer noopener">
+                                <svg width="32"
+                                     height="32"
+                                     viewBox="0 0 40 40"
+                                     fill="none"
+                                     xmlns="http://www.w3.org/2000/svg"
+                                     focusable="false"
+                                     aria-hidden="true">
+                                    <path d="m6.067 8 10.81 13.9L6 33.2h4.2l8.4-9.1 7.068 9.1H34L22.8 18.5 31.9 8h-3.5l-7.7 8.4L14.401 8H6.067Zm3.6 1.734h3.266l16.8 21.732H26.57L9.668 9.734Z">
+                                    </path>
+                                </svg>
+                                <span class="usa-sr-only">NLM on X (formerly known as Twitter)</span>
+                            </a>
+                        
+
+                        
+                            <a href=https://www.facebook.com/nationallibraryofmedicine class="ncbi-footer__social-icon ncbi-footer__social-icon--circled" target="_blank" rel="noreferrer noopener">
+                                <svg width="13"
+                                     height="24"
+                                     viewBox="0 0 13 24"
+                                     fill="none"
+                                     xmlns="http://www.w3.org/2000/svg"
+                                     focusable="false"
+                                     aria-hidden="true">
+                                    <path d="M4.11371 23.1369C4.11371 23.082 4.11371 23.0294 4.11371 22.9745V12.9411H0.817305C0.6709 12.9411 0.670898 12.9411 0.670898 12.8016C0.670898 11.564 0.670898 10.3287 0.670898 9.09341C0.670898 8.97903 0.705213 8.95158 0.815017 8.95158C1.8673 8.95158 2.91959 8.95158 3.97417 8.95158H4.12057V8.83263C4.12057 7.8055 4.12057 6.7738 4.12057 5.74897C4.1264 4.92595 4.31387 4.11437 4.66959 3.37217C5.12916 2.38246 5.94651 1.60353 6.95717 1.1921C7.64827 0.905008 8.3913 0.764035 9.13953 0.778051C10.0019 0.791777 10.8644 0.830666 11.7268 0.860404C11.8869 0.860404 12.047 0.894717 12.2072 0.90158C12.2964 0.90158 12.3261 0.940469 12.3261 1.02968C12.3261 1.5421 12.3261 2.05452 12.3261 2.56465C12.3261 3.16857 12.3261 3.7725 12.3261 4.37642C12.3261 4.48165 12.2964 4.51367 12.1912 4.51138C11.5369 4.51138 10.8804 4.51138 10.2261 4.51138C9.92772 4.51814 9.63058 4.5526 9.33855 4.61433C9.08125 4.6617 8.84537 4.78881 8.66431 4.97766C8.48326 5.16652 8.3662 5.40755 8.32972 5.66661C8.28476 5.89271 8.26027 6.1224 8.25652 6.35289C8.25652 7.19014 8.25652 8.02969 8.25652 8.86923C8.25652 8.89439 8.25652 8.91955 8.25652 8.95615H12.0219C12.1797 8.95615 12.182 8.95616 12.1614 9.10714C12.0768 9.76596 11.9876 10.4248 11.9029 11.0813C11.8312 11.6319 11.7626 12.1824 11.697 12.733C11.6719 12.9434 11.6787 12.9434 11.4683 12.9434H8.26338V22.899C8.26338 22.979 8.26338 23.0591 8.26338 23.1392L4.11371 23.1369Z">
+                                    </path>
+                                </svg>
+                                <span class="usa-sr-only">NLM on Facebook</span>
+                            </a>
+                        
+
+                        
+                            <a href=https://www.youtube.com/user/NLMNIH class="ncbi-footer__social-icon ncbi-footer__social-icon--circled" target="_blank" rel="noreferrer noopener">
+                                <svg width="21"
+                                     height="15"
+                                     viewBox="0 0 21 15"
+                                     fill="none"
+                                     xmlns="http://www.w3.org/2000/svg"
+                                     focusable="false"
+                                     aria-hidden="true">
+                                    <path d="M19.2561 1.47914C18.9016 1.15888 18.5699 0.957569 17.2271 0.834039C15.5503 0.678484 13.2787 0.655608 11.563 0.65332H9.43556C7.71987 0.65332 5.4483 0.678484 3.77151 0.834039C2.43098 0.957569 2.097 1.15888 1.74242 1.47914C0.813665 2.32097 0.619221 4.62685 0.598633 6.89384C0.598633 7.31781 0.598633 7.74101 0.598633 8.16345C0.626084 10.4121 0.827391 12.686 1.74242 13.521C2.097 13.8412 2.4287 14.0425 3.77151 14.1661C5.4483 14.3216 7.71987 14.3445 9.43556 14.3468H11.563C13.2787 14.3468 15.5503 14.3216 17.2271 14.1661C18.5676 14.0425 18.9016 13.8412 19.2561 13.521C20.1712 12.6929 20.3725 10.451 20.3999 8.22064C20.3999 7.74025 20.3999 7.25986 20.3999 6.77946C20.3725 4.54907 20.1689 2.30724 19.2561 1.47914ZM8.55942 10.5311V4.65201L13.5601 7.50005L8.55942 10.5311Z"
+                                          fill="white" />
+                                </svg>
+                                <span class="usa-sr-only">NLM on YouTube</span>
+                            </a>
+                        
+                    </div>
+                </div>
+            
+
+            
+                <address class="ncbi-footer__address ncbi-footer__column">
+                    
+        <p>
+            <a class="usa-link usa-link--external"
+            href="https://www.google.com/maps/place/8600+Rockville+Pike,+Bethesda,+MD+20894/%4038.9959508,
+            -77.101021,17z/data%3D!3m1!4b1!4m5!3m4!1s0x89b7c95e25765ddb%3A0x19156f88b27635b8!8m2!3d38.9959508!
+            4d-77.0988323"
+            rel="noopener noreferrer" target="_blank">National Library of Medicine
+            <br/> 8600 Rockville Pike<br/> Bethesda, MD 20894</a>
+        </p>
+    
+                </address>
+            
+
+            
+                <ul class="usa-list usa-list--unstyled ncbi-footer__vertical-list ncbi-footer__column">
+                    
+                        <li class="ncbi-footer__vertical-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.nlm.nih.gov/web_policies.html" class="usa-link  usa-link--alt ncbi-footer__link"  >
+        
+
+        
+            Web Policies
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="ncbi-footer__vertical-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison/freedom-information-act-office" class="usa-link  usa-link--alt ncbi-footer__link"  >
+        
+
+        
+            FOIA
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="ncbi-footer__vertical-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.hhs.gov/vulnerability-disclosure-policy/index.html" class="usa-link usa-link--external usa-link--alt ncbi-footer__link" rel="noreferrer noopener" target='_blank' >
+        
+
+        
+            HHS Vulnerability Disclosure
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                </ul>
+            
+
+            
+                <ul class="usa-list usa-list--unstyled ncbi-footer__vertical-list ncbi-footer__column">
+                    
+                        <li class="ncbi-footer__vertical-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://support.nlm.nih.gov/" class="usa-link  usa-link--alt ncbi-footer__link"  >
+        
+
+        
+            Help
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="ncbi-footer__vertical-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.nlm.nih.gov/accessibility.html" class="usa-link  usa-link--alt ncbi-footer__link"  >
+        
+
+        
+            Accessibility
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="ncbi-footer__vertical-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.nlm.nih.gov/careers/careers.html" class="usa-link  usa-link--alt ncbi-footer__link"  >
+        
+
+        
+            Careers
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                </ul>
+            
+        </div>
+
+        
+            <div class="grid-row grid-col-12" data-testid="grid">
+                <ul class="ncbi-footer__bottom-links-list">
+                    
+                        <li class="ncbi-footer__bottom-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.nlm.nih.gov/" class="usa-link  usa-link--alt ncbi-footer__link"  >
+        
+
+        
+            NLM
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="ncbi-footer__bottom-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.nih.gov/" class="usa-link  usa-link--alt ncbi-footer__link"  >
+        
+
+        
+            NIH
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="ncbi-footer__bottom-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.hhs.gov/" class="usa-link usa-link--external usa-link--alt ncbi-footer__link" rel="noreferrer noopener" target='_blank' >
+        
+
+        
+            HHS
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="ncbi-footer__bottom-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.usa.gov/" class="usa-link usa-link--external usa-link--alt ncbi-footer__link" rel="noreferrer noopener" target='_blank' >
+        
+
+        
+            USA.gov
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                </ul>
+            </div>
+        
+    </div>
+</footer>
+
+    
+
+
+        
+        
+    
+  <script  type="text/javascript" src="https://cdn.ncbi.nlm.nih.gov/core/pinger/pinger.js"> </script>
+
+
+    
+        
+
+<button class="back-to-top" data-ga-category="pagination" data-ga-action="back_to_top">
+    <label>Back to Top</label>
+    <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/arrow_upward.svg" alt="back to top icon" class="usa-icon usa-icon--size-3 order-0 usa-icon--white" />
+</button>
+    
+
+
+        
+    
+    <div id="icon-container" style="display: none;"></div>
+    
+    
+        
+    <script type="application/javascript">
+    window.ncbi = window.ncbi || {};
+    window.ncbi.pmc = window.ncbi.pmc || {};
+    window.ncbi.pmc.options = {
+        logLevel: 'INFO',
+        
+        staticEndpoint: 'https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/',
+        
+        citeCookieName: 'pmc-cf',
+    };
+</script>
+    <script type="module" crossorigin="" src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/assets/base-Cp_Il6gk.js"></script>
+<link href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/assets/vendor-Co8Vdmw2.js" type="text/javascript" crossorigin="anonymous" rel="modulepreload" as="script" />
+    
+    <script type="text/javascript" src="https://cdn.ncbi.nlm.nih.gov/core/jquery/jquery-3.6.0.min.js">&#xA0;</script>
+    <script type="text/javascript">
+        jQuery.getScript("https://cdn.ncbi.nlm.nih.gov/core/alerts/alerts.js", function () {
+            galert(['div.nav_and_browser', 'div.header', '#universal_header', '.usa-banner', 'body > *:nth-child(1)'])
+        });
+    </script>
+
+
+    <script type="text/javascript">var exports = {};</script>
+     <script src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/CACHE/js/output.4e25b6297b38.js"></script>
+
+    <script type="module" crossorigin="" src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/assets/article-D47MIn9n.js"></script>
+<link href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/assets/vendor-Co8Vdmw2.js" type="text/javascript" crossorigin="anonymous" rel="modulepreload" as="script" />
+<link href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/assets/index-DXSA0fsx.js" type="text/javascript" crossorigin="anonymous" rel="modulepreload" as="script" />
+<link href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/assets/secure-cookie-Br6x5jtB.js" type="text/javascript" crossorigin="anonymous" rel="modulepreload" as="script" />
+    
+    
+
+    </body>
+</html>

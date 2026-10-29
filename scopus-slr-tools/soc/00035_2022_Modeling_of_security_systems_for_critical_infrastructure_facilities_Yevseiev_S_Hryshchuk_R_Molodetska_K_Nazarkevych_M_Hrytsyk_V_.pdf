@@ -1,0 +1,1304 @@
+<!DOCTYPE html>
+<html lang="en-US" xml:lang="en-US">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>
+		MODELING OF SECURITY SYSTEMS FOR CRITICAL INFRASTRUCTURE FACILITIES
+							| TECHNOLOGY CENTER PC
+			</title>
+
+	
+<link rel="icon" href="https://monograph.com.ua/public/presses/14/favicon_en_US.png">
+<meta name="generator" content="Open Monograph Press 3.3.0.4">
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+<meta name="DC.Creator.PersonalName" content="Serhii Yevseiev"/>
+<meta name="DC.Creator.PersonalName" content="Ruslan Hryshchuk"/>
+<meta name="DC.Creator.PersonalName" content="Kateryna Molodetska"/>
+<meta name="DC.Creator.PersonalName" content="Mariia Nazarkevych"/>
+<meta name="DC.Creator.PersonalName" content="Volodymyr Hrytsyk"/>
+<meta name="DC.Creator.PersonalName" content="Oleksandr Milov"/>
+<meta name="DC.Creator.PersonalName" content="Olha Korol"/>
+<meta name="DC.Creator.PersonalName" content="Stanislav Milevskyi"/>
+<meta name="DC.Creator.PersonalName" content="Roman Korolev"/>
+<meta name="DC.Creator.PersonalName" content="Serhii Pohasii"/>
+<meta name="DC.Creator.PersonalName" content="Andrii Tkachov"/>
+<meta name="DC.Creator.PersonalName" content="Yevgen Melenti"/>
+<meta name="DC.Creator.PersonalName" content="Oleksandr Lavrut"/>
+<meta name="DC.Creator.PersonalName" content="Alla Havrylova"/>
+<meta name="DC.Creator.PersonalName" content="Serhii Herasуmov"/>
+<meta name="DC.Creator.PersonalName" content="Halyna Holotaistrova"/>
+<meta name="DC.Creator.PersonalName" content="Dmytro Avramenko"/>
+<meta name="DC.Creator.PersonalName" content="Roman Vozniak"/>
+<meta name="DC.Creator.PersonalName" content="Oleksandr Voitko"/>
+<meta name="DC.Creator.PersonalName" content="Kseniia Yerhidzei"/>
+<meta name="DC.Creator.PersonalName" content="Serhii Mykus"/>
+<meta name="DC.Creator.PersonalName" content="Yurii Pribyliev"/>
+<meta name="DC.Creator.PersonalName" content="Olena Akhiiezer"/>
+<meta name="DC.Creator.PersonalName" content="Mykhailo Shyshkin"/>
+<meta name="DC.Creator.PersonalName" content="Ivan Opirskyy"/>
+<meta name="DC.Creator.PersonalName" content="Oleh Harasymchuk"/>
+<meta name="DC.Creator.PersonalName" content="Olha Mykhaylova"/>
+<meta name="DC.Creator.PersonalName" content="Yuriy Nakonechnyy"/>
+<meta name="DC.Creator.PersonalName" content="Marta Stakhiv"/>
+<meta name="DC.Creator.PersonalName" content="Bogdan Tomashevsky"/>
+<meta name="DC.Date.created" scheme="ISO8601" content="2022-08-15"/>
+<meta name="DC.Date.dateSubmitted" scheme="ISO8601" content="2022-08-15"/>
+<meta name="DC.Date.modified" scheme="ISO8601" content="2025-12-08"/>
+<meta name="DC.Description" xml:lang="en" content="The development of Industry 4.0 technologies is based on the rapid growth of the computing capabilities of mobile wireless technologies, which has made it possible to significantly expand the range of digital services and form a conglomeration of socio-cyber-physical systems and smart technologies. The First Section discusses the issues of building security systems based on the proposed Concept of multi-contour security systems, taking into account the hybridity and synergy of modern targeted cyber-attacks, their integration with social engineering methods. This approach not only increases the level of security, but also forms an objective approach to the use of post-quantum security mechanisms based on the proposed Lotka-Volterra models.
+The Second Section analyzes the features of the functioning of social Internet services and establishes their role in ensuring the information security of the state. An approach is proposed to identify signs of threats in the text content of social Internet services, which will allow to quickly respond to changing situations and effectively counteract such threats. A classifier of information security profiles of users of social Internet services has been developed to assess the level of their danger as potential participants in disinformation campaigns. A method for identifying and evaluating the information and psychological impact on user communities in services is proposed. Models of conflict interaction of user groups in social Internet services are considered on the example of civil movements. To effectively counter threats to information security of the state, it is proposed to use the concept of synergistic user interaction and self-organization processes in a virtual community. Particular attention is paid to countering the manipulation of public opinion in the decision-making process by users of social Internet services.
+The Third Section proposes a biometric security system that works to authenticate users based on a comparison of their fingerprints and certain templates stored in a biometric database. A method for determining the contour based on the passage of a curve and the filtering function of contour lines has been developed. The stage of skeletal identification is analyzed in detail. The Ateb-Gabor method with wave thinning has been developed. The performance of skeletal algorithms such as the Zhang-Suen thinning algorithm, the Hilditch algorithm, and the Ateb-Gabor method with wave decimation is analyzed. The presented results of experiments with biometric fingerprints based on the NIST Special Database 302 database showed the effectiveness of the proposed method. The software and firmware were developed using the Arduino Nano."/>
+<meta name="DC.Description" xml:lang="uk" content="Розвиток технологій Industry 4.0 базується на стрімкому зростанні обчислювальних можливостей мобільних бездротових технологій, що дозволило значно розширити спектр цифрових послуг і сформувати конгломерат соціо-кібер-фізичних систем і смарт-технологій. У першому розділі розглядаються питання побудови систем безпеки на основі запропонованої концепції багатоконтурних систем безпеки з урахуванням гібридності та синергії сучасних цільових кібератак, їх інтеграції з методами соціальної інженерії. Такий підхід не тільки підвищує рівень безпеки, але й формує об’єктивний підхід до використання постквантових механізмів безпеки на основі запропонованих моделей Лотки-Вольтерра.
+У другому розділі аналізуються особливості функціонування соціальних інтернет-сервісів та встановлюється їх роль у забезпеченні інформаційної безпеки держави. Запропоновано підхід до виявлення ознак загроз у текстовому контенті соціальних інтернет-сервісів, що дозволить оперативно реагувати на зміни ситуації та ефективно протидіяти таким загрозам. Розроблено класифікатор профілів інформаційної безпеки користувачів соціальних інтернет-сервісів для оцінки рівня їх небезпеки як потенційних учасників дезінформаційних кампаній. Запропоновано методику виявлення та оцінки інформаційно-психологічного впливу на спільноти користувачів послуг. На прикладі громадських рухів розглянуто моделі конфліктної взаємодії груп користувачів у соціальних інтернет-сервісах. Для ефективної протидії загрозам інформаційній безпеці держави пропонується використовувати концепцію синергічної взаємодії користувача та процесів самоорганізації у віртуальній спільноті. Особливу увагу приділено протидії маніпулюванню громадською думкою в процесі прийняття рішень користувачами соціальних інтернет-сервісів.
+У третьому розділі пропонується біометрична система безпеки, яка працює для автентифікації користувачів на основі порівняння їхніх відбитків пальців і певних шаблонів, що зберігаються в біометричній базі даних. Розроблено метод визначення контуру на основі проходження кривої та фільтруючої функції контурних ліній. Детально проаналізовано етап ідентифікації скелета. Розроблено метод Атеба-Габора з розрідженням хвилі. Проаналізовано ефективність скелетних алгоритмів, таких як алгоритм проріджування Жанга-Суена, алгоритм Хілдіча та метод Атеба-Габора з децимацією хвилі. Представлені результати експериментів з біометричними відбитками пальців на основі бази даних NIST Special Database 302 показали ефективність запропонованого методу. Програмне забезпечення та мікропрограми були розроблені з використанням Arduino Nano."/>
+<meta name="DC.Identifier" content="978-617-7319-57-2"/>
+<meta name="DC.Identifier.DOI" content="10.15587/978-617-7319-57-2"/>
+<meta name="DC.Identifier.URI" content="https://monograph.com.ua/catalog/book/978-617-7319-57-2"/>
+<meta name="DC.Language" scheme="ISO639-1" content="en"/>
+<meta name="DC.Rights" content="Copyright (c) 2022 Serhii Yevseiev, Ruslan Hryshchuk, Kateryna Molodetska, Mariia Nazarkevych, Volodymyr Hrytsyk, Oleksandr Milov, Olha Korol, Stanislav Milevskyi, Roman Korolev, Serhii Pohasii, Andrii Tkachov, Yevgen Melenti, Oleksandr Lavrut, Alla Havrylova, Serhii Herasуmov, Halyna Holotaistrova, Dmytro Avramenko, Roman Vozniak, Oleksandr Voitko, Kseniia Yerhidzei, Serhii Mykus, Yurii Pribyliev, Olena Akhiiezer, Mykhailo Shyshkin, Ivan Opirskyy, Oleh Harasymchuk, Olha Mykhaylova, Yuriy Nakonechnyy, Marta Stakhiv, Bogdan Tomashevsky"/>
+<meta name="DC.Rights" content="https://creativecommons.org/licenses/by/4.0"/>
+<meta name="DC.Source" content="TECHNOLOGY CENTER PC"/>
+<meta name="DC.Source.URI" content="https://monograph.com.ua/"/>
+<meta name="DC.Subject" xml:lang="en" content="concept of a multi-loop security system"/>
+<meta name="DC.Subject" xml:lang="en" content="socio-cyber-physical systems"/>
+<meta name="DC.Subject" xml:lang="en" content="post-quantum security mechanisms"/>
+<meta name="DC.Subject" xml:lang="uk" content="концепція багатоконтурної системи безпеки"/>
+<meta name="DC.Subject" xml:lang="uk" content="соціально-кіберфізичні системи"/>
+<meta name="DC.Subject" xml:lang="uk" content="постквантові механізми безпеки"/>
+<meta name="DC.Title" content="MODELING OF SECURITY SYSTEMS FOR CRITICAL INFRASTRUCTURE FACILITIES"/>
+<meta name="DC.Type" content="Text.Book"/>
+<meta name="DC.Type" xml:lang="en" content=""/>
+<meta name="DC.Type" xml:lang="uk" content=""/>
+<meta name="gs_meta_revision" content="1.1"/>
+<meta name="citation_title" content="MODELING OF SECURITY SYSTEMS FOR CRITICAL INFRASTRUCTURE FACILITIES"/>
+<meta name="citation_publication_date" content="2022-08-15"/>
+<meta name="citation_author" content="Serhii Yevseiev"/>
+<meta name="citation_author" content="Ruslan Hryshchuk"/>
+<meta name="citation_author" content="Kateryna Molodetska"/>
+<meta name="citation_author" content="Mariia Nazarkevych"/>
+<meta name="citation_author" content="Volodymyr Hrytsyk"/>
+<meta name="citation_author" content="Oleksandr Milov"/>
+<meta name="citation_author" content="Olha Korol"/>
+<meta name="citation_author" content="Stanislav Milevskyi"/>
+<meta name="citation_author" content="Roman Korolev"/>
+<meta name="citation_author" content="Serhii Pohasii"/>
+<meta name="citation_author" content="Andrii Tkachov"/>
+<meta name="citation_author" content="Yevgen Melenti"/>
+<meta name="citation_author" content="Oleksandr Lavrut"/>
+<meta name="citation_author" content="Alla Havrylova"/>
+<meta name="citation_author" content="Serhii Herasуmov"/>
+<meta name="citation_author" content="Halyna Holotaistrova"/>
+<meta name="citation_author" content="Dmytro Avramenko"/>
+<meta name="citation_author" content="Roman Vozniak"/>
+<meta name="citation_author" content="Oleksandr Voitko"/>
+<meta name="citation_author" content="Kseniia Yerhidzei"/>
+<meta name="citation_author" content="Serhii Mykus"/>
+<meta name="citation_author" content="Yurii Pribyliev"/>
+<meta name="citation_author" content="Olena Akhiiezer"/>
+<meta name="citation_author" content="Mykhailo Shyshkin"/>
+<meta name="citation_author" content="Ivan Opirskyy"/>
+<meta name="citation_author" content="Oleh Harasymchuk"/>
+<meta name="citation_author" content="Olha Mykhaylova"/>
+<meta name="citation_author" content="Yuriy Nakonechnyy"/>
+<meta name="citation_author" content="Marta Stakhiv"/>
+<meta name="citation_author" content="Bogdan Tomashevsky"/>
+<meta name="citation_abstract" xml:lang="en" content="The development of Industry 4.0 technologies is based on the rapid growth of the computing capabilities of mobile wireless technologies, which has made it possible to significantly expand the range of digital services and form a conglomeration of socio-cyber-physical systems and smart technologies. The First Section discusses the issues of building security systems based on the proposed Concept of multi-contour security systems, taking into account the hybridity and synergy of modern targeted cyber-attacks, their integration with social engineering methods. This approach not only increases the level of security, but also forms an objective approach to the use of post-quantum security mechanisms based on the proposed Lotka-Volterra models.
+The Second Section analyzes the features of the functioning of social Internet services and establishes their role in ensuring the information security of the state. An approach is proposed to identify signs of threats in the text content of social Internet services, which will allow to quickly respond to changing situations and effectively counteract such threats. A classifier of information security profiles of users of social Internet services has been developed to assess the level of their danger as potential participants in disinformation campaigns. A method for identifying and evaluating the information and psychological impact on user communities in services is proposed. Models of conflict interaction of user groups in social Internet services are considered on the example of civil movements. To effectively counter threats to information security of the state, it is proposed to use the concept of synergistic user interaction and self-organization processes in a virtual community. Particular attention is paid to countering the manipulation of public opinion in the decision-making process by users of social Internet services.
+The Third Section proposes a biometric security system that works to authenticate users based on a comparison of their fingerprints and certain templates stored in a biometric database. A method for determining the contour based on the passage of a curve and the filtering function of contour lines has been developed. The stage of skeletal identification is analyzed in detail. The Ateb-Gabor method with wave thinning has been developed. The performance of skeletal algorithms such as the Zhang-Suen thinning algorithm, the Hilditch algorithm, and the Ateb-Gabor method with wave decimation is analyzed. The presented results of experiments with biometric fingerprints based on the NIST Special Database 302 database showed the effectiveness of the proposed method. The software and firmware were developed using the Arduino Nano."/>
+<meta name="citation_abstract" xml:lang="uk" content="Розвиток технологій Industry 4.0 базується на стрімкому зростанні обчислювальних можливостей мобільних бездротових технологій, що дозволило значно розширити спектр цифрових послуг і сформувати конгломерат соціо-кібер-фізичних систем і смарт-технологій. У першому розділі розглядаються питання побудови систем безпеки на основі запропонованої концепції багатоконтурних систем безпеки з урахуванням гібридності та синергії сучасних цільових кібератак, їх інтеграції з методами соціальної інженерії. Такий підхід не тільки підвищує рівень безпеки, але й формує об’єктивний підхід до використання постквантових механізмів безпеки на основі запропонованих моделей Лотки-Вольтерра.
+У другому розділі аналізуються особливості функціонування соціальних інтернет-сервісів та встановлюється їх роль у забезпеченні інформаційної безпеки держави. Запропоновано підхід до виявлення ознак загроз у текстовому контенті соціальних інтернет-сервісів, що дозволить оперативно реагувати на зміни ситуації та ефективно протидіяти таким загрозам. Розроблено класифікатор профілів інформаційної безпеки користувачів соціальних інтернет-сервісів для оцінки рівня їх небезпеки як потенційних учасників дезінформаційних кампаній. Запропоновано методику виявлення та оцінки інформаційно-психологічного впливу на спільноти користувачів послуг. На прикладі громадських рухів розглянуто моделі конфліктної взаємодії груп користувачів у соціальних інтернет-сервісах. Для ефективної протидії загрозам інформаційній безпеці держави пропонується використовувати концепцію синергічної взаємодії користувача та процесів самоорганізації у віртуальній спільноті. Особливу увагу приділено протидії маніпулюванню громадською думкою в процесі прийняття рішень користувачами соціальних інтернет-сервісів.
+У третьому розділі пропонується біометрична система безпеки, яка працює для автентифікації користувачів на основі порівняння їхніх відбитків пальців і певних шаблонів, що зберігаються в біометричній базі даних. Розроблено метод визначення контуру на основі проходження кривої та фільтруючої функції контурних ліній. Детально проаналізовано етап ідентифікації скелета. Розроблено метод Атеба-Габора з розрідженням хвилі. Проаналізовано ефективність скелетних алгоритмів, таких як алгоритм проріджування Жанга-Суена, алгоритм Хілдіча та метод Атеба-Габора з децимацією хвилі. Представлені результати експериментів з біометричними відбитками пальців на основі бази даних NIST Special Database 302 показали ефективність запропонованого методу. Програмне забезпечення та мікропрограми були розроблені з використанням Arduino Nano."/>
+<meta name="citation_doi" content="10.15587/978-617-7319-57-2"/>
+<meta name="citation_language" content="English (eng)"/>
+<meta name="citation_keywords" xml:lang="en" content="concept of a multi-loop security system"/>
+<meta name="citation_keywords" xml:lang="en" content="socio-cyber-physical systems"/>
+<meta name="citation_keywords" xml:lang="en" content="post-quantum security mechanisms"/>
+<meta name="citation_keywords" xml:lang="uk" content="концепція багатоконтурної системи безпеки"/>
+<meta name="citation_keywords" xml:lang="uk" content="соціально-кіберфізичні системи"/>
+<meta name="citation_keywords" xml:lang="uk" content="постквантові механізми безпеки"/>
+<meta name="citation_isbn" content="978-617-7319-57-2"/>
+<meta name="citation_pdf_url" content="https://monograph.com.ua/catalog/view/249/318/957"/>
+<meta name="citation_publisher" content="TECHNOLOGY CENTER PC"/>
+	<link rel="stylesheet" href="https://monograph.com.ua/$$$call$$$/page/page/css?name=stylesheet" type="text/css" /><link rel="stylesheet" href="https://monograph.com.ua/$$$call$$$/page/page/css?name=font" type="text/css" /><link rel="stylesheet" href="https://monograph.com.ua/lib/pkp/styles/fontawesome/fontawesome.css?v=3.3.0.4" type="text/css" /><link rel="stylesheet" href="https://monograph.com.ua/plugins/themes/advanced/bootstrap/5-3-8/css/bootstrap.min.css?v=3.3.0.4" type="text/css" /><link rel="stylesheet" href="https://monograph.com.ua/plugins/generic/lucene/templates/lucene.css?v=3.3.0.4" type="text/css" /><link rel="stylesheet" href="https://monograph.com.ua/plugins/generic/citationStyleLanguage/css/citationStyleLanguagePlugin.css?v=3.3.0.4" type="text/css" />
+</head>
+<body class="pkp_page_catalog pkp_op_book has_site_logo" dir="ltr">
+
+	<div class="pkp_structure_page">
+
+				<header class="pkp_structure_head" id="headerNavigationContainer" role="banner">
+						<div class="cmp_skip_to_content" aria-label="Jump to content links">
+	<a href="#pkp_content_main">Skip to main content</a>
+	<a href="#siteNav">Skip to main navigation menu</a>
+		<a href="#pkp_content_footer">Skip to site footer</a>
+</div>
+
+			<div class="pkp_head_wrapper">
+
+				<div class="pkp_site_name_wrapper">
+					<button class="pkp_site_nav_toggle">
+						<span>Open Menu</span>
+					</button>
+										<div class="pkp_site_name">
+																<a href="						https://monograph.com.ua/index
+					" class="is_img">
+							<img src="https://monograph.com.ua/public/presses/14/pageHeaderLogoImage_en_US.png" width="525" height="146"  />
+						</a>
+										</div>
+				</div>
+
+				
+				<nav class="pkp_site_nav_menu" aria-label="Site Navigation">
+					<a id="siteNav"></a>
+					<div class="pkp_navigation_primary_row">
+						<div class="pkp_navigation_primary_wrapper">
+																				<ul id="navigationPrimary" class="pkp_navigation_primary pkp_nav_list">
+								<li class="">
+				<a href="https://monograph.com.ua/about">
+					About
+				</a>
+									<ul>
+																					<li class="">
+									<a href="https://monograph.com.ua/publishing-house">
+										About the Press
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://monograph.com.ua/about/editorialTeam">
+										Editorial Team
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://monograph.com.ua/partnership">
+										Partnership
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://monograph.com.ua/about/contact">
+										Contact
+									</a>
+								</li>
+																		</ul>
+							</li>
+								<li class="">
+				<a href="https://monograph.com.ua/announcement">
+					News
+				</a>
+							</li>
+								<li class="">
+				<a href="https://monograph.com.ua/catalog">
+					Catalog
+				</a>
+							</li>
+								<li class="">
+				<a href="https://monograph.com.ua/requirement">
+					Rules
+				</a>
+									<ul>
+																					<li class="">
+									<a href="https://monograph.com.ua/generalinformation">
+										General information
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://monograph.com.ua/about/submissions">
+										Submissions
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://monograph.com.ua/editing-process">
+										Editing process
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://monograph.com.ua/peer-review-process">
+										Peer Review Process
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://monograph.com.ua/information-about-the-authors">
+										Information about the authors
+									</a>
+								</li>
+																		</ul>
+							</li>
+								<li class="">
+				<a href="https://monograph.com.ua/monographs">
+					Monographs
+				</a>
+									<ul>
+																					<li class="">
+									<a href="https://monograph.com.ua/monograph-publishing">
+										Monograph publishing step by step
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://monograph.com.ua/manuscript-structure">
+										Structure of the monograph manuscript
+									</a>
+								</li>
+																		</ul>
+							</li>
+								<li class="">
+				<a href="https://monograph.com.ua/collective-monographs">
+					Collective monographs
+				</a>
+									<ul>
+																					<li class="">
+									<a href="https://monograph.com.ua/for-authors">
+										For authors
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://monograph.com.ua/titles-2026">
+										Titles 2026
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://monograph.com.ua/collective-monograph-publishing">
+										Collective monograph publishing step by step
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://monograph.com.ua/structure-of-the-chapter">
+										Structure of the manuscript of the chapter of the collective monograph
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://monograph.com.ua/application-for-participation-in-the-collective-monograph">
+										Application for participation in the collective monograph
+									</a>
+								</li>
+																		</ul>
+							</li>
+								<li class="">
+				<a href="https://monograph.com.ua/indexing">
+					Indexing
+				</a>
+							</li>
+								<li class="">
+				<a href="https://monograph.com.ua/legal-terms">
+					Legal Terms
+				</a>
+									<ul>
+																					<li class="">
+									<a href="https://monograph.com.ua/ethics-publications-and-unfair-practices-in-connection-with-publications">
+										Ethics publications and unfair practices in connection with publications
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://monograph.com.ua/bioethics-policy">
+										Bioethics policy
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://monograph.com.ua/authorship">
+										Authorship Identification
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://monograph.com.ua/artificial-intelligence">
+										Use of Artificial Intelligence
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://monograph.com.ua/competing-interests">
+										Conflict of Interest
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://monograph.com.ua/plagiarism-and-duplicate-publication">
+										Plagiarism and duplicate publication
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://monograph.com.ua/prevention-of-manipulation">
+										Prevention of manipulation
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://monograph.com.ua/handling-complaints">
+										Handling complaints
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://monograph.com.ua/rules-for-the-withdrawal-of-publications">
+										Retraction and correction policy for published monographs or chapters of collective monographs
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://monograph.com.ua/publication-policy-regarding-advertising">
+										Publication policy regarding advertising
+									</a>
+								</li>
+																		</ul>
+							</li>
+								<li class="">
+				<a href="https://monograph.com.ua/educational-videos">
+					Educational videos
+				</a>
+									<ul>
+																					<li class="">
+									<a href="https://monograph.com.ua/preparing-drawings">
+										Preparing drawings
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://monograph.com.ua/copyright-and-legislation">
+										Copyright and legislation
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://monograph.com.ua/raising-your-rating">
+										Raising your rating
+									</a>
+								</li>
+																		</ul>
+							</li>
+								<li class="">
+				<a href="https://monograph.com.ua/useful-information">
+					Useful Information
+				</a>
+									<ul>
+																					<li class="">
+									<a href="https://monograph.com.ua/why-is-a-monograph-needed">
+										
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://monograph.com.ua/copyright">
+										Copyright 
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://monograph.com.ua/ISBN">
+										ISBN. What do you need to know?
+									</a>
+								</li>
+																		</ul>
+							</li>
+								<li class="">
+				<a href="https://monograph.com.ua/frequently-asked-questions">
+					Frequently asked questions
+				</a>
+							</li>
+			</ul>
+
+				
+
+																						<div class="pkp_navigation_search_wrapper">
+									<a href="https://monograph.com.ua/search" class="pkp_search pkp_search_desktop">
+										<span class="fa fa-search" aria-hidden="true"></span>
+										Search
+									</a>
+								</div>
+													</div>
+					</div>
+					<div class="pkp_navigation_user_wrapper" id="navigationUserWrapper">
+							<ul id="navigationUser" class="pkp_navigation_user pkp_nav_list">
+								<li class="profile">
+				<a href="https://monograph.com.ua/user/register">
+					Register
+				</a>
+							</li>
+								<li class="profile">
+				<a href="https://monograph.com.ua/login">
+					Login
+				</a>
+							</li>
+										</ul>
+
+					</div>
+				</nav>
+			</div><!-- .pkp_head_wrapper -->
+		</header><!-- .pkp_structure_head -->
+
+						<div class="pkp_structure_content has_sidebar">
+			<div class="pkp_structure_main" role="main">
+				<a id="pkp_content_main"></a>
+
+<div class="page page_book">
+		<div class="obj_monograph_full">
+
+		
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																								<h1 class="title">
+			MODELING OF SECURITY SYSTEMS FOR CRITICAL INFRASTRUCTURE FACILITIES
+		</h1>
+
+																																																																																															<div class="modal fade contributorModal" id="modalBio-1091" tabindex="-1" aria-labelledby="#modalBioLink-1091"><div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div><div class="modal-body"><h2>Serhii Yevseiev</h2>National Technical University “Kharkiv Polytechnic Institute” Ukraine<div class="orcid"><a href="https://orcid.org/0000-0003-1647-6444" target="_blank">https://orcid.org/0000-0003-1647-6444</a></div><div class="biography"><p>Doctor of Technical Science, Professor, Head of Department<br>Department of Cyber Security</p></div></div></div></div></div>		<div class="modal fade contributorModal" id="modalBio-1092" tabindex="-1" aria-labelledby="#modalBioLink-1092"><div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div><div class="modal-body"><h2>Ruslan Hryshchuk</h2>Sergei Korolyov Zhytomyr Military Institute Ukraine<div class="orcid"><a href="https://orcid.org/0000-0001-9985-8477" target="_blank">https://orcid.org/0000-0001-9985-8477</a></div><div class="biography"><p>Doctor of Technical Science, Professor, Honored Worker of Science and Technology of Ukraine, Head of Faculty<br>Faculty of State Secrets Protection and Information Warfare</p></div></div></div></div></div>		<div class="modal fade contributorModal" id="modalBio-1093" tabindex="-1" aria-labelledby="#modalBioLink-1093"><div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div><div class="modal-body"><h2>Kateryna Molodetska</h2>Polissia National University Ukraine<div class="orcid"><a href="https://orcid.org/0000-0001-9864-2463" target="_blank">https://orcid.org/0000-0001-9864-2463</a></div><div class="biography"><p>Doctor of Technical Science, Professor<br>Department of Computer Technology and Systems Modelling</p></div></div></div></div></div>		<div class="modal fade contributorModal" id="modalBio-1094" tabindex="-1" aria-labelledby="#modalBioLink-1094"><div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div><div class="modal-body"><h2>Mariia Nazarkevych</h2>Lviv Polytechnic National University Ukraine<div class="orcid"><a href="https://orcid.org/0000-0002-6528-9867" target="_blank">https://orcid.org/0000-0002-6528-9867</a></div><div class="biography"><p>Doctor of Technical Science, Professor<br>Department of Information Systems and Networks<br>Institute of Computer Sciences and Information Technologies</p></div></div></div></div></div>		<div class="modal fade contributorModal" id="modalBio-1095" tabindex="-1" aria-labelledby="#modalBioLink-1095"><div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div><div class="modal-body"><h2>Volodymyr Hrytsyk</h2>Lviv Polytechnic National University Ukraine<div class="orcid"><a href="https://orcid.org/0000-0002-9696-5805" target="_blank">https://orcid.org/0000-0002-9696-5805</a></div><div class="biography"><p>Doctor of Technical Science, Professor<br>Department of Automated Control Systems</p></div></div></div></div></div>		<div class="modal fade contributorModal" id="modalBio-1096" tabindex="-1" aria-labelledby="#modalBioLink-1096"><div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div><div class="modal-body"><h2>Oleksandr Milov</h2>National Technical University “Kharkiv Polytechnic Institute” Ukraine<div class="orcid"><a href="https://orcid.org/0000-0001-6135-2120" target="_blank">https://orcid.org/0000-0001-6135-2120</a></div><div class="biography"><p>Doctor of Technical Science, Professor<br>Department of Cyber Security</p></div></div></div></div></div>		<div class="modal fade contributorModal" id="modalBio-1097" tabindex="-1" aria-labelledby="#modalBioLink-1097"><div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div><div class="modal-body"><h2>Olha Korol</h2>National Technical University “Kharkiv Polytechnic Institute” Ukraine<div class="orcid"><a href="https://orcid.org/0000-0002-8733-9984" target="_blank">https://orcid.org/0000-0002-8733-9984</a></div><div class="biography"><p>PhD, Associate Professor<br>Department of Cyber Security</p></div></div></div></div></div>		<div class="modal fade contributorModal" id="modalBio-1098" tabindex="-1" aria-labelledby="#modalBioLink-1098"><div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div><div class="modal-body"><h2>Stanislav Milevskyi</h2>National Technical University “Kharkiv Polytechnic Institute” Ukraine<div class="orcid"><a href="https://orcid.org/0000-0001-5087-7036" target="_blank">https://orcid.org/0000-0001-5087-7036</a></div><div class="biography"><p>PhD, Associate Professor<br>Department of Cyber Security</p></div></div></div></div></div>		<div class="modal fade contributorModal" id="modalBio-1099" tabindex="-1" aria-labelledby="#modalBioLink-1099"><div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div><div class="modal-body"><h2>Roman Korolev</h2>National Technical University “Kharkiv Polytechnic Institute” Ukraine<div class="orcid"><a href="https://orcid.org/0000-0002-7948-5914" target="_blank">https://orcid.org/0000-0002-7948-5914</a></div><div class="biography"><p>PhD, Associate Professor<br>Department of Cyber Security</p></div></div></div></div></div>		<div class="modal fade contributorModal" id="modalBio-1100" tabindex="-1" aria-labelledby="#modalBioLink-1100"><div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div><div class="modal-body"><h2>Serhii Pohasii</h2>National Technical University “Kharkiv Polytechnic Institute” Ukraine<div class="orcid"><a href="https://orcid.org/0000-0002-4540-3693" target="_blank">https://orcid.org/0000-0002-4540-3693</a></div><div class="biography"><p>PhD, Associate Professor<br>Department of Cyber Security</p></div></div></div></div></div>		<div class="modal fade contributorModal" id="modalBio-1101" tabindex="-1" aria-labelledby="#modalBioLink-1101"><div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div><div class="modal-body"><h2>Andrii Tkachov</h2>National Technical University “Kharkiv Polytechnic Institute” Ukraine<div class="orcid"><a href="https://orcid.org/0000-0003-1428-0173" target="_blank">https://orcid.org/0000-0003-1428-0173</a></div><div class="biography"><p>PhD, Associate Professor<br>Department of Cyber Security</p></div></div></div></div></div>		<div class="modal fade contributorModal" id="modalBio-1102" tabindex="-1" aria-labelledby="#modalBioLink-1102"><div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div><div class="modal-body"><h2>Yevgen Melenti</h2>Yaroslav Mudryi National Law University Ukraine<div class="orcid"><a href="https://orcid.org/0000-0003-2955-2469" target="_blank">https://orcid.org/0000-0003-2955-2469</a></div><div class="biography"><p>PhD<br>Special Department No. 3 “Tactical-special training, marksmanship training and special physical training”<br>Juridical Personnel Training Institute for Security Service of Ukraine</p></div></div></div></div></div>		<div class="modal fade contributorModal" id="modalBio-1103" tabindex="-1" aria-labelledby="#modalBioLink-1103"><div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div><div class="modal-body"><h2>Oleksandr Lavrut</h2>Hetman Petro Sahaidachnyi National Army Academy Ukraine<div class="orcid"><a href="https://orcid.org/0000-0002-4909-6723" target="_blank">https://orcid.org/0000-0002-4909-6723</a></div><div class="biography"><p>Doctor of Engineering Sciences, Professor<br>Department of Tactics</p></div></div></div></div></div>		<div class="modal fade contributorModal" id="modalBio-1104" tabindex="-1" aria-labelledby="#modalBioLink-1104"><div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div><div class="modal-body"><h2>Alla Havrylova</h2>National Technical University “Kharkiv Polytechnic Institute” Ukraine<div class="orcid"><a href="https://orcid.org/0000-0002-2015-8927" target="_blank">https://orcid.org/0000-0002-2015-8927</a></div><div class="biography"><p>Senior Lecturer<br>Department of Cyber Security</p></div></div></div></div></div>		<div class="modal fade contributorModal" id="modalBio-1105" tabindex="-1" aria-labelledby="#modalBioLink-1105"><div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div><div class="modal-body"><h2>Serhii Herasуmov</h2>National Technical University “Kharkiv Polytechnic Institute” Ukraine<div class="orcid"><a href="https://orcid.org/0000-0003-1810-0387" target="_blank">https://orcid.org/0000-0003-1810-0387</a></div><div class="biography"><p>Doctor of Technical Science, Professor, Head of Department<br>Department of Weapons and Military Equipment Operation</p></div></div></div></div></div>		<div class="modal fade contributorModal" id="modalBio-1106" tabindex="-1" aria-labelledby="#modalBioLink-1106"><div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div><div class="modal-body"><h2>Halyna Holotaistrova</h2>National Technical University “Kharkiv Polytechnic Institute” Ukraine<div class="orcid"><a href="https://orcid.org/0000-0001-8349-6571" target="_blank">https://orcid.org/0000-0001-8349-6571</a></div><div class="biography"><p>Associate Professor<br>Department оf Computer Mathematics and Data Analysis</p></div></div></div></div></div>		<div class="modal fade contributorModal" id="modalBio-1107" tabindex="-1" aria-labelledby="#modalBioLink-1107"><div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div><div class="modal-body"><h2>Dmytro Avramenko</h2>National Defence University of Ukraine named after Ivan Chernyakhovskyi Ukraine<div class="orcid"><a href="https://orcid.org/0000-0003-1892-380X" target="_blank">https://orcid.org/0000-0003-1892-380X</a></div><div class="biography"><p>Senior Researcher<br>Research Department<br>Institute of Troops (Forces) Support and Information Technologies</p></div></div></div></div></div>		<div class="modal fade contributorModal" id="modalBio-1108" tabindex="-1" aria-labelledby="#modalBioLink-1108"><div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div><div class="modal-body"><h2>Roman Vozniak</h2>National Defence University of Ukraine named after Ivan Chernyakhovskyi Ukraine<div class="orcid"><a href="https://orcid.org/0000-0002-3789-2837" target="_blank">https://orcid.org/0000-0002-3789-2837</a></div><div class="biography"><p>PhD, Head of Laboratory<br>Head of the Research Laboratory of Information Technology Problems Research Department<br>Institute of Troops (Forces) Support and Information Technologies</p></div></div></div></div></div>		<div class="modal fade contributorModal" id="modalBio-1109" tabindex="-1" aria-labelledby="#modalBioLink-1109"><div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div><div class="modal-body"><h2>Oleksandr Voitko</h2>National Defence University of Ukraine named after Ivan Chernyakhovskyi Ukraine<div class="orcid"><a href="https://orcid.org/0000-0002-4610-4476" target="_blank">https://orcid.org/0000-0002-4610-4476</a></div><div class="biography"><p>PhD, Deputy Head of Department<br>Department of Information Technologies and Information Security Employment<br>Institute of the Troops (Forces) Support and Information Technologies</p></div></div></div></div></div>		<div class="modal fade contributorModal" id="modalBio-1110" tabindex="-1" aria-labelledby="#modalBioLink-1110"><div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div><div class="modal-body"><h2>Kseniia Yerhidzei</h2>National Defence University of Ukraine named after Ivan Chernyakhovskyi Ukraine<div class="orcid"><a href="https://orcid.org/0000-0003-4634-133X" target="_blank">https://orcid.org/0000-0003-4634-133X</a></div><div class="biography"><p>PhD, Head of Laboratory<br>Research Laboratory<br>Institute of Troops (Forces) and Information Technologies</p></div></div></div></div></div>		<div class="modal fade contributorModal" id="modalBio-1111" tabindex="-1" aria-labelledby="#modalBioLink-1111"><div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div><div class="modal-body"><h2>Serhii Mykus</h2>National Defence University of Ukraine named after Ivan Chernyakhovskyi Ukraine<div class="orcid"><a href="https://orcid.org/0000-0002-7103-4166" target="_blank">https://orcid.org/0000-0002-7103-4166</a></div><div class="biography"><p>Doctor of Technical Sciences, Professor, Head of Department<br>Department of Information Technology Application and Information Security<br>Institute of Troops (Forces) Support and Information Technologies</p></div></div></div></div></div>		<div class="modal fade contributorModal" id="modalBio-1112" tabindex="-1" aria-labelledby="#modalBioLink-1112"><div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div><div class="modal-body"><h2>Yurii Pribyliev</h2>National Defence University of Ukraine named after Ivan Chernyakhovskyi Ukraine<div class="orcid"><a href="https://orcid.org/0000-0003-1941-3561" target="_blank">https://orcid.org/0000-0003-1941-3561</a></div><div class="biography"><p>Doctor of Technical Science, Professor, Associate Professor<br>Department of Information Technologies Employment and Information Security</p></div></div></div></div></div>		<div class="modal fade contributorModal" id="modalBio-1113" tabindex="-1" aria-labelledby="#modalBioLink-1113"><div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div><div class="modal-body"><h2>Olena Akhiiezer</h2>National Technical University “Kharkiv Polytechnic Institute” Ukraine<div class="orcid"><a href="https://orcid.org/0000-0002-7087-9749" target="_blank">https://orcid.org/0000-0002-7087-9749</a></div><div class="biography"><p>PhD, Associate Professor, Head of Department<br>Department of Computer Mathematics and Data Analysis</p></div></div></div></div></div>		<div class="modal fade contributorModal" id="modalBio-1114" tabindex="-1" aria-labelledby="#modalBioLink-1114"><div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div><div class="modal-body"><h2>Mykhailo Shyshkin</h2>National Technical University “Kharkiv Polytechnic Institute” Ukraine<div class="orcid"><a href="https://orcid.org/0000-0002-2276-7259" target="_blank">https://orcid.org/0000-0002-2276-7259</a></div><div class="biography"><p>PhD, Associate Professor<br>Department of Industrial and Biomedical Electronics</p></div></div></div></div></div>		<div class="modal fade contributorModal" id="modalBio-1115" tabindex="-1" aria-labelledby="#modalBioLink-1115"><div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div><div class="modal-body"><h2>Ivan Opirskyy</h2>Lviv Polytechnic National University Ukraine<div class="orcid"><a href="https://orcid.org/0000-0002-8461-8996" target="_blank">https://orcid.org/0000-0002-8461-8996</a></div><div class="biography"><p>Doctor of Technical Sciences, Professor<br>Department of Information Protection</p></div></div></div></div></div>		<div class="modal fade contributorModal" id="modalBio-1116" tabindex="-1" aria-labelledby="#modalBioLink-1116"><div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div><div class="modal-body"><h2>Oleh Harasymchuk</h2>Lviv Polytechnic National University Ukraine<div class="orcid"><a href="https://orcid.org/0000-0002-8742-8872" target="_blank">https://orcid.org/0000-0002-8742-8872</a></div><div class="biography"><p>PhD, Associate Professor<br>Department of Information Protection</p></div></div></div></div></div>		<div class="modal fade contributorModal" id="modalBio-1117" tabindex="-1" aria-labelledby="#modalBioLink-1117"><div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div><div class="modal-body"><h2>Olha Mykhaylova</h2>Lviv Polytechnic National University Ukraine<div class="orcid"><a href="https://orcid.org/0000-0002-3086-3160" target="_blank">https://orcid.org/0000-0002-3086-3160</a></div><div class="biography"><p>PhD, Associate Professor<br>Department of Information Protection</p></div></div></div></div></div>		<div class="modal fade contributorModal" id="modalBio-1118" tabindex="-1" aria-labelledby="#modalBioLink-1118"><div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div><div class="modal-body"><h2>Yuriy Nakonechnyy</h2>Lviv Polytechnic National University Ukraine<div class="orcid"><a href="https://orcid.org/0000-0002-6046-6190" target="_blank">https://orcid.org/0000-0002-6046-6190</a></div><div class="biography"><p>PhD, Associate Professor<br>Department of Information Protection</p></div></div></div></div></div>		<div class="modal fade contributorModal" id="modalBio-1119" tabindex="-1" aria-labelledby="#modalBioLink-1119"><div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div><div class="modal-body"><h2>Marta Stakhiv</h2>Lviv Polytechnic National University Ukraine<div class="orcid"><a href="https://orcid.org/0000-0002-4094-2081" target="_blank">https://orcid.org/0000-0002-4094-2081</a></div><div class="biography"><p>PhD, Associate Professor<br>Department of Information Protection</p></div></div></div></div></div>		<div class="modal fade contributorModal" id="modalBio-1120" tabindex="-1" aria-labelledby="#modalBioLink-1120"><div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div><div class="modal-body"><h2>Bogdan Tomashevsky</h2>Ternopil Ivan Puluj National Technical University Ukraine<div class="orcid"><a href="https://orcid.org/0000-0002-1934-4773" target="_blank">https://orcid.org/0000-0002-1934-4773</a></div><div class="biography"><p>PhD, Associate Professor<br>Department of Cyber Security</p></div></div></div></div></div>		
+				<div class="row">
+			<div class="main_entry">
+
+								<div class="item authors">
+					<h2 class="pkp_screen_reader">
+						Authors
+					</h2>
+
+							<div class="editors">																Edited by			<span class="compactContributorString">
+									<a data-bs-toggle="modal" id="modalBioLink-1091" href="#modalBio-1091" data-bs-target="#modalBio-1091">
+																															S.
+									 Yevseiev</a>
+													<a href="https://orcid.org/0000-0003-1647-6444" target="_blank"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"></a> 
+																	<a href="mailto:serhii.yevseiev@gmail.com"><span class="fa fa-envelope"></span></a>
+							</span>
+		
+			,			<span class="compactContributorString">
+									<a data-bs-toggle="modal" id="modalBioLink-1092" href="#modalBio-1092" data-bs-target="#modalBio-1092">
+																															R.
+									 Hryshchuk</a>
+													<a href="https://orcid.org/0000-0001-9985-8477" target="_blank"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"></a> 
+															</span>
+		
+			,			<span class="compactContributorString">
+									<a data-bs-toggle="modal" id="modalBioLink-1093" href="#modalBio-1093" data-bs-target="#modalBio-1093">
+																															K.
+									 Molodetska</a>
+													<a href="https://orcid.org/0000-0001-9864-2463" target="_blank"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"></a> 
+															</span>
+		
+			,			<span class="compactContributorString">
+									<a data-bs-toggle="modal" id="modalBioLink-1094" href="#modalBio-1094" data-bs-target="#modalBio-1094">
+																															M.
+									 Nazarkevych</a>
+													<a href="https://orcid.org/0000-0002-6528-9867" target="_blank"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"></a> 
+															</span>
+		
+			</div>		<div class="authors">																																																																																																								<span class="compactContributorString">
+									<a data-bs-toggle="modal" id="modalBioLink-1095" href="#modalBio-1095" data-bs-target="#modalBio-1095">
+																															V.
+									 Hrytsyk</a>
+													<a href="https://orcid.org/0000-0002-9696-5805" target="_blank"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"></a> 
+															</span>
+			, <span class="compactContributorString">
+									<a data-bs-toggle="modal" id="modalBioLink-1096" href="#modalBio-1096" data-bs-target="#modalBio-1096">
+																															O.
+									 Milov</a>
+													<a href="https://orcid.org/0000-0001-6135-2120" target="_blank"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"></a> 
+															</span>
+			, <span class="compactContributorString">
+									<a data-bs-toggle="modal" id="modalBioLink-1097" href="#modalBio-1097" data-bs-target="#modalBio-1097">
+																															O.
+									 Korol</a>
+													<a href="https://orcid.org/0000-0002-8733-9984" target="_blank"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"></a> 
+															</span>
+			, <span class="compactContributorString">
+									<a data-bs-toggle="modal" id="modalBioLink-1098" href="#modalBio-1098" data-bs-target="#modalBio-1098">
+																															S.
+									 Milevskyi</a>
+													<a href="https://orcid.org/0000-0001-5087-7036" target="_blank"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"></a> 
+															</span>
+			, <span class="compactContributorString">
+									<a data-bs-toggle="modal" id="modalBioLink-1099" href="#modalBio-1099" data-bs-target="#modalBio-1099">
+																															R.
+									 Korolev</a>
+													<a href="https://orcid.org/0000-0002-7948-5914" target="_blank"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"></a> 
+															</span>
+			, <span class="compactContributorString">
+									<a data-bs-toggle="modal" id="modalBioLink-1100" href="#modalBio-1100" data-bs-target="#modalBio-1100">
+																															S.
+									 Pohasii</a>
+													<a href="https://orcid.org/0000-0002-4540-3693" target="_blank"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"></a> 
+															</span>
+			, <span class="compactContributorString">
+									<a data-bs-toggle="modal" id="modalBioLink-1101" href="#modalBio-1101" data-bs-target="#modalBio-1101">
+																															A.
+									 Tkachov</a>
+													<a href="https://orcid.org/0000-0003-1428-0173" target="_blank"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"></a> 
+															</span>
+			, <span class="compactContributorString">
+									<a data-bs-toggle="modal" id="modalBioLink-1102" href="#modalBio-1102" data-bs-target="#modalBio-1102">
+																															Y.
+									 Melenti</a>
+													<a href="https://orcid.org/0000-0003-2955-2469" target="_blank"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"></a> 
+															</span>
+			, <span class="compactContributorString">
+									<a data-bs-toggle="modal" id="modalBioLink-1103" href="#modalBio-1103" data-bs-target="#modalBio-1103">
+																															O.
+									 Lavrut</a>
+													<a href="https://orcid.org/0000-0002-4909-6723" target="_blank"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"></a> 
+															</span>
+			, <span class="compactContributorString">
+									<a data-bs-toggle="modal" id="modalBioLink-1104" href="#modalBio-1104" data-bs-target="#modalBio-1104">
+																															A.
+									 Havrylova</a>
+													<a href="https://orcid.org/0000-0002-2015-8927" target="_blank"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"></a> 
+															</span>
+			, <span class="compactContributorString">
+									<a data-bs-toggle="modal" id="modalBioLink-1105" href="#modalBio-1105" data-bs-target="#modalBio-1105">
+																															S.
+									 Herasуmov</a>
+													<a href="https://orcid.org/0000-0003-1810-0387" target="_blank"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"></a> 
+															</span>
+			, <span class="compactContributorString">
+									<a data-bs-toggle="modal" id="modalBioLink-1106" href="#modalBio-1106" data-bs-target="#modalBio-1106">
+																															H.
+									 Holotaistrova</a>
+													<a href="https://orcid.org/0000-0001-8349-6571" target="_blank"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"></a> 
+															</span>
+			, <span class="compactContributorString">
+									<a data-bs-toggle="modal" id="modalBioLink-1107" href="#modalBio-1107" data-bs-target="#modalBio-1107">
+																															D.
+									 Avramenko</a>
+													<a href="https://orcid.org/0000-0003-1892-380X" target="_blank"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"></a> 
+															</span>
+			, <span class="compactContributorString">
+									<a data-bs-toggle="modal" id="modalBioLink-1108" href="#modalBio-1108" data-bs-target="#modalBio-1108">
+																															R.
+									 Vozniak</a>
+													<a href="https://orcid.org/0000-0002-3789-2837" target="_blank"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"></a> 
+															</span>
+			, <span class="compactContributorString">
+									<a data-bs-toggle="modal" id="modalBioLink-1109" href="#modalBio-1109" data-bs-target="#modalBio-1109">
+																															O.
+									 Voitko</a>
+													<a href="https://orcid.org/0000-0002-4610-4476" target="_blank"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"></a> 
+															</span>
+			, <span class="compactContributorString">
+									<a data-bs-toggle="modal" id="modalBioLink-1110" href="#modalBio-1110" data-bs-target="#modalBio-1110">
+																															K.
+									 Yerhidzei</a>
+													<a href="https://orcid.org/0000-0003-4634-133X" target="_blank"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"></a> 
+															</span>
+			, <span class="compactContributorString">
+									<a data-bs-toggle="modal" id="modalBioLink-1111" href="#modalBio-1111" data-bs-target="#modalBio-1111">
+																															S.
+									 Mykus</a>
+													<a href="https://orcid.org/0000-0002-7103-4166" target="_blank"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"></a> 
+															</span>
+			, <span class="compactContributorString">
+									<a data-bs-toggle="modal" id="modalBioLink-1112" href="#modalBio-1112" data-bs-target="#modalBio-1112">
+																															Y.
+									 Pribyliev</a>
+													<a href="https://orcid.org/0000-0003-1941-3561" target="_blank"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"></a> 
+															</span>
+			, <span class="compactContributorString">
+									<a data-bs-toggle="modal" id="modalBioLink-1113" href="#modalBio-1113" data-bs-target="#modalBio-1113">
+																															O.
+									 Akhiiezer</a>
+													<a href="https://orcid.org/0000-0002-7087-9749" target="_blank"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"></a> 
+															</span>
+			, <span class="compactContributorString">
+									<a data-bs-toggle="modal" id="modalBioLink-1114" href="#modalBio-1114" data-bs-target="#modalBio-1114">
+																															M.
+									 Shyshkin</a>
+													<a href="https://orcid.org/0000-0002-2276-7259" target="_blank"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"></a> 
+															</span>
+			, <span class="compactContributorString">
+									<a data-bs-toggle="modal" id="modalBioLink-1115" href="#modalBio-1115" data-bs-target="#modalBio-1115">
+																															I.
+									 Opirskyy</a>
+													<a href="https://orcid.org/0000-0002-8461-8996" target="_blank"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"></a> 
+															</span>
+			, <span class="compactContributorString">
+									<a data-bs-toggle="modal" id="modalBioLink-1116" href="#modalBio-1116" data-bs-target="#modalBio-1116">
+																															O.
+									 Harasymchuk</a>
+													<a href="https://orcid.org/0000-0002-8742-8872" target="_blank"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"></a> 
+															</span>
+			, <span class="compactContributorString">
+									<a data-bs-toggle="modal" id="modalBioLink-1117" href="#modalBio-1117" data-bs-target="#modalBio-1117">
+																															O.
+									 Mykhaylova</a>
+													<a href="https://orcid.org/0000-0002-3086-3160" target="_blank"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"></a> 
+															</span>
+			, <span class="compactContributorString">
+									<a data-bs-toggle="modal" id="modalBioLink-1118" href="#modalBio-1118" data-bs-target="#modalBio-1118">
+																															Y.
+									 Nakonechnyy</a>
+													<a href="https://orcid.org/0000-0002-6046-6190" target="_blank"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"></a> 
+															</span>
+			, <span class="compactContributorString">
+									<a data-bs-toggle="modal" id="modalBioLink-1119" href="#modalBio-1119" data-bs-target="#modalBio-1119">
+																															M.
+									 Stakhiv</a>
+													<a href="https://orcid.org/0000-0002-4094-2081" target="_blank"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"></a> 
+															</span>
+			, <span class="compactContributorString">
+									<a data-bs-toggle="modal" id="modalBioLink-1120" href="#modalBio-1120" data-bs-target="#modalBio-1120">
+																															B.
+									 Tomashevsky</a>
+													<a href="https://orcid.org/0000-0002-1934-4773" target="_blank"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"></a> 
+															</span>
+			</div>					
+				</div>
+
+																																			<div class="item doi">
+							<span class="label">
+								DOI:
+							</span>
+							<span class="value">
+								<a href="https://doi.org/10.15587/978-617-7319-57-2">
+									https://doi.org/10.15587/978-617-7319-57-2
+								</a>
+							</span>
+						</div>
+																				
+												<div class="item keywords">
+					<h2 class="label">
+												Keywords:
+					</h2>
+					<span class="value">
+													concept of a multi-loop security system, 													socio-cyber-physical systems, 													post-quantum security mechanisms											</span>
+				</div>
+				
+								<div class="item abstract">
+					<h2 class="label">
+						Synopsis
+					</h2>
+					<div class="value">
+						<p>The development of Industry 4.0 technologies is based on the rapid growth of the computing capabilities of mobile wireless technologies, which has made it possible to significantly expand the range of digital services and form a conglomeration of socio-cyber-physical systems and smart technologies. The First Section discusses the issues of building security systems based on the proposed Concept of multi-contour security systems, taking into account the hybridity and synergy of modern targeted cyber-attacks, their integration with social engineering methods. This approach not only increases the level of security, but also forms an objective approach to the use of post-quantum security mechanisms based on the proposed Lotka-Volterra models.</p>
+<p>The Second Section analyzes the features of the functioning of social Internet services and establishes their role in ensuring the information security of the state. An approach is proposed to identify signs of threats in the text content of social Internet services, which will allow to quickly respond to changing situations and effectively counteract such threats. A classifier of information security profiles of users of social Internet services has been developed to assess the level of their danger as potential participants in disinformation campaigns. A method for identifying and evaluating the information and psychological impact on user communities in services is proposed. Models of conflict interaction of user groups in social Internet services are considered on the example of civil movements. To effectively counter threats to information security of the state, it is proposed to use the concept of synergistic user interaction and self-organization processes in a virtual community. Particular attention is paid to countering the manipulation of public opinion in the decision-making process by users of social Internet services.</p>
+<p>The Third Section proposes a biometric security system that works to authenticate users based on a comparison of their fingerprints and certain templates stored in a biometric database. A method for determining the contour based on the passage of a curve and the filtering function of contour lines has been developed. The stage of skeletal identification is analyzed in detail. The Ateb-Gabor method with wave thinning has been developed. The performance of skeletal algorithms such as the Zhang-Suen thinning algorithm, the Hilditch algorithm, and the Ateb-Gabor method with wave decimation is analyzed. The presented results of experiments with biometric fingerprints based on the NIST Special Database 302 database showed the effectiveness of the proposed method. The software and firmware were developed using the Arduino Nano.</p>
+					</div>
+				</div>
+
+								
+								
+				
+
+				
+													<div class="item references">
+						<h2 class="label">
+							References
+						</h2>
+						<div class="value">
+																		<p>Yevseiev, S., Ponomarenko, V., Laptiev, O., Milov, O., Korol, O., Milevskyi, S. et. al.; Yevseiev, S., Ponomarenko, V., Laptiev, O., Milov, O. (Eds.) (2021). Synergy of building cybersecurity systems. Kharkiv: РС ТЕСHNOLOGY СЕNTЕR, 188. doi: <a href="http://doi.org/10.15587/978-617-7319-31-2">http://doi.org/10.15587/978-617-7319-31-2</a> </p>
+			<p>Yevseiev, S., Melenti, Y., Voitko, O., Hrebeniuk, V., Korchenko, A., Mykus, S. et. al. (2021). Development of a concept for building a critical infrastructure facilities security system. Eastern-European Journal of Enterprise Technologies, 3 (9 (111)), 63–83. doi: <a href="http://doi.org/10.15587/1729-4061.2021.233533">http://doi.org/10.15587/1729-4061.2021.233533</a> </p>
+			<p>Stoddart, K. (2016). UK cyber security and critical national infrastructure protection. International Affairs, 92 (5), 1079–1105. doi: <a href="http://doi.org/10.1111/1468-2346.12706">http://doi.org/10.1111/1468-2346.12706</a> </p>
+			<p>Konstantas, J. (2016). Dam Hackers! The Rising Risks to ICS and SCADA Environments. Security Week. Available at: <a href="http://www.securityweek.com/dam-hackers-rising-risks-ics-and-scada-environments">http://www.securityweek.com/dam-hackers-rising-risks-ics-and-scada-environments</a> </p>
+			<p>Westervelt, R. (2012). Old Application Vulnerabilities, Misconfigurations Continue to Haunt. TechTarget. Available at: <a href="http://searchsecurity.techtarget.com/feature/Old-Application-Vulnerabilities-Misconfigurations-Continue-to-Haunt">http://searchsecurity.techtarget.com/feature/Old-Application-Vulnerabilities-Misconfigurations-Continue-to-Haunt</a> </p>
+			<p>Ashford, W. (2014). Industrial control systems: What are the security challenges? Computer Weekly. Available at: <a href="http://www.computerweekly.com/news/2240232680/Industrial-control-systems-What-are-the-security-challenges">http://www.computerweekly.com/news/2240232680/Industrial-control-systems-What-are-the-security-challenges</a> </p>
+			<p>Shmatko, O., Balakireva, S., Vlasov, A., Zagorodna, N., Korol, O., Milov, O. et. al. (2020). Development of methodological foundations for designing a classifier of threats to cyberphysical systems. Eastern-European Journal of Enterprise Technologies, 3 (9 (105), 6–19. doi: <a href="https://doi.org/10.15587/1729-4061.2020.205702">https://doi.org/10.15587/1729-4061.2020.205702</a> </p>
+			<p>Hryshchuk, R., Yevseiev, S., Shmatko, A. (2018). Construction methodology of information security system of banking information in automated banking systems. Vienna: Premier Publishing s. r. o.doi: <a href="http://doi.org/10.29013/r.hryshchuk_s.yevseiev_a.shmatko.cmissbiabs.284.2018">http://doi.org/10.29013/r.hryshchuk_s.yevseiev_a.shmatko.cmissbiabs.284.2018</a> </p>
+			<p>Kondratov S., Bobro D., Horbulin V. et. al.; Sukhodolia, O. (2017). Developing The Critical Infrastructure Protection System in Ukraine. Kyiv: NISS. </p>
+			<p>Rinaldi, S. M., Peerenboom, J. P., Kelly, T. K. (2001). Identifying, Understanding, and Analyzing Critical Infrastructure Dependencies. IEEE Control Systems Magazine, 21 (6), 11–25. doi: <a href="http://doi.org/10.1109/37.969131">http://doi.org/10.1109/37.969131</a> </p>
+			<p>Casalicchio, E., Galli, E., Tucci, S.; Setola, R.., Geretshuber, S. (Eds.) (2009). Modeling and Simulation of Complex Interdependent Systems: A Federated Agent-Based Approach. CRITIS 2008. LNCS. Heidelberg: Springer, 5508, 72–83. doi: <a href="http://doi.org/10.1007/978-3-642-03552-4_7">http://doi.org/10.1007/978-3-642-03552-4_7</a> </p>
+			<p>Haimes, Y. Y., Jiang, P. (2001). Leontief-Based Model of Risk in Complex Interconnected Infrastructures. Journal of Infrastructure Systems, 7 (1), 1–12. doi: <a href="http://doi.org/10.1061/(asce)1076-0342(2001)7:1(1)">http://doi.org/10.1061/(asce)1076-0342(2001)7:1(1)</a> </p>
+			<p>Barker, K., Santos, J. R. (2010). Measuring the efficacy of inventory with a dynamic input–output model. International Journal of Production Economics, 126 (1), 130–143. doi: <a href="http://doi.org/10.1016/j.ijpe.2009.08.011">http://doi.org/10.1016/j.ijpe.2009.08.011</a> </p>
+			<p>Santos, J. R. (2008). Interdependency analysis with multiple probabilistic sector inputs. Journal of Industrial &amp; Management Optimization, 4 (3), 489–510. doi: <a href="http://doi.org/10.3934/jimo.2008.4.489">http://doi.org/10.3934/jimo.2008.4.489</a> </p>
+			<p>Jung, J. (2009). Probabilistic Extension to the Inoperability Input-Output Model: P-IIM. Charlottesville. </p>
+			<p>Santos, J. R., Haimes, Y. Y., Lian, C. (2007). A Framework for Linking Cybersecurity Metrics to the Modeling of Macroeconomic Interdependencies. Risk Analysis, 27 (5), 1283–1297. doi: <a href="http://doi.org/10.1111/j.1539-6924.2007.00957.x">http://doi.org/10.1111/j.1539-6924.2007.00957.x</a> </p>
+			<p>Nieuwenhuijs, A., Luiijf, E., Klaver, M.; Papa, M., Shenoi, S. (Eds.) (2008). Modeling Dependencies Critical Infrastructures. Critical Infrastructure Protection II: Proceedings of the Second Annual IFIP Working Group 11.10 International Conference on Critical Infrastructure Protection. IFIP. Springer, Heidelberg, 290, 205–213. doi: <a href="http://doi.org/10.1007/978-0-387-88523-0">http://doi.org/10.1007/978-0-387-88523-0</a> </p>
+			<p>Rosato, V., Issacharoff, L., Tiriticco, F., Meloni, S., Porcellinis, S. D., Setola, R. (2008). Modelling interdependent infrastructures using interacting dynamical models. International Journal of Critical Infrastructures, 4 (1/2), 63–79. doi: <a href="http://doi.org/10.1504/ijcis.2008.016092">http://doi.org/10.1504/ijcis.2008.016092</a> </p>
+			<p>Panzieri, S., Setola, R. (2008). Failures propagation in critical interdependent infrastructures. International Journal of Modelling, Identification and Control, 3 (1), 69–78. doi: <a href="http://doi.org/10.1504/ijmic.2008.018186">http://doi.org/10.1504/ijmic.2008.018186</a> </p>
+			<p>Rinaldi, S. M. (2004). Modeling and Simulating Critical Infrastructures and Their Interdependencies. Proceedings of the 37th Annual Hawaii International Conference on System Sciences (HICSS 2004). IEEE Computer Society Press, Big Island. doi: <a href="http://doi.org/10.1109/hicss.2004.1265180">http://doi.org/10.1109/hicss.2004.1265180</a> </p>
+			<p>Forrester, J. W. (1961). Industrial Dynamics. Waltham: Pegasus Communications. </p>
+			<p>Forrester, J. W. (1961). Principles of Systems. Waltham: Pegasus Communications. </p>
+			<p>Gonzalez, J. J., Sarriegi, J. M., Gurrutxaga, A.; Lo´pez, J. (Ed.) (2006). A Framework for Conceptualizing Social En- gineering Attacks. CRITIS 2006. LNCS, vol. Heidelberg: Springer, 4347, 79–90. doi: <a href="http://doi.org/10.1007/11962977_7">http://doi.org/10.1007/11962977_7</a> </p>
+			<p>Bier, V. M., Ferson, S., Haimes, Y. Y., Lambert, J. H., Small, M. J. (2004). Risk of Extreme and Rare Events: Lessons from a Selection of Approaches. Risk Analysis and Society: An Interdisciplinary Characterization of the Field. Cambridge: Cambridge University Press, 74–118. doi: <a href="http://doi.org/10.1017/cbo9780511814662.004">http://doi.org/10.1017/cbo9780511814662.004</a> </p>
+			<p>Bier, V. M. (2001). Game Theoretic Models for Critical Infrastructure Protection. Abstracts of the 2001 Society for Risk Analysis Annual Meeting “Risk Analysis in an Interconnected World”. </p>
+			<p>von Neumann, J., Morgenstern, O. (1947). Theory of Games and Economic Behavior. Princeton: Princeton University Press. </p>
+			<p>Burke, D. A. (1999). Towards a Game Theory Model of Information Warfare. Air Force Institute of Technology, Wright-Patterson Air Force Base, 117. </p>
+			<p>Liu, D., Wang, X., Camp, J. (2008). Game-theoretic modeling and analysis of insider threats. International Journal of Critical Infrastructure Protection, 1, 75–80. doi: <a href="http://doi.org/10.1016/j.ijcip.2008.08.001">http://doi.org/10.1016/j.ijcip.2008.08.001</a> </p>
+			<p>Jenelius, E., Westin, J., Holmgren, Å. J. (2010). Critical infrastructure protection under imperfect attacker perception. International Journal of Critical Infrastructure Protection, 3 (1), 16–26. doi: <a href="http://doi.org/10.1016/j.ijcip.2009.10.002">http://doi.org/10.1016/j.ijcip.2009.10.002</a> </p>
+			<p>Yoshida, M., Kobayashi, K. (2010). Disclosure Strategies for Critical Infrastructure against Terror Attacks. Proceedings of the 2010 IEEE International Conference on Systems Man and Cybernetics (SMC 2010). Istanbul: IEEE Press, 3194–3199. doi: <a href="http://doi.org/10.1109/icsmc.2010.5642277">http://doi.org/10.1109/icsmc.2010.5642277</a> </p>
+			<p>Major, J. A. (2002). Advanced Techniques for Modeling Terrorism Risk. The Journal of Risk Finance, 4 (1), 15–24. doi: <a href="http://doi.org/10.1108/eb022950">http://doi.org/10.1108/eb022950</a> </p>
+			<p>Lakdawalla, D. N., Zanjani, G. (2004). Insurance, Self-Protection, and the Economics of Terrorism. Tech. Rep. WR-171-ICJ, RAND Corporation. Santa Monica. </p>
+			<p>Woo, G. (2002). Quantitative Terrorism Risk Assessment. The Journal of Risk Finance, 4 (1), 7–14. doi: <a href="http://doi.org/10.1108/eb022949">http://doi.org/10.1108/eb022949</a> </p>
+			<p>Bier, V., Oliveros, S., Samuelson, L. (2007). Choosing What to Protect: Strategic Defensive Allocation against an Unknown Attacker. Journal of Public Economic Theory, 9 (4), 563–587. doi: <a href="http://doi.org/10.1111/j.1467-9779.2007.00320.x">http://doi.org/10.1111/j.1467-9779.2007.00320.x</a> </p>
+			<p>Sandler, T., Siqueira, K. (2008). Games and Terrorism. Simulation &amp; Gaming, 40 (2), 164–192. doi: <a href="http://doi.org/10.1177/1046878108314772">http://doi.org/10.1177/1046878108314772</a> </p>
+			<p>Bolloba´s, B. (1998). Modern Graph Theory. Graduate Texts in Mathematics, Vol. 184. Berlin: Springer. </p>
+			<p>Bolloba´s, B., Kozma, R., Miklo´s, D. (Eds.) (2009). Handbook of Large-Scale Random Networks. Bolyai Society Mathematical Studies, 18. Ja´nos Bolyai Mathematical Society and Springer. Budapest. </p>
+			<p>Albert, R., Baraba´si, A. L. (1999). Emergence of Scaling in Random Networks. Science, 286 (5439), 509–512. doi: <a href="http://doi.org/10.1126/science.286.5439.509">http://doi.org/10.1126/science.286.5439.509</a> </p>
+			<p>Albert, R., Baraba´si, A. L. (2002). Statistical Mechanics of Complex Networks. Reviews of Modern Physics 74 (1), 47–97. doi: <a href="http://doi.org/10.1103/revmodphys.74.47">http://doi.org/10.1103/revmodphys.74.47</a> </p>
+			<p>Newman, M. E. J. (2003). The Structure and Function of Complex Networks. SIAM Review, 45 (2), 167–256. doi: <a href="http://doi.org/10.1137/s003614450342480">http://doi.org/10.1137/s003614450342480</a> </p>
+			<p>Newman, M., Baraba´si, A. L., Watts, D. J. (Eds.) (2006). The Structure and Dynamics of Networks. Princeton Studies in Complexity. Princeton: Princeton University Press. </p>
+			<p>North, M.; Sallach, D., Wolsko, T. (Eds.) (2000). Agent-Based Modeling of Complex Infrastructures. In: Proceedings of the Workshop on Simulation of Social Agents: Architectures and Institutions. University of Chicago and Argonne National Laboratory, Chicago. ANL/DIS/TM-60, 239–250. </p>
+			<p>Zhu, G.-Y., Henson, M. A., Megan, L. (2001). Dynamic modeling and linear model predictive control of gas pipeline networks. Journal of Process Control, 11 (2), 129–148. doi: <a href="http://doi.org/10.1016/s0959-1524(00)00044-5">http://doi.org/10.1016/s0959-1524(00)00044-5</a> </p>
+			<p>Han, Z. Y., Weng, W. G. (2010). An integrated quantitative risk analysis method for natural gas pipeline network. Journal of Loss Prevention in the Process Industries, 23 (3), 428–436. doi: <a href="http://doi.org/10.1016/j.jlp.2010.02.003">http://doi.org/10.1016/j.jlp.2010.02.003</a> </p>
+			<p>Wolthusen, S. D. (2005). GIS-based Command and Control Infrastructure for Critical Infrastructure Protection. Proceedings of the First IEEE International Workshop on Critical Infrastructure Protection (IWCIP 2005), 40–47. doi: <a href="http://doi.org/10.1109/iwcip.2005.12">http://doi.org/10.1109/iwcip.2005.12</a> </p>
+			<p>Patterson, S. A., Apostolakis, G. E. (2007). Identification of Critical Locations Across Multiple Infrastructures for Terrorist Actions. Reliability Engineering &amp; System Safety, 92 (9), 1183–1203. doi: <a href="http://doi.org/10.1016/j.ress.2006.08.004">http://doi.org/10.1016/j.ress.2006.08.004</a> </p>
+			<p>Yevseiev, S., Pohasii, S., Milevskyi, S., Milov, O., Melenti, Y., Grod, I. et. al. (2021). Development of a method for assessing the security of cyber-physical systems based on the Lotka–Volterra model. Eastern-European Journal of Enterprise Technologies, 5 (9 (113)), 30–47. doi: <a href="http://doi.org/10.15587/1729-4061.2021.241638">http://doi.org/10.15587/1729-4061.2021.241638</a> </p>
+			<p>Lippert, K. J., Cloutier, R. (2021). Cyberspace: A Digital Ecosystem. Systems, 9 (3), 48. doi: <a href="http://doi.org/10.3390/systems9030048">http://doi.org/10.3390/systems9030048</a> </p>
+			<p>Mazurczyk, W., Drobniak, S., Moore, S. Towards a Systematic View on Cybersecurity Ecology. Available at: <a href="https://arxiv.org/ftp/arxiv/papers/1505/1505.04207.pdf">https://arxiv.org/ftp/arxiv/papers/1505/1505.04207.pdf</a> Last accessed: 25.06.2021 </p>
+			<p>Gorman, S. P., Kulkarni, R. G., Schintler, L. A., Stough, R. R. (2004). A Predator Prey Approach to the Network Structure of Cyberspace. Available at: <a href="https://www.researchgate.net/publication/255679706_A_predator_prey_approach_to_the_network_structure_of_cyberspace">https://www.researchgate.net/publication/255679706_A_predator_prey_approach_to_the_network_structure_of_cyberspace</a> Last accessed: 25.06.2021 </p>
+			<p>Ya dogonyayu, ty ubegayesh’. Chto takoye model' Lotki-Vol'terry i kak ona pomogayet biologam. Available at: <a href="https://nplus1.ru/material/2019/12/04/lotka-volterra-model">https://nplus1.ru/material/2019/12/04/lotka-volterra-model</a>. </p>
+			<p>Tøndel, I. A., Cruzes, D. S., Jaatun, M. G., Sindre, G. (2022). Influencing the security prioritisation of an agile software development project. Computers &amp; Security, 118, 102744. doi: <a href="http://doi.org/10.1016/j.cose.2022.102744">http://doi.org/10.1016/j.cose.2022.102744</a> </p>
+			<p>Șcheau, M.-C., Leu, M.-D., Udroiu, C. (2022). At the Intersection of Interests and Objectives in Cybersecurity. Proceedings of the International Conference on Cybersecurity and Cybercrime (IC3), 29–34. doi: <a href="http://doi.org/10.19107/cybercon.2022.03">http://doi.org/10.19107/cybercon.2022.03</a> </p>
+			<p>Mohammed, N. Q., Amir, A., Salih, M. H., Ahmad, B. (2022). Design and Implementation of True Parallelism Quad-Engine Cybersecurity Architecture on FPGA. International Journal of Advanced Computer Science and Applications, 13 (1), 719–724. doi: <a href="http://doi.org/10.14569/ijacsa.2022.0130183">http://doi.org/10.14569/ijacsa.2022.0130183</a> </p>
+			<p>Nevliudov, I., Yevsieiev, V., Maksymova, S., Filippenko, I. (2020). Development of an architectural-logical model to automate the management of the process of creating complex cyber-physical industrial systems. Eastern-European Journal of Enterprise Technologies, 4 (3 (106)), 44–52. doi: <a href="http://doi.org/10.15587/1729-4061.2020.210761">http://doi.org/10.15587/1729-4061.2020.210761</a> </p>
+			<p>Szymanski, T. H. (2022). The “Cyber Security via Determinism” Paradigm for a Quantum Safe Zero Trust Deterministic Internet of Things (IoT). IEEE Access, 10, 45893–45930. doi: <a href="http://doi.org/10.1109/access.2022.3169137">http://doi.org/10.1109/access.2022.3169137</a> </p>
+			<p>de Kinderen, S., Kaczmarek-Heß, M., Hacks, S. (2022). Towards Cybersecurity by Design: A multi-level reference model for requirements-driven smart grid cybersecurity. ECIS 2022 Research Papers. 89. Available at: <a href="https://aisel.aisnet.org/ecis2022_rp/89/">https://aisel.aisnet.org/ecis2022_rp/89/</a> </p>
+			<p>Do Thu, H., Hoang, N. X., Hoang N. V., Du, N. H., Huong, T. T., Phuc Tran, K. (2022). Explainable Anomaly Detection for Industrial Control System Cybersecurity. Available at:: <a href="https://www.researchgate.net/publication/360383589_Explainable_Anomaly_Detection_for_Industrial_Control_System_Cybersecurity">https://www.researchgate.net/publication/360383589_Explainable_Anomaly_Detection_for_Industrial_Control_System_Cybersecurity</a> </p>
+			<p>KNX Technical Manual 2CKA001473B8668. (2017). KNX Technical Manual. Busch-Presence detector KNX / Busch-Watchdog Sky KNX. Busch-Jaeger Elektro GmbH, 198. </p>
+			<p>ABB i-bus KNX KNX Security Panel GM/A 8.1 Product Manual (2016). Busch-Watchdog Sky KNX. Busch-Jaeger Elektro GmbH, 648. </p>
+			<p>Pohasii, S., Yevseiev, S., Zhuchenko, O., Milov, O., Lysechko, V., Kovalenko, O. et. al. (2022). Development of crypto-code constructs based on LDPC codes. Eastern-European Journal of Enterprise Technologies, 2 (9 (116)), 44–59. doi: <a href="http://doi.org/10.15587/1729-4061.2022.254545">http://doi.org/10.15587/1729-4061.2022.254545</a> </p>
+			<p>Bond, R. M., Fariss, C. J., Jones, J. J., Kramer, A. D. I., Marlow, C., Settle, J. E., Fowler, J. H. (2012). A 61-million-person experiment in social influence and political mobilization. Nature, 489 (7415), 295–298. doi: <a href="http://doi.org/10.1038/nature11421">http://doi.org/10.1038/nature11421</a> </p>
+			<p>Parthasarathy, S., Ruan, Y., Satuluri, V. (2011). Community Discovery in Social Networks: Applications, Methods and Emerging Trends. Social Network Data Analytics, 79–113. doi: <a href="http://doi.org/10.1007/978-1-4419-8462-3_4">http://doi.org/10.1007/978-1-4419-8462-3_4</a> </p>
+			<p>Madirolas, G., de Polavieja, G. G. (2015). Improving Collective Estimations Using Resistance to Social Influence. PLOS Computational Biology, 11 (11), e1004594. doi: <a href="http://doi.org/10.1371/journal.pcbi.1004594">http://doi.org/10.1371/journal.pcbi.1004594</a> </p>
+			<p>Sun, J., Tang, J. (2011). A survey of models and algorithms for social influence analysis Social Network Data Analytics, 177–214. doi: <a href="http://doi.org/10.1007/978-1-4419-8462-3_7">http://doi.org/10.1007/978-1-4419-8462-3_7</a> </p>
+			<p>Anagnostopoulos, A., Kumar, R., Mahdian, M. (2008). Influence and correlation in social networks. In Proceeding of the 14th ACM SIGKDD international conference on Knowledge discovery and data mining (KDD’08), 7–15. doi: <a href="http://doi.org/10.1145/1401890.1401897">http://doi.org/10.1145/1401890.1401897</a> </p>
+			<p>Goyal, A., Bonchi, F., Lakshmanan, L. V. (2010). Learning influence probabilities in social networks. In Proceedings of the 3st ACM International Conference on Web Search and Data Mining (WSDM’10), 207–217. doi: <a href="http://doi.org/10.1145/1718487.1718518">http://doi.org/10.1145/1718487.1718518</a> </p>
+			<p>Xiang, R., Neville, J., Rogati, M. (2010). Modeling relationship strength in online social networks. In Proceeding of the 19th international conference on World Wide Web (WWW’10), 981–990. doi: <a href="http://doi.org/10.1145/1772690.1772790">http://doi.org/10.1145/1772690.1772790</a> </p>
+			<p>Scripps, J., Tan, P.-N., Esfahanian, A.-H. (2009). Measuring the effects of preprocessing decisions and network forces in dynamic network analysis. In Proceedings of the 15th ACM SIGKDD international conference on Knowledge discovery and data mining (KDD’09), 747–756. doi: <a href="http://doi.org/10.1145/1557019.1557102">http://doi.org/10.1145/1557019.1557102</a> </p>
+			<p>Tang, L., Liu, H. (2009). Relational learning via latent social dimensions. In Proceedings of the 15th ACM SIGKDD international conference on Knowledge discovery and data mining (KDD’09), 817–826. doi: <a href="http://doi.org/10.1145/1557019.1557109">http://doi.org/10.1145/1557019.1557109</a> </p>
+			<p>Horovyi, V. M., Onyshchenko, O. S., Polovynchak, Yu. M., Horova, S. V., Kostenko, L. Y., Matviichuk, A. V. et. al. (2015). Tekhnolohii rozvytku i zakhystu natsionalnoho informatsiinoho prostoru. Kyiv: NBUV, 296. </p>
+			<p>Konakh, V. K. (2014). Natsionalnyi informatsiinyi prostir Ukrainy: problemy formuvannia ta derzhavnoho rehuliuvannia. Kyiv: NISD. </p>
+			<p>Onyshchenko, O. S., Horovyi, V. M., Popyk, V. I. (2014). Sotsialni merezhi yak instrument vzaiemovplyvu vlady ta hromadianskoho suspilstva. Kyiv: NAN Ukrainy, Nats. b-ka Ukrainy im. V. I. Vernadskoho, 260. </p>
+			<p>Danik, Yu., Hryshchuk, R., Samchyshyn, O. (2015). Mobile social Internet services as the modern mass communication. Ukrainian Scientific Journal of Information Security, 21 (1), 16–20. </p>
+			<p>Peleshchyshyn, A. M., Sierov, Yu. O., Berezko, O. L., Peleshchyshyn. O. P., Tymovchak-Maksymets, O. Yu., Markovets, O. V. (2012). Protsesy upravlinnia interaktyvnymy sotsialnymy komunikatsiiamy v umovakh rozvytku informatsiinoho suspilstva. Lviv, Vyd-vo Lviv. Politekhniky, 368. </p>
+			<p>Hryshchuk, R. V., Danyk, Yu. H. (2016). Osnovy kibernetychnoi bezpeky. Zhytomyr: ZhNAEU, 636. </p>
+			<p>Hryshchuk, R. V., Molodetska-Hrynchuk, K. V. (2017). Postanovka problemy zabezpechennia informatsiinoi bezpeky derzhavy u sotsialnykh internet-servisakh. Suchasnyi zakhyst informatsii, 3 (31), 86–96. </p>
+			<p>Tufekci, Z., Wilson, C. (2012). Social Media and the Decision to Participate in Political Protest: Observations From Tahrir Square. Journal of Communication, 62 (2), 363–379. doi: <a href="http://doi.org/10.1111/j.1460-2466.2012.01629.x">http://doi.org/10.1111/j.1460-2466.2012.01629.x</a> </p>
+			<p>Savanevskyi, M. (2013). #ievromaidan: ukrainska tsyfrova revoliutsiia ta ostannii shans analohovym politykam staty tsyfrovymy. Watcher. Available at: <a href="http://watcher.com.ua/2013/11/29/yevromaydan-ukrayinska-tsyfrova-revolyutsiya-ta-ostanniy-shans-analohovym-politykam-staty-tsyfrovymy/">http://watcher.com.ua/2013/11/29/yevromaydan-ukrayinska-tsyfrova-revolyutsiya-ta-ostanniy-shans-analohovym-politykam-staty-tsyfrovymy/</a> </p>
+			<p>Barovska, A. (2016). Informatsiini vyklyky hibrydnoi viiny: kontent, kanaly, mekhanizmy protydii. Kyiv: NISD, 109. </p>
+			<p>Holloway, M. (2017). How Russia weaponized social media in the Crimea. Realcleardefense.com. Available at: <a href="https://www.realcleardefense.com/articles/2017/05/10/how_russia_weaponized_social_media_in_crimea_111352.html">https://www.realcleardefense.com/articles/2017/05/10/how_russia_weaponized_social_media_in_crimea_111352.html</a> </p>
+			<p>Perry, B. (2015). Non-linear warfare in Ukraine: the critical role of information operations and special operations. Small Wars Journal, 11 (1). Available at: <a href="http://smallwarsjournal.com/jrnl/art/non-linear-warfare-in-ukraine-the-critical-role-of-information-operations-and-special-opera">http://smallwarsjournal.com/jrnl/art/non-linear-warfare-in-ukraine-the-critical-role-of-information-operations-and-special-opera</a> </p>
+			<p>Obzor sotsyalnykh setei. Leto, 2016 (2016). Slideshare. Available at: <a href="https://www.slideshare.net/adproisobar/2016-64479518">https://www.slideshare.net/adproisobar/2016-64479518</a> </p>
+			<p>Pro zastosuvannia personalnykh spetsialnykh ekonomichnykh ta inshykh obmezhuvalnykh zakhodiv (sanktsii) (2017). Ukaz Prezydenta Ukrainy No. 133/2017. Available at: <a href="http://www.president.gov.ua/documents/1332017-21850">http://www.president.gov.ua/documents/1332017-21850</a> </p>
+			<p>Hryshchuk, R., Molodetska-Hrynhchuk, K. (2018). Methodological Foundation of State’s Information Security in Social Networking Services in Conditions of Hybrid War. Information &amp; Security: An International Journal, 41, 61–79. doi: <a href="http://doi.org/10.11610/isij.4105">http://doi.org/10.11610/isij.4105</a> </p>
+			<p>Molodetska-Hrynchuk, K. (2017). Outreaches content tracing technique for social networking services. Radio electronics, Computer Science, Control, 2 (41), 117–126. doi: <a href="http://doi.org/10.15588/1607-3274-2017-2-13">http://doi.org/10.15588/1607-3274-2017-2-13</a> </p>
+			<p>Manning, Chr., Raghavan, P., Schütze, H. (2008). Introduction to Information Retrieval. Cambridge University Press. doi: <a href="http://doi.org/10.1017/cbo9780511809071">http://doi.org/10.1017/cbo9780511809071</a> </p>
+			<p>Wardle, C., Derakhshan, H. (2017). Information disorder: toward an interdisciplinary framework for research and policy making. Available at: <a href="https://rm.coe.int/information-disorder-toward-an-interdisciplinary-framework-for-researc/168076277c">https://rm.coe.int/information-disorder-toward-an-interdisciplinary-framework-for-researc/168076277c</a> </p>
+			<p>Barabash, O. V., Hryshchuk, R. V., Molodetska-Hrynchuk, K. V. (2018). Identification threats to the state information security in the text content of social networking services. Science-Based Technologies, 38 (2), 232–239. doi: <a href="http://doi.org/10.18372/2310-5461.38.12855">http://doi.org/10.18372/2310-5461.38.12855</a> </p>
+			<p>Pennacchiotti, M., Popescu, A.-M. (2011). Democrats, republicans and starbucks afficionados. Proceedings of the 17th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining - KDD ’11. doi: <a href="http://doi.org/10.1145/2020408.2020477">http://doi.org/10.1145/2020408.2020477</a> </p>
+			<p>Beller, C., Knowles, R., Harman, C., Bergsma, S., Mitchell, M., Van Durme, B. (2014). I'm a Belieber: social roles via self-identification and conceptual attributes. Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics, 181–186. doi: <a href="http://doi.org/10.3115/v1/p14-2030">http://doi.org/10.3115/v1/p14-2030</a> </p>
+			<p>Schwartz, H. A., Eichstaedt, J. C., Kern, M. L., Dziurzynski, L., Ramones, S. M., Agrawal, M. et. al. (2013). Personality, Gender, and Age in the Language of Social Media: The Open-Vocabulary Approach. PLoS ONE, 8 (9), e73791. doi: <a href="http://doi.org/10.1371/journal.pone.0073791">http://doi.org/10.1371/journal.pone.0073791</a> </p>
+			<p>Gore, R. J., Diallo, S., Padilla, J. (2015). You Are What You Tweet: Connecting the Geographic Variation in America’s Obesity Rate to Twitter Content. PLOS ONE, 10 (9), e0133505. doi: <a href="http://doi.org/10.1371/journal.pone.0133505">http://doi.org/10.1371/journal.pone.0133505</a> </p>
+			<p>Molodetska, K., Tymonin, Y. (2019). System-dynamic models of destructive informational influence in social networking services. International Journal of 3D Printing Technologies and Digital Industry, 3 (2), 137–146. </p>
+			<p>Pasca, M. (2007). What you seek is what you get: Extraction of class attributes from query logs. Proceedings of IJCAI. </p>
+			<p>Faraz, A. (2016). A Comparison of Text Categorization Methods. International Journal on Natural Language Computing, 5 (1), 31–44. doi: <a href="http://doi.org/10.5121/ijnlc.2016.5103">http://doi.org/10.5121/ijnlc.2016.5103</a> </p>
+			<p>Fernández-Martínez, F., Zablotskaya, K., Minker, W. (2012). Text categorization methods for automatic estimation of verbal intelligence. Expert Systems with Applications, 39 (10), 9807–9820. doi: <a href="http://doi.org/10.1016/j.eswa.2012.02.173">http://doi.org/10.1016/j.eswa.2012.02.173</a> </p>
+			<p>Natekin, A., Knoll, A.(2013). Gradient boosting machines, a tutorial. Frontiers in Neurorobotics, 7 (21), 1–21. doi: <a href="http://doi.org/10.3389/fnbot.2013.00021">http://doi.org/10.3389/fnbot.2013.00021</a> </p>
+			<p>Freund, Y., Schapire, R. E. (1997). A Decision-Theoretic Generalization of On-Line Learning and an Application to Boosting. Journal of Computer and System Sciences, 55 (1), 119–139. doi: <a href="http://doi.org/10.1006/jcss.1997.1504">http://doi.org/10.1006/jcss.1997.1504</a> </p>
+			<p>"MIB Datasets" (2017). Mib.projects.iit.cnr.it. Available at: <a href="http://mib.projects.iit.cnr.it/dataset.html">http://mib.projects.iit.cnr.it/dataset.html</a> </p>
+			<p>Hryshchuk, R. V., Mamariev, V. M., Molodetska-Hrynchuk K. V. (2017). Klasyfikatsiia profiliv informatsiinoi bezpeky aktoriv v sotsialnykh internet-servisakh (na prykladi mikroblohu Twitter). Informatsiini tekhnolohii ta kompiuterna inzheneriia, 2, 12–19. </p>
+			<p>Cresci, S., Pietro, R. Di, Petrocchi, M., Spognardi, A., Tesconi, M. (2015). Fame for sale: efficient detection of fake Twitter followers. Decision Support Systems, 80, 56–71. doi: <a href="http://doi.org/10.48550/arXiv.1509.04098">http://doi.org/10.48550/arXiv.1509.04098</a> </p>
+			<p>Milan, S. (2015). From social movements to cloud protesting: the evolution of collective identity. Information, Communication &amp; Society, 18 (8), 887–900. doi: <a href="http://doi.org/10.1080/1369118x.2015.1043135">http://doi.org/10.1080/1369118x.2015.1043135</a> </p>
+			<p>Panchenko, V. M. (2009). Linhvostatystychni oznaky manipuliuvannia suspilnoiu svidomistiu v zasobakh masovoi komunikatsii. Suchasni informatsiini tekhnolohii u sferi bezpeky ta oborony, 1 (4), 81–85. </p>
+			<p>Molodetska, K., Brodskiy, Yu., Fedushko, S. (2020). Model of assessment of information-psychological influence in social networking services based on information insurance. Control, Optimisation and Analytical Processing of Social Networks : Proc. of the 2nd International Workshop on COAPSN-2020, 2616, 187–198. Available at: <a href="http://ceur-ws.org/Vol-2616/paper16.pdf">http://ceur-ws.org/Vol-2616/paper16.pdf</a> </p>
+			<p>Broniatowski, D. A., Jamison, A. M., Qi, S., AlKulaib, L., Chen, T., Benton, A. et. al. (2018). Weaponized Health Communication: Twitter Bots and Russian Trolls Amplify the Vaccine Debate. American Journal of Public Health, 108 (10), 1378–1384. doi: <a href="http://doi.org/10.2105/ajph.2018.304567">http://doi.org/10.2105/ajph.2018.304567</a> </p>
+			<p>The official website of the World Health Organization. Available at: <a href="https://www.who.int/home">https://www.who.int/home</a> </p>
+			<p>Molodetska, K., Tymonin, Y., Melnychuk, I. (2020). The conceptual model of information confrontation of virtual communities in social networking services. International Journal of Electrical and Computer Engineering (IJECE), 10 (1), 1043–1052. doi: <a href="http://doi.org/10.11591/ijece.v10i1.pp1043-1052">http://doi.org/10.11591/ijece.v10i1.pp1043-1052</a> </p>
+			<p>Leask, J., Kinnersley, P., Jackson, C., Cheater, F., Bedford, H., &amp; Rowles, G. (2012). Communicating with parents about vaccination: a framework for health professionals. BMC Pediatrics, 12 (1). doi: <a href="http://doi.org/10.1186/1471-2431-12-154">http://doi.org/10.1186/1471-2431-12-154</a> </p>
+			<p>Hryshchuk, R., Molodetska, K., Tymonin, Yu. (2019). Modelling of conflict interaction of virtual communities in social networking services on an example of anti-vaccination movement. Conflict Management in Global Information Networks : Proc. of the International Workshop on CMiGIN-2019, 2588, 250–264. </p>
+			<p>Kolesnykov, A. A. (2005). Synerhetycheskoe metody upravlenyia slozhnymy systemamy: teoryia systemnoho synteza. Edytoral URSS. </p>
+			<p>Hryshchuk, R., Molodetska, K. (2017). Synergetic control of social networking services actors’ interactions. Recent Advances in Systems, Control and Information Technology. Springer International Publishing, 543, 34–42. doi: <a href="http://doi.org/10.1007/978-3-319-48923-0_5">http://doi.org/10.1007/978-3-319-48923-0_5</a> </p>
+			<p>Hryshchuk, R., Molodetska, K., Serov, Y. (2019). Method of improving the information security of virtual communities in social networking services. Proc. of the 1st International Workshop on Control, Optimisation and Analytical Processing of Social Networks, 2392, 23-41. </p>
+			<p>Wu, B., Cheng, T., Yip, T. L., Wang, Y. (2020). Fuzzy logic based dynamic decision-making system for intelligent navigation strategy within inland traffic separation schemes. Ocean Engineering, 197, 106909. doi: <a href="http://doi.org/10.1016/j.oceaneng.2019.106909">http://doi.org/10.1016/j.oceaneng.2019.106909</a> </p>
+			<p>Molodetska, K., Solonnikov, V., Voitko, O., Humeniuk, I., Matsko, O., Samchyshyn, O. (2021). Counteraction to information influence in social networking services by means of fuzzy logic system. International Journal of Electrical and Computer Engineering, 11 (3), 2490–2499. doi: <a href="http://doi.org/10.11591/ijece.v11i3.pp2490-2499">http://doi.org/10.11591/ijece.v11i3.pp2490-2499</a> </p>
+			<p>Akgun, A., Sezer, E. A., Nefeslioglu, H. A., Gokceoglu, C., Pradhan, B. (2012). An easy-to-use MATLAB program (MamLand) for the assessment of landslide susceptibility using a Mamdani fuzzy algorithm. Computers &amp; Geosciences, 38 (1), 23–34. doi: <a href="http://doi.org/10.1016/j.cageo.2011.04.012">http://doi.org/10.1016/j.cageo.2011.04.012</a> </p>
+			<p>Molodetska, K., Tymonin, Y., Markovets, O., Melnychyn, A. (2020). Phenomenological model of information operation in social networking services. Indonesian Journal of Electrical Engineering and Computer Science, 19 (2), 1078. doi: https//doi.org/10.11591/ijeecs.v19.i2.pp1078-1087 </p>
+			<p>Synko, A., Molodetska, K. (2021). Application of Clusterization for Analysis of Virtual Community Users. Information Technologies &amp; Applied Sciences: Proc. of the Symposium on IT&amp;AS 2021, 2824, 9–19. </p>
+			<p>How the Social Networks Affect Politics in Ukraine: Conclusions of the Research (2020). Internews.Ua. Avaliable at: <a href="https://internews.ua/opportunity/social-network-research">https://internews.ua/opportunity/social-network-research</a> </p>
+			<p>Criminal complaint. Official website of the U.S. Department of Justice (DOJ). Available at: <a href="https://www.justice.gov/opa/press-release/file/1102316/download">https://www.justice.gov/opa/press-release/file/1102316/download</a> </p>
+			<p>Peleshchyshyn, O., Molodetska, K., Solianyk, A., Kravets, R. (2019). Modelling the complex of automation of company marketing activity in online communities. Conflict Management in Global Information Networks: Proc. of the International Workshop on CMiGIN 2019, 2588, 301–310. </p>
+			<p>Maddux, R. D. (2014). Arrow's theorem for incomplete relations. Journal Of Logical And Algebraic Methods In Programming, 83 (2), 235–248. doi: <a href="http://doi.org/10.1016/j.jlap.2014.02.012">http://doi.org/10.1016/j.jlap.2014.02.012</a> </p>
+			<p>Cato, S. (2018). Incomplete decision-making and Arrow’s impossibility theorem. Mathematical Social Sciences, 94, 58–64. doi: <a href="http://doi.org/10.1016/j.mathsocsci.2017.10.002">http://doi.org/10.1016/j.mathsocsci.2017.10.002</a> </p>
+			<p>Brindley, P., Cameron, R. W., Ersoy, E., Jorgensen, A., Maheswaran, R. (2019). Is more always better? Exploring field survey and social media indicators of quality of urban greenspace, in relation to health. Urban Forestry &amp; Urban Greening, 39, 45–54. doi: <a href="http://doi.org/10.1016/j.ufug.2019.01.015">http://doi.org/10.1016/j.ufug.2019.01.015</a> </p>
+			<p>Public opinion poll (2020). Ilko Kucheriv Democratic Initiatives Foundation. Kyiv. </p>
+			<p>Karpov, А. V. (2009). Theorem on the impossibility of proportional representation. HSE Economic Journal, 4, 596–615. </p>
+			<p>Arrow, K. J. (1950). A Difficulty in the Concept of Social Welfare. Journal of Political Economy, 58 (4), 328–346. doi: <a href="http://doi.org/10.1086/256963">http://doi.org/10.1086/256963</a> </p>
+			<p>Vasiljev, S. (2008). Manipulability of a voting. SSRN Electronic Journal, 2008. doi: <a href="http://doi.org/10.2139/ssrn.1118627">http://doi.org/10.2139/ssrn.1118627</a> </p>
+			<p>Molodetska, K. (2020). Counteraction to strategic manipulations on actors’ decision making in social networking services. 2020 IEEE 2nd International Conference on Advanced Trends in Information Theory (ATIT), 266–269. doi: <a href="http://doi.org/10.1109/atit50783.2020.9349347">http://doi.org/10.1109/atit50783.2020.9349347</a> </p>
+			<p>Khromov, D. V. (2013). Models and algorithms for constructing curvilinear skeletons of spatial forms. Moscow: MV Lomonosov Moscow State University, 23. </p>
+			<p>Hrytsyk, V., Nazarkevych, M. (2021). Research on the Increase of Information Theory in the Era of the Ending of Silicon Electronics and New Types of Risks. CEUR Workshop Proceedingsthis, 3101, 65–82. </p>
+			<p>Li, J., Glover, J. D., Zhang, H., Peng, M., Tan, J., Mallick, C. B. et. al. (2022). Limb development genes underlie variation in human fingerprint patterns. Cell, 185 (1), 95–112. doi: <a href="http://doi.org/10.1016/j.cell.2021.12.008">http://doi.org/10.1016/j.cell.2021.12.008</a> </p>
+			<p>Hrytsyk, V., Grondzal, A., Bilenkyj, A. (2015). Augmented reality for people with disabilities. Computer Sciences and Information Technologies, 188–191. doi: <a href="http://doi.org/10.1109/stc-csit.2015.7325462">http://doi.org/10.1109/stc-csit.2015.7325462</a> </p>
+			<p>Prasad, M. V. D., Krishna, N. S., Ahammad, S. H., Kumar, G. N. S. (2020). Security Systems For Identification And Detection Fingerprint Based On Cnn And Fcn. International Journal of Scientific &amp; Technology Research 9 (2), 1668–1672. </p>
+			<p>Bontrager, P., Togelius, J., Memon, N. (2017). Deepmasterprint: Generating fingerprints for presentation attacks. arXiv preprint arXiv: 1705.07386. </p>
+			<p>Bontrager, P., Roy, A., Togelius, J., Memon, N., &amp; Ross, A. (2018, October). Deepmasterprints: Generating masterprints for dictionary attacks via latent variable evolution. 2018 IEEE 9th International Conference on Biometrics Theory, Applications and Systems (BTAS), 1–9. doi: <a href="http://doi.org/10.1109/btas.2018.8698539">http://doi.org/10.1109/btas.2018.8698539</a> </p>
+			<p>Teslyuk, V. M., Beregovskyi, V. V., Pukach, A. I. (2013). Development of smart house system model based on colored Petri nets. 2013 XVIIIth International Seminar / Workshop on Direct and Inverse Problems of Electromagnetic and Acoustic Wave Theory (DIPED), 205-208. </p>
+			<p>Drets, G., Liljenström, H. (1998). Fingerprint Sub-Classification and Singular Point Detection. International Journal of Pattern Recognition and Artificial Intelligence, 12 (4), 407–422. doi: <a href="http://doi.org/10.1142/s0218001498000269">http://doi.org/10.1142/s0218001498000269</a> </p>
+			<p>Ali, S. M., Al-Zewary, M. S. (1997). A new fast automatic technique for fingerprints recognition and identification. Journal of the Islamic Academy of Sciences, 10 (2), 55–60. </p>
+			<p>Cao, J., Dai, ‘Q. (2009). A novel online fingerprint segmentation method based on frame-difference,’ 2009 International Conference on Image Analysis and Signal Processing, Taizhou, 57–60. doi: <a href="http://doi.org/10.1109/iasp.2009.5054651">http://doi.org/10.1109/iasp.2009.5054651</a> </p>
+			<p>Zhan, X., Sun, Z., Yin, Y., Chen, Y. (2005). Fingerprint image segmentation method based on MCMC &amp; GA. In International Conference on Image Analysis and Processing. Berlin, Heidelberg: Springer, 391-398. doi: <a href="http://doi.org/10.1007/11553595_48">http://doi.org/10.1007/11553595_48</a> </p>
+			<p>Tsmots, I., Skorokhoda, O., Rabyk, V. Structure Software Model of a Parallel-Vertical Multi-input Adder for FPGA Implementation. Computer Sciences and Information Technologies – Proceedings of the 11th International Scientific and Technical Conference CSIT 2016. Lviv, 158–160. doi: <a href="http://doi.org/10.1109/stc-csit.2016.7589894">http://doi.org/10.1109/stc-csit.2016.7589894</a> </p>
+			<p>Tsmots, I., Skorokhoda, O. (2010). Methods and VLSI-structures for Neural Element Implementation. Perspective Technologies and Methods in MEMS Design, MEMSTECH’2010 – Processing of the 6th International Conference. Polyana, 135. </p>
+			<p>Ding, Y., Zhuang, D., Wang, K. (2005). A study of hand vein recognition method. IEEE International Conference Mechatronics and Automation, 4, 2106–2110. doi: <a href="http://doi.org/10.1109/icma.2005.1626888">http://doi.org/10.1109/icma.2005.1626888</a> </p>
+			<p>Rathgeb, C., Uhl, A. (2010). Two-factor authentication or how to potentially counterfeit experimental results in biometric systems. In International Conference Image Analysis and Recognition. Berlin, Heidelberg: Springer, 296–305. doi: <a href="http://doi.org/10.1007/978-3-642-13775-4_30">http://doi.org/10.1007/978-3-642-13775-4_30</a> </p>
+			<p>Denysyuk, P., Teslyuk, V., Chorna, I. (2018). Development of mobile robot using LIDAR technology based on Arduino controller. 2018 XIV-th International Conference on Perspective Technologies and Methods in MEMS Design (MEMSTECH), 240–244. doi: <a href="http://doi.org/10.1109/memstech.2018.8365742">http://doi.org/10.1109/memstech.2018.8365742</a> </p>
+			<p>Kunanets, N., Vasiuta, O., Boiko, N. (2019). Advanced technologies of big data research in distributed information systems. 2019 IEEE 14th International Conference on Computer Science and Information Technologies (CSIT), 3, 71–76. doi: <a href="http://doi.org/10.1109/stc-csit.2019.8929756">http://doi.org/10.1109/stc-csit.2019.8929756</a> </p>
+			<p>Hore, A., Ziou, D. (2010). Image quality metrics: PSNR vs. SSIM. 2010 20th International Conference on Pattern Recognition. IEEE, 2366–2369. doi: <a href="http://doi.org/10.1109/icpr.2010.579">http://doi.org/10.1109/icpr.2010.579</a> </p>
+			<p>“Dronyuk, I., Nazarkevych, M., &amp; Fedevych, O. (2015, October). Synthesis of Noise-Like Signal Based on Ateb-Functions. In International Conference on Distributed Computer and Communication Networks (pp. 132-140). Springer, Cham. </p>
+			<p>Putyatin, E. P., Panchenko, I. A. (2010). Invariance of features in problems of image processing with a pronounced texture. Radioelectronics and Informatics, 1. Avaolable at: <a href="https://cyberleninka.ru/article/n/invariantnost-priznakov-v-zadachah-obrabotki-izobrazheniy-s-yarkovyrazhennoy-teksturoy">https://cyberleninka.ru/article/n/invariantnost-priznakov-v-zadachah-obrabotki-izobrazheniy-s-yarkovyrazhennoy-teksturoy</a> Last accessed: 31.05.2022 </p>
+			<p>Boyko, N., Shakhovska, N. (2018). Prospects for using cloud data warehouses in information systems. 2018 IEEE 13th International Scientific and Technical Conference on Computer Science and Information Technologies (CSIT), 2, 136–139. doi: <a href="http://doi.org/10.1109/stc-csit.2018.8526745">http://doi.org/10.1109/stc-csit.2018.8526745</a> </p>
+			<p>Nazarkevych, M., Voznyi, Y., Hrytsyk, V., Klyujnyk, I., Havrysh, B., Lotoshynska, N. (2021). Identification of biometric images by machine learning. 2021 IEEE 12th International Conference on Electronics and Information Technologies. ELIT 2021 – Proceedings, 95–98. doi: <a href="http://doi.org/10.1109/elit53502.2021.9501064">http://doi.org/10.1109/elit53502.2021.9501064</a> </p>
+			<p>Nazarkevych, M., Kynash, Y., Oliarnyk, R., Klyujnyk, I., Nazarkevych, H. (2017). Application perfected wave tracing algorithm. 2017 IEEE First Ukraine Conference on Electrical and Computer Engineering (UKRCON), 1011–1014. doi: <a href="http://doi.org/10.1109/ukrcon.2017.8100403">http://doi.org/10.1109/ukrcon.2017.8100403</a> </p>
+			<p>Lyubchenko, V. A. (2002). Application of one-dimensional normalization in image recognition problems with projective distortions. Radio Electronics and Youth in the XXI Century. Kharkiv: KhNURE, 388–389. </p>
+			<p>Nazarkevych, M., Oliiarnyk, R., Nazarkevych, H., Kramarenko, O., Onyshschenko, I. (2016). The method of encryption based on Ateb-functions. 2016 IEEE First International Conference on Data Stream Mining &amp; Processing (DSMP), 129–133. doi: <a href="http://doi.org/10.1109/dsmp.2016.7583523">http://doi.org/10.1109/dsmp.2016.7583523</a> </p>
+			<p>Medykovskyy, M., Lipinski, P., Troyan, O., Nazarkevych, M. (2015). Methods of protection document formed from latent element located by fractals. Computer Sciences and Information Technologies (CSIT). IEEE, 70–72. doi: <a href="http://doi.org/10.1109/stc-csit.2015.7325434">http://doi.org/10.1109/stc-csit.2015.7325434</a> </p>
+			<p>Süsstrunk, S., Buckley, R., Swen, S. (1999, January). Standard RGB color spaces. In Color and imaging conference (Vol. 1999, No. 1, pp. 127-134). Society for Imaging Science and Technology. </p>
+			<p>Dronyuk, I., Nazarkevych, M, Poplavska, Z. (2017). Gabor generalization filters based on ateb-functions for information security. InInternational Conference on Man – Machine Interactions 2017. Cham: Springer, 195–206. doi: <a href="http://doi.org/10.1007/978-3-319-67792-7_20">http://doi.org/10.1007/978-3-319-67792-7_20</a> </p>
+			<p>He, K., Zhang, X., Ren, S., Sun, J. (2016). Deep residual learning for image recognition. Proceedings of the IEEE conference on computer vision and pattern recognition, 770–778. doi: <a href="http://doi.org/10.1109/cvpr.2016.90">http://doi.org/10.1109/cvpr.2016.90</a> </p>
+			<p>Wang, L., Yuan, W., Zeng, L., Xu, J., Mo, Y., Zhao, X., Peng, L. (2022). Dementia analysis from functional connectivity network with graph neural networks. Information Processing &amp; Management, 59 (3), 102901. doi: <a href="http://doi.org/10.1016/j.ipm.2022.102901">http://doi.org/10.1016/j.ipm.2022.102901</a> </p>
+			<p>Chen, Y., Sanghavi, S., Xu, H. (2012). Clustering sparse graphs. Advances in neural information processing systems, 25. </p>
+			<p>Arulselvan, A., Commander, C. W., Elefteriadou, L., Pardalos, P. M. (2009). Detecting critical nodes in sparse graphs. Computers &amp; Operations Research, 36 (7), 2193–2200. doi: <a href="http://doi.org/10.1016/j.cor.2008.08.016">http://doi.org/10.1016/j.cor.2008.08.016</a> </p>
+			<p>Ashraf, I., Hur, S., Park, S., Park, Y. (2020). DeepLocate: Smartphone Based Indoor Localization with a Deep Neural Network Ensemble Classifier. Sensors, 20 (1), 133. doi: <a href="http://doi.org/10.3390/s20010133">http://doi.org/10.3390/s20010133</a> </p>
+			<p>Chen, W., Sui, L., Xu, Z., Lang, Y. (2012). Improved Zhang-Suen thinning algorithm in binary line drawing applications. 2012 International Conference on Systems and Informatics (ICSAI2012). IEEE, 1947–1950. doi: <a href="http://doi.org/10.1109/icsai.2012.6223430">http://doi.org/10.1109/icsai.2012.6223430</a> </p>
+			<p>Saoji, S. U., Dua, N., Choudhary, A. K., Phogat, B. (2021). Air Canvas Application Using OpenCV and Numpy in Python. IRJET, 8 (8). </p>
+			<p>Nazarkevych, M., Oliarnyk, R., Troyan, O., Nazarkevych, H. (2016). Data protection based on encryption using Ateb-functions. 2016 XIth International Scientific and Technical Conference Computer Sciences and Information Technologies (CSIT). IEEE, 30–32. </p>
+			<p>Nazarkevych, M., Dmytruk, S., Hrytsyk, V., Vozna, O., Kuza, A., Shevchuk, O. et. al. (2021). Evaluation of the Effectiveness of Different Image Skeletonization Methods in Biometric Security Systems. International Journal of Sensors, Wireless Communications and Control, 11 (5), 542–552. doi: <a href="http://doi.org/10.2174/2210327910666201210151809">http://doi.org/10.2174/2210327910666201210151809</a> </p>
+			<p>Artemenko, M. V., Kalugina, N. M., Shutkin, A. N. (2016). Formation of a set of informative indicators on the basis of the Kolmogorov-Gabor approximating polynomial and the maximum gradient of functional differences. Proceedings of Southwestern State University. Series: Management, computer engineering, computer science. Medical Instrumentation, 1, 116–123. </p>
+			<p>Nazarkevych, M., Buriachok, V., Lotoshynska, N., Dmytryk, S. (2018). Research of Ateb-Gabor filter in biometric protection systems. 2018 IEEE 13th International Scientific and Technical Conference on Computer Science and Information Technologies (CSIT), 1, 310–313. doi: <a href="http://doi.org/10.1109/stc-csit.2018.8526607">http://doi.org/10.1109/stc-csit.2018.8526607</a> </p>
+			<p>Nazarkevych, M., Logoyda, M., Troyan, O., Vozniy, Y., Shpak, Z. (2019). The ateb-gabor filter for fingerprinting. Conference on Computer Science and Informatics, 247–255. doi: <a href="http://doi.org/10.1007/978-3-030-33695-0_18">http://doi.org/10.1007/978-3-030-33695-0_18</a> </p>
+			<p>Nazarkevych, M., Oliarnyk, R., Dmytruk, S. (2017). An images filtration using the Ateb-Gabor method. 2017 12th International Scientific and Technical Conference on Computer Sciences and Information Technologies (CSIT), 1, 208–211. doi: <a href="http://doi.org/10.1109/stc-csit.2017.8098770">http://doi.org/10.1109/stc-csit.2017.8098770</a> </p>
+			<p>Nazarkevych, M., Riznyk, O., Samotyy, V., Dzelendzyak, U. (2019). Detection of regularities in the parameters of the ateb-gabor method for biometric image filtration. Eastern European Journal of Advanced Technology, 1 (2 (97)), 57–65. doi: <a href="http://doi.org/10.15587/1729-4061.2019.154862">http://doi.org/10.15587/1729-4061.2019.154862</a> </p>
+			<p>Medykovskyi, M. O., Tsmots, I. G.,Tsymbal, Y. V. (2016). Information analytical system for energy efficiency management at enterprises in the city of Lviv (Ukraine). Actual Problems in Economics, 1 (175), 379–384. </p>
+			<p>Dronjuk, I., Nazarkevych, M., Troyan, O. (2016). The modified amplitude-modulated screening technology for the high printing quality. InInternational Symposium on Computer and Information Sciences. Cham: Springer, 270–276. doi: <a href="http://doi.org/10.1007/978-3-319-47217-1_29">http://doi.org/10.1007/978-3-319-47217-1_29</a> </p>
+			<p>Nazarkevych, M., Lotoshynska, N., Brytkovskyi, V., Dmytruk, S., Dordiak, V., Pikh, I. (2019). Biometric Identification System with Ateb-Gabor Filtering. 2019 XIth International Scientific and Practical Conference on Electronics and Information Technologies (ELIT), 15–18. doi: <a href="http://doi.org/10.1109/elit.2019.8892282">http://doi.org/10.1109/elit.2019.8892282</a> </p>
+			<p>Nazarkevych, M., Lotoshynska, N., Hrytsyk, V., Havrysh, B., Vozna, O., Palamarchuk, O. (2021). Design of biometric system and modeling of machine learning for entering the information system. International Scientific and Technical Conference on Computer Sciences and Information Technologies, 2, 225–230. doi: <a href="http://doi.org/10.1109/csit52700.2021.9648770">http://doi.org/10.1109/csit52700.2021.9648770</a> </p>
+														</div>
+					</div>
+				
+			</div><!-- .main_entry -->
+
+		<div class="entry_details">
+
+						<div class="item cover">
+								<img
+					src="https://monograph.com.ua/public/presses/14/submission_110_110_coverImage_t.jpg"
+					alt="MODELING OF SECURITY SYSTEMS FOR CRITICAL INFRASTRUCTURE FACILITIES"
+				>
+			</div>
+
+						
+							<div class="item files">
+					<h2 class="pkp_screen_reader">
+						Downloads
+					</h2>
+											
+												
+														
+
+																						<div class="pub_format_318 pub_format_single">
+																			
+	
+<a href="https://monograph.com.ua/catalog/view/978-617-7319-57-2/318/1208" class="cmp_download_link">
+						PDF
+			</a>
+																	</div>
+
+																															
+												
+														
+
+																													</div>
+			
+										<div class="item date_published">
+		
+	<div class="sub_item">
+		<h2 class="label">
+							Published
+					</h2>
+		<div class="value">
+										<span>August 15, 2022</span>
+								</div>
+	</div>
+	</div>
+			
+						
+										<div class="item categories">
+	<h2 class="label">
+		Categories
+	</h2>
+	<div class="value">
+		<ul>
+							<li>
+					<a href="https://monograph.com.ua/catalog/category/computers">
+						COMPUTERS 
+					</a>
+				</li>
+							<li>
+					<a href="https://monograph.com.ua/catalog/category/COM053000_General">
+						COM053000 Security / General
+					</a>
+				</li>
+							<li>
+					<a href="https://monograph.com.ua/catalog/category/COM083000_Cryptography">
+						COM083000 Security / Cryptography &amp; Encryption
+					</a>
+				</li>
+					</ul>
+	</div>
+</div>
+			
+										<div class="item copyright">
+					Copyright (c) 2022 Serhii Yevseiev, Ruslan Hryshchuk, Kateryna Molodetska, Mariia Nazarkevych, Volodymyr Hrytsyk, Oleksandr Milov, Olha Korol, Stanislav Milevskyi, Roman Korolev, Serhii Pohasii, Andrii Tkachov, Yevgen Melenti, Oleksandr Lavrut, Alla Havrylova, Serhii Herasуmov, Halyna Holotaistrova, Dmytro Avramenko, Roman Vozniak, Oleksandr Voitko, Kseniia Yerhidzei, Serhii Mykus, Yurii Pribyliev, Olena Akhiiezer, Mykhailo Shyshkin, Ivan Opirskyy, Oleh Harasymchuk, Olha Mykhaylova, Yuriy Nakonechnyy, Marta Stakhiv, Bogdan Tomashevsky
+				</div>
+			
+										<div class="item license">
+					<h2 class="label">
+						License
+					</h2>
+											<a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" src="//i.creativecommons.org/l/by/4.0/88x31.png" /></a><p>This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</p>
+									</div>
+			
+															
+																																																																												
+												
+						<div class="item publication_format">
+
+																						<h2 class="pkp_screen_reader">
+																		Details about the available publication format: PDF
+								</h2>
+
+								<div class="sub_item item_heading format">
+									<div class="label">
+										PDF
+									</div>
+								</div>
+							
+
+																															<div class="sub_item identification_code">
+										<h3 class="label">
+											ISBN-13 (15)
+			
+										</h3>
+										<div class="value">
+											978-617-7319-57-2
+										</div>
+									</div>
+															
+														
+																																																																												
+																				</div>
+														
+																																																																												
+												
+						<div class="item publication_format">
+
+																						<h2 class="pkp_screen_reader">
+																		Details about the available publication format: Hardcover
+								</h2>
+
+								<div class="sub_item item_heading format">
+									<div class="label">
+										Hardcover
+									</div>
+								</div>
+							
+
+																															<div class="sub_item identification_code">
+										<h3 class="label">
+											ISBN-13 (15)
+			
+										</h3>
+										<div class="value">
+											978-617-7319-56-5
+										</div>
+									</div>
+															
+														
+																																																																												
+																				</div>
+																			<div class="item indexedBy">
+	<ul>
+												<li class="indexedBySource">
+				<div class="indexedByLogo">
+																	<a href="https://scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=https://www.scopus.com/pages/publications/85165313651" target="_blank"><img src="https://journals.uran.ua/public/indexingSources/logo-59.png" alt="SciVerse Scopus"></a>
+									</div>
+				<div class="indexedByComments"></div>
+			</li>
+														<li class="indexedBySource">
+				<div class="indexedByLogo">
+											<img src="https://journals.uran.ua/public/indexingSources/logo_9.png" alt="Academic Search Complete">
+									</div>
+				<div class="indexedByComments"></div>
+			</li>
+														<li class="indexedBySource">
+				<div class="indexedByLogo">
+											<img src="https://journals.uran.ua/public/indexingSources/logo_68.png" alt="Google Scholar">
+									</div>
+				<div class="indexedByComments"></div>
+			</li>
+														<li class="indexedBySource">
+				<div class="indexedByLogo">
+											<img src="https://journals.uran.ua/public/indexingSources/logo_1.png" alt="CrossRef">
+									</div>
+				<div class="indexedByComments"></div>
+			</li>
+														<li class="indexedBySource">
+				<div class="indexedByLogo">
+											<img src="https://journals.uran.ua/public/indexingSources/logo_66.png" alt="OpenAIRE">
+									</div>
+				<div class="indexedByComments"></div>
+			</li>
+														<li class="indexedBySource">
+				<div class="indexedByLogo">
+											<img src="https://journals.uran.ua/public/indexingSources/logo_144.png" alt="Scilit">
+									</div>
+				<div class="indexedByComments"><p><a href="https://hu-berlin.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=HUB_UB_ALMA_DS51801441130002882&amp;context=L&amp;vid=hub_ub&amp;lang=en_US&amp;search_scope=default_scope&amp;adaptor=Local%20Search%20Engine&amp;tab=default_tab&amp;query=lsr48%2Cexact%2Ctechnology%20center%2CAND&amp;query=any%2Ccontains%2CModeling%20of%20security%20systems%20for%20critical%20infrastructure%20facilities%2CAND&amp;sortby=rank&amp;mode=advanced&amp;offset=0"><img src="https://monograph.com.ua/libraryFiles/downloadPublic/132" alt="132"></a> <a href="https://libris.kb.se/showrecord?q=f%C3%B6rl%3A%28technology+center%29+mat%3A%28b%C3%B6cker%29&amp;r=&amp;n=41&amp;id=n802t2tql72dfg22&amp;g=&amp;f=ext&amp;s=r&amp;t=&amp;m=10&amp;d=libris"><img src="https://monograph.com.ua/libraryFiles/downloadPublic/131" alt="131"></a></p></div>
+			</li>
+				</ul>
+</div>
+			
+				<div class="item citation">
+		<section class="sub_item citation_display">
+			<h2 class="label">
+				How to Cite
+			</h2>
+			<div class="value">
+				<div id="citationOutput" role="region" aria-live="polite">
+					<div class="csl-bib-body">
+  <div class="csl-entry">Yevseiev, S., Hryshchuk, R., Molodetska, K., Nazarkevych, M., Hrytsyk, V., Milov, O., Korol, O., Milevskyi, S., Korolev, R., Pohasii, S., Tkachov, A., Melenti, Y., Lavrut, O., Havrylova, A., Herasуmov S., Holotaistrova, H., Avramenko, D., Vozniak, R., Voitko, O., Yerhidzei, K., Mykus, S., Pribyliev, Y., Akhiiezer, O., Shyshkin, M., Opirskyy, I., Harasymchuk, O., Mykhaylova, O., Nakonechnyy, Y., Stakhiv, M., &#38; Tomashevsky, B. (2022). <i>MODELING OF SECURITY SYSTEMS FOR CRITICAL INFRASTRUCTURE FACILITIES</i>. Kharkiv: TECHNOLOGY CENTER PC. https://doi.org/10.15587/978-617-7319-57-2</div>
+</div>
+				</div>
+				<div class="citation_formats">
+					<button class="citation_formats_button label" aria-controls="cslCitationFormats" aria-expanded="false" data-csl-dropdown="true">
+						More Citation Formats
+					</button>
+					<div id="cslCitationFormats" class="citation_formats_list" aria-hidden="true">
+						<ul class="citation_formats_styles">
+															<li>
+									<a
+											aria-controls="citationOutput"
+											href="https://monograph.com.ua/citationstylelanguage/get/acm-sig-proceedings?submissionId=249&amp;publicationId=282"
+											data-load-citation
+											data-json-href="https://monograph.com.ua/citationstylelanguage/get/acm-sig-proceedings?submissionId=249&amp;publicationId=282&amp;return=json"
+									>
+										ACM
+									</a>
+								</li>
+															<li>
+									<a
+											aria-controls="citationOutput"
+											href="https://monograph.com.ua/citationstylelanguage/get/acs-nano?submissionId=249&amp;publicationId=282"
+											data-load-citation
+											data-json-href="https://monograph.com.ua/citationstylelanguage/get/acs-nano?submissionId=249&amp;publicationId=282&amp;return=json"
+									>
+										ACS
+									</a>
+								</li>
+															<li>
+									<a
+											aria-controls="citationOutput"
+											href="https://monograph.com.ua/citationstylelanguage/get/apa?submissionId=249&amp;publicationId=282"
+											data-load-citation
+											data-json-href="https://monograph.com.ua/citationstylelanguage/get/apa?submissionId=249&amp;publicationId=282&amp;return=json"
+									>
+										APA
+									</a>
+								</li>
+															<li>
+									<a
+											aria-controls="citationOutput"
+											href="https://monograph.com.ua/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=249&amp;publicationId=282"
+											data-load-citation
+											data-json-href="https://monograph.com.ua/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=249&amp;publicationId=282&amp;return=json"
+									>
+										ABNT
+									</a>
+								</li>
+															<li>
+									<a
+											aria-controls="citationOutput"
+											href="https://monograph.com.ua/citationstylelanguage/get/chicago-author-date?submissionId=249&amp;publicationId=282"
+											data-load-citation
+											data-json-href="https://monograph.com.ua/citationstylelanguage/get/chicago-author-date?submissionId=249&amp;publicationId=282&amp;return=json"
+									>
+										Chicago
+									</a>
+								</li>
+															<li>
+									<a
+											aria-controls="citationOutput"
+											href="https://monograph.com.ua/citationstylelanguage/get/harvard-cite-them-right?submissionId=249&amp;publicationId=282"
+											data-load-citation
+											data-json-href="https://monograph.com.ua/citationstylelanguage/get/harvard-cite-them-right?submissionId=249&amp;publicationId=282&amp;return=json"
+									>
+										Harvard
+									</a>
+								</li>
+															<li>
+									<a
+											aria-controls="citationOutput"
+											href="https://monograph.com.ua/citationstylelanguage/get/ieee?submissionId=249&amp;publicationId=282"
+											data-load-citation
+											data-json-href="https://monograph.com.ua/citationstylelanguage/get/ieee?submissionId=249&amp;publicationId=282&amp;return=json"
+									>
+										IEEE
+									</a>
+								</li>
+															<li>
+									<a
+											aria-controls="citationOutput"
+											href="https://monograph.com.ua/citationstylelanguage/get/modern-language-association?submissionId=249&amp;publicationId=282"
+											data-load-citation
+											data-json-href="https://monograph.com.ua/citationstylelanguage/get/modern-language-association?submissionId=249&amp;publicationId=282&amp;return=json"
+									>
+										MLA
+									</a>
+								</li>
+															<li>
+									<a
+											aria-controls="citationOutput"
+											href="https://monograph.com.ua/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=249&amp;publicationId=282"
+											data-load-citation
+											data-json-href="https://monograph.com.ua/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=249&amp;publicationId=282&amp;return=json"
+									>
+										Turabian
+									</a>
+								</li>
+															<li>
+									<a
+											aria-controls="citationOutput"
+											href="https://monograph.com.ua/citationstylelanguage/get/vancouver?submissionId=249&amp;publicationId=282"
+											data-load-citation
+											data-json-href="https://monograph.com.ua/citationstylelanguage/get/vancouver?submissionId=249&amp;publicationId=282&amp;return=json"
+									>
+										Vancouver
+									</a>
+								</li>
+															<li>
+									<a
+											aria-controls="citationOutput"
+											href="https://monograph.com.ua/citationstylelanguage/get/ama?submissionId=249&amp;publicationId=282"
+											data-load-citation
+											data-json-href="https://monograph.com.ua/citationstylelanguage/get/ama?submissionId=249&amp;publicationId=282&amp;return=json"
+									>
+										AMA
+									</a>
+								</li>
+															<li>
+									<a
+											aria-controls="citationOutput"
+											href="https://monograph.com.ua/citationstylelanguage/get/gost?submissionId=249&amp;publicationId=282"
+											data-load-citation
+											data-json-href="https://monograph.com.ua/citationstylelanguage/get/gost?submissionId=249&amp;publicationId=282&amp;return=json"
+									>
+										GOST 7.0
+									</a>
+								</li>
+													</ul>
+													<div class="label">
+								Download Citation
+							</div>
+							<ul class="citation_formats_styles">
+																	<li>
+										<a href="https://monograph.com.ua/citationstylelanguage/download/ris?submissionId=249&amp;publicationId=282">
+											<span class="fa fa-download"></span>
+											Endnote/Zotero/Mendeley (RIS)
+										</a>
+									</li>
+																	<li>
+										<a href="https://monograph.com.ua/citationstylelanguage/download/bibtex?submissionId=249&amp;publicationId=282">
+											<span class="fa fa-download"></span>
+											BibTeX
+										</a>
+									</li>
+															</ul>
+											</div>
+				</div>
+			</div>
+		</section>
+	</div>
+
+
+		</div><!-- .details -->
+	</div><!-- .row -->
+	
+</div><!-- .obj_monograph_full -->
+
+	
+</div><!-- .page -->
+
+	</div><!-- pkp_structure_main -->
+
+									<div class="pkp_structure_sidebar left" role="complementary" aria-label="Sidebar">
+				<div class="pkp_block block_make_submission">
+	<h2 class="pkp_screen_reader">
+		Make a Submission
+	</h2>
+
+	<div class="content">
+		<a class="block_make_submission_link" href="https://monograph.com.ua/about/submissions">
+			Make a Submission
+		</a>
+	</div>
+</div>
+<div class="pkp_block block_language">
+	<h2 class="title">
+		Language
+	</h2>
+
+	<div class="content">
+		<ul>
+							<li class="locale_en_US current" lang="en-US">
+					<a href="https://monograph.com.ua/user/setLocale/en_US?source=%2Fcatalog%2Fbook%2F978-617-7319-57-2">
+						English
+					</a>
+				</li>
+							<li class="locale_uk_UA" lang="uk-UA">
+					<a href="https://monograph.com.ua/user/setLocale/uk_UA?source=%2Fcatalog%2Fbook%2F978-617-7319-57-2">
+						Українська
+					</a>
+				</li>
+					</ul>
+	</div>
+</div><!-- .block_language -->
+<div class="pkp_block block_custom" id="customblock-titles-2026">
+	<h2 class="title pkp_screen_reader">TOP-10_Titles 2026</h2>
+	<div class="content">
+		<p><a href="https://monograph.com.ua/titles-2026"><img src="https://monograph.com.ua/libraryFiles/downloadPublic/154" alt="" width="250" height="152"></a></p>
+	</div>
+</div>
+<div class="pkp_block block_custom" id="customblock-ai">
+	<h2 class="title pkp_screen_reader">AI</h2>
+	<div class="content">
+		<p><a href="https://monograph.com.ua/artificial-intelligence"><img src="https://monograph.com.ua/libraryFiles/downloadPublic/102" alt="" width="250" height="152"></a></p>
+	</div>
+</div>
+<div class="pkp_block block_custom" id="customblock-flagcounter">
+	<h2 class="title pkp_screen_reader">flagcounter</h2>
+	<div class="content">
+		<p><span style="color: #777676;"><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; FlagCounter<br></strong></span><span style="color: #777676;"><a href="https://info.flagcounter.com/1cf6"><img style="border: 0;" src="https://s01.flagcounter.com/count2/1cf6/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_50/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="FlagCounter" width="166" height="83"></a></span></p>
+	</div>
+</div>
+<div class="pkp_block block_information">
+	<h2 class="title">
+		Information
+	</h2>
+
+	<div class="content">
+		<ul>
+							<li>
+					<a href="https://monograph.com.ua/information/readers">
+						For Readers
+					</a>
+				</li>
+										<li>
+					<a href="https://monograph.com.ua/information/authors">
+						For Authors
+					</a>
+				</li>
+										<li>
+					<a href="https://monograph.com.ua/information/librarians">
+						For Librarians
+					</a>
+				</li>
+					</ul>
+	</div>
+</div><!-- .block_info -->
+
+			</div><!-- pkp_sidebar.left -->
+			</div><!-- pkp_structure_content -->
+
+<div class="pkp_structure_footer_wrapper" role="contentinfo">
+	<a id="pkp_content_footer"></a>
+
+	<div class="pkp_structure_footer">
+
+					<div class="pkp_footer_content">
+				<p>© 2013–2026 <a href="http://entc.com.ua/en/">TECHNOLOGY CENTER PC</a><a href="http://entc.com.ua/en/">®</a></p>
+<p><a href="http://monograph.com.ua/legal-terms">Legal terms</a>       <a href="http://monograph.com.ua/frequently-asked-questions">Frequently asked questions</a></p>
+			</div>
+		
+		<div class="pkp_brand_footer" role="complementary">
+			<a href="https://monograph.com.ua/about/aboutThisPublishingSystem">
+				<img alt="More information about the publishing system, Platform and Workflow by OMP/PKP." src="https://monograph.com.ua/templates/images/omp_brand.png">
+			</a>
+		</div>
+	</div>
+</div><!-- pkp_structure_footer_wrapper -->
+
+</div><!-- pkp_structure_page -->
+
+<script src="https://monograph.com.ua/lib/pkp/lib/vendor/components/jquery/jquery.min.js?v=3.3.0.4" type="text/javascript"></script><script src="https://monograph.com.ua/lib/pkp/lib/vendor/components/jqueryui/jquery-ui.min.js?v=3.3.0.4" type="text/javascript"></script><script src="https://monograph.com.ua/plugins/themes/default/js/lib/popper/popper.js?v=3.3.0.4" type="text/javascript"></script><script src="https://monograph.com.ua/plugins/themes/default/js/lib/bootstrap/util.js?v=3.3.0.4" type="text/javascript"></script><script src="https://monograph.com.ua/plugins/themes/default/js/lib/bootstrap/dropdown.js?v=3.3.0.4" type="text/javascript"></script><script src="https://monograph.com.ua/plugins/themes/default/js/main.js?v=3.3.0.4" type="text/javascript"></script><script src="https://monograph.com.ua/plugins/themes/advanced/bootstrap/5-3-8/js/bootstrap.bundle.min.js?v=3.3.0.4" type="text/javascript"></script><script src="https://monograph.com.ua/plugins/generic/citationStyleLanguage/js/articleCitation.js?v=3.3.0.4" type="text/javascript"></script><script type="text/javascript">
+(function(i,s,o,g,r,q,a,m){i[q]=i[q]||[];i[r]=i[r]||function(){i[q].push(arguments)}; a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.googletagmanager.com/gtag/js?id=UA-228928755-1','gtag','dataLayer');
+  gtag('js', new Date());
+  gtag('config', 'UA-228928755-1');
+</script>
+
+
+</body>
+</html>

@@ -1,0 +1,999 @@
+<!DOCTYPE html>
+<html lang="en-US" xml:lang="en-US">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>
+		Digitalized Organizational Career Management Systems: A Dual-Lens Examination of Functional and Experiential Dimensions
+							| Journal of Computers, Mechanical and Management
+			</title>
+
+	
+<meta name="generator" content="Open Journal Systems 3.3.0.22" />
+<meta name="gs_meta_revision" content="1.1"/>
+<meta name="citation_journal_title" content="Journal of Computers, Mechanical and Management"/>
+<meta name="citation_journal_abbrev" content="J. Comput. Mech. Manag."/>
+<meta name="citation_issn" content="3009-075X"/> 
+<meta name="citation_author" content="Timsy Kakkar"/>
+<meta name="citation_author_institution" content="Department of Business Administration, Manipal University Jaipur, Jaipur, Rajasthan, India 303007"/>
+<meta name="citation_author" content="Bharti"/>
+<meta name="citation_author_institution" content="Department of Management, CDOE, Manipal University Jaipur, Jaipur, Rajasthan, India 303007"/>
+<meta name="citation_title" content="Digitalized Organizational Career Management Systems: A Dual-Lens Examination of Functional and Experiential Dimensions"/>
+<meta name="citation_language" content="en"/>
+<meta name="citation_date" content="2026/04/30"/>
+<meta name="citation_volume" content="5"/>
+<meta name="citation_issue" content="2"/>
+<meta name="citation_firstpage" content="101"/>
+<meta name="citation_lastpage" content="119"/>
+<meta name="citation_doi" content="10.57159/jcmm.5.2.25290"/>
+<meta name="citation_abstract_html_url" content="https://jcmm.co.in/index.php/jcmm/article/view/290"/>
+<meta name="citation_keywords" xml:lang="en" content="Digitalized Career Management"/>
+<meta name="citation_keywords" xml:lang="en" content="Organizational Career Systems"/>
+<meta name="citation_keywords" xml:lang="en" content="Digital Transformation"/>
+<meta name="citation_keywords" xml:lang="en" content="Human Resource Technology"/>
+<meta name="citation_keywords" xml:lang="en" content="Employee Experience"/>
+<meta name="citation_keywords" xml:lang="en" content="Socio-Technical Systems"/>
+<meta name="citation_pdf_url" content="https://jcmm.co.in/index.php/jcmm/article/download/290/151"/>
+<meta name="citation_reference" content="J. Akkermans and S. Kubasch, &quot;#trending topics in careers: a review and future research agenda,&quot; Career Development International, vol. 22, no. 6, pp. 586–627, 2017."/>
+<meta name="citation_reference" content="F. Baldi and L. Trigeorgis, &quot;Valuing human capital career development: a real options approach,&quot; Journal of Intellectual Capital, vol. 21, no. 5, pp. 781–807, 2020."/>
+<meta name="citation_reference" content="S. Strohmeier, &quot;Digital human resource management: A conceptual clarification,&quot; German Journal of Human Resource Management: Zeitschrift für Personalforschung, vol. 34, no. 3, pp. 345–365, 2020."/>
+<meta name="citation_reference" content="S. Wiblen and J. H. Marler, &quot;Digitalised talent management and automated talent decisions: the implications for HR professionals,&quot; The International Journal of Human Resource Management, vol. 32, no. 12, pp. 2592–2621, 2021."/>
+<meta name="citation_reference" content="A. Stankevičienė, A. Liučvaitienė, and A. Šimelytė, &quot;Personalo kaitos stabilizavimo galimybės Lietuvos statybos sektoriuje,&quot; Business: Theory and Practice, vol. 11, no. 2, pp. 151–158, 2010."/>
+<meta name="citation_reference" content="M. Lamb and M. Sutherland, &quot;The components of career capital for knowledge workers in the global economy,&quot; The International Journal of Human Resource Management, vol. 21, no. 3, pp. 295–312, 2010."/>
+<meta name="citation_reference" content="W. G. Tymon, S. A. Stumpf, and R. R. Smith, &quot;Manager support predicts turnover of professionals in India,&quot; Career Development International, vol. 16, no. 3, pp. 293–312, 2011."/>
+<meta name="citation_reference" content="H. Kong, C. Cheung, and H. Song, &quot;Hotel career management in China: Developing a measurement scale,&quot; International Journal of Hospitality Management, vol. 30, no. 1, pp. 112–118, 2011."/>
+<meta name="citation_reference" content="T. Cappellen and M. Janssens, &quot;Enacting global careers: Organizational career scripts and the global economy as co-existing career referents,&quot; Journal of Organizational Behavior, vol. 31, no. 5, pp. 687–706, 2010."/>
+<meta name="citation_reference" content="S. Bagdadli and M. Gianecchini, &quot;Organizational career management practices and objective career success: A systematic review and framework,&quot; Human Resource Management Review, vol. 29, no. 3, pp. 353–370, 2019."/>
+<meta name="citation_reference" content="M. De Villiers Scheepers, R. Mulcahy, D. Fleishman, P. English, J. Burgess, and G. Crimmins, &quot;Digital career competencies: A co-created scale for the digital employability competencies we've overlooked,&quot; Industry and Higher Education, vol. 38, no. 5, pp. 411–422, 2024."/>
+<meta name="citation_reference" content="E. Gallardo-Gallardo, S. Nijs, N. Dries, and P. Gallo, &quot;Towards an understanding of talent management as a phenomenon-driven field using bibliometric and content analysis,&quot; Human Resource Management Review, vol. 25, no. 3, pp. 264–279, 2015."/>
+<meta name="citation_reference" content="Y. Lou, A. Hong, and Y. Li, &quot;Assessing the role of HRM and HRD in enhancing sustainable job performance and innovative work behaviors through digital transformation in ICT companies,&quot; Sustainability, vol. 16, no. 12, p. 5162, 2024."/>
+<meta name="citation_reference" content="B. John, Z. Alsamarra'i, and N. Panteli, &quot;Reconfiguring digital embeddedness in hybrid work: The case of employee experience management platforms,&quot; Information Systems Journal, vol. 35, no. 2, pp. 450–479, 2025."/>
+<meta name="citation_reference" content="N. Dries, &quot;The psychology of talent management: A review and research agenda,&quot; Human Resource Management Review, vol. 23, no. 4, pp. 272–285, 2013."/>
+<meta name="citation_reference" content="V. Wickramasinghe and M. Jayaweera, &quot;Career management strategies among IT professionals in offshore outsourced IT firms in Sri Lanka,&quot; Journal of Management Development, vol. 30, no. 9, pp. 914–926, 2011."/>
+<meta name="citation_reference" content="J. R. Crawshaw and A. Game, &quot;The role of line managers in employee career management: an attachment theory perspective,&quot; The International Journal of Human Resource Management, vol. 26, no. 9, pp. 1182–1203, 2015."/>
+<meta name="citation_reference" content="S. Turgut and A. E. Neuhaus, &quot;The relationship between dispositional resistance to change and individual career management: A matter of occupational self-efficacy and organizational identification?,&quot; Journal of Change Management, vol. 20, no. 2, pp. 171–188, 2020."/>
+<meta name="citation_reference" content="S. Darling and J. B. Cunningham, &quot;Gatekeepers influencing careers of Canadian public sector employees: views from managers and union employees,&quot; Journal of Management Development, vol. 41, no. 9/10, pp. 469–495, 2022."/>
+<meta name="citation_reference" content="K. Özgür Çakmak Otluoğlu, &quot;Protean and boundaryless career attitudes and organizational commitment: The effects of perceived supervisor support,&quot; Journal of Vocational Behavior, vol. 80, no. 3, pp. 638–646, 2012."/>
+<meta name="citation_reference" content="J. S. Moon and S. B. Choi, &quot;The impact of career management on organizational commitment and the mediating role of subjective career success: The case of Korean R&amp;D employees,&quot; Journal of Career Development, vol. 44, no. 3, pp. 191–208, 2017."/>
+<meta name="citation_reference" content="H. Kong, C. Cheung, and H. Song, &quot;Determinants and outcome of career competencies: Perspectives of hotel managers in China,&quot; International Journal of Hospitality Management, vol. 31, no. 3, pp. 712–719, 2012."/>
+<meta name="citation_reference" content="Y. Guan et al., &quot;When do salary and job level predict career satisfaction and turnover intention among Chinese managers? The role of perceived organizational career management and career anchor,&quot; European Journal of Work and Organizational Psychology, vol. 23, no. 4, pp. 596–607, 2014."/>
+<meta name="citation_reference" content="A. M. M. Salleh, K. Omar, O. J. Aburumman, N. H. N. Mat, and M. A. Almhairat, &quot;The impact of career planning and career satisfaction on employee's turnover intention,&quot; Entrepreneurship and Sustainability Issues, vol. 8, no. 1, pp. 218–232, 2020."/>
+<meta name="citation_reference" content="S. Singh, &quot;Organizational career management practices, career satisfaction, and intention to quit among Indian employee: Examining the moderating effect of 'four types of work experience',&quot; Australian Journal of Career Development, vol. 27, no. 3, pp. 150–159, 2018."/>
+<meta name="citation_reference" content="A. Tabiu, &quot;Do 'high-performance' human resource practices work in public universities? Mediation of organizational and supervisors' supports,&quot; African Journal of Economic and Management Studies, vol. 10, no. 4, pp. 493–506, 2019."/>
+<meta name="citation_reference" content="J. F. D. Silva et al., &quot;Careers: workers' perceptions of organizations' support for their professional growth,&quot; Tourism &amp; Management Studies, vol. 15, no. 4, pp. 35–43, 2019."/>
+<meta name="citation_reference" content="P. Bögel, K. Pereverza, P. Upham, and O. Kordas, &quot;Linking socio-technical transition studies and organisational change management: Steps towards an integrative, multi-scale heuristic,&quot; Journal of Cleaner Production, vol. 232, pp. 359–368, 2019."/>
+<meta name="citation_reference" content="N. Barnes, M. D. Plessis, and J. Frantz, &quot;Academic career management intervention at a South African university: A modified Delphi study,&quot; Acta Commercii, vol. 23, no. 1, 2023."/>
+<meta name="citation_reference" content="T. Hooley, &quot;Developing your career: harnessing the power of the internet for 'digital career management',&quot; Development and Learning in Organizations: An International Journal, vol. 31, no. 1, pp. 9–11, 2017."/>
+<meta name="citation_reference" content="Y. Guan, W. Zhou, L. Ye, P. Jiang, and Y. Zhou, &quot;Perceived organizational career management and career adaptability as predictors of success and turnover intention among Chinese employees,&quot; Journal of Vocational Behavior, vol. 88, pp. 230–237, 2015."/>
+<meta name="citation_reference" content="Y. Baruch and Y. Vardi, &quot;A fresh look at the dark side of contemporary careers: Toward a realistic discourse,&quot; British Journal of Management, vol. 27, no. 2, pp. 355–372, 2016."/>
+<meta name="citation_reference" content="A. D. Vos and B. Cambré, &quot;Career management in high-performing organizations: A set-theoretic approach,&quot; Human Resource Management, vol. 56, no. 3, pp. 501–518, 2017."/>
+<meta name="citation_reference" content="D. Moher, A. Liberati, J. Tetzlaff, and D. G. Altman, &quot;Preferred reporting items for systematic reviews and meta-analyses: The PRISMA statement,&quot; Journal of Clinical Epidemiology, vol. 62, no. 10, pp. 1006–1012, 2009."/>
+<meta name="citation_reference" content="U. E. Chigbu, S. O. Atiku, and C. C. D. Plessis, &quot;The science of literature reviews: Searching, identifying, selecting, and synthesising,&quot; Publications, vol. 11, no. 1, p. 2, 2023."/>
+<meta name="citation_reference" content="S. Karimi, S. Pohl, F. Scholer, L. Cavedon, and J. Zobel, &quot;Boolean versus ranked querying for biomedical systematic reviews,&quot; BMC Medical Informatics and Decision Making, vol. 10, no. 1, p. 58, 2010."/>
+<meta name="citation_reference" content="S. Marcos-Pablos and F. J. García-Peñalvo, &quot;Information retrieval methodology for aiding scientific database search,&quot; Soft Computing, vol. 24, no. 8, pp. 5551–5560, 2020."/>
+<meta name="citation_reference" content="C. O'Connor and H. Joffe, &quot;Intercoder reliability in qualitative research: Debates and practical guidelines,&quot; International Journal of Qualitative Methods, vol. 19, p. 1609406919899220, 2020."/>
+<meta name="citation_reference" content="M. Aria and C. Cuccurullo, &quot;bibliometrix: An R-tool for comprehensive science mapping analysis,&quot; Journal of Informetrics, vol. 11, no. 4, pp. 959–975, 2017."/>
+<meta name="citation_reference" content="N. Donthu, S. Kumar, D. Mukherjee, N. Pandey, and W. M. Lim, &quot;How to conduct a bibliometric analysis: An overview and guidelines,&quot; Journal of Business Research, vol. 133, pp. 285–296, 2021."/>
+<meta name="citation_reference" content="V. Braun and V. Clarke, &quot;Using thematic analysis in psychology,&quot; Qualitative Research in Psychology, vol. 3, no. 2, pp. 77–101, 2006."/>
+<meta name="citation_reference" content="O. Mineva, M. Alikaeva, and V. Minev, &quot;Transformation of career management approaches in the digital society,&quot; MEST Journal, vol. 8, no. 2, pp. 143–150, 2020."/>
+<meta name="citation_reference" content="A. Mazurchenko and K. Maršíková, &quot;Digitally-powered human resource management: Skills and roles in the digital era,&quot; Acta Informatica Pragensia, vol. 8, no. 2, pp. 72–87, 2019."/>
+<meta name="citation_reference" content="H. Snyder, &quot;Literature review as a research methodology: An overview and guidelines,&quot; Journal of Business Research, vol. 104, pp. 333–339, 2019."/>
+<meta name="citation_reference" content="H. Kong, C. Cheung, and H. Song, &quot;From hotel career management to employees' career satisfaction: The mediating effect of career competency,&quot; International Journal of Hospitality Management, vol. 31, no. 1, pp. 76–85, 2012."/>
+<meta name="citation_reference" content="W. Zhou, Q. Zhao, N. Jiang, and P. Lin, &quot;Organizational career management in the new career era: scale development and validation,&quot; Asia Pacific Journal of Human Resources, vol. 60, no. 4, pp. 764–787, 2022."/>
+<meta name="citation_reference" content="A. E. M. V. Vianen, D. Rosenauer, A. C. Homan, C. A. L. Horstmeier, and S. C. Voelpel, &quot;Career mentoring in context: A multilevel study on differentiated career mentoring and career mentoring climate,&quot; Human Resource Management, vol. 57, no. 2, pp. 583–599, 2018."/>
+<meta name="citation_reference" content="L. Zhu and L. Wang, &quot;Narrowing ideal self-discrepancy: the roles of organizational career management and protean career orientation,&quot; Career Development International, vol. 27, no. 2, pp. 222–244, 2022."/>
+<meta name="citation_reference" content="A. Faqihi and S. J. Miah, &quot;Artificial intelligence-driven talent management system: Exploring the risks and options for constructing a theoretical foundation,&quot; Journal of Risk and Financial Management, vol. 16, no. 1, p. 31, 2023."/>
+<meta name="citation_reference" content="P. Hoffmann, M. Hoegl, M. Muethel, and M. Weiss, &quot;A contemporary justice perspective on dual ladders for R&amp;D professionals,&quot; Journal of Product Innovation Management, vol. 33, no. 5, pp. 589–612, 2016."/>
+<meta name="citation_reference" content="S. Jayasingam and J. R. Yong, &quot;Affective commitment among knowledge workers: the role of pay satisfaction and organization career management,&quot; The International Journal of Human Resource Management, vol. 24, no. 20, pp. 3903–3920, 2013."/>
+<meta name="citation_reference" content="M. Coetzee and M. S. Bester, &quot;Probing the role of psychosocial career mechanisms in the harmonious work passion-career satisfaction link,&quot; Personnel Review, vol. 48, no. 5, pp. 1135–1149, 2019."/>
+<meta name="citation_reference" content="M. Dickmann and J.-L. Cerdin, &quot;Exploring the development and transfer of career capital in an international governmental organization,&quot; The International Journal of Human Resource Management, vol. 29, no. 15, pp. 2253–2283, 2018."/>
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+<meta name="DC.Creator.PersonalName" content="Timsy Kakkar"/>
+<meta name="DC.Creator.PersonalName" content="Bharti"/>
+<meta name="DC.Date.created" scheme="ISO8601" content="2026-04-30"/>
+<meta name="DC.Date.dateSubmitted" scheme="ISO8601" content="2025-12-15"/>
+<meta name="DC.Date.issued" scheme="ISO8601" content="2026-04-30"/>
+<meta name="DC.Date.modified" scheme="ISO8601" content="2026-04-30"/>
+<meta name="DC.Description" xml:lang="en" content="This study investigates Digitalized Organizational Career Management Systems (DOCMS) through two complementary perspectives: functional design and user experience. A systematic literature review was conducted on 87 peer-reviewed articles published between 2010 and 2024, applying PRISMA guidelines to ensure transparency and rigor. Braun and Clarke's six-phase thematic analysis framework was employed for synthesis. The study first developed a bibliometric mapping as a pre-analysis step and then identified six emergent themes: career management strategies, information technology integration, organizational career management, job satisfaction and organizational commitment, career self-management, and career motivation. The review contributes to the literature by combining both bibliometric and thematic approaches, thereby providing a structural overview of the field while enabling a deeper thematic interpretation.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The findings indicate that DOCMS research has matured considerably along functional sense-making dimensions (i.e., functional design) while remaining fragmented with respect to experiential aspects (i.e., experience design), thereby necessitating greater integration between the two. Significant contradictions were identified within the literature: between algorithmic objectivity and organizational politics, between system-driven guidance and individual autonomy, and between functional design criteria and relational evaluation processes. A dual-lens framework is proposed to integrate these perspectives through a socio-technical lens. The review offers both theoretical explanations of the socio-technical structure of DOCMS—in terms of organizational functionality—and practical implications for the development of DOCMS that balance organizational efficiency and employee career development. The framework provides organizations with a diagnostic tool for identifying functional-experiential gaps and understanding the underlying contradictions that may limit DOCMS effectiveness regardless of technical sophistication."/>
+<meta name="DC.Format" scheme="IMT" content="application/pdf"/>
+<meta name="DC.Identifier" content="290"/>
+<meta name="DC.Identifier.pageNumber" content="101-119"/>
+<meta name="DC.Identifier.DOI" content="10.57159/jcmm.5.2.25290"/>
+<meta name="DC.Identifier.URI" content="https://jcmm.co.in/index.php/jcmm/article/view/290"/>
+<meta name="DC.Language" scheme="ISO639-1" content="en"/>
+<meta name="DC.Rights" content="Copyright (c) 2026 The Author(s)"/>
+<meta name="DC.Rights" content="https://creativecommons.org/licenses/by-nc/4.0"/>
+<meta name="DC.Source" content="Journal of Computers, Mechanical and Management"/>
+<meta name="DC.Source.ISSN" content="3009-075X"/>
+<meta name="DC.Source.Issue" content="2"/>
+<meta name="DC.Source.Volume" content="5"/>
+<meta name="DC.Source.URI" content="https://jcmm.co.in/index.php/jcmm"/>
+<meta name="DC.Subject" xml:lang="en" content="Digitalized Career Management"/>
+<meta name="DC.Subject" xml:lang="en" content="Organizational Career Systems"/>
+<meta name="DC.Subject" xml:lang="en" content="Digital Transformation"/>
+<meta name="DC.Subject" xml:lang="en" content="Human Resource Technology"/>
+<meta name="DC.Subject" xml:lang="en" content="Employee Experience"/>
+<meta name="DC.Subject" xml:lang="en" content="Socio-Technical Systems"/>
+<meta name="DC.Title" content="Digitalized Organizational Career Management Systems: A Dual-Lens Examination of Functional and Experiential Dimensions"/>
+<meta name="DC.Type" content="Text.Serial.Journal"/>
+<meta name="DC.Type" xml:lang="en" content="text"/>
+<meta name="DC.Type.articleType" content="Systematic or Methodological Review"/>
+<link rel="alternate" type="application/atom+xml" href="https://jcmm.co.in/index.php/jcmm/gateway/plugin/AnnouncementFeedGatewayPlugin/atom">
+<link rel="alternate" type="application/rdf+xml" href="https://jcmm.co.in/index.php/jcmm/gateway/plugin/AnnouncementFeedGatewayPlugin/rss">
+<link rel="alternate" type="application/rss+xml" href="https://jcmm.co.in/index.php/jcmm/gateway/plugin/AnnouncementFeedGatewayPlugin/rss2">
+	<link rel="stylesheet" href="https://jcmm.co.in/index.php/jcmm/$$$call$$$/page/page/css?name=stylesheet" type="text/css" /><link rel="stylesheet" href="https://jcmm.co.in/index.php/jcmm/$$$call$$$/page/page/css?name=font" type="text/css" /><link rel="stylesheet" href="https://jcmm.co.in/lib/pkp/styles/fontawesome/fontawesome.css?v=3.3.0.22" type="text/css" /><link rel="stylesheet" href="https://jcmm.co.in/plugins/generic/citations/css/citations.css?v=3.3.0.22" type="text/css" /><link rel="stylesheet" href="https://jcmm.co.in/public/journals/1/styleSheet.css?d=2026-04-25+15%3A51%3A55" type="text/css" />
+</head>
+<body class="pkp_page_article pkp_op_view has_site_logo" dir="ltr">
+
+	<div class="pkp_structure_page">
+
+				<header class="pkp_structure_head" id="headerNavigationContainer" role="banner">
+						
+ <nav class="cmp_skip_to_content" aria-label="Jump to content links">
+	<a href="#pkp_content_main">Skip to main content</a>
+	<a href="#siteNav">Skip to main navigation menu</a>
+		<a href="#pkp_content_footer">Skip to site footer</a>
+</nav>
+
+			<div class="pkp_head_wrapper">
+
+				<div class="pkp_site_name_wrapper">
+					<button class="pkp_site_nav_toggle">
+						<span>Open Menu</span>
+					</button>
+										<div class="pkp_site_name">
+																<a href="						https://jcmm.co.in/index.php/jcmm/index
+					" class="is_img">
+							<img src="https://jcmm.co.in/public/journals/1/pageHeaderLogoImage_en_US.jpg" width="1000" height="147" alt="Journal of Computers, Mechanical and Management - logo" />
+						</a>
+										</div>
+				</div>
+
+				
+				<nav class="pkp_site_nav_menu" aria-label="Site Navigation">
+					<a id="siteNav"></a>
+					<div class="pkp_navigation_primary_row">
+						<div class="pkp_navigation_primary_wrapper">
+																				<ul id="navigationPrimary" class="pkp_navigation_primary pkp_nav_list">
+								<li class="">
+				<a href="https://jcmm.co.in">
+					Home
+				</a>
+							</li>
+								<li class="">
+				<a href="https://jcmm.co.in/index.php/jcmm/about">
+					About
+				</a>
+									<ul>
+																					<li class="">
+									<a href="https://jcmm.co.in/index.php/jcmm/aims-and-scope">
+										Aims and Scope
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://jcmm.co.in/index.php/jcmm/about/editorialTeam">
+										Editorial Team
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://jcmm.co.in/index.php/jcmm/editorial-independence">
+										Editorial Independence
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://jcmm.co.in/index.php/jcmm/publisher">
+										Publisher
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://jcmm.co.in/index.php/jcmm/indexing-and-abstracting">
+										Indexing and Abstracting
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://jcmm.co.in/index.php/jcmm/history">
+										History and Milestones
+									</a>
+								</li>
+																		</ul>
+							</li>
+								<li class="">
+				<a href="https://jcmm.co.in/index.php/jcmm/for-authors">
+					For Authors
+				</a>
+									<ul>
+																					<li class="">
+									<a href="https://jcmm.co.in/index.php/jcmm/about/submissions">
+										Author Guidelines
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://jcmm.co.in/index.php/jcmm/article-processing-charges">
+										Article Processing Charges
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://jcmm.co.in/index.php/jcmm/manuscript-templates">
+										Manuscript Templates
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://jcmm.co.in/index.php/jcmm/authorship-and-contributorship">
+										Authorship and Contributorship
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://jcmm.co.in/index.php/jcmm/data-availability-policy">
+										Data Availability Policy
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://jcmm.co.in/index.php/jcmm/ai-use-policy-authors">
+										Use of AI Tools by Authors
+									</a>
+								</li>
+																		</ul>
+							</li>
+								<li class="">
+				<a href="https://jcmm.co.in/index.php/jcmm/for-reviewers">
+					For Reviewers
+				</a>
+									<ul>
+																					<li class="">
+									<a href="https://jcmm.co.in/index.php/jcmm/reviewer-guidelines">
+										Reviewer Guidelines
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://jcmm.co.in/index.php/jcmm/become-a-reviewer">
+										Become a Reviewer
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://jcmm.co.in/index.php/jcmm/ai-use-policy-reviewers">
+										Use of AI Tools by Reviewers
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://jcmm.co.in/index.php/jcmm/reviewer-recognition">
+										Reviewer Recognition
+									</a>
+								</li>
+																		</ul>
+							</li>
+								<li class="">
+				<a href="https://jcmm.co.in/index.php/jcmm/policies">
+					Policies
+				</a>
+									<ul>
+																					<li class="">
+									<a href="https://jcmm.co.in/index.php/jcmm/peer-review-policy">
+										Peer Review Policy
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://jcmm.co.in/index.php/jcmm/editorial-submissions-policy">
+										Editorial Submissions Policy
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://jcmm.co.in/index.php/jcmm/publication-ethics">
+										Publication Ethics and Malpractice Statement
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://jcmm.co.in/index.php/jcmm/manuscript-withdrawal-policy">
+										Manuscript Withdrawal Policy
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://jcmm.co.in/index.php/jcmm/conflicts-of-interest">
+										Conflicts of Interest
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://jcmm.co.in/index.php/jcmm/open-access-policy">
+										Open Access Policy
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://jcmm.co.in/index.php/jcmm/copyright-and-licensing">
+										Copyright and Licensing
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://jcmm.co.in/index.php/jcmm/archiving-and-preservation">
+										Archiving & Preservation
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://jcmm.co.in/index.php/jcmm/about/privacy">
+										Privacy Statement
+									</a>
+								</li>
+																		</ul>
+							</li>
+								<li class="">
+				<a href="https://jcmm.co.in/index.php/jcmm/issue/archive">
+					Issues
+				</a>
+									<ul>
+																					<li class="">
+									<a href="https://jcmm.co.in/index.php/jcmm/issue/current">
+										Current
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://jcmm.co.in/index.php/jcmm/issue/archive">
+										Archives
+									</a>
+								</li>
+																		</ul>
+							</li>
+								<li class="">
+				<a href="https://jcmm.co.in/index.php/jcmm/news-and-announcements">
+					News & Announcements
+				</a>
+									<ul>
+																					<li class="">
+									<a href="https://jcmm.co.in/index.php/jcmm/announcement">
+										Announcements
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://jcmm.co.in/index.php/jcmm/calls-for-papers">
+										Special Issues and Calls for Papers
+									</a>
+								</li>
+																		</ul>
+							</li>
+								<li class="">
+				<a href="https://jcmm.co.in/index.php/jcmm/about/contact">
+					Contact
+				</a>
+							</li>
+			</ul>
+
+				
+
+																						<div class="pkp_navigation_search_wrapper">
+									<a href="https://jcmm.co.in/index.php/jcmm/search" class="pkp_search pkp_search_desktop">
+										<span class="fa fa-search" aria-hidden="true"></span>
+										Search
+									</a>
+								</div>
+													</div>
+					</div>
+					<div class="pkp_navigation_user_wrapper" id="navigationUserWrapper">
+							<ul id="navigationUser" class="pkp_navigation_user pkp_nav_list">
+								<li class="profile">
+				<a href="https://jcmm.co.in/index.php/jcmm/login">
+					Login
+				</a>
+							</li>
+								<li class="profile">
+				<a href="https://jcmm.co.in/index.php/jcmm/user/register">
+					Register
+				</a>
+							</li>
+										</ul>
+
+					</div>
+				</nav>
+			</div><!-- .pkp_head_wrapper -->
+		</header><!-- .pkp_structure_head -->
+
+						<div class="pkp_structure_content has_sidebar">
+			<div class="pkp_structure_main" role="main">
+				<a id="pkp_content_main"></a>
+
+<div class="page page_article">
+			<nav class="cmp_breadcrumbs" role="navigation" aria-label="You are here:">
+	<ol>
+		<li>
+			<a href="https://jcmm.co.in/index.php/jcmm/index">
+				Home
+			</a>
+			<span class="separator">/</span>
+		</li>
+		<li>
+			<a href="https://jcmm.co.in/index.php/jcmm/issue/archive">
+				Archives
+			</a>
+			<span class="separator">/</span>
+		</li>
+					<li>
+				<a href="https://jcmm.co.in/index.php/jcmm/issue/view/vol5-iss2">
+					Vol. 5 No. 2 (2026)
+				</a>
+				<span class="separator">/</span>
+			</li>
+				<li class="current" aria-current="page">
+			<span aria-current="page">
+									Systematic or Methodological Review
+							</span>
+		</li>
+	</ol>
+</nav>
+	
+		  	 <article class="obj_article_details">
+
+		
+	<h1 class="page_title">
+		Digitalized Organizational Career Management Systems
+	</h1>
+
+			<h2 class="subtitle">
+			A Dual-Lens Examination of Functional and Experiential Dimensions
+		</h2>
+	
+	<div class="row">
+		<div class="main_entry">
+
+							<section class="item authors">
+					<h2 class="pkp_screen_reader">Authors</h2>
+					<ul class="authors">
+											<li>
+							<span class="name">
+								Timsy Kakkar
+							</span>
+															<span class="affiliation">
+									Department of Business Administration, Manipal University Jaipur, Jaipur, Rajasthan, India 303007
+																	</span>
+																						<span class="orcid">
+																		<a href="https://orcid.org/0009-0008-4626-8834" target="_blank">
+										https://orcid.org/0009-0008-4626-8834
+									</a>
+								</span>
+													</li>
+											<li>
+							<span class="name">
+								Bharti
+							</span>
+															<span class="affiliation">
+									Department of Management, CDOE, Manipal University Jaipur, Jaipur, Rajasthan, India 303007
+																	</span>
+																						<span class="orcid">
+																		<a href="https://orcid.org/0000-0002-6558-409X" target="_blank">
+										https://orcid.org/0000-0002-6558-409X
+									</a>
+								</span>
+													</li>
+										</ul>
+				</section>
+			
+																												<section class="item doi">
+						<h2 class="label">
+														DOI:
+						</h2>
+						<span class="value">
+							<a href="https://doi.org/10.57159/jcmm.5.2.25290">
+								https://doi.org/10.57159/jcmm.5.2.25290
+							</a>
+						</span>
+					</section>
+							
+									<section class="item keywords">
+				<h2 class="label">
+										Keywords:
+				</h2>
+				<span class="value">
+											Digitalized Career Management, 											Organizational Career Systems, 											Digital Transformation, 											Human Resource Technology, 											Employee Experience, 											Socio-Technical Systems									</span>
+			</section>
+			
+										<section class="item abstract">
+					<h2 class="label">Abstract</h2>
+					<p>This study investigates Digitalized Organizational Career Management Systems (DOCMS) through two complementary perspectives: functional design and user experience. A systematic literature review was conducted on 87 peer-reviewed articles published between 2010 and 2024, applying PRISMA guidelines to ensure transparency and rigor. Braun and Clarke's six-phase thematic analysis framework was employed for synthesis. The study first developed a bibliometric mapping as a pre-analysis step and then identified six emergent themes: career management strategies, information technology integration, organizational career management, job satisfaction and organizational commitment, career self-management, and career motivation. The review contributes to the literature by combining both bibliometric and thematic approaches, thereby providing a structural overview of the field while enabling a deeper thematic interpretation.&lt;/p&gt;</p>
+<p>&lt;p&gt;The findings indicate that DOCMS research has matured considerably along functional sense-making dimensions (i.e., functional design) while remaining fragmented with respect to experiential aspects (i.e., experience design), thereby necessitating greater integration between the two. Significant contradictions were identified within the literature: between algorithmic objectivity and organizational politics, between system-driven guidance and individual autonomy, and between functional design criteria and relational evaluation processes. A dual-lens framework is proposed to integrate these perspectives through a socio-technical lens. The review offers both theoretical explanations of the socio-technical structure of DOCMS—in terms of organizational functionality—and practical implications for the development of DOCMS that balance organizational efficiency and employee career development. The framework provides organizations with a diagnostic tool for identifying functional-experiential gaps and understanding the underlying contradictions that may limit DOCMS effectiveness regardless of technical sophistication.</p>
+				</section>
+			
+			
+
+																										
+										<section class="item references">
+					<h2 class="label">
+						References
+					</h2>
+					<div class="value">
+																					<p>J. Akkermans and S. Kubasch, "#trending topics in careers: a review and future research agenda," Career Development International, vol. 22, no. 6, pp. 586–627, 2017. </p>
+															<p>F. Baldi and L. Trigeorgis, "Valuing human capital career development: a real options approach," Journal of Intellectual Capital, vol. 21, no. 5, pp. 781–807, 2020. </p>
+															<p>S. Strohmeier, "Digital human resource management: A conceptual clarification," German Journal of Human Resource Management: Zeitschrift für Personalforschung, vol. 34, no. 3, pp. 345–365, 2020. </p>
+															<p>S. Wiblen and J. H. Marler, "Digitalised talent management and automated talent decisions: the implications for HR professionals," The International Journal of Human Resource Management, vol. 32, no. 12, pp. 2592–2621, 2021. </p>
+															<p>A. Stankevičienė, A. Liučvaitienė, and A. Šimelytė, "Personalo kaitos stabilizavimo galimybės Lietuvos statybos sektoriuje," Business: Theory and Practice, vol. 11, no. 2, pp. 151–158, 2010. </p>
+															<p>M. Lamb and M. Sutherland, "The components of career capital for knowledge workers in the global economy," The International Journal of Human Resource Management, vol. 21, no. 3, pp. 295–312, 2010. </p>
+															<p>W. G. Tymon, S. A. Stumpf, and R. R. Smith, "Manager support predicts turnover of professionals in India," Career Development International, vol. 16, no. 3, pp. 293–312, 2011. </p>
+															<p>H. Kong, C. Cheung, and H. Song, "Hotel career management in China: Developing a measurement scale," International Journal of Hospitality Management, vol. 30, no. 1, pp. 112–118, 2011. </p>
+															<p>T. Cappellen and M. Janssens, "Enacting global careers: Organizational career scripts and the global economy as co-existing career referents," Journal of Organizational Behavior, vol. 31, no. 5, pp. 687–706, 2010. </p>
+															<p>S. Bagdadli and M. Gianecchini, "Organizational career management practices and objective career success: A systematic review and framework," Human Resource Management Review, vol. 29, no. 3, pp. 353–370, 2019. </p>
+															<p>M. De Villiers Scheepers, R. Mulcahy, D. Fleishman, P. English, J. Burgess, and G. Crimmins, "Digital career competencies: A co-created scale for the digital employability competencies we've overlooked," Industry and Higher Education, vol. 38, no. 5, pp. 411–422, 2024. </p>
+															<p>E. Gallardo-Gallardo, S. Nijs, N. Dries, and P. Gallo, "Towards an understanding of talent management as a phenomenon-driven field using bibliometric and content analysis," Human Resource Management Review, vol. 25, no. 3, pp. 264–279, 2015. </p>
+															<p>Y. Lou, A. Hong, and Y. Li, "Assessing the role of HRM and HRD in enhancing sustainable job performance and innovative work behaviors through digital transformation in ICT companies," Sustainability, vol. 16, no. 12, p. 5162, 2024. </p>
+															<p>B. John, Z. Alsamarra'i, and N. Panteli, "Reconfiguring digital embeddedness in hybrid work: The case of employee experience management platforms," Information Systems Journal, vol. 35, no. 2, pp. 450–479, 2025. </p>
+															<p>N. Dries, "The psychology of talent management: A review and research agenda," Human Resource Management Review, vol. 23, no. 4, pp. 272–285, 2013. </p>
+															<p>V. Wickramasinghe and M. Jayaweera, "Career management strategies among IT professionals in offshore outsourced IT firms in Sri Lanka," Journal of Management Development, vol. 30, no. 9, pp. 914–926, 2011. </p>
+															<p>J. R. Crawshaw and A. Game, "The role of line managers in employee career management: an attachment theory perspective," The International Journal of Human Resource Management, vol. 26, no. 9, pp. 1182–1203, 2015. </p>
+															<p>S. Turgut and A. E. Neuhaus, "The relationship between dispositional resistance to change and individual career management: A matter of occupational self-efficacy and organizational identification?," Journal of Change Management, vol. 20, no. 2, pp. 171–188, 2020. </p>
+															<p>S. Darling and J. B. Cunningham, "Gatekeepers influencing careers of Canadian public sector employees: views from managers and union employees," Journal of Management Development, vol. 41, no. 9/10, pp. 469–495, 2022. </p>
+															<p>K. Özgür Çakmak Otluoğlu, "Protean and boundaryless career attitudes and organizational commitment: The effects of perceived supervisor support," Journal of Vocational Behavior, vol. 80, no. 3, pp. 638–646, 2012. </p>
+															<p>J. S. Moon and S. B. Choi, "The impact of career management on organizational commitment and the mediating role of subjective career success: The case of Korean R&amp;D employees," Journal of Career Development, vol. 44, no. 3, pp. 191–208, 2017. </p>
+															<p>H. Kong, C. Cheung, and H. Song, "Determinants and outcome of career competencies: Perspectives of hotel managers in China," International Journal of Hospitality Management, vol. 31, no. 3, pp. 712–719, 2012. </p>
+															<p>Y. Guan et al., "When do salary and job level predict career satisfaction and turnover intention among Chinese managers? The role of perceived organizational career management and career anchor," European Journal of Work and Organizational Psychology, vol. 23, no. 4, pp. 596–607, 2014. </p>
+															<p>A. M. M. Salleh, K. Omar, O. J. Aburumman, N. H. N. Mat, and M. A. Almhairat, "The impact of career planning and career satisfaction on employee's turnover intention," Entrepreneurship and Sustainability Issues, vol. 8, no. 1, pp. 218–232, 2020. </p>
+															<p>S. Singh, "Organizational career management practices, career satisfaction, and intention to quit among Indian employee: Examining the moderating effect of 'four types of work experience'," Australian Journal of Career Development, vol. 27, no. 3, pp. 150–159, 2018. </p>
+															<p>A. Tabiu, "Do 'high-performance' human resource practices work in public universities? Mediation of organizational and supervisors' supports," African Journal of Economic and Management Studies, vol. 10, no. 4, pp. 493–506, 2019. </p>
+															<p>J. F. D. Silva et al., "Careers: workers' perceptions of organizations' support for their professional growth," Tourism &amp; Management Studies, vol. 15, no. 4, pp. 35–43, 2019. </p>
+															<p>P. Bögel, K. Pereverza, P. Upham, and O. Kordas, "Linking socio-technical transition studies and organisational change management: Steps towards an integrative, multi-scale heuristic," Journal of Cleaner Production, vol. 232, pp. 359–368, 2019. </p>
+															<p>N. Barnes, M. D. Plessis, and J. Frantz, "Academic career management intervention at a South African university: A modified Delphi study," Acta Commercii, vol. 23, no. 1, 2023. </p>
+															<p>T. Hooley, "Developing your career: harnessing the power of the internet for 'digital career management'," Development and Learning in Organizations: An International Journal, vol. 31, no. 1, pp. 9–11, 2017. </p>
+															<p>Y. Guan, W. Zhou, L. Ye, P. Jiang, and Y. Zhou, "Perceived organizational career management and career adaptability as predictors of success and turnover intention among Chinese employees," Journal of Vocational Behavior, vol. 88, pp. 230–237, 2015. </p>
+															<p>Y. Baruch and Y. Vardi, "A fresh look at the dark side of contemporary careers: Toward a realistic discourse," British Journal of Management, vol. 27, no. 2, pp. 355–372, 2016. </p>
+															<p>A. D. Vos and B. Cambré, "Career management in high-performing organizations: A set-theoretic approach," Human Resource Management, vol. 56, no. 3, pp. 501–518, 2017. </p>
+															<p>D. Moher, A. Liberati, J. Tetzlaff, and D. G. Altman, "Preferred reporting items for systematic reviews and meta-analyses: The PRISMA statement," Journal of Clinical Epidemiology, vol. 62, no. 10, pp. 1006–1012, 2009. </p>
+															<p>U. E. Chigbu, S. O. Atiku, and C. C. D. Plessis, "The science of literature reviews: Searching, identifying, selecting, and synthesising," Publications, vol. 11, no. 1, p. 2, 2023. </p>
+															<p>S. Karimi, S. Pohl, F. Scholer, L. Cavedon, and J. Zobel, "Boolean versus ranked querying for biomedical systematic reviews," BMC Medical Informatics and Decision Making, vol. 10, no. 1, p. 58, 2010. </p>
+															<p>S. Marcos-Pablos and F. J. García-Peñalvo, "Information retrieval methodology for aiding scientific database search," Soft Computing, vol. 24, no. 8, pp. 5551–5560, 2020. </p>
+															<p>C. O'Connor and H. Joffe, "Intercoder reliability in qualitative research: Debates and practical guidelines," International Journal of Qualitative Methods, vol. 19, p. 1609406919899220, 2020. </p>
+															<p>M. Aria and C. Cuccurullo, "bibliometrix: An R-tool for comprehensive science mapping analysis," Journal of Informetrics, vol. 11, no. 4, pp. 959–975, 2017. </p>
+															<p>N. Donthu, S. Kumar, D. Mukherjee, N. Pandey, and W. M. Lim, "How to conduct a bibliometric analysis: An overview and guidelines," Journal of Business Research, vol. 133, pp. 285–296, 2021. </p>
+															<p>V. Braun and V. Clarke, "Using thematic analysis in psychology," Qualitative Research in Psychology, vol. 3, no. 2, pp. 77–101, 2006. </p>
+															<p>O. Mineva, M. Alikaeva, and V. Minev, "Transformation of career management approaches in the digital society," MEST Journal, vol. 8, no. 2, pp. 143–150, 2020. </p>
+															<p>A. Mazurchenko and K. Maršíková, "Digitally-powered human resource management: Skills and roles in the digital era," Acta Informatica Pragensia, vol. 8, no. 2, pp. 72–87, 2019. </p>
+															<p>H. Snyder, "Literature review as a research methodology: An overview and guidelines," Journal of Business Research, vol. 104, pp. 333–339, 2019. </p>
+															<p>H. Kong, C. Cheung, and H. Song, "From hotel career management to employees' career satisfaction: The mediating effect of career competency," International Journal of Hospitality Management, vol. 31, no. 1, pp. 76–85, 2012. </p>
+															<p>W. Zhou, Q. Zhao, N. Jiang, and P. Lin, "Organizational career management in the new career era: scale development and validation," Asia Pacific Journal of Human Resources, vol. 60, no. 4, pp. 764–787, 2022. </p>
+															<p>A. E. M. V. Vianen, D. Rosenauer, A. C. Homan, C. A. L. Horstmeier, and S. C. Voelpel, "Career mentoring in context: A multilevel study on differentiated career mentoring and career mentoring climate," Human Resource Management, vol. 57, no. 2, pp. 583–599, 2018. </p>
+															<p>L. Zhu and L. Wang, "Narrowing ideal self-discrepancy: the roles of organizational career management and protean career orientation," Career Development International, vol. 27, no. 2, pp. 222–244, 2022. </p>
+															<p>A. Faqihi and S. J. Miah, "Artificial intelligence-driven talent management system: Exploring the risks and options for constructing a theoretical foundation," Journal of Risk and Financial Management, vol. 16, no. 1, p. 31, 2023. </p>
+															<p>P. Hoffmann, M. Hoegl, M. Muethel, and M. Weiss, "A contemporary justice perspective on dual ladders for R&amp;D professionals," Journal of Product Innovation Management, vol. 33, no. 5, pp. 589–612, 2016. </p>
+															<p>S. Jayasingam and J. R. Yong, "Affective commitment among knowledge workers: the role of pay satisfaction and organization career management," The International Journal of Human Resource Management, vol. 24, no. 20, pp. 3903–3920, 2013. </p>
+															<p>M. Coetzee and M. S. Bester, "Probing the role of psychosocial career mechanisms in the harmonious work passion-career satisfaction link," Personnel Review, vol. 48, no. 5, pp. 1135–1149, 2019. </p>
+															<p>M. Dickmann and J.-L. Cerdin, "Exploring the development and transfer of career capital in an international governmental organization," The International Journal of Human Resource Management, vol. 29, no. 15, pp. 2253–2283, 2018. </p>
+																		</div>
+				</section>
+			
+		</div><!-- .main_entry -->
+
+		<div class="entry_details">
+
+										<div class="item cover_image">
+					<div class="sub_item">
+																				<img
+								src="https://jcmm.co.in/public/journals/1/submission_290_291_coverImage_en_US.jpg"
+								alt=""
+							>
+											</div>
+				</div>
+			
+										<div class="item galleys">
+					<h2 class="pkp_screen_reader">
+						Downloads
+					</h2>
+					<ul class="value galleys_links">
+													<li>
+								
+	
+							
+
+<a class="obj_galley_link pdf" href="https://jcmm.co.in/index.php/jcmm/article/view/290/151">
+
+		
+	PDF
+
+	</a>
+							</li>
+											</ul>
+				</div>
+						
+						<div class="item published">
+				<section class="sub_item">
+					<h2 class="label">
+						Published
+					</h2>
+					<div class="value">
+																			<span>2026-04-30</span>
+																	</div>
+				</section>
+							</div>
+			
+										<div class="item citation">
+					<section class="sub_item citation_display">
+						<h2 class="label">
+							How to Cite
+						</h2>
+						<div class="value">
+							<div id="citationOutput" role="region" aria-live="polite">
+								<div class="csl-bib-body">
+  <div class="csl-entry">Kakkar, T., &#38; Bharti. (2026). Digitalized Organizational Career Management Systems: A Dual-Lens Examination of Functional and Experiential Dimensions. <i>Journal of Computers, Mechanical and Management</i>, <i>5</i>(2), 101–119. https://doi.org/10.57159/jcmm.5.2.25290</div>
+</div>
+							</div>
+							<div class="citation_formats">
+								<button class="cmp_button citation_formats_button" aria-controls="cslCitationFormats" aria-expanded="false" data-csl-dropdown="true">
+									More Citation Formats
+								</button>
+								<div id="cslCitationFormats" class="citation_formats_list" aria-hidden="true">
+									<ul class="citation_formats_styles">
+																					<li>
+												<a
+													rel="nofollow"
+													aria-controls="citationOutput"
+													href="https://jcmm.co.in/index.php/jcmm/citationstylelanguage/get/acm-sig-proceedings?submissionId=290&amp;publicationId=291"
+													data-load-citation
+													data-json-href="https://jcmm.co.in/index.php/jcmm/citationstylelanguage/get/acm-sig-proceedings?submissionId=290&amp;publicationId=291&amp;return=json"
+												>
+													ACM
+												</a>
+											</li>
+																					<li>
+												<a
+													rel="nofollow"
+													aria-controls="citationOutput"
+													href="https://jcmm.co.in/index.php/jcmm/citationstylelanguage/get/acs-nano?submissionId=290&amp;publicationId=291"
+													data-load-citation
+													data-json-href="https://jcmm.co.in/index.php/jcmm/citationstylelanguage/get/acs-nano?submissionId=290&amp;publicationId=291&amp;return=json"
+												>
+													ACS
+												</a>
+											</li>
+																					<li>
+												<a
+													rel="nofollow"
+													aria-controls="citationOutput"
+													href="https://jcmm.co.in/index.php/jcmm/citationstylelanguage/get/apa?submissionId=290&amp;publicationId=291"
+													data-load-citation
+													data-json-href="https://jcmm.co.in/index.php/jcmm/citationstylelanguage/get/apa?submissionId=290&amp;publicationId=291&amp;return=json"
+												>
+													APA
+												</a>
+											</li>
+																					<li>
+												<a
+													rel="nofollow"
+													aria-controls="citationOutput"
+													href="https://jcmm.co.in/index.php/jcmm/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=290&amp;publicationId=291"
+													data-load-citation
+													data-json-href="https://jcmm.co.in/index.php/jcmm/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=290&amp;publicationId=291&amp;return=json"
+												>
+													ABNT
+												</a>
+											</li>
+																					<li>
+												<a
+													rel="nofollow"
+													aria-controls="citationOutput"
+													href="https://jcmm.co.in/index.php/jcmm/citationstylelanguage/get/chicago-author-date?submissionId=290&amp;publicationId=291"
+													data-load-citation
+													data-json-href="https://jcmm.co.in/index.php/jcmm/citationstylelanguage/get/chicago-author-date?submissionId=290&amp;publicationId=291&amp;return=json"
+												>
+													Chicago
+												</a>
+											</li>
+																					<li>
+												<a
+													rel="nofollow"
+													aria-controls="citationOutput"
+													href="https://jcmm.co.in/index.php/jcmm/citationstylelanguage/get/harvard-cite-them-right?submissionId=290&amp;publicationId=291"
+													data-load-citation
+													data-json-href="https://jcmm.co.in/index.php/jcmm/citationstylelanguage/get/harvard-cite-them-right?submissionId=290&amp;publicationId=291&amp;return=json"
+												>
+													Harvard
+												</a>
+											</li>
+																					<li>
+												<a
+													rel="nofollow"
+													aria-controls="citationOutput"
+													href="https://jcmm.co.in/index.php/jcmm/citationstylelanguage/get/ieee?submissionId=290&amp;publicationId=291"
+													data-load-citation
+													data-json-href="https://jcmm.co.in/index.php/jcmm/citationstylelanguage/get/ieee?submissionId=290&amp;publicationId=291&amp;return=json"
+												>
+													IEEE
+												</a>
+											</li>
+																					<li>
+												<a
+													rel="nofollow"
+													aria-controls="citationOutput"
+													href="https://jcmm.co.in/index.php/jcmm/citationstylelanguage/get/modern-language-association?submissionId=290&amp;publicationId=291"
+													data-load-citation
+													data-json-href="https://jcmm.co.in/index.php/jcmm/citationstylelanguage/get/modern-language-association?submissionId=290&amp;publicationId=291&amp;return=json"
+												>
+													MLA
+												</a>
+											</li>
+																					<li>
+												<a
+													rel="nofollow"
+													aria-controls="citationOutput"
+													href="https://jcmm.co.in/index.php/jcmm/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=290&amp;publicationId=291"
+													data-load-citation
+													data-json-href="https://jcmm.co.in/index.php/jcmm/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=290&amp;publicationId=291&amp;return=json"
+												>
+													Turabian
+												</a>
+											</li>
+																					<li>
+												<a
+													rel="nofollow"
+													aria-controls="citationOutput"
+													href="https://jcmm.co.in/index.php/jcmm/citationstylelanguage/get/vancouver?submissionId=290&amp;publicationId=291"
+													data-load-citation
+													data-json-href="https://jcmm.co.in/index.php/jcmm/citationstylelanguage/get/vancouver?submissionId=290&amp;publicationId=291&amp;return=json"
+												>
+													Vancouver
+												</a>
+											</li>
+																			</ul>
+																			<div class="label">
+											Download Citation
+										</div>
+										<ul class="citation_formats_styles">
+																							<li>
+													<a href="https://jcmm.co.in/index.php/jcmm/citationstylelanguage/download/ris?submissionId=290&amp;publicationId=291">
+														<span class="fa fa-download"></span>
+														Endnote/Zotero/Mendeley (RIS)
+													</a>
+												</li>
+																							<li>
+													<a href="https://jcmm.co.in/index.php/jcmm/citationstylelanguage/download/bibtex?submissionId=290&amp;publicationId=291">
+														<span class="fa fa-download"></span>
+														BibTeX
+													</a>
+												</li>
+																					</ul>
+																	</div>
+							</div>
+						</div>
+					</section>
+				</div>
+			
+										<div class="item issue">
+
+											<section class="sub_item">
+							<h2 class="label">
+								Issue
+							</h2>
+							<div class="value">
+								<a class="title" href="https://jcmm.co.in/index.php/jcmm/issue/view/vol5-iss2">
+									Vol. 5 No. 2 (2026)
+								</a>
+							</div>
+						</section>
+					
+											<section class="sub_item">
+							<h2 class="label">
+								Section
+							</h2>
+							<div class="value">
+								Systematic or Methodological Review
+							</div>
+						</section>
+					
+											<section class="sub_item">
+							<h2 class="label">
+								Categories
+							</h2>
+							<div class="value">
+								<ul class="categories">
+																			<li><a href="https://jcmm.co.in/index.php/jcmm/catalog/category/bs">Business Sciences</a></li>
+																			<li><a href="https://jcmm.co.in/index.php/jcmm/catalog/category/mgmt">Management</a></li>
+																	</ul>
+							</div>
+						</section>
+									</div>
+			
+															
+										<div class="item copyright">
+					<h2 class="label">
+						License
+					</h2>
+																										<p>Copyright (c) 2026 The Author(s)</p>
+														<a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" src="//i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><p>This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.</p>
+																<p>Articles published in the <em>Journal of Computers, Mechanical and Management</em> are licensed under a <a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a> license. Authors retain copyright of their work and grant the journal a non-exclusive license to publish, distribute, and archive the article. Full terms are on the <a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="https://jcmm.co.in/index.php/jcmm/copyright-and-licensing">Copyright and Licensing</a> page.</p>
+				</div>
+			
+			<div class="item citations-container" data-image-path="https://jcmm.co.in/plugins/generic/citations/images/" data-citations-url="https://jcmm.co.in/index.php/jcmm/citations/get?citationsId=10.57159%2Fjcmm.5.2.25290&amp;citationsShowList=&amp;citationsProvider=scopus"
+     data-citations-provider="scopus" data-citations-total="1" data-citations-list=""
+     data-show-google="0" data-show-pmc="0">
+	<div id="citations-loader"></div>
+	<div class="citations-count">
+		<div class="citations-count-crossref">
+			<img class="img-fluid" src="https://jcmm.co.in/plugins/generic/citations/images/crossref.png" alt="Crossref"/>
+			<div class="badge_total"></div>
+		</div>
+		<div class="citations-count-scopus">
+			<img src="https://jcmm.co.in/plugins/generic/citations/images/scopus.png" alt="Scopus"/>
+			<br/>
+			<span class="badge_total"></span>
+		</div>
+		<div class="citations-count-google">
+			<a href="https://scholar.google.com/scholar?q=10.57159/jcmm.5.2.25290" target="_blank" rel="noreferrer">
+				<img src="https://jcmm.co.in/plugins/generic/citations/images/scholar.png" alt="Google Scholar"/>
+			</a>
+		</div>
+		<div class="citations-count-pmc">
+			<a href="http://europepmc.org/search?scope=fulltext&query=(REF:10.57159/jcmm.5.2.25290)" target="_blank" rel="noreferrer">
+				<img src="https://jcmm.co.in/plugins/generic/citations/images/pmc.png" alt="Europe PMC"/>
+				<br/>
+				<span class="badge_total"></span>
+			</a>
+		</div>
+	</div>
+	<div class="citations-list"></div>
+    </div>
+
+
+		</div><!-- .entry_details -->
+	</div><!-- .row -->
+
+</article>
+
+	<div id="articlesBySimilarityList">
+	</div>
+<div id="articlesBySameAuthorList">
+				</div>
+
+
+</div><!-- .page -->
+
+	</div><!-- pkp_structure_main -->
+
+									<div class="pkp_structure_sidebar left" role="complementary" aria-label="Sidebar">
+				<div class="pkp_block block_make_submission">
+	<h2 class="pkp_screen_reader">
+		Make a Submission
+	</h2>
+
+	<div class="content">
+		<a class="block_make_submission_link" href="https://jcmm.co.in/index.php/jcmm/about/submissions">
+			Make a Submission
+		</a>
+	</div>
+</div>
+<div class="pkp_block block_custom" id="customblock-indexing-agencies">
+	<h2 class="title">Indexed in</h2>
+	<div class="content">
+		<div class="block_indexing_badges">
+<div style="text-align: center; margin: 0 0 0.8em 0;">
+<div style="height: 100px; width: 180px; font-family: Arial, Verdana, helvetica, sans-serif; background-color: #ffffff; display: inline-block; border: 1px solid #1F4D2D; border-radius: 4px;">
+<div style="padding: 0px 16px;">
+<div style="padding-top: 3px; line-height: 1;">
+<div style="float: left; font-size: 28px;"><span id="citescoreVal" style="letter-spacing: -2px; display: inline-block; padding-top: 7px; line-height: .75;">5.6</span></div>
+<div style="float: right; font-size: 14px; padding-top: 3px; text-align: right;"><span id="citescoreYearVal" style="display: block;">2025</span>CiteScore</div>
+</div>
+<div style="clear: both;">&nbsp;</div>
+<div style="padding-top: 3px;">
+<div style="height: 4px; background-color: #dcdcdc;">
+<div id="percentActBar" style="height: 4px; background-color: #0056d6; width: 90%;">&nbsp;</div>
+</div>
+<div style="font-size: 11px;"><span id="citescorePerVal">90th percentile</span></div>
+</div>
+<div style="font-size: 12px; text-align: right;">Powered by &nbsp;<span style="color: #e9711c; font-weight: bold;">Scopus</span></div>
+</div>
+</div>
+</div>
+<div class="badge_row" style="display: flex; flex-wrap: wrap; gap: 0.4em; justify-content: center; margin-bottom: 0.8em;"><a style="display: inline-block; border: 1px solid #1F4D2D; border-radius: 4px; padding: 0.3em 0.6em; font-size: 0.85em; color: #1f4d2d; text-decoration: none; background: #FFFFFF;" href="https://www.scopus.com/sourceid/21101390129" rel="external">CiteScore Q1</a> <a style="display: inline-block; border: 1px solid #1F4D2D; border-radius: 4px; padding: 0.3em 0.6em; font-size: 0.85em; color: #1f4d2d; text-decoration: none; background: #FFFFFF;" href="https://www.scimagojr.com/journalsearch.php?q=21101390129&amp;tip=sid&amp;clean=0" rel="external">SJR Q3</a> <a style="display: inline-block; border: 1px solid #1F4D2D; border-radius: 4px; padding: 0.3em 0.6em; font-size: 0.85em; color: #1f4d2d; text-decoration: none; background: #FFFFFF;" href="https://search.crossref.org/?q=10.57159" rel="external">Crossref</a> <a style="display: inline-block; border: 1px solid #1F4D2D; border-radius: 4px; padding: 0.3em 0.6em; font-size: 0.85em; color: #1f4d2d; text-decoration: none; background: #FFFFFF;" href="https://portal.issn.org/resource/ISSN/3009-075X" rel="external">ROAD</a> <a style="display: inline-block; border: 1px solid #1F4D2D; border-radius: 4px; padding: 0.3em 0.6em; font-size: 0.85em; color: #1f4d2d; text-decoration: none; background: #FFFFFF;" href="https://scholar.google.com/citations?user=LeE0ICQAAAAJ" rel="external">Google Scholar</a></div>
+<p style="text-align: center; margin: 0.6em 0;"><a title="SCImago Journal &amp; Country Rank" href="https://www.scimagojr.com/journalsearch.php?q=21101390129&amp;tip=sid&amp;exact=no" rel="external"><img style="max-width: 100%; height: auto;" src="https://www.scimagojr.com/journal_img.php?id=21101390129" alt="SCImago Journal &amp; Country Rank" border="0"></a></p>
+<p style="margin-top: 0.6em; font-size: 0.85em; text-align: center;"><a href="/index.php/jcmm/indexing-and-abstracting">Full indexing details</a></p>
+</div>
+	</div>
+</div>
+	<style type="text/css">
+		.block_announcements_article:not(:last-child) {
+			padding-bottom: 1.5em;
+			border-bottom: 1px solid;
+
+		}
+
+		.block_announcements_article {
+			text-align: left;
+		}
+	</style>
+	<div class="pkp_block block_announcements">
+		<h2 class="title">Announcements</h2>
+		<div class="content">
+							<article class="block_announcements_article">
+					<h3 class="block_announcements_article_headline">
+						<a href="https://jcmm.co.in/index.php/jcmm/announcement/view/19">
+							J. Comput. Mech. Manag. Now Accepts Submissions in PDF Format Only
+						</a>
+					</h3>
+					<time class="block_announcements_article_date" datetime="2026-05-25">
+						<strong>25 May 2026</strong>
+					</time>
+					<div class="block_announcements_article_content">
+																			<p>Effective immediately, all manuscript submissions to the Journal of Computers, Mechanical and Management (J. Comput. Mech. Manag.) must be uploaded in PDF format only.</p>
+											</div>
+				</article>
+							<article class="block_announcements_article">
+					<h3 class="block_announcements_article_headline">
+						<a href="https://jcmm.co.in/index.php/jcmm/announcement/view/18">
+							Article Processing Charges from 1 October 2026
+						</a>
+					</h3>
+					<time class="block_announcements_article_date" datetime="2026-04-25">
+						<strong>25 April 2026</strong>
+					</time>
+					<div class="block_announcements_article_content">
+																			<p>The journal's Article Processing Charge will move from USD 250 to USD 1,000 for manuscripts submitted from 1 October 2026 onwards. Submissions received on or before 30 September 2026 (23:59 UTC) will continue to be processed at USD 250. A tiered waiver scheme based on the World Bank country classification applies from 1 October 2026.</p>
+											</div>
+				</article>
+					</div>
+	</div>
+<div class="pkp_block block_information">
+	<h2 class="title">Information</h2>
+	<div class="content">
+		<ul>
+							<li>
+					<a href="https://jcmm.co.in/index.php/jcmm/information/readers">
+						For Readers
+					</a>
+				</li>
+										<li>
+					<a href="https://jcmm.co.in/index.php/jcmm/information/authors">
+						For Authors
+					</a>
+				</li>
+										<li>
+					<a href="https://jcmm.co.in/index.php/jcmm/information/librarians">
+						For Librarians
+					</a>
+				</li>
+					</ul>
+	</div>
+</div>
+
+			</div><!-- pkp_sidebar.left -->
+			</div><!-- pkp_structure_content -->
+
+<div class="pkp_structure_footer_wrapper" role="contentinfo">
+	<a id="pkp_content_footer"></a>
+
+	<div class="pkp_structure_footer">
+
+					<div class="pkp_footer_content">
+				<div class="footer-grid" style="display: grid; grid-template-columns: repeat(auto-fit,minmax(220px,1fr)); gap: 1.5em;">
+<div>
+<h3 style="color: #ffffff; margin-top: 0;">Journal of Computers, Mechanical and Management</h3>
+<p>An international, peer-reviewed, open-access journal at the convergence of computing, engineering, and management.</p>
+<p><strong>ISSN (Online):</strong> 3009-075X<br /><strong>DOI prefix:</strong> 10.57159</p>
+</div>
+<div>
+<h3 style="color: #ffffff; margin-top: 0;">Publisher</h3>
+<p>AAN Publishing<br />62 Suasana Damai<br />Bandar Darulaman<br />06000 Jitra, Kedah Darulaman<br />Malaysia</p>
+<p><a href="https://jcmm.co.in/index.php/jcmm/publisher">About the publisher</a></p>
+</div>
+<div>
+<h3 style="color: #ffffff; margin-top: 0;">Quick links</h3>
+<ul style="list-style: none; padding: 0;">
+<li><a href="https://jcmm.co.in/index.php/jcmm/about/submissions">Submit</a></li>
+<li><a href="https://jcmm.co.in/index.php/jcmm/about/editorialTeam">Editorial team</a></li>
+<li><a href="https://jcmm.co.in/index.php/jcmm/indexing-and-abstracting">Indexing</a></li>
+<li><a href="https://jcmm.co.in/index.php/jcmm/site-map">Site map</a></li>
+<li><a href="https://jcmm.co.in/index.php/jcmm/about/contact">Contact</a></li>
+</ul>
+</div>
+<div>
+<h3 style="color: #ffffff; margin-top: 0;">Open access</h3>
+<p>All articles are published under a <a href="https://creativecommons.org/licenses/by-nc/4.0/" rel="external">CC BY-NC 4.0</a> license. Authors retain copyright.</p>
+<p><a href="https://jcmm.co.in/index.php/jcmm/open-access-policy">Open access policy</a><br /><a href="https://jcmm.co.in/index.php/jcmm/privacy-statement">Privacy</a><br /><a href="https://jcmm.co.in/index.php/jcmm/accessibility-statement">Accessibility</a></p>
+</div>
+</div>
+<p style="text-align: center; margin-top: 2em; border-top: 1px solid #2D5F3F; padding-top: 1em; font-size: 0.85em;">© 2022–2026 AAN Publishing. Published using Open Journal Systems.</p>
+			</div>
+		
+		<div class="pkp_brand_footer" role="complementary">
+			<a href="https://jcmm.co.in/index.php/jcmm/about/aboutThisPublishingSystem">
+				<img alt="More information about the publishing system, Platform and Workflow by OJS/PKP." src="https://jcmm.co.in/templates/images/ojs_brand.png">
+			</a>
+		</div>
+	</div>
+</div><!-- pkp_structure_footer_wrapper -->
+
+</div><!-- pkp_structure_page -->
+
+<script src="https://jcmm.co.in/lib/pkp/lib/vendor/components/jquery/jquery.min.js?v=3.3.0.22" type="text/javascript"></script><script src="https://jcmm.co.in/lib/pkp/lib/vendor/components/jqueryui/jquery-ui.min.js?v=3.3.0.22" type="text/javascript"></script><script src="https://jcmm.co.in/plugins/themes/default/js/lib/popper/popper.js?v=3.3.0.22" type="text/javascript"></script><script src="https://jcmm.co.in/plugins/themes/default/js/lib/bootstrap/util.js?v=3.3.0.22" type="text/javascript"></script><script src="https://jcmm.co.in/plugins/themes/default/js/lib/bootstrap/dropdown.js?v=3.3.0.22" type="text/javascript"></script><script src="https://jcmm.co.in/plugins/themes/default/js/main.js?v=3.3.0.22" type="text/javascript"></script><script src="https://jcmm.co.in/plugins/generic/citationStyleLanguage/js/articleCitation.js?v=3.3.0.22" type="text/javascript"></script><script src="https://jcmm.co.in/plugins/generic/citations/js/citations.js?v=3.3.0.22" type="text/javascript"></script>
+
+
+</body>
+</html>

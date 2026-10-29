@@ -1,0 +1,1652 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:dc="http://purl.org/dc/terms/"
+      xmlns:doi="http://dx.doi.org/"
+      lang="en" xml:lang="en"
+      itemscope itemtype="http://schema.org/Article"
+      class="no-js">
+
+
+
+<head prefix="og: http://ogp.me/ns#">
+
+
+
+
+<link rel="stylesheet" href="/resource/css/screen.css?6319787e0c930bcc59ed9122b7119b7f"/>
+  <!-- allows for  extra head tags -->
+
+
+<!-- hello -->
+<link rel="stylesheet" type="text/css"
+      href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600">
+
+<link media="print" rel="stylesheet" type="text/css"  href="/resource/css/print.css"/>
+    <script type="text/javascript">
+        var siteUrlPrefix = "/plosone/";
+    </script>
+  <script src="/resource/js/vendor/modernizr-v2.7.1.js" type="text/javascript"></script>
+  <script src="/resource/js/vendor/detectizr.min.js" type="text/javascript"></script>
+
+  <link rel="shortcut icon" href="/resource/img/favicon.ico" type="image/x-icon"/>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+
+
+
+
+
+  <link rel="canonical" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0189661" />
+  <meta name="description" content="Introduction To examine (1) what individuals know about the existing adult preventive service coverage provisions of the Affordable Care Act (ACA), and (2) which preventive services individuals think should be covered without cost sharing.   Methods An online panel from Survey Monkey was used to obtain a sample of 2,990 adults age 18 and older in March 2015, analyzed 2015&ndash;2017. A 17-item survey instrument was designed and used to evaluate respondents&rsquo; knowledge of the adult preventive services provision of the ACA. Additionally, we asked whether various preventive services should be covered. The data include age, sex, race/ethnicity, and educational attainment as well as measures of political ideology, previous insurance status, the number of chronic conditions, and usual source of care.   Results Respondents correctly answered 38.6% of the questions about existing coverage under the ACA, while on average respondents thought 12.1 of 15 preventive services should be covered (SD 3.5). Respondents were more knowledgeable about coverage for routine screenings, such as blood pressure (63.4% correct) than potentially stigmatizing screenings, such as for alcohol misuse (28.8% correct). Blood pressure screening received the highest support of coverage (89.8%) while coverage of gym memberships received the lowest support (59.4%). Individuals with conservative ideologies thought fewer services on average should be covered, but the difference was small&mdash;around one service less than those with liberal ideologies.   Conclusions Overwhelmingly, individuals think that most preventive services should be covered without cost sharing. Despite several years of coverage for preventive services, there is still confusion and lack of knowledge about which services are covered." />
+
+  <meta name="citation_abstract" content="Introduction To examine (1) what individuals know about the existing adult preventive service coverage provisions of the Affordable Care Act (ACA), and (2) which preventive services individuals think should be covered without cost sharing.   Methods An online panel from Survey Monkey was used to obtain a sample of 2,990 adults age 18 and older in March 2015, analyzed 2015&ndash;2017. A 17-item survey instrument was designed and used to evaluate respondents&rsquo; knowledge of the adult preventive services provision of the ACA. Additionally, we asked whether various preventive services should be covered. The data include age, sex, race/ethnicity, and educational attainment as well as measures of political ideology, previous insurance status, the number of chronic conditions, and usual source of care.   Results Respondents correctly answered 38.6% of the questions about existing coverage under the ACA, while on average respondents thought 12.1 of 15 preventive services should be covered (SD 3.5). Respondents were more knowledgeable about coverage for routine screenings, such as blood pressure (63.4% correct) than potentially stigmatizing screenings, such as for alcohol misuse (28.8% correct). Blood pressure screening received the highest support of coverage (89.8%) while coverage of gym memberships received the lowest support (59.4%). Individuals with conservative ideologies thought fewer services on average should be covered, but the difference was small&mdash;around one service less than those with liberal ideologies.   Conclusions Overwhelmingly, individuals think that most preventive services should be covered without cost sharing. Despite several years of coverage for preventive services, there is still confusion and lack of knowledge about which services are covered.">
+
+
+  <meta name="keywords" content="Health insurance,Cancer screening,Surveys,Health screening,Behavioral and social aspects of health,Sexually transmitted diseases,Blood pressure,Political aspects of health" />
+
+
+<meta name="citation_doi" content="10.1371/journal.pone.0189661"/>
+<meta name="citation_author" content="Jessica A. R. Williams"/>
+  <meta name="citation_author_institution" content="Department of Health Management and Policy, University of Kansas School of Medicine, Kansas City, Kansas, United States of America"/>
+<meta name="citation_author" content="Selena E. Ortiz"/>
+  <meta name="citation_author_institution" content="Department of Health Policy and Administration, College of Health and Human Development, The Pennsylvania State University, University Park, Pennsylvania, United States of America"/>
+
+<meta name="citation_title" content="Examining public knowledge and preferences for adult preventive services coverage"/>
+<meta itemprop="name" content="Examining public knowledge and preferences for adult preventive services coverage"/>
+<meta name="citation_journal_title" content="PLOS ONE"/>
+<meta name="citation_journal_abbrev" content="PLOS ONE"/>
+<meta name="citation_date" content="Dec 20, 2017"/>
+<meta name="citation_firstpage" content="e0189661"/>
+<meta name="citation_issue" content="12"/>
+<meta name="citation_volume" content="12"/>
+<meta name="citation_issn" content="1932-6203"/>
+<meta name="citation_publisher" content="Public Library of Science"/>
+
+  <meta name="citation_pdf_url" content="https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0189661&type=printable">
+
+  <meta name="citation_article_type" content="Research Article">
+
+<meta name="dc.identifier" content="10.1371/journal.pone.0189661" />
+
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="plosone"/>
+    <meta name="twitter:title" content="Examining public knowledge and preferences for adult preventive services coverage" />
+    <meta property="twitter:description" content="Introduction To examine (1) what individuals know about the existing adult preventive service coverage provisions of the Affordable Care Act (ACA), and (2) which preventive services individuals think should be covered without cost sharing.   Methods An online panel from Survey Monkey was used to obtain a sample of 2,990 adults age 18 and older in March 2015, analyzed 2015&ndash;2017. A 17-item survey instrument was designed and used to evaluate respondents&rsquo; knowledge of the adult preventive services provision of the ACA. Additionally, we asked whether various preventive services should be covered. The data include age, sex, race/ethnicity, and educational attainment as well as measures of political ideology, previous insurance status, the number of chronic conditions, and usual source of care.   Results Respondents correctly answered 38.6% of the questions about existing coverage under the ACA, while on average respondents thought 12.1 of 15 preventive services should be covered (SD 3.5). Respondents were more knowledgeable about coverage for routine screenings, such as blood pressure (63.4% correct) than potentially stigmatizing screenings, such as for alcohol misuse (28.8% correct). Blood pressure screening received the highest support of coverage (89.8%) while coverage of gym memberships received the lowest support (59.4%). Individuals with conservative ideologies thought fewer services on average should be covered, but the difference was small&mdash;around one service less than those with liberal ideologies.   Conclusions Overwhelmingly, individuals think that most preventive services should be covered without cost sharing. Despite several years of coverage for preventive services, there is still confusion and lack of knowledge about which services are covered." />
+    <meta property="twitter:image" content="https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0189661.g001&size=inline" />
+
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0189661"/>
+<meta property="og:title" content="Examining public knowledge and preferences for adult preventive services coverage"/>
+<meta property="og:description" content="Introduction To examine (1) what individuals know about the existing adult preventive service coverage provisions of the Affordable Care Act (ACA), and (2) which preventive services individuals think should be covered without cost sharing.   Methods An online panel from Survey Monkey was used to obtain a sample of 2,990 adults age 18 and older in March 2015, analyzed 2015&ndash;2017. A 17-item survey instrument was designed and used to evaluate respondents&rsquo; knowledge of the adult preventive services provision of the ACA. Additionally, we asked whether various preventive services should be covered. The data include age, sex, race/ethnicity, and educational attainment as well as measures of political ideology, previous insurance status, the number of chronic conditions, and usual source of care.   Results Respondents correctly answered 38.6% of the questions about existing coverage under the ACA, while on average respondents thought 12.1 of 15 preventive services should be covered (SD 3.5). Respondents were more knowledgeable about coverage for routine screenings, such as blood pressure (63.4% correct) than potentially stigmatizing screenings, such as for alcohol misuse (28.8% correct). Blood pressure screening received the highest support of coverage (89.8%) while coverage of gym memberships received the lowest support (59.4%). Individuals with conservative ideologies thought fewer services on average should be covered, but the difference was small&mdash;around one service less than those with liberal ideologies.   Conclusions Overwhelmingly, individuals think that most preventive services should be covered without cost sharing. Despite several years of coverage for preventive services, there is still confusion and lack of knowledge about which services are covered."/>
+<meta property="og:image" content="https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0189661.g001&size=inline"/>
+
+
+<meta name="citation_reference" content="Executive Order Minimizing the Economic Burden of the Patient Protection and Affordable Care Act Pending Repeal, (2017)."/>
+
+<meta name="citation_reference" content="Cornwell S. Republicans Propose Giving U.S. States Option to Keep Obamacare. Politics [Internet]. 2017 February 28, 2017 at  http://www.reuters.com/article/us-usa-obamacare-idUSKBN1572AD ."/>
+
+<meta name="citation_reference" content="The Henry J. Kaiser Family Foundation. Compare Proposals to Replace The Affordable Care Act Menlo Park, CA: Kaiser Family Foundation; 2017 [9/28/2017].  http://www.kff.org/interactive/proposals-to-replace-the-affordable-care-act/ ."/>
+
+<meta name="citation_reference" content="Kodjak A. Trump’s Executive Order Could Dismantle Parts of ACA Before Replacement is Ready. Shots: Health News From NPR [Internet]. 2017 March 1, 2017 at  http://www.npr.org/sections/health-shots/2017/01/21/510901402/trumps-executive-order-could-dismantle-parts-of-aca-before-replacement-is-ready ."/>
+
+<meta name="citation_reference" content="Congressional Budget Office. Preliminary Analysis of Legislation That Would Replace Subsidies for Health Care With Block Grants. Washington D.C.: 2017 9/25/2017. Report No."/>
+
+<meta name="citation_reference" content="Goodman J. Following the ACA [Internet]: Health Affairs. 2015. [cited 2017]."/>
+
+<meta name="citation_reference" content="Altman D. The Affordable Care Act’s Little-Noticed Success: Cutting the Uninsured Rate2016 March 6, 2017."/>
+<meta name="citation_reference" content="citation_title=The Patient Protection and Affordable Care Act: implications for public health policy and practice;citation_author=S Rosenbaum;citation_journal_title=Public health reports;citation_volume=126;citation_number=126;citation_issue=1;citation_first_page=130;citation_last_page=5;citation_publication_date=2011;"/>    
+
+<meta name="citation_reference" content="Volk J. Following the ACA [Internet]: Health Affairs. 2017. [cited 2017]."/>
+<meta name="citation_reference" content="citation_title=Discord Over What to Pay the Doctor;citation_author=M Beck;citation_journal_title=The Wall Street Journal;citation_publication_date=2014;"/>    
+<meta name="citation_reference" content="citation_title=Coverage of certain preventive services under the Affordable Care Act. Final rules;citation_journal_title=Federal register;citation_volume=78;citation_number=78;citation_issue=127;citation_first_page=39869;citation_last_page=99;citation_publication_date=2013;"/>    
+
+<meta name="citation_reference" content="Smith T. In screening, coding makes big difference. Richmond Times Dispatch. 2014 2/14/2014;Sect. Features."/>
+
+<meta name="citation_reference" content="Williams B. Frustration, Confusion over Health Insurance The Record. 2014 1/14/2014;Sect. News."/>
+<meta name="citation_reference" content="citation_title=Knowledge of and Attitudes Toward Evidence-Based Guidelines for and Against Clinical Preventive Services: Results from a National Survey;citation_author=PM Lantz;citation_author=WD Evans;citation_author=H Mead;citation_author=C Alvarez;citation_author=L Stewart;citation_journal_title=The Milbank quarterly;citation_volume=94;citation_number=94;citation_issue=1;citation_first_page=51;citation_last_page=76;citation_publication_date=2016;"/>    
+<meta name="citation_reference" content="citation_title=Promoting prevention through the Affordable Care Act;citation_author=HK Koh;citation_author=KG Sebelius;citation_journal_title=N Engl J Med;citation_volume=363;citation_number=363;citation_issue=14;citation_first_page=1296;citation_last_page=9;citation_publication_date=2010;"/>    
+
+<meta name="citation_reference" content="U.S. Preventive Services Task Force Grade Definitions Rockville, MD: U.S. Preventive Services Task Force; 2013 [4/27/2014].  http://www.uspreventiveservicestaskforce.org/uspstf/grades.htm ."/>
+<meta name="citation_reference" content="citation_title=The demand for health and health concerns after 30 years;citation_author=AA Leibowitz;citation_journal_title=Journal of Health Economics;citation_volume=23;citation_number=23;citation_issue=4;citation_first_page=663;citation_last_page=71;citation_publication_date=2004;"/>    
+<meta name="citation_reference" content="citation_title=National Health Surveys and the Behavioral Model of Health Services Use;citation_author=Ronald MP Andersen;citation_journal_title=Medical Care;citation_volume=46;citation_number=46;citation_issue=7;citation_first_page=647;citation_last_page=53;citation_publication_date=2008;"/>    
+<meta name="citation_reference" content="citation_title=The impact of tobacco dependence treatment coverage and copayments in medicaid;citation_author=J Greene;citation_author=RM Sacks;citation_author=SB McMenamin;citation_journal_title=Am J Prev Med;citation_volume=46;citation_number=46;citation_issue=4;citation_first_page=331;citation_last_page=6;citation_publication_date=2014;"/>    
+<meta name="citation_reference" content="citation_title=Cost-sharing and the utilization of clinical preventive services;citation_author=G Solanki;citation_author=HH Schauffler;citation_journal_title=American Journal of Preventive Medicine;citation_volume=17;citation_number=17;citation_issue=2;citation_first_page=127;citation_last_page=33;citation_publication_date=1999;"/>    
+<meta name="citation_reference" content="citation_title=Early Impact of the Affordable Care Act on Uptake of Long-acting Reversible Contraceptive Methods;citation_author=LE Pace;citation_author=SB Dusetzina;citation_author=NL Keating;citation_journal_title=Medical Care;citation_volume=54;citation_number=54;citation_issue=9;citation_first_page=811;citation_last_page=7;citation_publication_date=2016;"/>    
+<meta name="citation_reference" content="citation_title=How well do Americans understand their health coverage?;citation_author=DW Garnick;citation_author=AM Hendricks;citation_author=KE Thorpe;citation_author=JP Newhouse;citation_author=K Donelan;citation_author=RJ Blendon;citation_journal_title=Health Affairs;citation_volume=12;citation_number=12;citation_issue=3;citation_first_page=204;citation_last_page=12;citation_publication_date=1993;"/>    
+<meta name="citation_reference" content="citation_title=Consumers’ misunderstanding of health insurance;citation_author=G Loewenstein;citation_author=JY Friedman;citation_author=B McGill;citation_author=S Ahmad;citation_author=S Linck;citation_author=S Sinkula;citation_journal_title=J Health Econ;citation_volume=32;citation_number=32;citation_issue=5;citation_first_page=850;citation_last_page=62;citation_publication_date=2013;"/>    
+<meta name="citation_reference" content="citation_title=What people really know about their health insurance: a comparison of information obtained from individuals and their insurers;citation_author=DE Nelson;citation_author=BL Thompson;citation_author=NJ Davenport;citation_author=LJ Penaloza;citation_journal_title=Am J Public Health;citation_volume=90;citation_number=90;citation_issue=6;citation_first_page=924;citation_last_page=8;citation_publication_date=2000;"/>    
+
+<meta name="citation_reference" content="Kodjak A. Trump’s Executive Order Could Dismantle Parts of ACA Before Replacement is Ready. National Public Radio. 2017 1/21/2017."/>
+
+<meta name="citation_reference" content="Cornwell S. Republicans propose giving U.S. states option to keep Obamacare. Reuters Politics. 2017 1/23/2017."/>
+
+<meta name="citation_reference" content="Goodman J. HealthAffairsBlog [Internet]: Project HOPE. 2015. [cited 2016].  http://healthaffairs.org/blog/2015/06/25/six-problems-with-the-aca-that-arent-going-away/ ."/>
+<meta name="citation_reference" content="citation_title=Political ideologies and their social psychological functions;citation_inbook_title=The Oxford handbook of political ideologies;citation_author=JT Jost;citation_author=CM Federico;citation_author=JL Napier;citation_first_page=232;citation_last_page=50;citation_publication_date=2013;"/>    
+
+<meta name="citation_reference" content="The Henry J. Kaiser Family Foundation, Health Research &amp;amp; Educational Trust. 2013 Employer Health Benefits Survey. 2013."/>
+<meta name="citation_reference" content="citation_title=Psychophysiological risk markers of cardiovascular disease;citation_author=M Hamer;citation_author=L Malan;citation_journal_title=Neurosci Biobehav Rev;citation_volume=35;citation_number=35;citation_issue=1;citation_first_page=76;citation_last_page=83;citation_publication_date=2010;"/>    
+
+<meta name="citation_reference" content="American National Election Studies. 2013 Internet Recontact Survey. Ann Arbor, MI2014."/>
+<meta name="citation_reference" content="citation_title=Social Determinants and Health Behaviors: Conceptual Frames and Empirical Advances;citation_author=SE Short;citation_author=S Mollborn;citation_journal_title=Current opinion in psychology;citation_volume=5;citation_number=5;citation_first_page=78;citation_last_page=84;citation_publication_date=2015;"/>    
+
+<meta name="citation_reference" content="StataCorp. Stata Statistical Software: Release 14. College Station, TX: StataCorp LP; 2015."/>
+<meta name="citation_reference" content="citation_title=Identification of and guidance for problem drinking by general medical providers: results from a national survey;citation_author=EJ D’Amico;citation_author=SM Paddock;citation_author=A Burnam;citation_author=FY Kung;citation_journal_title=Medical Care;citation_volume=43;citation_number=43;citation_issue=3;citation_first_page=229;citation_last_page=36;citation_publication_date=2005;"/>    
+<meta name="citation_reference" content="citation_title=A qualitative study of provider perspectives of structural barriers to cervical cancer screening among first nations women;citation_author=M Maar;citation_author=A Burchell;citation_author=J Little;citation_author=G Ogilvie;citation_author=A Severini;citation_author=JM Yang;citation_journal_title=Women’s Health Issues;citation_volume=23;citation_number=23;citation_issue=5;citation_first_page=e319;citation_last_page=e25;citation_publication_date=2013;"/>    
+<meta name="citation_reference" content="citation_title=Practical Considerations for the US Preventive Services Task Force Recommendations on Obesity in Children and Adolescents;citation_author=JP Block;citation_author=E Oken;citation_journal_title=JAMA Internal Medicine;citation_volume=177;citation_number=177;citation_issue=8;citation_first_page=1077;citation_last_page=9;citation_publication_date=2017;"/>    
+<meta name="citation_reference" content="citation_title=Screening and brief intervention for unhealthy drug use in primary care settings: randomized clinical trials are needed;citation_author=R Saitz;citation_author=DP Alford;citation_author=J Bernstein;citation_author=DM Cheng;citation_author=J Samet;citation_author=T Palfai;citation_journal_title=Journal of addiction medicine;citation_volume=4;citation_number=4;citation_issue=3;citation_first_page=123;citation_publication_date=2010;"/>    
+
+<meta name="citation_reference" content="Almost All State Health Insurance Marketplace Plans Do Not Offer Required Quit Smoking Coverage, New Report Reveals [Internet]. Chicago, IL; 2015.  http://www.lung.org/about-us/media/press-releases/Exchange-Cessation-Report-national-release.html . New Report from American Lung Association finds Opportunity for Millions to Quit Smoking Ignored by Health Insurance Plans and Policymakers; March 31"/>
+
+<meta name="citation_reference" content="Kirzinger A, Sugarman E, Brodie M. Kaiser Health Tracking Poll: November 2016 March 6, 2017 at  http://kff.org/health-costs/poll-finding/kaiser-health-tracking-poll-november-2016/ ."/>
+<meta name="citation_reference" content="citation_title=Workers who decline employment-related health insurance;citation_author=DM Bernard;citation_author=TM Selden;citation_journal_title=Medical Care;citation_volume=44;citation_number=44;citation_issue=5 Suppl;citation_first_page=I12;citation_last_page=8;citation_publication_date=2006;"/>    
+
+
+<script type="text/javascript">
+    var WombatConfig = WombatConfig || {};
+    WombatConfig.journalKey = "PLoSONE";
+    WombatConfig.journalName = "PLOS One";
+    WombatConfig.figurePath = "/plosone/article/figure/image";
+    WombatConfig.figShareInstitutionString = "plos";
+    WombatConfig.doiResolverPrefix = "https://dx.plos.org/";
+</script>
+
+<script type="text/javascript">
+  var WombatConfig = WombatConfig || {};
+  WombatConfig.metrics = WombatConfig.metrics || {};
+  WombatConfig.metrics.referenceUrl      = "http://lagotto.io/plos";
+  WombatConfig.metrics.googleScholarUrl  = "https://scholar.google.com/scholar";
+  WombatConfig.metrics.googleScholarCitationUrl  = WombatConfig.metrics.googleScholarUrl + "?hl=en&lr=&q=";
+  WombatConfig.metrics.crossrefUrl  = "https://www.crossref.org";
+</script>
+<script defer="defer" src="/resource/js/defer.js?2e8afd3b305f91b42788"></script><script src="/resource/js/sync.js?2e8afd3b305f91b42788"></script>
+<script src="/resource/js/vendor/jquery.min.js" type="text/javascript"></script>
+
+          <script type="text/javascript" src="https://widgets.figshare.com/static/figshare.js"></script>
+
+<script src="/resource/js/vendor/fastclick/lib/fastclick.js" type="text/javascript"></script>
+<script src="/resource/js/vendor/foundation/foundation.js" type="text/javascript"></script>
+<script src="/resource/js/vendor/underscore-min.js" type="text/javascript"></script>
+<script src="/resource/js/vendor/underscore.string.min.js" type="text/javascript"></script>
+<script src="/resource/js/vendor/moment.js" type="text/javascript"></script>
+
+
+<script src="/resource/js/vendor/jquery-ui-effects.min.js" type="text/javascript"></script>
+
+<script src="/resource/js/vendor/foundation/foundation.tooltip.js" type="text/javascript"></script>
+<script src="/resource/js/vendor/foundation/foundation.dropdown.js" type="text/javascript"></script>
+<script src="/resource/js/vendor/foundation/foundation.tab.js" type="text/javascript"></script>
+<script src="/resource/js/vendor/foundation/foundation.reveal.js" type="text/javascript"></script>
+<script src="/resource/js/vendor/foundation/foundation.slider.js" type="text/javascript"></script>
+
+<script src="/resource/js/util/utils.js" type="text/javascript"></script>
+<script src="/resource/js/components/toggle.js" type="text/javascript"></script>
+<script src="/resource/js/components/truncate_elem.js" type="text/javascript"></script>
+<script src="/resource/js/components/tooltip_hover.js" type="text/javascript"></script>
+<script src="/resource/js/vendor/jquery.dotdotdot.js" type="text/javascript"></script>
+
+
+<!-- DoubleClick overall ad setup script -->
+<script type='text/javascript'>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  if (window.plosCookieConsent?.hasConsented('advertising')) {
+    (function() {
+      var gads = document.createElement('script');
+      gads.async = true;
+      gads.type = 'text/javascript';
+      var useSSL = 'https:' == document.location.protocol;
+      gads.src = (useSSL ? 'https:' : 'http:') +
+          '//www.googletagservices.com/tag/js/gpt.js';
+      var node = document.getElementsByTagName('script')[0];
+      node.parentNode.insertBefore(gads, node);
+    })();
+  }
+</script>
+
+<!-- DoubleClick ad slot setup script -->
+
+  <script id="doubleClickSetupScript" type='text/javascript'>
+    googletag.cmd.push(function() {
+  googletag.defineSlot('/75507958/PONE_728x90_ATF', [728, 90], 'div-gpt-ad-1458247671871-0').addService(googletag.pubads());
+  googletag.defineSlot('/75507958/PONE_160x600_BTF', [160, 600], 'div-gpt-ad-1458247671871-1').addService(googletag.pubads());
+      googletag.pubads().enableSingleRequest();
+      googletag.enableServices();
+    });
+  </script>
+
+<!--For Google Tag manager to be able to track site information  -->
+<script>
+
+  dataLayer = [{
+    'mobileSite': 'false',
+    'desktopSite': 'true'
+  }];
+
+</script>
+
+    <title>Examining public knowledge and preferences for adult preventive services coverage | PLOS One</title>
+</head>
+
+<body class="article plosone">
+
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TP26BH"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TP26BH');
+</script>
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MQQMGF"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQQMGF');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Start of HubSpot Embed Code -->
+<script>
+  // from https://developers.hubspot.com/docs/reference/api/analytics-and-events/cookie-banner/cookie-banner-api#example-using-a-third-party-cookie-banner-to-control-hubspot-cookies
+  window.disableHubSpotCookieBanner = true;
+  window._hsp = window._hsp || [];
+  window._hsp.push(['setHubSpotConsent',
+      {
+        analytics: window.plosCookieConsent?.hasConsented('analytics'),
+        advertisement: window.plosCookieConsent?.hasConsented('advertising'),
+        functionality: window.plosCookieConsent?.hasConsented('functionality')
+      }
+    ]);
+</script>
+<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/44092021.js"></script>
+<!-- End of HubSpot Embed Code -->
+
+<!-- New Relic -->
+<script type="text/javascript">
+  ;window.NREUM||(NREUM={});NREUM.init={distributed_tracing:{enabled:true},privacy:{cookies_enabled:true},ajax:{deny_list:["bam.nr-data.net"]}};
+  window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(32),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,s){try{l?l-=1:o(s||new UncaughtException(t,e,n),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t,e){var n=e?null:c.now();i("err",[t,n])}var i=t("handle"),a=t(33),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,p="nr@seenError";if(!c.disabled){var l=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(14),t(13),"addEventListener"in window&&t(7),c.xhrWrappable&&t(15),d=!0)}s.on("fn-start",function(t,e,n){d&&(l+=1)}),s.on("fn-err",function(t,e,n){d&&!n[p]&&(f(n,p,function(){return!0}),this.thrown=!0,o(n))}),s.on("fn-end",function(){d&&!this.thrown&&l>0&&(l-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})}},{}],3:[function(t,e,n){var r=t("loader");r.disabled||(r.features.ins=!0)},{}],4:[function(t,e,n){function r(){U++,L=g.hash,this[u]=y.now()}function o(){U--,g.hash!==L&&i(0,!0);var t=y.now();this[h]=~~this[h]+t-this[u],this[d]=t}function i(t,e){E.emit("newURL",[""+g,e])}function a(t,e){t.on(e,function(){this[e]=y.now()})}var s="-start",c="-end",f="-body",u="fn"+s,d="fn"+c,p="cb"+s,l="cb"+c,h="jsTime",m="fetch",v="addEventListener",w=window,g=w.location,y=t("loader");if(w[v]&&y.xhrWrappable&&!y.disabled){var x=t(11),b=t(12),E=t(9),R=t(7),O=t(14),T=t(8),P=t(15),S=t(10),M=t("ee"),N=M.get("tracer"),C=t(23);t(17),y.features.spa=!0;var L,U=0;M.on(u,r),b.on(p,r),S.on(p,r),M.on(d,o),b.on(l,o),S.on(l,o),M.buffer([u,d,"xhr-resolved"]),R.buffer([u]),O.buffer(["setTimeout"+c,"clearTimeout"+s,u]),P.buffer([u,"new-xhr","send-xhr"+s]),T.buffer([m+s,m+"-done",m+f+s,m+f+c]),E.buffer(["newURL"]),x.buffer([u]),b.buffer(["propagate",p,l,"executor-err","resolve"+s]),N.buffer([u,"no-"+u]),S.buffer(["new-jsonp","cb-start","jsonp-error","jsonp-end"]),a(T,m+s),a(T,m+"-done"),a(S,"new-jsonp"),a(S,"jsonp-end"),a(S,"cb-start"),E.on("pushState-end",i),E.on("replaceState-end",i),w[v]("hashchange",i,C(!0)),w[v]("load",i,C(!0)),w[v]("popstate",function(){i(0,U>1)},C(!0))}},{}],5:[function(t,e,n){function r(){var t=new PerformanceObserver(function(t,e){var n=t.getEntries();s(v,[n])});try{t.observe({entryTypes:["resource"]})}catch(e){}}function o(t){if(s(v,[window.performance.getEntriesByType(w)]),window.performance["c"+p])try{window.performance[h](m,o,!1)}catch(t){}else try{window.performance[h]("webkit"+m,o,!1)}catch(t){}}function i(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var a=t("ee"),s=t("handle"),c=t(14),f=t(13),u=t(6),d=t(23),p="learResourceTimings",l="addEventListener",h="removeEventListener",m="resourcetimingbufferfull",v="bstResource",w="resource",g="-start",y="-end",x="fn"+g,b="fn"+y,E="bstTimer",R="pushState",O=t("loader");if(!O.disabled){O.features.stn=!0,t(9),"addEventListener"in window&&t(7);var T=NREUM.o.EV;a.on(x,function(t,e){var n=t[0];n instanceof T&&(this.bstStart=O.now())}),a.on(b,function(t,e){var n=t[0];n instanceof T&&s("bst",[n,e,this.bstStart,O.now()])}),c.on(x,function(t,e,n){this.bstStart=O.now(),this.bstType=n}),c.on(b,function(t,e){s(E,[e,this.bstStart,O.now(),this.bstType])}),f.on(x,function(){this.bstStart=O.now()}),f.on(b,function(t,e){s(E,[e,this.bstStart,O.now(),"requestAnimationFrame"])}),a.on(R+g,function(t){this.time=O.now(),this.startPath=location.pathname+location.hash}),a.on(R+y,function(t){s("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),u()?(s(v,[window.performance.getEntriesByType("resource")]),r()):l in window.performance&&(window.performance["c"+p]?window.performance[l](m,o,d(!1)):window.performance[l]("webkit"+m,o,d(!1))),document[l]("scroll",i,d(!1)),document[l]("keypress",i,d(!1)),document[l]("click",i,d(!1))}}},{}],6:[function(t,e,n){e.exports=function(){return"PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver}},{}],7:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t("wrap-function")(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1];if(null!==n&&("function"==typeof n||"object"==typeof n)){var r=c(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?s(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],8:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=i(arguments),e={};o.emit(n+"before-start",[t],e);var a;e[m]&&e[m].dt&&(a=e[m].dt);var s=r.apply(this,t);return o.emit(n+"start",[t,a],s),s.then(function(t){return o.emit(n+"end",[null,t],s),t},function(t){throw o.emit(n+"end",[t],s),t})})}var o=t("ee").get("fetch"),i=t(33),a=t(32);e.exports=o;var s=window,c="fetch-",f=c+"body-",u=["arrayBuffer","blob","json","text","formData"],d=s.Request,p=s.Response,l=s.fetch,h="prototype",m="nr@context";d&&p&&l&&(a(u,function(t,e){r(d[h],e,f),r(p[h],e,f)}),r(s,"fetch",c),o.on(c+"end",function(t,e){var n=this;if(e){var r=e.headers.get("content-length");null!==r&&(n.rxSize=r),o.emit(c+"done",[null,e],n)}else o.emit(c+"done",[t],n)}))},{}],9:[function(t,e,n){var r=t("ee").get("history"),o=t("wrap-function")(r);e.exports=r;var i=window.history&&window.history.constructor&&window.history.constructor.prototype,a=window.history;i&&i.pushState&&i.replaceState&&(a=i),o.inPlace(a,["pushState","replaceState"],"-")},{}],10:[function(t,e,n){function r(t){function e(){f.emit("jsonp-end",[],l),t.removeEventListener("load",e,c(!1)),t.removeEventListener("error",n,c(!1))}function n(){f.emit("jsonp-error",[],l),f.emit("jsonp-end",[],l),t.removeEventListener("load",e,c(!1)),t.removeEventListener("error",n,c(!1))}var r=t&&"string"==typeof t.nodeName&&"script"===t.nodeName.toLowerCase();if(r){var o="function"==typeof t.addEventListener;if(o){var a=i(t.src);if(a){var d=s(a),p="function"==typeof d.parent[d.key];if(p){var l={};u.inPlace(d.parent,[d.key],"cb-",l),t.addEventListener("load",e,c(!1)),t.addEventListener("error",n,c(!1)),f.emit("new-jsonp",[t.src],l)}}}}}function o(){return"addEventListener"in window}function i(t){var e=t.match(d);return e?e[1]:null}function a(t,e){var n=t.match(l),r=n[1],o=n[3];return o?a(o,e[r]):e[r]}function s(t){var e=t.match(p);return e&&e.length>=3?{key:e[2],parent:a(e[1],window)}:{key:t,parent:window}}var c=t(23),f=t("ee").get("jsonp"),u=t("wrap-function")(f);if(e.exports=f,o()){var d=/[?&](?:callback|cb)=([^&#]+)/,p=/(.*)\.([^.]+)/,l=/^(\w+)(\.|$)(.*)$/,h=["appendChild","insertBefore","replaceChild"];Node&&Node.prototype&&Node.prototype.appendChild?u.inPlace(Node.prototype,h,"dom-"):(u.inPlace(HTMLElement.prototype,h,"dom-"),u.inPlace(HTMLHeadElement.prototype,h,"dom-"),u.inPlace(HTMLBodyElement.prototype,h,"dom-")),f.on("dom-start",function(t){r(t[0])})}},{}],11:[function(t,e,n){var r=t("ee").get("mutation"),o=t("wrap-function")(r),i=NREUM.o.MO;e.exports=r,i&&(window.MutationObserver=function(t){return this instanceof i?new i(o(t,"fn-")):i.apply(this,arguments)},MutationObserver.prototype=i.prototype)},{}],12:[function(t,e,n){function r(t){var e=i.context(),n=s(t,"executor-",e,null,!1),r=new f(n);return i.context(r).getCtx=function(){return e},r}var o=t("wrap-function"),i=t("ee").get("promise"),a=t("ee").getOrSetContext,s=o(i),c=t(32),f=NREUM.o.PR;e.exports=i,f&&(window.Promise=r,["all","race"].forEach(function(t){var e=f[t];f[t]=function(n){function r(t){return function(){i.emit("propagate",[null,!o],a,!1,!1),o=o||!t}}var o=!1;c(n,function(e,n){Promise.resolve(n).then(r("all"===t),r(!1))});var a=e.apply(f,arguments),s=f.resolve(a);return s}}),["resolve","reject"].forEach(function(t){var e=f[t];f[t]=function(t){var n=e.apply(f,arguments);return t!==n&&i.emit("propagate",[t,!0],n,!1,!1),n}}),f.prototype["catch"]=function(t){return this.then(null,t)},f.prototype=Object.create(f.prototype,{constructor:{value:r}}),c(Object.getOwnPropertyNames(f),function(t,e){try{r[e]=f[e]}catch(n){}}),o.wrapInPlace(f.prototype,"then",function(t){return function(){var e=this,n=o.argsToArray.apply(this,arguments),r=a(e);r.promise=e,n[0]=s(n[0],"cb-",r,null,!1),n[1]=s(n[1],"cb-",r,null,!1);var c=t.apply(this,n);return r.nextPromise=c,i.emit("propagate",[e,!0],c,!1,!1),c}}),i.on("executor-start",function(t){t[0]=s(t[0],"resolve-",this,null,!1),t[1]=s(t[1],"resolve-",this,null,!1)}),i.on("executor-err",function(t,e,n){t[1](n)}),i.on("cb-end",function(t,e,n){i.emit("propagate",[n,!0],this.nextPromise,!1,!1)}),i.on("propagate",function(t,e,n){this.getCtx&&!e||(this.getCtx=function(){if(t instanceof Promise)var e=i.context(t);return e&&e.getCtx?e.getCtx():this})}),r.toString=function(){return""+f})},{}],13:[function(t,e,n){var r=t("ee").get("raf"),o=t("wrap-function")(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],14:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t("wrap-function")(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],15:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){x.push(t),m&&(E?E.then(a):w?w(a):(R=-R,O.data=R))}function a(){for(var t=0;t<x.length;t++)r([],x[t]);x.length&&(x=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(7);var f=t("ee"),u=f.get("xhr"),d=t("wrap-function")(u),p=t(23),l=NREUM.o,h=l.XHR,m=l.MO,v=l.PR,w=l.SI,g="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],x=[];e.exports=u;var b=window.XMLHttpRequest=function(t){var e=new h(t);try{u.emit("new-xhr",[e],e),e.addEventListener(g,o,p(!1))}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(h,b),b.prototype=h.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),m){var E=v&&v.resolve();if(!w&&!v){var R=1,O=document.createTextNode(R);new m(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===g||a()})},{}],16:[function(t,e,n){function r(t){if(!s(t))return null;var e=window.NREUM;if(!e.loader_config)return null;var n=(e.loader_config.accountID||"").toString()||null,r=(e.loader_config.agentID||"").toString()||null,f=(e.loader_config.trustKey||"").toString()||null;if(!n||!r)return null;var h=l.generateSpanId(),m=l.generateTraceId(),v=Date.now(),w={spanId:h,traceId:m,timestamp:v};return(t.sameOrigin||c(t)&&p())&&(w.traceContextParentHeader=o(h,m),w.traceContextStateHeader=i(h,v,n,r,f)),(t.sameOrigin&&!u()||!t.sameOrigin&&c(t)&&d())&&(w.newrelicHeader=a(h,m,v,n,r,f)),w}function o(t,e){return"00-"+e+"-"+t+"-01"}function i(t,e,n,r,o){var i=0,a="",s=1,c="",f="";return o+"@nr="+i+"-"+s+"-"+n+"-"+r+"-"+t+"-"+a+"-"+c+"-"+f+"-"+e}function a(t,e,n,r,o,i){var a="btoa"in window&&"function"==typeof window.btoa;if(!a)return null;var s={v:[0,1],d:{ty:"Browser",ac:r,ap:o,id:t,tr:e,ti:n}};return i&&r!==i&&(s.d.tk=i),btoa(JSON.stringify(s))}function s(t){return f()&&c(t)}function c(t){var e=!1,n={};if("init"in NREUM&&"distributed_tracing"in NREUM.init&&(n=NREUM.init.distributed_tracing),t.sameOrigin)e=!0;else if(n.allowed_origins instanceof Array)for(var r=0;r<n.allowed_origins.length;r++){var o=h(n.allowed_origins[r]);if(t.hostname===o.hostname&&t.protocol===o.protocol&&t.port===o.port){e=!0;break}}return e}function f(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&!!NREUM.init.distributed_tracing.enabled}function u(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&!!NREUM.init.distributed_tracing.exclude_newrelic_header}function d(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&NREUM.init.distributed_tracing.cors_use_newrelic_header!==!1}function p(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&!!NREUM.init.distributed_tracing.cors_use_tracecontext_headers}var l=t(29),h=t(18);e.exports={generateTracePayload:r,shouldGenerateTrace:s}},{}],17:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<p;r++)t.removeEventListener(d[r],this.listener,!1);e.aborted||(n.duration=a.now()-this.startTime,this.loadCaptureCalled||4!==t.readyState?null==e.status&&(e.status=0):i(this,t),n.cbTime=this.cbTime,s("xhr",[e,n,this.startTime,this.endTime,"xhr"],this))}}function o(t,e){var n=c(e),r=t.params;r.hostname=n.hostname,r.port=n.port,r.protocol=n.protocol,r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.parsedOrigin=n,t.sameOrigin=n.sameOrigin}function i(t,e){t.params.status=e.status;var n=v(e,t.lastSize);if(n&&(t.metrics.rxSize=n),t.sameOrigin){var r=e.getResponseHeader("X-NewRelic-App-Data");r&&(t.params.cat=r.split(", ").pop())}t.loadCaptureCalled=!0}var a=t("loader");if(a.xhrWrappable&&!a.disabled){var s=t("handle"),c=t(18),f=t(16).generateTracePayload,u=t("ee"),d=["load","error","abort","timeout"],p=d.length,l=t("id"),h=t(24),m=t(22),v=t(19),w=t(23),g=NREUM.o.REQ,y=window.XMLHttpRequest;a.features.xhr=!0,t(15),t(8),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,e.loadCaptureCalled=!1,e.params=this.params||{},e.metrics=this.metrics||{},t.addEventListener("load",function(n){i(e,t)},w(!1)),h&&(h>34||h<10)||t.addEventListener("progress",function(t){e.lastSize=t.loaded},w(!1))}),u.on("open-xhr-start",function(t){this.params={method:t[0]},o(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid);var n=f(this.parsedOrigin);if(n){var r=!1;n.newrelicHeader&&(e.setRequestHeader("newrelic",n.newrelicHeader),r=!0),n.traceContextParentHeader&&(e.setRequestHeader("traceparent",n.traceContextParentHeader),n.traceContextStateHeader&&e.setRequestHeader("tracestate",n.traceContextStateHeader),r=!0),r&&(this.dt=n)}}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=m(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"!==t.type||o.loadCaptureCalled||(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;s<p;s++)e.addEventListener(d[s],this.listener,w(!1))}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("xhr-resolved",function(){this.endTime=a.now()}),u.on("addEventListener-end",function(t,e){e instanceof y&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof y&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof y&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)}),u.on("fetch-before-start",function(t){function e(t,e){var n=!1;return e.newrelicHeader&&(t.set("newrelic",e.newrelicHeader),n=!0),e.traceContextParentHeader&&(t.set("traceparent",e.traceContextParentHeader),e.traceContextStateHeader&&t.set("tracestate",e.traceContextStateHeader),n=!0),n}var n,r=t[1]||{};"string"==typeof t[0]?n=t[0]:t[0]&&t[0].url?n=t[0].url:window.URL&&t[0]&&t[0]instanceof URL&&(n=t[0].href),n&&(this.parsedOrigin=c(n),this.sameOrigin=this.parsedOrigin.sameOrigin);var o=f(this.parsedOrigin);if(o&&(o.newrelicHeader||o.traceContextParentHeader))if("string"==typeof t[0]||window.URL&&t[0]&&t[0]instanceof URL){var i={};for(var a in r)i[a]=r[a];i.headers=new Headers(r.headers||{}),e(i.headers,o)&&(this.dt=o),t.length>1?t[1]=i:t.push(i)}else t[0]&&t[0].headers&&e(t[0].headers,o)&&(this.dt=o)}),u.on("fetch-start",function(t,e){this.params={},this.metrics={},this.startTime=a.now(),this.dt=e,t.length>=1&&(this.target=t[0]),t.length>=2&&(this.opts=t[1]);var n,r=this.opts||{},i=this.target;"string"==typeof i?n=i:"object"==typeof i&&i instanceof g?n=i.url:window.URL&&"object"==typeof i&&i instanceof URL&&(n=i.href),o(this,n);var s=(""+(i&&i instanceof g&&i.method||r.method||"GET")).toUpperCase();this.params.method=s,this.txSize=m(r.body)||0}),u.on("fetch-done",function(t,e){this.endTime=a.now(),this.params||(this.params={}),this.params.status=e?e.status:0;var n;"string"==typeof this.rxSize&&this.rxSize.length>0&&(n=+this.rxSize);var r={txSize:this.txSize,rxSize:n,duration:a.now()-this.startTime};s("xhr",[this.params,r,this.startTime,this.endTime,"fetch"],this)})}},{}],18:[function(t,e,n){var r={};e.exports=function(t){if(t in r)return r[t];var e=document.createElement("a"),n=window.location,o={};e.href=t,o.port=e.port;var i=e.href.split("://");!o.port&&i[1]&&(o.port=i[1].split("/")[0].split("@").pop().split(":")[1]),o.port&&"0"!==o.port||(o.port="https"===i[0]?"443":"80"),o.hostname=e.hostname||n.hostname,o.pathname=e.pathname,o.protocol=i[0],"/"!==o.pathname.charAt(0)&&(o.pathname="/"+o.pathname);var a=!e.protocol||":"===e.protocol||e.protocol===n.protocol,s=e.hostname===document.domain&&e.port===n.port;return o.sameOrigin=a&&(!e.hostname||s),"/"===o.pathname&&(r[t]=o),o}},{}],19:[function(t,e,n){function r(t,e){var n=t.responseType;return"json"===n&&null!==e?e:"arraybuffer"===n||"blob"===n||"json"===n?o(t.response):"text"===n||""===n||void 0===n?o(t.responseText):void 0}var o=t(22);e.exports=r},{}],20:[function(t,e,n){function r(){}function o(t,e,n,r){return function(){return u.recordSupportability("API/"+e+"/called"),i(t+e,[f.now()].concat(s(arguments)),n?null:this,r),n?void 0:this}}var i=t("handle"),a=t(32),s=t(33),c=t("ee").get("tracer"),f=t("loader"),u=t(25),d=NREUM;"undefined"==typeof window.newrelic&&(newrelic=d);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",h=l+"ixn-";a(p,function(t,e){d[e]=o(l,e,!0,"api")}),d.addPageAction=o(l,"addPageAction",!0),d.setCurrentRouteName=o(l,"routeName",!0),e.exports=newrelic,d.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(h+"tracer",[f.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],n),t}finally{c.emit("fn-end",[f.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){m[e]=o(h,e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),u.recordSupportability("API/noticeError/called"),i("err",[t,f.now(),!1,e])}},{}],21:[function(t,e,n){function r(t){if(NREUM.init){for(var e=NREUM.init,n=t.split("."),r=0;r<n.length-1;r++)if(e=e[n[r]],"object"!=typeof e)return;return e=e[n[n.length-1]]}}e.exports={getConfiguration:r}},{}],22:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],23:[function(t,e,n){var r=!1;try{var o=Object.defineProperty({},"passive",{get:function(){r=!0}});window.addEventListener("testPassive",null,o),window.removeEventListener("testPassive",null,o)}catch(i){}e.exports=function(t){return r?{passive:!0,capture:!!t}:!!t}},{}],24:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],25:[function(t,e,n){function r(t,e){var n=[a,t,{name:t},e];return i("storeMetric",n,null,"api"),n}function o(t,e){var n=[s,t,{name:t},e];return i("storeEventMetrics",n,null,"api"),n}var i=t("handle"),a="sm",s="cm";e.exports={constants:{SUPPORTABILITY_METRIC:a,CUSTOM_METRIC:s},recordSupportability:r,recordCustom:o}},{}],26:[function(t,e,n){function r(){return s.exists&&performance.now?Math.round(performance.now()):(i=Math.max((new Date).getTime(),i))-a}function o(){return i}var i=(new Date).getTime(),a=i,s=t(34);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=o},{}],27:[function(t,e,n){function r(t){return!(!t||!t.protocol||"file:"===t.protocol)}e.exports=r},{}],28:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?p("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&p("timing",["fcp",Math.floor(t.startTime)])})}function o(t,e){var n=t.getEntries();if(n.length>0){var r=n[n.length-1];if(c&&c<r.startTime)return;p("lcp",[r])}}function i(t){t.getEntries().forEach(function(t){t.hadRecentInput||p("cls",[t])})}function a(t){if(t instanceof v&&!g){var e=Math.round(t.timeStamp),n={type:t.type};e<=l.now()?n.fid=l.now()-e:e>l.offset&&e<=Date.now()?(e-=l.offset,n.fid=l.now()-e):e=l.now(),g=!0,p("timing",["fi",e,n])}}function s(t){"hidden"===t&&(c=l.now(),p("pageHide",[c]))}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var c,f,u,d,p=t("handle"),l=t("loader"),h=t(31),m=t(23),v=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){f=new PerformanceObserver(r);try{f.observe({entryTypes:["paint"]})}catch(w){}u=new PerformanceObserver(o);try{u.observe({entryTypes:["largest-contentful-paint"]})}catch(w){}d=new PerformanceObserver(i);try{d.observe({type:"layout-shift",buffered:!0})}catch(w){}}if("addEventListener"in document){var g=!1,y=["click","keydown","mousedown","pointerdown","touchstart"];y.forEach(function(t){document.addEventListener(t,a,m(!1))})}h(s)}},{}],29:[function(t,e,n){function r(){function t(){return e?15&e[n++]:16*Math.random()|0}var e=null,n=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&(e=r.getRandomValues(new Uint8Array(31)));for(var o,i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",a="",s=0;s<i.length;s++)o=i[s],"x"===o?a+=t().toString(16):"y"===o?(o=3&t()|8,a+=o.toString(16)):a+=o;return a}function o(){return a(16)}function i(){return a(32)}function a(t){function e(){return n?15&n[r++]:16*Math.random()|0}var n=null,r=0,o=window.crypto||window.msCrypto;o&&o.getRandomValues&&Uint8Array&&(n=o.getRandomValues(new Uint8Array(31)));for(var i=[],a=0;a<t;a++)i.push(e().toString(16));return i.join("")}e.exports={generateUuid:r,generateSpanId:o,generateTraceId:i}},{}],30:[function(t,e,n){function r(t,e){if(!o)return!1;if(t!==o)return!1;if(!e)return!0;if(!i)return!1;for(var n=i.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}e.exports={agent:o,version:i,match:r}},{}],31:[function(t,e,n){function r(t){function e(){t(s&&document[s]?document[s]:document[i]?"hidden":"visible")}"addEventListener"in document&&a&&document.addEventListener(a,e,o(!1))}var o=t(23);e.exports=r;var i,a,s;"undefined"!=typeof document.hidden?(i="hidden",a="visibilitychange",s="visibilityState"):"undefined"!=typeof document.msHidden?(i="msHidden",a="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(i="webkitHidden",a="webkitvisibilitychange",s="webkitVisibilityState")},{}],32:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],33:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],34:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?f(t,c,a):a()}function n(n,r,o,i,a){if(a!==!1&&(a=!0),!l.aborted||i){t&&a&&t(n,r,o);for(var s=e(o),c=m(n),f=c.length,u=0;u<f;u++)c[u].apply(s,r);var p=d[y[n]];return p&&p.push([x,n,r,s]),s}}function i(t,e){g[t]=m(t).concat(e)}function h(t,e){var n=g[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return g[t]||[]}function v(t){return p[t]=p[t]||o(n)}function w(t,e){l.aborted||u(t,function(t,n){e=e||"feature",y[n]=e,e in d||(d[e]=[])})}var g={},y={},x={on:i,addEventListener:i,removeEventListener:h,emit:n,get:v,listeners:m,context:e,buffer:w,abort:s,aborted:!1};return x}function i(t){return f(t,c,a)}function a(){return new r}function s(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var c="nr@context",f=t("gos"),u=t(32),d={},p={},l=e.exports=o();e.exports.getOrSetContext=i,l.backlog=d},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!P++){var t=T.info=NREUM.info,e=v.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();c(R,function(e,n){t[e]||(t[e]=n)});var n=a();s("mark",["onload",n+T.offset],null,"api"),s("timing",["load",n]);var r=v.createElement("script");0===t.agent.indexOf("http://")||0===t.agent.indexOf("https://")?r.src=t.agent:r.src=h+"://"+t.agent,e.parentNode.insertBefore(r,e)}}function o(){"complete"===v.readyState&&i()}function i(){s("mark",["domContent",a()+T.offset],null,"api")}var a=t(26),s=t("handle"),c=t(32),f=t("ee"),u=t(30),d=t(27),p=t(21),l=t(23),h=p.getConfiguration("ssl")===!1?"http":"https",m=window,v=m.document,w="addEventListener",g="attachEvent",y=m.XMLHttpRequest,x=y&&y.prototype,b=!d(m.location);NREUM.o={ST:setTimeout,SI:m.setImmediate,CT:clearTimeout,XHR:y,REQ:m.Request,EV:m.Event,PR:m.Promise,MO:m.MutationObserver};var E=""+location,R={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-spa-1212.min.js"},O=y&&x&&x[w]&&!/CriOS/.test(navigator.userAgent),T=e.exports={offset:a.getLastTimestamp(),now:a,origin:E,features:{},xhrWrappable:O,userAgent:u,disabled:b};if(!b){t(20),t(28),v[w]?(v[w]("DOMContentLoaded",i,l(!1)),m[w]("load",r,l(!1))):(v[g]("onreadystatechange",o),m[g]("onload",r)),s("mark",["firstbyte",a.getLastTimestamp()],null,"api");var P=0}},{}],"wrap-function":[function(t,e,n){function r(t,e){function n(e,n,r,c,f){function nrWrapper(){var i,a,u,p;try{a=this,i=d(arguments),u="function"==typeof r?r(i,a):r||{}}catch(l){o([l,"",[i,a,c],u],t)}s(n+"start",[i,a,c],u,f);try{return p=e.apply(a,i)}catch(h){throw s(n+"err",[i,a,h],u,f),h}finally{s(n+"end",[i,a,p],u,f)}}return a(e)?e:(n||(n=""),nrWrapper[p]=e,i(e,nrWrapper,t),nrWrapper)}function r(t,e,r,o,i){r||(r="");var s,c,f,u="-"===r.charAt(0);for(f=0;f<e.length;f++)c=e[f],s=t[c],a(s)||(t[c]=n(s,u?c+r:r,o,c,i))}function s(n,r,i,a){if(!h||e){var s=h;h=!0;try{t.emit(n,r,i,e,a)}catch(c){o([c,n,r,i],t)}h=s}}return t||(t=u),n.inPlace=r,n.flag=p,n}function o(t,e){e||(e=u);try{e.emit("internal-error",t)}catch(n){}}function i(t,e,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(t);return r.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(i){o([i],n)}for(var a in t)l.call(t,a)&&(e[a]=t[a]);return e}function a(t){return!(t&&t instanceof Function&&t.apply&&!t[p])}function s(t,e){var n=e(t);return n[p]=t,i(t,n,u),n}function c(t,e,n){var r=t[e];t[e]=s(r,n)}function f(){for(var t=arguments.length,e=new Array(t),n=0;n<t;++n)e[n]=arguments[n];return e}var u=t("ee"),d=t(33),p="nr@original",l=Object.prototype.hasOwnProperty,h=!1;e.exports=r,e.exports.wrapFunction=s,e.exports.wrapInPlace=c,e.exports.argsToArray=f},{}]},{},["loader",2,17,5,3,4]);
+  ;NREUM.loader_config={accountID:"804283",trustKey:"804283",agentID:"402703674",licenseKey:"cf99e8d2a3",applicationID:"402703674"}
+  ;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"cf99e8d2a3",
+    // Modified this value from the generated script, to pass prod vs dev
+    applicationID: window.location.hostname.includes('journals.plos.org') ? "402703674" : "402694889",
+    sa:1}
+</script>
+<!-- End New Relic -->
+
+
+
+<header>
+  <div id="topslot" class="head-top">
+  <a id="skip-to-content" tabindex="0" class="button" href="#main-content">
+    Skip to main content
+  </a>
+
+<div class="center">
+<div class="title">Advertisement</div>
+<!-- DoubleClick Ad Zone -->
+  <div class='advertisement' id='div-gpt-ad-1458247671871-0' style='width:728px; height:90px;'>
+    <script type='text/javascript'>
+      googletag.cmd.push(function() { googletag.display('div-gpt-ad-1458247671871-0'); });
+    </script>
+  </div>
+</div>
+  </div>
+
+  <div id="user" class="nav" data-user-management-url="https://community.plos.org">
+  </div>
+  <div id="pagehdr">
+
+    <nav class="nav-main">
+
+
+
+
+<h1 class="logo">
+  <a href="/plosone/.">PLOS One</a>
+</h1>
+
+<section class="top-bar-section"> 
+
+<ul class="nav-elements">
+
+
+    <li class="multi-col-parent menu-section-header has-dropdown" id="publish">
+    Publish
+      <div class="dropdown mega ">
+        <ul class="multi-col" id="publish-dropdown-list">
+
+  <li class="menu-section-header " id="submissions">
+    <span class="menu-section-header-title">  Submissions </span>
+
+    <ul class="menu-section "
+        id="submissions-dropdown-list">
+      <li>
+    <a href="/plosone/s/getting-started" >Getting Started</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/submission-guidelines" >Submission Guidelines</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/figures" >Figures</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/tables" >Tables</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/supporting-information" >Supporting Information</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/latex" >LaTeX</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/what-we-publish" >What We Publish</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/preprints" >Preprints</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/revising-your-manuscript" >Revising Your Manuscript</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/submit-now" >Submit Now</a>
+  </li>
+
+      <li>
+    <a href="https://collections.plos.org/s/calls-for-papers" >Calls for Papers</a>
+  </li>
+
+    </ul>
+
+  </li>
+
+
+  <li class="menu-section-header " id="policies">
+    <span class="menu-section-header-title">  Policies </span>
+
+    <ul class="menu-section "
+        id="policies-dropdown-list">
+      <li>
+    <a href="/plosone/s/best-practices-in-research-reporting" >Best Practices in Research Reporting</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/human-subjects-research" >Human Subjects Research</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/animal-research" >Animal Research</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/competing-interests" >Competing Interests</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/disclosure-of-funding-sources" >Disclosure of Funding Sources</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/licenses-and-copyright" >Licenses and Copyright</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/data-availability" >Data Availability</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/complementary-research" >Complementary Research</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/materials-software-and-code-sharing" >Materials, Software and Code Sharing</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/ethical-publishing-practice" >Ethical Publishing Practice</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/authorship" >Authorship</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/corrections-expressions-of-concern-and-retractions" >Corrections, Expressions of Concern, and Retractions</a>
+  </li>
+
+    </ul>
+
+  </li>
+
+
+  <li class="menu-section-header " id="manuscript-review-and-publication">
+    <span class="menu-section-header-title">  Manuscript Review and Publication </span>
+
+    <ul class="menu-section "
+        id="manuscript-review-and-publication-dropdown-list">
+      <li>
+    <a href="/plosone/s/criteria-for-publication" >Criteria for Publication</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/editorial-and-peer-review-process" >Editorial and Peer Review Process</a>
+  </li>
+
+      <li>
+    <a href="https://explore.plos.org/editor-resources" >Editor Center</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/reviewer-guidelines" >Guidelines for Reviewers</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/accepted-manuscripts" >Accepted Manuscripts</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/comments" >Comments</a>
+  </li>
+
+    </ul>
+
+  </li>
+        </ul>
+          <div class="calloutcontainer">
+
+
+
+  <h3 class="callout-headline">Submit Your Manuscript</h3>
+
+  <div class="action-contain">
+  <p class="callout-content">
+  Discover a faster, simpler path to publishing in a high-quality journal. <em>PLOS ONE</em> promises fair, rigorous peer review,
+  broad scope, and wide readership – a perfect fit for your research every time.
+  </p>
+
+  <p class="button-contain special">
+    <a class="button button-default" href="/plosone/static/publish">
+     Learn More
+    </a>
+    <a class="button-link" href="https://www.editorialmanager.com/pone/default.asp">
+      Submit Now
+    </a>
+  </p>
+  </div>  <!-- opens in siteMenuCalloutDescription -->
+
+
+          </div>
+      </div>
+    </li>
+
+
+
+  <li class="menu-section-header has-dropdown " id="about">
+    <span class="menu-section-header-title">  About </span>
+
+    <ul class="menu-section dropdown "
+        id="about-dropdown-list">
+      <li>
+    <a href="/plosone/static/publish" >Why Publish with PLOS ONE</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/journal-information" >Journal Information</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/staff-editors" >Staff Editors</a>
+  </li>
+
+      <li>
+    <a href="/plosone/static/editorial-board" >Editorial Board</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/section-editors" >Section Editors</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/advisory-groups" >Advisory Groups</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/find-and-read-articles" >Find and Read Articles</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/publishing-information" >Publishing Information</a>
+  </li>
+
+      <li>
+    <a href="https://plos.org/publication-fees" >Publication Fees</a>
+  </li>
+
+      <li>
+    <a href="https://plos.org/press-and-media" >Press and Media</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/contact" >Contact</a>
+  </li>
+
+    </ul>
+
+  </li>
+
+  <li data-js-tooltip-hover="trigger" class="subject-area menu-section-header">
+  Browse
+  </li>
+
+<script src="/resource/js/vendor/jquery.hoverIntent.js" type="text/javascript"></script>
+<script src="/resource/js/components/menu_drop.js" type="text/javascript"></script>
+<script src="/resource/js/components/hover_delay.js" type="text/javascript"></script>
+      <li id="navsearch" class="head-search">
+
+
+    <form name="searchForm" action="/plosone/search" method="get">
+      <fieldset>
+        <legend>Search</legend>
+        <label for="search">Search</label>
+        <div class="search-contain">
+          <input id="search" type="text" name="q" placeholder="SEARCH" required/>
+          <button id="headerSearchButton" type="submit" aria-label="Submit search">
+            <i title="Submit search" class="search-icon"></i>
+          </button>
+        </div>
+      </fieldset>
+      <input type="hidden" name="filterJournals" value="PLoSONE"/>
+    </form>
+
+    <a id="advSearch"
+       href="/plosone/search">
+      advanced search
+    </a>
+
+
+
+
+<script src="/resource/js/components/placeholder_style.js" type="text/javascript"></script>
+      </li>
+
+      </ul>     
+      </section>  
+    </nav>
+  </div>
+
+</header>
+<section id="taxonomyContainer">
+
+<script src="/resource/js/taxonomy-browser.js" type="text/javascript"></script>
+<div id="taxonomy-browser" class="areas" data-search-url="/plosone/browse">
+  <div class="wrapper">
+    <div class="taxonomy-header">
+      Browse Subject Areas
+      <div id="subjInfo">?</div>
+      <div id="subjInfoText">
+        <p>Click through the PLOS taxonomy to find articles in your field.</p>
+        <p>For more information about PLOS Subject Areas, click
+          <a href="https://github.com/PLOS/plos-thesaurus/blob/master/README.md" target="_blank" title="Link opens in new window">here</a>.
+        </p>
+      </div>
+    </div>
+    <div class="levels">
+      <div class="levels-container cf">
+        <div class="levels-position"></div>
+      </div>
+      <a href="#" class="prev"></a>
+      <a href="#" class="next active"></a>
+    </div>
+  </div>
+  <div class="taxonomy-browser-border-bottom"></div>
+</div>
+</section>
+<main id="main-content"> <div class="set-grid">
+
+<header class="title-block">
+
+
+
+<script src="/resource/js/components/signposts.js" type="text/javascript"></script>
+
+<ul id="almSignposts" class="signposts">
+  <li id="loadingMetrics">
+    <p>Loading metrics</p>
+  </li>
+</ul>
+
+<script type="text/template" id="signpostsGeneralErrorTemplate">
+  <li id="metricsError">Article metrics are unavailable at this time. Please try again later.</li>
+</script>
+
+<script type="text/template" id="signpostsNewArticleErrorTemplate">
+  <li></li><li></li><li id="tooSoon">Article metrics are unavailable for recently published articles.</li>
+</script>
+
+<script type="text/template" id="signpostsTemplate">
+    <li id="almSaves">
+      <%= s.numberFormat(saveCount, 0) %>
+      <div class="tools" data-js-tooltip-hover="trigger">
+        <a class="metric-term" href="/plosone/article/metrics?id=10.1371/journal.pone.0189661#savedHeader">Save</a>
+        <p class="saves-tip" data-js-tooltip-hover="target"><a href="/plosone/article/metrics?id=10.1371/journal.pone.0189661#savedHeader">Total Mendeley and Citeulike bookmarks.</a></p>
+      </div>
+    </li>
+
+    <li id="almCitations">
+      <%= s.numberFormat(citationCount, 0) %>
+      <div class="tools" data-js-tooltip-hover="trigger">
+        <a class="metric-term" href="/plosone/article/metrics?id=10.1371/journal.pone.0189661#citedHeader">Citation</a>
+        <p class="citations-tip" data-js-tooltip-hover="target"><a href="/plosone/article/metrics?id=10.1371/journal.pone.0189661#citedHeader">Paper's citation count computed by Dimensions.</a></p>
+      </div>
+    </li>
+
+    <li id="almViews">
+      <%= s.numberFormat(viewCount, 0) %>
+      <div class="tools" data-js-tooltip-hover="trigger">
+        <a class="metric-term" href="/plosone/article/metrics?id=10.1371/journal.pone.0189661#viewedHeader">View</a>
+        <p class="views-tip" data-js-tooltip-hover="target"><a href="/plosone/article/metrics?id=10.1371/journal.pone.0189661#viewedHeader">PLOS views and downloads.</a></p>
+      </div>
+    </li>
+
+    <li id="almShares">
+      <%= s.numberFormat(shareCount, 0) %>
+      <div class="tools" data-js-tooltip-hover="trigger">
+        <a class="metric-term" href="/plosone/article/metrics?id=10.1371/journal.pone.0189661#discussedHeader">Share</a>
+        <p class="shares-tip" data-js-tooltip-hover="target"><a href="/plosone/article/metrics?id=10.1371/journal.pone.0189661#discussedHeader">Sum of Facebook, Twitter, Reddit and Wikipedia activity.</a></p>
+      </div>
+    </li>
+</script>
+
+    <div class="article-meta">
+
+<div class="classifications">
+  <p class="license-short" id="licenseShort">Open Access</p>
+  <p class="peer-reviewed" id="peerReviewed">Peer-reviewed</p>
+
+<div class="article-type" >
+  <p class="type-article" id="artType">Research Article</p>
+</div>
+
+
+</div>
+    </div>
+    <div class="article-title-etc">
+
+
+
+<div class="title-authors">
+  <h1 id="artTitle"><?xml version="1.0" encoding="UTF-8"?>Examining public knowledge and preferences for adult preventive services coverage</h1>
+
+<ul class="author-list clearfix"  data-js-tooltip="tooltip_container" id="author-list">
+
+
+
+<li
+  data-js-tooltip="tooltip_trigger"
+  
+>
+   <a  data-author-id="0" class="author-name" >
+Jessica A. R. Williams <span class="email">  </span>,</a>    <div id="author-meta-0" class="author-info" data-js-tooltip="tooltip_target">
+
+  
+  <p class="roles" id="authRoles">
+    <span class="type">Roles</span>
+    Conceptualization,
+
+    Data curation,
+
+    Formal analysis,
+
+    Funding acquisition,
+
+    Investigation,
+
+    Methodology,
+
+    Writing – original draft,
+
+    Writing – review & editing
+  </p>
+  <p id="authCorresponding-0"> <span class="email">* E-mail:</span> <a href="mailto:jwilliams13@kumc.edu">jwilliams13@kumc.edu</a></p>
+  <p id="authAffiliations-0"><span class="type">Affiliation</span>
+    Department of Health Management and Policy, University of Kansas School of Medicine, Kansas City, Kansas, United States of America
+  </p>
+  <div>
+  <p class="orcid" id="authOrcid-0">
+    <span>
+      <a id="connect-orcid-link" href="http://orcid.org/0000-0002-8195-1355" target="_blank" title="ORCID Registry">
+        <img id="orcid-id-logo" src="/resource/img/orcid_16x16.png" width="16" height="16" alt="ORCID logo"/>
+        http://orcid.org/0000-0002-8195-1355
+      </a>
+    </span>
+  </p>
+  </div>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose0"> &#x02A2F; </a>
+    </div>
+</li>
+
+<li
+  data-js-tooltip="tooltip_trigger"
+  
+>
+   <a  data-author-id="1" class="author-name" >
+Selena E. Ortiz</a>    <div id="author-meta-1" class="author-info" data-js-tooltip="tooltip_target">
+
+  
+  <p class="roles" id="authRoles">
+    <span class="type">Roles</span>
+    Conceptualization,
+
+    Data curation,
+
+    Funding acquisition,
+
+    Investigation,
+
+    Methodology,
+
+    Project administration,
+
+    Writing – original draft,
+
+    Writing – review & editing
+  </p>
+  
+  <p id="authAffiliations-1"><span class="type">Affiliation</span>
+    Department of Health Policy and Administration, College of Health and Human Development, The Pennsylvania State University, University Park, Pennsylvania, United States of America
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose1"> &#x02A2F; </a>
+    </div>
+</li>
+
+</ul>
+<script src="/resource/js/components/tooltip.js" type="text/javascript"></script>
+
+</div>
+
+
+<div id="floatTitleTop" data-js-floater="title_author" class="float-title" role="presentation">
+  <div class="set-grid">
+    <div class="float-title-inner">
+      <h1><?xml version="1.0" encoding="UTF-8"?>Examining public knowledge and preferences for adult preventive services coverage</h1>
+
+<ul id="floatAuthorList" data-js-floater="floated_authors">
+
+  <li data-float-index="1">Jessica A. R. Williams,&nbsp;
+
+  </li>
+  <li data-float-index="2">Selena E. Ortiz
+
+  </li>
+
+</ul>
+
+
+
+    </div>
+    <div class="logo-close" id="titleTopCloser">
+      <img src="/resource/img/logo-plos-full-color.svg" style="height: 2em" alt="PLOS" />
+      <div class="close-floater" title="close">x</div>
+    </div>
+  </div>
+</div>
+
+      <ul class="date-doi">
+        <li id="artPubDate">Published: December 20, 2017</li>
+        <li id="artDoi">
+<a   href="https://doi.org/10.1371/journal.pone.0189661">https://doi.org/10.1371/journal.pone.0189661</a>
+        </li>
+        <li class="flex-spacer"></li>
+      </ul>
+
+    </div>
+  <div>
+
+  </div>
+</header>
+  <section class="article-body">
+
+
+
+<ul class="article-tabs">
+
+          <li class="tab-title active" id="tabArticle">
+            <a href="/plosone/article?id=10.1371/journal.pone.0189661" class="article-tab-1">Article</a>
+        </li>
+
+
+              <li class="tab-title " id="tabAuthors">
+            <a href="/plosone/article/authors?id=10.1371/journal.pone.0189661" class="article-tab-2">Authors</a>
+        </li>
+
+
+          <li class="tab-title " id="tabMetrics">
+            <a href="/plosone/article/metrics?id=10.1371/journal.pone.0189661" class="article-tab-3">Metrics</a>
+        </li>
+
+
+          <li class="tab-title " id="tabComments">
+            <a href="/plosone/article/comments?id=10.1371/journal.pone.0189661" class="article-tab-4">Comments</a>
+        </li>
+
+  <li class="tab-title" id="tabRelated">
+    <a class="article-tab-5" id="tabRelated-link" target="_blank" href="http://plos.altmetric.com/details/doi/10.1371/journal.pone.0189661">Media Coverage</a>
+  </li>
+</ul>
+
+    <div class="article-container">
+
+
+<div id="nav-article">
+  <ul class="nav-secondary">
+
+    <li class="nav-comments" id="nav-comments">
+      <a href="article/comments?id=10.1371/journal.pone.0189661">Reader Comments</a>
+    </li>
+
+    <li id="nav-figures"><a href="#" data-doi="10.1371/journal.pone.0189661">Figures</a></li>
+  </ul>
+  <div id="nav-data-linking" data-data-url="">
+  </div>
+</div>
+<script src="/resource/js/components/scroll.js" type="text/javascript"></script>
+<script src="/resource/js/components/nav_builder.js" type="text/javascript"></script>
+<script src="/resource/js/components/floating_nav.js" type="text/javascript"></script>
+
+<div id="figure-lightbox-container"></div>
+
+<script id="figure-lightbox-template" type="text/template">
+  <div id="figure-lightbox" class="reveal-modal full" data-reveal aria-hidden="true"
+       role="dialog">
+    <div class="lb-header">
+      <h1 id="lb-title"><%= articleTitle %></h1>
+
+      <div id="lb-authors">
+            <span>Jessica A. R. Williams</span>
+            <span>Selena E. Ortiz</span>
+      </div>
+
+      <div class="lb-close" title="close">&nbsp;</div>
+    </div>
+    <div class="img-container">
+      <div class="loader"> <i class="fa-spinner"></i> </div>
+      <img class="main-lightbox-image" src=""/>
+      <aside id="figures-list">
+        <% figureList.each(function (ix, figure) { %>
+        <div class="change-img" data-doi="<%= figure.getAttribute('data-doi') %>">
+          <img class="aside-figure" src="/plosone/article/figure/image?size=inline&id=<%= figure.getAttribute('data-doi') %>" />
+        </div>
+        <% }) %>
+        <div class="dummy-figure">
+        </div>
+      </aside>
+    </div>
+    <div id="lightbox-footer">
+
+      <div id="btns-container" class="lightbox-row <% if(figureList.length <= 1) { print('one-figure-only') } %>">
+        <div class="fig-btns-container reset-zoom-wrapper left">
+          <span class="fig-btn reset-zoom-btn">Reset zoom</span>
+        </div>
+        <div class="zoom-slider-container">
+          <div class="range-slider-container">
+            <span id="lb-zoom-min"></span>
+            <div class="range-slider round" data-slider data-options="start: 20; end: 200; initial: 20;">
+              <span class="range-slider-handle" role="slider" tabindex="0"></span>
+              <span class="range-slider-active-segment"></span>
+              <input type="hidden">
+            </div>
+            <span id="lb-zoom-max"></span>
+          </div>
+        </div>
+        <% if(figureList.length > 1) { %>
+        <div class="fig-btns-container">
+          <span class="fig-btn all-fig-btn"><i class="icon icon-all"></i> All Figures</span>
+          <span class="fig-btn next-fig-btn"><i class="icon icon-next"></i> Next</span>
+          <span class="fig-btn prev-fig-btn"><i class="icon icon-prev"></i> Previous</span>
+        </div>
+        <% } %>
+      </div>
+      <div id="image-context">
+      </div>
+    </div>
+  </div>
+</script>
+
+<script id="image-context-template" type="text/template">
+  <div class="footer-text">
+    <div id="figure-description-wrapper">
+      <div id="view-more-wrapper" style="<% descriptionExpanded? print('display:none;') : '' %>">
+        <span id="figure-title"><%= title %></span>
+        <p id="figure-description">
+          <%= description %>&nbsp;&nbsp;
+        </p>
+        <span id="view-more">show more<i class="icon-arrow-right"></i></span>
+
+      </div>
+      <div id="view-less-wrapper" style="<% descriptionExpanded? print('display:inline-block;') : '' %>" >
+        <span id="figure-title"><%= title %></span>
+        <p id="full-figure-description">
+          <%= description %>&nbsp;&nbsp;
+          <span id="view-less">show less<i class="icon-arrow-left"></i></span>
+        </p>
+      </div>
+    </div>
+  </div>
+  <div id="show-context-container">
+    <a class="btn show-context" href="<%= showInContext(strippedDoi) %>">Show in Context</a>
+  </div>
+  <div id="download-buttons">
+    <h3>Download:</h3>
+    <div class="item">
+      <a href="/plosone/article/figure/image?size=original&download=&id=<%= doi %>" title="original image">
+        <span class="download-btn">TIFF</span>
+      </a>
+      <span class="file-size"><%= fileSizes.original %></span>
+    </div>
+    <div class="item">
+      <a href="/plosone/article/figure/image?size=large&download=&id=<%= doi %>" title="large image">
+        <span class="download-btn">PNG</span>
+      </a>
+      <span class="file-size"><%= fileSizes.large %></span>
+    </div>
+
+  </div>
+</script>
+      <div class="article-content">
+
+
+
+
+
+
+<div id="figure-carousel-section">
+  <h2>Figures</h2>
+
+  <div id="figure-carousel">
+
+    <div class="carousel-wrapper">
+      <div class="slider">
+
+          <div class="carousel-item lightbox-figure" data-doi="10.1371/journal.pone.0189661.t001">
+
+                <img src="/plosone/article/figure/image?size=inline&amp;id=10.1371/journal.pone.0189661.t001"
+                     loading="lazy"
+                     alt="Table 1"
+                />
+
+            </div>
+
+          <div class="carousel-item lightbox-figure" data-doi="10.1371/journal.pone.0189661.t002">
+
+                <img src="/plosone/article/figure/image?size=inline&amp;id=10.1371/journal.pone.0189661.t002"
+                     loading="lazy"
+                     alt="Table 2"
+                />
+
+            </div>
+
+          <div class="carousel-item lightbox-figure" data-doi="10.1371/journal.pone.0189661.t003">
+
+                <img src="/plosone/article/figure/image?size=inline&amp;id=10.1371/journal.pone.0189661.t003"
+                     loading="lazy"
+                     alt="Table 3"
+                />
+
+            </div>
+
+          <div class="carousel-item lightbox-figure" data-doi="10.1371/journal.pone.0189661.g001">
+
+                <img src="/plosone/article/figure/image?size=inline&amp;id=10.1371/journal.pone.0189661.g001"
+                     loading="lazy"
+                     alt="Fig 1"
+                />
+
+            </div>
+
+          <div class="carousel-item lightbox-figure" data-doi="10.1371/journal.pone.0189661.t004">
+
+                <img src="/plosone/article/figure/image?size=inline&amp;id=10.1371/journal.pone.0189661.t004"
+                     loading="lazy"
+                     alt="Table 4"
+                />
+
+            </div>
+      </div>
+    </div>
+
+    <div class="carousel-control">
+      <span class="button previous"></span>
+      <span class="button next"></span>
+    </div>
+    <div class="carousel-page-buttons">
+
+    </div>
+  </div>
+</div>
+<script src="/resource/js/vendor/jquery.touchswipe.js" type="text/javascript"></script>
+<script src="/resource/js/components/figure_carousel.js" type="text/javascript"></script>
+<script src="/resource/js/vendor/jquery.dotdotdot.js" type="text/javascript"></script>
+
+
+        <div class="article-text" id="artText">
+          
+
+
+
+<div xmlns:plos="http://plos.org" class="abstract toc-section abstract-type-"><a id="abstract0" name="abstract0" data-toc="abstract0" class="link-target" title="Abstract"></a><h2>Abstract</h2><div class="abstract-content">
+<div id="section1" class="section toc-section"><a id="sec001" name="sec001" class="link-target" title="Introduction"></a>
+<h3>Introduction</h3>
+<a id="article1.front1.article-meta1.abstract1.sec1.p1" name="article1.front1.article-meta1.abstract1.sec1.p1" class="link-target"></a><p>To examine (1) what individuals know about the existing adult preventive service coverage provisions of the Affordable Care Act (ACA), and (2) which preventive services individuals think should be covered without cost sharing.</p>
+</div>
+
+<div id="section2" class="section toc-section"><a id="sec002" name="sec002" class="link-target" title="Methods"></a>
+<h3>Methods</h3>
+<a id="article1.front1.article-meta1.abstract1.sec2.p1" name="article1.front1.article-meta1.abstract1.sec2.p1" class="link-target"></a><p>An online panel from Survey Monkey was used to obtain a sample of 2,990 adults age 18 and older in March 2015, analyzed 2015–2017. A 17-item survey instrument was designed and used to evaluate respondents’ knowledge of the adult preventive services provision of the ACA. Additionally, we asked whether various preventive services should be covered. The data include age, sex, race/ethnicity, and educational attainment as well as measures of political ideology, previous insurance status, the number of chronic conditions, and usual source of care.</p>
+</div>
+
+<div id="section3" class="section toc-section"><a id="sec003" name="sec003" class="link-target" title="Results"></a>
+<h3>Results</h3>
+<a id="article1.front1.article-meta1.abstract1.sec3.p1" name="article1.front1.article-meta1.abstract1.sec3.p1" class="link-target"></a><p>Respondents correctly answered 38.6% of the questions about existing coverage under the ACA, while on average respondents thought 12.1 of 15 preventive services should be covered (SD 3.5). Respondents were more knowledgeable about coverage for routine screenings, such as blood pressure (63.4% correct) than potentially stigmatizing screenings, such as for alcohol misuse (28.8% correct). Blood pressure screening received the highest support of coverage (89.8%) while coverage of gym memberships received the lowest support (59.4%). Individuals with conservative ideologies thought fewer services on average should be covered, but the difference was small—around one service less than those with liberal ideologies.</p>
+</div>
+
+<div id="section4" class="section toc-section"><a id="sec004" name="sec004" class="link-target" title="Conclusions"></a>
+<h3>Conclusions</h3>
+<a id="article1.front1.article-meta1.abstract1.sec4.p1" name="article1.front1.article-meta1.abstract1.sec4.p1" class="link-target"></a><p>Overwhelmingly, individuals think that most preventive services should be covered without cost sharing. Despite several years of coverage for preventive services, there is still confusion and lack of knowledge about which services are covered.</p>
+</div>
+</div></div>
+
+
+<div xmlns:plos="http://plos.org" class="articleinfo"><p><strong>Citation: </strong>Williams JAR, Ortiz SE (2017) Examining public knowledge and preferences for adult preventive services coverage. PLoS ONE 12(12):
+           e0189661.
+        
+        https://doi.org/10.1371/journal.pone.0189661</p><p><strong>Editor: </strong>Ilana Graetz, University of Tennessee Health Science Center, UNITED STATES</p><p><strong>Received: </strong>May 18, 2017; <strong>Accepted: </strong>November 29, 2017; <strong>Published: </strong> December 20, 2017</p><p><strong>Copyright: </strong> © 2017 Williams, Ortiz. This is an open access article distributed under the terms of the <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</a>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</p><p><strong>Data Availability: </strong>All relevant data are within the paper and its Supporting Information files.</p><p><strong>Funding: </strong>This work was supported by a grant from the Robert Wood Johnson Foundation and the Harvard Center for Population Health and Development. The study sponsor did not have any role in study design, collection, analysis, interpretation of the data, writing the report, or in the decision to submit the report for publication.</p><p><strong>Competing interests: </strong> The authors have declared that no competing interests exist.</p></div>
+
+
+
+
+
+<div xmlns:plos="http://plos.org" id="section1" class="section toc-section"><a id="sec005" name="sec005" data-toc="sec005" class="link-target" title="Introduction"></a><h2>Introduction</h2><a id="article1.body1.sec1.p1" name="article1.body1.sec1.p1" class="link-target"></a><p>Seven years after it was signed into law, the Patient Protection and Affordable Care Act (PPACA, hereafter ACA) has been the subject of several repeal attempts and an executive order to halt its enforcement and implementation as much as legally allowed.[<a href="#pone.0189661.ref001" class="ref-tip">1</a>] As of now, there remains considerable speculation about the political or legal steps that will be taken to weaken the ACA; the particular aspects of the ACA that will be revised or repealed, and the health care proposals, if any, that will replace it.[<a href="#pone.0189661.ref002" class="ref-tip">2</a>, <a href="#pone.0189661.ref003" class="ref-tip">3</a>] This uncertainty and the potential changes or repeals will likely disrupt healthcare for millions of Americans. [<a href="#pone.0189661.ref003" class="ref-tip">3</a>–<a href="#pone.0189661.ref005" class="ref-tip">5</a>]</p>
+<a id="article1.body1.sec1.p2" name="article1.body1.sec1.p2" class="link-target"></a><p>The ACA’s primary goal was to expand health insurance coverage, while its secondary goals were to control the growth of health care costs and improve the delivery system. While significant problems with the ACA persist, including perverse incentives in the insurance and labor markets[<a href="#pone.0189661.ref006" class="ref-tip">6</a>], it has been far-reaching in its intended effects of expanding health insurance coverage and increasing health benefits, rights, and protections to consumers.[<a href="#pone.0189661.ref007" class="ref-tip">7</a>, <a href="#pone.0189661.ref008" class="ref-tip">8</a>] The right to appeal health insurance decisions, inability to be denied coverage for pre-existing conditions, and access to preventive health care at no-out-of-pocket cost, exemplify the types of benefits guaranteed not only for individuals and families receiving their care as a result of state Medicaid expansions or through a plan purchased via an ACA insurance exchange, but also for those who receive their health care through an employer-sponsored group health plan or private insurance company.[<a href="#pone.0189661.ref009" class="ref-tip">9</a>]</p>
+<a id="article1.body1.sec1.p3" name="article1.body1.sec1.p3" class="link-target"></a><p>The ACA provisions related to the use of preventive services have been the target of both media coverage and academic publications.[<a href="#pone.0189661.ref010" class="ref-tip">10</a>–<a href="#pone.0189661.ref013" class="ref-tip">13</a>] But what, exactly, do people know about the ACA’s coverage provisions for preventive services? Which services do people think should be covered? These questions are of particular importance given the precarious state of the ACA and the potential to shape future replacement policies. Recent evidence suggests that only 19.6% of people have heard of “clinical preventive services” as a kind of healthcare.[<a href="#pone.0189661.ref014" class="ref-tip">14</a>] The ACA requires new employer-sponsored group health plans and private health insurance policies to provide coverage without cost sharing for certain preventive services based on recommendations by some national-level institutions, such as the U.S. Preventive Services Task Force (USPSTF) and the Advisory Committee on Immunization Practices.[<a href="#pone.0189661.ref011" class="ref-tip">11</a>] These preventive services were selected because they have “high certainty that the net benefit is moderate or there is moderate certainty that the net benefit is moderate to substantial.”[<a href="#pone.0189661.ref015" class="ref-tip">15</a>, <a href="#pone.0189661.ref016" class="ref-tip">16</a>] Conceptual models, such as the Grossman model of health production and the Andersen model of health services utilization, suggest that reducing the price of preventive services so that the monetary cost is zero should increase utilization, even though transportation and opportunity costs still exist.[<a href="#pone.0189661.ref017" class="ref-tip">17</a>, <a href="#pone.0189661.ref018" class="ref-tip">18</a>] Several studies have shown that uptake of many—but not all—preventive services increases when cost sharing is reduced.[<a href="#pone.0189661.ref019" class="ref-tip">19</a>–<a href="#pone.0189661.ref021" class="ref-tip">21</a>]</p>
+<a id="article1.body1.sec1.p4" name="article1.body1.sec1.p4" class="link-target"></a><p>Confusion about the specifics of health insurance coverage is not unique to the ACA, or to any other new changes to health insurance. Indeed, studies have shown that although consumers have some knowledge of what their health insurance plans cover, knowledge about specific details is often poor.[<a href="#pone.0189661.ref022" class="ref-tip">22</a>–<a href="#pone.0189661.ref024" class="ref-tip">24</a>] Previously uninsured individuals are less likely to know what services are covered by their plan.[<a href="#pone.0189661.ref022" class="ref-tip">22</a>] According to Lantz and colleagues, only 36.4% of adults reported knowing that the ACA requires coverage of certain preventive services without cost sharing.[<a href="#pone.0189661.ref014" class="ref-tip">14</a>] This study assesses knowledge about the <em>types</em> of adult preventive services covered without cost sharing. We focus on the clinical preventive services rated A and B by the USPSTF because they are broadly applicable to adults of varying ages and health statuses. Also, we examine the associations between the number and category of adult preventive services people think <em>should be covered without cost sharing</em>, political ideology and source of health insurance coverage. We are interested in these particular associations given the polarized, political views of the ACA in general, and because there is a clear sense that people’s views about health coverage are strongly associated with their political ideology and personal experiences.[<a href="#pone.0189661.ref025" class="ref-tip">25</a>–<a href="#pone.0189661.ref028" class="ref-tip">28</a>] For example, would respondents receiving their health insurance through their employer prefer more or less preventive services covered without cost sharing compared to respondents receiving their health insurance through Medicaid or on the marketplace? Results from these analyses could shed some insight on the preferences of recipients of employer-based health insurance (EBHI), a population that is sometimes inaccurately considered exempt from the uncertainty of future proposals that repeal and replace the ACA. The interests of these individuals may be of particular interest to policymakers throughout their deliberations on proposals to replace the ACA, especially regarding those that may decrease the number and type of health services employers are obliged to cover for their employees and whether or not mandates are kept.</p>
+</div>
+
+<div xmlns:plos="http://plos.org" id="section2" class="section toc-section"><a id="sec006" name="sec006" data-toc="sec006" class="link-target" title="Methods"></a><h2>Methods</h2>
+<div id="section1" class="section toc-section"><a id="sec007" name="sec007" class="link-target" title="Study sample"></a>
+<h3>Study sample</h3>
+<a id="article1.body1.sec2.sec1.p1" name="article1.body1.sec2.sec1.p1" class="link-target"></a><p>The study data are from an online, cross-sectional, population-based survey we conducted in March 2015 (N = 2990) and analyzed between 2015 through 2017. SurveyMonkey administered the survey through its Audience Platform and SurveyMonkey Contribute (SMC) online research panel, a service provided by SurveyMonkey to assist customers in reaching a targeted audience for their surveys. The SMC online research panel was recruited from over 30 million people who answer SurveyMonkey surveys each month. SurveyMonkey automatically computes the number of panelists to invite to take the survey experiment based on 1) the number of finished responses requested; 2) the response rates of individual survey respondents; and 3) the availability of survey respondents who meet the study’s targeting criteria (aged 18 or older). This study was approved by the Harvard School of Public Health IRB (#IRB14-4131).</p>
+</div>
+
+<div id="section2" class="section toc-section"><a id="sec008" name="sec008" class="link-target" title="Measures"></a>
+<h3>Measures</h3>
+<a id="article1.body1.sec2.sec2.p1" name="article1.body1.sec2.sec2.p1" class="link-target"></a><p>A 17-item survey instrument was designed in part to evaluate respondents’ knowledge of the preventive services coverage provision of the ACA (<a href="#pone.0189661.s001">S1 Appendix</a>). Respondents were explicitly asked to identify, to the best of their knowledge, whether particular services were covered without cost sharing for adults under the ACA (<em>Covered/Not Covered/Unsure or Don’t Know</em>). The covered services discussed in this study are all listed prominently on healthcare.gov. To guard against the possibility of selecting all covered or all uncovered for the knowledge questions, respondents were also asked about services that are preventive but not covered under the ACA (e.g. telephone nurse help lines) and services that are sometimes covered but have cost sharing in many existing health insurance plans (e.g. prescription drugs).[<a href="#pone.0189661.ref029" class="ref-tip">29</a>] The following services were included in the knowledge index: colorectal cancer screening, blood pressure screening, type 2 diabetes screening, high cholesterol screening, depression screening, healthy diet counseling, influenza shots, subsidized gym membership, nurse advice telephone line, stress management counseling, sexually transmitted infection counseling, obesity screening, alcohol misuse screening, tobacco use screening, eye exam, hearing test, and allergy shots. Response randomization for the order of all responses was used to alleviate order and survey-fatigue bias.</p>
+<a id="article1.body1.sec2.sec2.p2" name="article1.body1.sec2.sec2.p2" class="link-target"></a><p>Health insurance status, main source of health insurance, usual source of care, sociodemographic questions and number of self-reported chronic conditions were measured using validated questions from the California Health Interview Survey.[<a href="#pone.0189661.ref030" class="ref-tip">30</a>] The question about political ideology comes from the American National Elections Studies survey. [<a href="#pone.0189661.ref031" class="ref-tip">31</a>]</p>
+</div>
+
+<div id="section3" class="section toc-section"><a id="sec009" name="sec009" class="link-target" title="Statistical analysis"></a>
+<h3>Statistical analysis</h3>
+<a id="article1.body1.sec2.sec3.p1" name="article1.body1.sec2.sec3.p1" class="link-target"></a><p>The knowledge index was created by tallying the number of correct answers, or, the number of times respondents correctly identified services that were covered and services that were not covered. Answers of <em>"unsure or don’t know"</em> were counted as incorrect. The concept of cost sharing was discussed within the survey per the following statement: <em>“The Affordable Care Act requires health insurance plans to provide certain preventive services to adults without a copayment or coinsurance</em>.<em>”</em> A total of 17 questions were used to measure respondents’ knowledge of preventive services coverage, yielding a theoretical range of [0, 17]. The number of services respondents thought <em>should be</em> covered were summed from the items in the knowledge index (15 possible services). When summing the number of services respondents thought <em>should be</em> covered, answers of “<em>unsure or don’t know</em>” were assigned a value of 0.5.</p>
+<a id="article1.body1.sec2.sec3.p2" name="article1.body1.sec2.sec3.p2" class="link-target"></a><p>To investigate whether political ideology or source of health insurance was associated with the number of preventive health services by category people think should be covered without cost sharing, two separate indices were created. The first index (aka ‘typical’) ranged from 0 to 5 and measured adult preventive services including colorectal cancer screening, blood pressure screening, diabetes (type 2) screening, cholesterol screening, and flu shots. The second index (aka ‘personal health behavior’) ranged from 0 to 5 and measured the number of adult preventive services that are stereotypically categorized as those associated with poor health behaviors, including screenings for obesity, alcohol abuse, tobacco use, sexually transmitted infections and healthy diet counseling.[<a href="#pone.0189661.ref032" class="ref-tip">32</a>]</p>
+<a id="article1.body1.sec2.sec3.p3" name="article1.body1.sec2.sec3.p3" class="link-target"></a><p>Two primary predictors were investigated: political ideology, which was measured on a 7-point scale (<em>extremely conservative</em>, <em>conservative</em>, <em>slightly conservative</em>, <em>moderate/middle of the road</em>, <em>slightly liberal</em>, <em>liberal</em>, and <em>extremely liberal</em>), and main source of health insurance coverage (<em>employer-based (own)</em>, <em>employer-based (spouse)</em>, <em>direct purchase via private insurance company or a state or federal marketplace</em>, <em>Medicare</em>, <em>Medicaid</em>, or <em>other</em>). The models also adjusted for potential sociodemographic and health confounders. Sociodemographic characteristics included age, gender, race/ethnicity (<em>American Indian/Alaskan Native</em>, <em>Asian/Pacific Islander</em>, <em>Black/African American</em>, <em>Latino</em>, and <em>White/Caucasian</em>), educational attainment (l<em>ess high school diploma</em>, <em>high school diploma</em>, <em>some college</em>, <em>bachelor’s degree</em>, or <em>graduate degree</em>), marital status (<em>married</em>, <em>divorced</em>, <em>separated</em>, <em>widowed</em>, or <em>never married</em>) and employment status (<em>employed (1–40 hours)</em>, <em>employed (&gt;40 hours)</em>, <em>not employed/looking for work</em>, <em>not employed/not looking for work</em>, <em>retired</em>, or <em>disabled</em>). Health characteristics included self-reported health status (<em>excellent</em>, <em>very good</em>, <em>good</em>, <em>fair</em>, or <em>poor</em>), health insurance coverage status in the last 12 months (<em>yes/no/unsure or don’t know</em>), and whether have usual source of health care (<em>yes/no/unsure or don’t know</em>).</p>
+<a id="article1.body1.sec2.sec3.p4" name="article1.body1.sec2.sec3.p4" class="link-target"></a><p>Univariate statistics were calculated to describe the sample and examine individual’s knowledge of preventive services without cost sharing. Multivariable analyses using ordinary least squares (OLS) were conducted to examine associations using Stata 14.0.[<a href="#pone.0189661.ref033" class="ref-tip">33</a>]</p>
+</div>
+</div>
+
+<div xmlns:plos="http://plos.org" id="section3" class="section toc-section"><a id="sec010" name="sec010" data-toc="sec010" class="link-target" title="Results"></a><h2>Results</h2><a id="article1.body1.sec3.p1" name="article1.body1.sec3.p1" class="link-target"></a><p>Descriptive statistics for the sample and the U.S. population are given in <a href="#pone-0189661-t001">Table 1</a>. Overall, the SMC sample was slightly younger, had higher education levels, and had fewer Hispanic Americans compared to the U.S. population. These characteristics were controlled for in all of the analyses.</p>
+<a class="link-target" id="pone-0189661-t001" name="pone-0189661-t001"></a><div class="figure" data-doi="10.1371/journal.pone.0189661.t001"><div class="img-box"><a title="Click for larger image" href="article/figure/image?size=medium&amp;id=10.1371/journal.pone.0189661.t001" data-doi="10.1371/journal.pone.0189661" data-uri="10.1371/journal.pone.0189661.t001"><img src="article/figure/image?size=inline&amp;id=10.1371/journal.pone.0189661.t001" alt="thumbnail" class="thumbnail" loading="lazy"></a><div class="expand"></div></div><div class="figure-inline-download">
+          Download:
+          <ul><li><a href="article/figure/image?download&amp;size=large&amp;id=10.1371/journal.pone.0189661.t001"><div class="definition-label">PNG</div><div class="definition-description">larger image</div></a></li><li><a href="article/figure/image?download&amp;size=original&amp;id=10.1371/journal.pone.0189661.t001"><div class="definition-label">TIFF</div><div class="definition-description">original image</div></a></li></ul></div><div class="figcaption"><span>Table 1. </span> Sample characteristics and comparison to U.S. non-institutionalized civilian population 18 years or older.</div><p class="caption_target"></p><p class="caption_object"><a href="https://doi.org/10.1371/journal.pone.0189661.t001">
+              https://doi.org/10.1371/journal.pone.0189661.t001</a></p></div>
+<div id="section1" class="section toc-section"><a id="sec011" name="sec011" class="link-target" title="Knowledge of current coverage for preventive services"></a>
+<h3>Knowledge of current coverage for preventive services</h3>
+<a id="article1.body1.sec3.sec1.p1" name="article1.body1.sec3.sec1.p1" class="link-target"></a><p>The knowledge index had an empirical range of [0, 16] with a mean of 6.6 (SD 3.9), see <a href="#pone-0189661-t002">Table 2</a>. As <a href="#pone-0189661-g001">Fig 1</a> shows, the distribution of total scores appears to have two distinct peaks: 10 (<em>n</em> = 482) and 0 (<em>n</em> = 480). The majority, 60.3%, of individuals answered <em>“don’t know or unsure”</em> to at least one question (on average 5.7 questions per respondent, SD 6.5, <a href="#pone-0189661-t002">Table 2</a>). On average, respondents were least likely to correctly answer questions about whether hearing screening (21.6%) and nurse advice telephone line (22.7%) were covered without cost sharing, neither of which are (<a href="#pone-0189661-t003">Table 3</a>). A majority of respondents were more likely to correctly identify blood pressure screening (63.7%), flu shots (62.1%), and cholesterol screening (56.8%) as being covered without cost sharing.</p>
+<a class="link-target" id="pone-0189661-t002" name="pone-0189661-t002"></a><div class="figure" data-doi="10.1371/journal.pone.0189661.t002"><div class="img-box"><a title="Click for larger image" href="article/figure/image?size=medium&amp;id=10.1371/journal.pone.0189661.t002" data-doi="10.1371/journal.pone.0189661" data-uri="10.1371/journal.pone.0189661.t002"><img src="article/figure/image?size=inline&amp;id=10.1371/journal.pone.0189661.t002" alt="thumbnail" class="thumbnail" loading="lazy"></a><div class="expand"></div></div><div class="figure-inline-download">
+          Download:
+          <ul><li><a href="article/figure/image?download&amp;size=large&amp;id=10.1371/journal.pone.0189661.t002"><div class="definition-label">PNG</div><div class="definition-description">larger image</div></a></li><li><a href="article/figure/image?download&amp;size=original&amp;id=10.1371/journal.pone.0189661.t002"><div class="definition-label">TIFF</div><div class="definition-description">original image</div></a></li></ul></div><div class="figcaption"><span>Table 2. </span> Means and standard deviations of key constructs.</div><p class="caption_target"></p><p class="caption_object"><a href="https://doi.org/10.1371/journal.pone.0189661.t002">
+              https://doi.org/10.1371/journal.pone.0189661.t002</a></p></div><a class="link-target" id="pone-0189661-t003" name="pone-0189661-t003"></a><div class="figure" data-doi="10.1371/journal.pone.0189661.t003"><div class="img-box"><a title="Click for larger image" href="article/figure/image?size=medium&amp;id=10.1371/journal.pone.0189661.t003" data-doi="10.1371/journal.pone.0189661" data-uri="10.1371/journal.pone.0189661.t003"><img src="article/figure/image?size=inline&amp;id=10.1371/journal.pone.0189661.t003" alt="thumbnail" class="thumbnail" loading="lazy"></a><div class="expand"></div></div><div class="figure-inline-download">
+          Download:
+          <ul><li><a href="article/figure/image?download&amp;size=large&amp;id=10.1371/journal.pone.0189661.t003"><div class="definition-label">PNG</div><div class="definition-description">larger image</div></a></li><li><a href="article/figure/image?download&amp;size=original&amp;id=10.1371/journal.pone.0189661.t003"><div class="definition-label">TIFF</div><div class="definition-description">original image</div></a></li></ul></div><div class="figcaption"><span>Table 3. </span> Comparing the percent of people who think services are covered by the ACA with the percent of people who think services should be covered.</div><p class="caption_target"></p><p class="caption_object"><a href="https://doi.org/10.1371/journal.pone.0189661.t003">
+              https://doi.org/10.1371/journal.pone.0189661.t003</a></p></div><a class="link-target" id="pone-0189661-g001" name="pone-0189661-g001"></a><div class="figure" data-doi="10.1371/journal.pone.0189661.g001"><div class="img-box"><a title="Click for larger image" href="article/figure/image?size=medium&amp;id=10.1371/journal.pone.0189661.g001" data-doi="10.1371/journal.pone.0189661" data-uri="10.1371/journal.pone.0189661.g001"><img src="article/figure/image?size=inline&amp;id=10.1371/journal.pone.0189661.g001" alt="thumbnail" class="thumbnail" loading="lazy"></a><div class="expand"></div></div><div class="figure-inline-download">
+          Download:
+          <ul><li><a href="article/figure/image?download&amp;size=large&amp;id=10.1371/journal.pone.0189661.g001"><div class="definition-label">PNG</div><div class="definition-description">larger image</div></a></li><li><a href="article/figure/image?download&amp;size=original&amp;id=10.1371/journal.pone.0189661.g001"><div class="definition-label">TIFF</div><div class="definition-description">original image</div></a></li></ul></div><div class="figcaption"><span>Fig 1. </span> Distribution of Scores on ACA Preventive Service Knowledge Index.</div><p class="caption_target"><a id="article1.body1.sec3.sec1.fig1.caption1.p1" name="article1.body1.sec3.sec1.fig1.caption1.p1" class="link-target"></a><p>This figure shows the distribution of scores on the ACA Preventive Service Knowledge Index (N = 2990).</p>
+</p><p class="caption_object"><a href="https://doi.org/10.1371/journal.pone.0189661.g001">
+              https://doi.org/10.1371/journal.pone.0189661.g001</a></p></div></div>
+
+<div id="section2" class="section toc-section"><a id="sec012" name="sec012" class="link-target" title="How many preventive services should be covered?"></a>
+<h3>How many preventive services should be covered?</h3>
+<a id="article1.body1.sec3.sec2.p1" name="article1.body1.sec3.sec2.p1" class="link-target"></a><p>For each preventive service, <a href="#pone-0189661-t003">Table 3</a> lists: (1) the percentage of respondents who thought it was covered without cost sharing under the ACA and (2) the percentage of respondents who thought it <em>should</em> be covered without cost sharing. More often, a majority of respondents incorrectly identified non-covered preventive services as being covered with no cost sharing under the ACA, such as nurse advice telephone line (77.3%). Furthermore, a majority of respondents were unlikely to correctly identify covered but health behavior related services, such as alcohol misuse screening (28.0%).</p>
+<a id="article1.body1.sec3.sec2.p2" name="article1.body1.sec3.sec2.p2" class="link-target"></a><p>Among the 17 adult preventive services examined, on average, a majority of respondents thought that most services (13.3, SD 4.0) should be covered without cost sharing (see <a href="#pone-0189661-t002">Table 2</a>). The percentage of respondents who thought that an adult preventive service should be covered without cost sharing was very high for routine preventive services, see <a href="#pone-0189661-t003">Table 3</a>, such as screening for high blood pressure (93.7%) and type 2 diabetes (92.4%).</p>
+</div>
+
+<div id="section3" class="section toc-section"><a id="sec013" name="sec013" class="link-target" title="How many and what types of preventive services should be covered without cost sharing?"></a>
+<h3>How many and what types of preventive services should be covered without cost sharing?</h3>
+<a id="article1.body1.sec3.sec3.p1" name="article1.body1.sec3.sec3.p1" class="link-target"></a><p>In an adjusted multivariable regression model with the number of preventive services as a key outcome (<a href="#pone-0189661-t004">Table 4</a>), there were significant differences by political ideology. Compared to moderate/middle of the road respondents, conservative and extremely conservative respondents significantly preferred less than 1 fewer services be covered without cost sharing, adjusting for all other factors. Conversely, liberal and extremely liberal respondents preferred an additional 0.52 and 1.09 services be covered, respectively. There were no significant differences in the number of preventive services that people thought should be covered without cost sharing by main source of health insurance, with the exception that people without health insurance (n = 368) or those who reported that they “didn’t know whether they had health insurance” (n = 43) preferred that 1.43 fewer services should be covered than people with their own EBHI.</p>
+<a class="link-target" id="pone-0189661-t004" name="pone-0189661-t004"></a><div class="figure" data-doi="10.1371/journal.pone.0189661.t004"><div class="img-box"><a title="Click for larger image" href="article/figure/image?size=medium&amp;id=10.1371/journal.pone.0189661.t004" data-doi="10.1371/journal.pone.0189661" data-uri="10.1371/journal.pone.0189661.t004"><img src="article/figure/image?size=inline&amp;id=10.1371/journal.pone.0189661.t004" alt="thumbnail" class="thumbnail" loading="lazy"></a><div class="expand"></div></div><div class="figure-inline-download">
+          Download:
+          <ul><li><a href="article/figure/image?download&amp;size=large&amp;id=10.1371/journal.pone.0189661.t004"><div class="definition-label">PNG</div><div class="definition-description">larger image</div></a></li><li><a href="article/figure/image?download&amp;size=original&amp;id=10.1371/journal.pone.0189661.t004"><div class="definition-label">TIFF</div><div class="definition-description">original image</div></a></li></ul></div><div class="figcaption"><span>Table 4. </span> Coefficients and 95% CIs for the Linear regression of the number of services that should be covered, typical services, and personal health behavior services.</div><p class="caption_target"><a id="article1.body1.sec3.sec3.table-wrap1.caption1.p1" name="article1.body1.sec3.sec3.table-wrap1.caption1.p1" class="link-target"></a><p>(N = 2989<span class="xref"><sup><sup>a</sup></sup></span>).</p>
+</p><p class="caption_object"><a href="https://doi.org/10.1371/journal.pone.0189661.t004">
+              https://doi.org/10.1371/journal.pone.0189661.t004</a></p></div><a id="article1.body1.sec3.sec3.p2" name="article1.body1.sec3.sec3.p2" class="link-target"></a><p>Results in <a href="#pone-0189661-t004">Table 4</a> suggest that political ideology was also significantly associated with the number of preventive services per category (typical and personal health behavior) that should be covered. In regard to those services categorized as <em>typical</em> (i.e. cancer screening, blood pressure screening, diabetes (type 2) screening, cholesterol screening, and flu shots), conservative and extremely conservative respondents preferred 0.17 and 0.29 fewer typical preventive services should be covered without cost sharing, adjusting for all other factors. For comparison, on average people thought that 4.88 services should be covered (SD 2.1, <a href="#pone-0189661-t002">Table 2</a>). Slightly liberal and liberal respondents, however, reported that an additional 0.18 and 0.15 typical preventive services should be covered, respectively, adjusting for all other factors. Respondents with no health insurance or those who reported not knowing whether they had health insurance, preferred that 0.48 fewer services should be covered than people with EBHI, adjusting for all other factors. No other significant differences were found by health insurance type.</p>
+<a id="article1.body1.sec3.sec3.p3" name="article1.body1.sec3.sec3.p3" class="link-target"></a><p>With regard to those services categorized as <em>personal health behavior</em> (i.e., screenings for obesity, alcohol abuse, tobacco use, and sexually transmitted infections and healthy diet counseling), political ideology was also found to be consequential (on average people thought 4.39 services should be covered, SD 1.18, <a href="#pone-0189661-t002">Table 2</a>). Compared to moderate/middle of the road respondents, conservative respondents significantly preferred that 0.55 fewer personal health behavior preventive services should be covered without cost sharing, while extremely liberal respondents significantly preferred 0.70 more personal health behavior preventive services be covered, adjusting for all other factors. And, as with the previous models, people without health insurance or those who reported that they “didn’t know whether they had health insurance” preferred that 0.57 fewer services should be covered than people with EBHI, adjusting for all other factors.</p>
+</div>
+</div>
+
+<div xmlns:plos="http://plos.org" id="section4" class="section toc-section"><a id="sec014" name="sec014" data-toc="sec014" class="link-target" title="Discussion"></a><h2>Discussion</h2><a id="article1.body1.sec4.p1" name="article1.body1.sec4.p1" class="link-target"></a><p>For ‘typical’ screenings, such as blood pressure, respondents were more knowledgeable about coverage than rarer or potentially stigmatizing screenings, such as for alcohol misuse.[<a href="#pone.0189661.ref034" class="ref-tip">34</a>] We consider several reasons why this may be the case. For example, it is possible that stigma that may be ascribed to particular types of screening and personal health behaviors may contribute to public misconception.[<a href="#pone.0189661.ref035" class="ref-tip">35</a>–<a href="#pone.0189661.ref037" class="ref-tip">37</a>] ACA guidelines and the implementation of those guidelines may also contribute to low public knowledge. For example, while health insurers are currently permitted to impose a tobacco surcharge to smokers, they are also required to provide the full realm of FDA-approved tobacco cessation medications without cost sharing. However, a recent study found that only one state ensured access to smoking cessation programs as the ACA required.[<a href="#pone.0189661.ref038" class="ref-tip">38</a>] Furthermore, of the 348 health insurance issuers available through exchanges, only 17% explicitly advertised no cost-sharing cessation programs.[<a href="#pone.0189661.ref038" class="ref-tip">38</a>]</p>
+<a id="article1.body1.sec4.p2" name="article1.body1.sec4.p2" class="link-target"></a><p>Poor knowledge may also be due to a misperception among the public that coverage is available for screenings about ‘unobserved’ conditions, such as hypertension, but unavailable for conditions that are more visible or perceived as being related to personal health behaviors, such as obesity. We recommend future studies examine public understanding about the preventive services covered without cost sharing. Mixed-method approaches are well suited to exploring these types of questions.</p>
+<a id="article1.body1.sec4.p3" name="article1.body1.sec4.p3" class="link-target"></a><p>Are people as polarized as they seem to be about health care? When we investigate the association of political ideology with beliefs about preventive services and cost sharing, we find results that are statistically significant but so small as to be politically irrelevant (differences of about one service with a standard deviation of four services). These findings correspond with a recent Kaiser Health Tracking poll that found that Republicans and Democrats share common perspectives on many provisions of the ACA, particularly no-cost sharing of preventive services. [<a href="#pone.0189661.ref039" class="ref-tip">39</a>] Among Republicans, 77% have a favorable view towards the elimination of out-of-pocket costs for preventive services. Although Democratic views are more favorable (90%) than Republican views, this finding underscores the fact that major aspects of the health law are quite popular across party lines. Proposed plans to replace the ACA will need to consider the bi-partisan support of the preventive services coverage provision.</p>
+<a id="article1.body1.sec4.p4" name="article1.body1.sec4.p4" class="link-target"></a><p>Finally, with the exception of individuals who were uninsured or those who reported not knowing what their main source of health insurance coverage was, health insurance type was not significantly associated with preferences regarding the number or category of adult preventive services that people think should be covered without cost sharing compared to respondents receiving their health insurance through their employer. We are unsure as to why the uninsured preferred fewer preventive services be covered. It could be that preferences for certain types of medical care consumption are lower in this population than those receiving EBHI.[<a href="#pone.0189661.ref040" class="ref-tip">40</a>] Qualitative studies could investigate how preferences for particular types of adult preventive care services differ by health insurance coverage type, while mixed-methods approaches could examine whether preferences among the uninsured vary by demographic characteristics.</p>
+
+<div id="section1" class="section toc-section"><a id="sec015" name="sec015" class="link-target" title="Limitations"></a>
+<h3>Limitations</h3>
+<a id="article1.body1.sec4.sec1.p1" name="article1.body1.sec4.sec1.p1" class="link-target"></a><p>It is possible that participants did not distinguish between general coverage for medical, dental, and other health services and preventive services newly mandated to be covered without cost sharing under the ACA. To ameliorate this concern the study instrument included very specific prompts about the ACA, type of insurance, and the services being considered.</p>
+<a id="article1.body1.sec4.sec1.p2" name="article1.body1.sec4.sec1.p2" class="link-target"></a><p>The study was unable to control for the health literacy of survey respondents. Level of survey readability could have resulted in misunderstandings of definitions and other text passages, as well as in significant differences in knowledge. Future studies should investigate the relationship between health literacy and knowledge of preventive services coverage.</p>
+<a id="article1.body1.sec4.sec1.p3" name="article1.body1.sec4.sec1.p3" class="link-target"></a><p>The sample was not randomly selected, and while it was similar to the U.S. population regarding some demographic characteristics, it contained relatively more highly educated people, more white people, and more people under the age of 44. Given the limited evidence available in the area, the survey still provides useful information because of the SMC panel’s comparability with other national samples and the timeliness of the information provided.</p>
+</div>
+
+<div id="section2" class="section toc-section"><a id="sec016" name="sec016" class="link-target" title="Conclusion"></a>
+<h3>Conclusion</h3>
+<a id="article1.body1.sec4.sec2.p1" name="article1.body1.sec4.sec2.p1" class="link-target"></a><p>In general, people want preventive services to be covered without cost sharing. Still, even though many of the services have been covered on non-grandfathered plan years since September 2010, most people do not know they are covered. Research evaluating the effect of the increased coverage on service utilization should consider whether differential knowledge about services might affect individual responses to changes in price. Future attempts at health insurance legislation may do well to include coverage for preventive services, they appear to be popular and have the additional benefit of potentially improving the health of the population as a whole—assuming you can get people to use them! Therefore, whether the ACA remains ‘as is,’ or, if proposals that retain the provision of no cost sharing of preventive services are ultimately adopted, new and effective strategies that can increase public knowledge about the availability of preventive services are essential.</p>
+</div>
+</div>
+
+<div xmlns:plos="http://plos.org" id="section5" class="section toc-section"><a id="sec017" name="sec017" data-toc="sec017" class="link-target" title="Supporting information"></a><h2>Supporting information</h2><div class="figshare_widget" doi="10.1371/journal.pone.0189661"></div><div class="supplementary-material"><a name="pone.0189661.s001" id="pone.0189661.s001" class="link-target"></a><h3 class="siTitle title-small"><a href="article/file?type=supplementary&amp;id=10.1371/journal.pone.0189661.s001">S1 Appendix. </a>Survey questions used to create the knowledge index.</h3><a id="article1.body1.sec5.supplementary-material1.caption1.p1" name="article1.body1.sec5.supplementary-material1.caption1.p1" class="link-target"></a><p class="preSiDOI">These are the survey questions that were used to create the Knowledge Index.</p>
+<p class="siDoi"><a href="https://doi.org/10.1371/journal.pone.0189661.s001">https://doi.org/10.1371/journal.pone.0189661.s001</a></p><a id="article1.body1.sec5.supplementary-material1.caption1.p2" name="article1.body1.sec5.supplementary-material1.caption1.p2" class="link-target"></a><p class="postSiDOI">(PDF)</p>
+</div><div class="supplementary-material"><a name="pone.0189661.s002" id="pone.0189661.s002" class="link-target"></a><h3 class="siTitle title-small"><a href="article/file?type=supplementary&amp;id=10.1371/journal.pone.0189661.s002">S1 Data. </a>Data used for the analysis.</h3><p class="siDoi"><a href="https://doi.org/10.1371/journal.pone.0189661.s002">https://doi.org/10.1371/journal.pone.0189661.s002</a></p><a id="article1.body1.sec5.supplementary-material2.caption1.p1" name="article1.body1.sec5.supplementary-material2.caption1.p1" class="link-target"></a><p class="postSiDOI">(XLSX)</p>
+</div></div>
+
+
+
+
+
+<div xmlns:plos="http://plos.org" class="section toc-section"><a id="ack" name="ack" data-toc="ack" title="Acknowledgments" class="link-target"></a><h2>Acknowledgments</h2>
+<a id="article1.back1.ack1.p1" name="article1.back1.ack1.p1" class="link-target"></a><p>The authors thank all the participants of the Harvard Robert Wood Johnson Health and Society Scholars program for their feedback and Jessica Liu and Jon Hamdorf for their research assistance.</p>
+</div><div xmlns:plos="http://plos.org" class="toc-section"><a id="references" name="references" class="link-target" data-toc="references" title="References"></a><h2>References</h2><ol class="references"><li id="ref1"><span class="order">1.
+            </span><a name="pone.0189661.ref001" id="pone.0189661.ref001" class="link-target"></a>Executive Order Minimizing the Economic Burden of the Patient Protection and Affordable Care Act Pending Repeal, (2017). <ul class="find-nolinks"></ul></li><li id="ref2"><span class="order">2.
+            </span><a name="pone.0189661.ref002" id="pone.0189661.ref002" class="link-target"></a>Cornwell S. Republicans Propose Giving U.S. States Option to Keep Obamacare. Politics [Internet]. 2017 February 28, 2017 at <a href="http://www.reuters.com/article/us-usa-obamacare-idUSKBN1572AD">http://www.reuters.com/article/us-usa-obamacare-idUSKBN1572AD</a>. <ul class="find-nolinks"></ul></li><li id="ref3"><span class="order">3.
+            </span><a name="pone.0189661.ref003" id="pone.0189661.ref003" class="link-target"></a>The Henry J. Kaiser Family Foundation. Compare Proposals to Replace The Affordable Care Act Menlo Park, CA: Kaiser Family Foundation; 2017 [9/28/2017]. <a href="http://www.kff.org/interactive/proposals-to-replace-the-affordable-care-act/">http://www.kff.org/interactive/proposals-to-replace-the-affordable-care-act/</a>. <ul class="find-nolinks"></ul></li><li id="ref4"><span class="order">4.
+            </span><a name="pone.0189661.ref004" id="pone.0189661.ref004" class="link-target"></a>Kodjak A. Trump’s Executive Order Could Dismantle Parts of ACA Before Replacement is Ready. Shots: Health News From NPR [Internet]. 2017 March 1, 2017 at <a href="http://www.npr.org/sections/health-shots/2017/01/21/510901402/trumps-executive-order-could-dismantle-parts-of-aca-before-replacement-is-ready">http://www.npr.org/sections/health-shots/2017/01/21/510901402/trumps-executive-order-could-dismantle-parts-of-aca-before-replacement-is-ready</a>. <ul class="find-nolinks"></ul></li><li id="ref5"><span class="order">5.
+            </span><a name="pone.0189661.ref005" id="pone.0189661.ref005" class="link-target"></a>Congressional Budget Office. Preliminary Analysis of Legislation That Would Replace Subsidies for Health Care With Block Grants. Washington D.C.: 2017 9/25/2017. Report No. <ul class="find-nolinks"></ul></li><li id="ref6"><span class="order">6.
+            </span><a name="pone.0189661.ref006" id="pone.0189661.ref006" class="link-target"></a>Goodman J. Following the ACA [Internet]: Health Affairs. 2015. [cited 2017]. <ul class="find-nolinks"></ul></li><li id="ref7"><span class="order">7.
+            </span><a name="pone.0189661.ref007" id="pone.0189661.ref007" class="link-target"></a>Altman D. The Affordable Care Act’s Little-Noticed Success: Cutting the Uninsured Rate2016 March 6, 2017. <ul class="find-nolinks"></ul></li><li id="ref8"><span class="order">8.
+            </span><a name="pone.0189661.ref008" id="pone.0189661.ref008" class="link-target"></a>Rosenbaum S. The Patient Protection and Affordable Care Act: implications for public health policy and practice. Public health reports. 2011;126(1):130–5.  pmid:21337939 <ul class="reflinks" data-doi="10.1177/003335491112600118"><li><a href="https://doi.org/10.1177/003335491112600118" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/pubmed/21337939" target="_new" title="Go to article in PubMed">
+                        PubMed/NCBI
+                      </a></li><li><a href="http://scholar.google.com/scholar?q=The+Patient+Protection+and+Affordable+Care+Act%3A+implications+for+public+health+policy+and+practice+Rosenbaum+2011" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref9"><span class="order">9.
+            </span><a name="pone.0189661.ref009" id="pone.0189661.ref009" class="link-target"></a>Volk J. Following the ACA [Internet]: Health Affairs. 2017. [cited 2017]. <ul class="find-nolinks"></ul></li><li id="ref10"><span class="order">10.
+            </span><a name="pone.0189661.ref010" id="pone.0189661.ref010" class="link-target"></a>Beck M. Discord Over What to Pay the Doctor. The Wall Street Journal. 2014 4/13/2014;Sect. U.S. News. <ul class="reflinks"><li><a href="#" data-author="Beck" data-cit="BeckM.%20Discord%20Over%20What%20to%20Pay%20the%20Doctor.%20The%20Wall%20Street%20Journal.%202014%204%2F13%2F2014%3BSect.%20U.S.%20News." data-title="Discord%20Over%20What%20to%20Pay%20the%20Doctor" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://scholar.google.com/scholar?q=Discord+Over+What+to+Pay+the+Doctor+Beck+2014" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref11"><span class="order">11.
+            </span><a name="pone.0189661.ref011" id="pone.0189661.ref011" class="link-target"></a>Coverage of certain preventive services under the Affordable Care Act. Final rules. Federal register. 2013;78(127):39869–99. Epub 2013/07/10. pmid:23833808. <ul class="reflinks"><li><a href="#" data-author="" data-cit="Coverage%20of%20certain%20preventive%20services%20under%20the%20Affordable%20Care%20Act.%20Final%20rules.%20Federal%20register.%202013%3B78%28127%29%3A39869%E2%80%9399.%20Epub%202013%2F07%2F10.%2023833808." data-title="Coverage%20of%20certain%20preventive%20services%20under%20the%20Affordable%20Care%20Act.%20Final%20rules" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/pubmed/23833808" target="_new" title="Go to article in PubMed">
+                        PubMed/NCBI
+                      </a></li><li><a href="http://scholar.google.com/scholar?q=Coverage+of+certain+preventive+services+under+the+Affordable+Care+Act.+Final+rules++2013" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref12"><span class="order">12.
+            </span><a name="pone.0189661.ref012" id="pone.0189661.ref012" class="link-target"></a>Smith T. In screening, coding makes big difference. Richmond Times Dispatch. 2014 2/14/2014;Sect. Features. <ul class="find-nolinks"></ul></li><li id="ref13"><span class="order">13.
+            </span><a name="pone.0189661.ref013" id="pone.0189661.ref013" class="link-target"></a>Williams B. Frustration, Confusion over Health Insurance The Record. 2014 1/14/2014;Sect. News. <ul class="find-nolinks"></ul></li><li id="ref14"><span class="order">14.
+            </span><a name="pone.0189661.ref014" id="pone.0189661.ref014" class="link-target"></a>Lantz PM, Evans WD, Mead H, Alvarez C, Stewart L. Knowledge of and Attitudes Toward Evidence-Based Guidelines for and Against Clinical Preventive Services: Results from a National Survey. The Milbank quarterly. 2016;94(1):51–76.  pmid:26994709 <ul class="reflinks" data-doi="10.1111/1468-0009.12181"><li><a href="https://doi.org/10.1111/1468-0009.12181" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/pubmed/26994709" target="_new" title="Go to article in PubMed">
+                        PubMed/NCBI
+                      </a></li><li><a href="http://scholar.google.com/scholar?q=Knowledge+of+and+Attitudes+Toward+Evidence-Based+Guidelines+for+and+Against+Clinical+Preventive+Services%3A+Results+from+a+National+Survey+Lantz+2016" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref15"><span class="order">15.
+            </span><a name="pone.0189661.ref015" id="pone.0189661.ref015" class="link-target"></a>Koh HK, Sebelius KG. Promoting prevention through the Affordable Care Act. N Engl J Med. 2010;363(14):1296–9. Epub 2010/10/01.  pmid:20879876. <ul class="reflinks" data-doi="10.1056/NEJMp1008560"><li><a href="https://doi.org/10.1056/NEJMp1008560" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/pubmed/20879876" target="_new" title="Go to article in PubMed">
+                        PubMed/NCBI
+                      </a></li><li><a href="http://scholar.google.com/scholar?q=Promoting+prevention+through+the+Affordable+Care+Act+Koh+2010" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref16"><span class="order">16.
+            </span><a name="pone.0189661.ref016" id="pone.0189661.ref016" class="link-target"></a>U.S. Preventive Services Task Force Grade Definitions Rockville, MD: U.S. Preventive Services Task Force; 2013 [4/27/2014]. <a href="http://www.uspreventiveservicestaskforce.org/uspstf/grades.htm">http://www.uspreventiveservicestaskforce.org/uspstf/grades.htm</a>. <ul class="find-nolinks"></ul></li><li id="ref17"><span class="order">17.
+            </span><a name="pone.0189661.ref017" id="pone.0189661.ref017" class="link-target"></a>Leibowitz AA. The demand for health and health concerns after 30 years. Journal of Health Economics. 2004;23(4):663–71.  pmid:15587693 <ul class="reflinks" data-doi="10.1016/j.jhealeco.2004.04.005"><li><a href="https://doi.org/10.1016/j.jhealeco.2004.04.005" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/pubmed/15587693" target="_new" title="Go to article in PubMed">
+                        PubMed/NCBI
+                      </a></li><li><a href="http://scholar.google.com/scholar?q=The+demand+for+health+and+health+concerns+after+30+years+Leibowitz+2004" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref18"><span class="order">18.
+            </span><a name="pone.0189661.ref018" id="pone.0189661.ref018" class="link-target"></a>Andersen Ronald MP. National Health Surveys and the Behavioral Model of Health Services Use. [Miscellaneous Article]. Medical Care July. 2008;46(7):647–53.  pmid:18580382 <ul class="reflinks" data-doi="10.1097/MLR.0b013e31817a835d"><li><a href="https://doi.org/10.1097/MLR.0b013e31817a835d" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/pubmed/18580382" target="_new" title="Go to article in PubMed">
+                        PubMed/NCBI
+                      </a></li><li><a href="http://scholar.google.com/scholar?q=National+Health+Surveys+and+the+Behavioral+Model+of+Health+Services+Use+Andersen+2008" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref19"><span class="order">19.
+            </span><a name="pone.0189661.ref019" id="pone.0189661.ref019" class="link-target"></a>Greene J, Sacks RM, McMenamin SB. The impact of tobacco dependence treatment coverage and copayments in medicaid. Am J Prev Med. 2014;46(4):331–6. Epub 2014/03/22.  pmid:24650835. <ul class="reflinks" data-doi="10.1016/j.amepre.2013.11.019"><li><a href="https://doi.org/10.1016/j.amepre.2013.11.019" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/pubmed/24650835" target="_new" title="Go to article in PubMed">
+                        PubMed/NCBI
+                      </a></li><li><a href="http://scholar.google.com/scholar?q=The+impact+of+tobacco+dependence+treatment+coverage+and+copayments+in+medicaid+Greene+2014" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref20"><span class="order">20.
+            </span><a name="pone.0189661.ref020" id="pone.0189661.ref020" class="link-target"></a>Solanki G, Schauffler HH. Cost-sharing and the utilization of clinical preventive services. American Journal of Preventive Medicine. 1999;17(2):127–33. <a href="http://dx.doi.org/10.1016/S0749-3797(99)00057-4">http://dx.doi.org/10.1016/S0749-3797(99)00057-4</a>. pmid:10490055 <ul class="reflinks"><li><a href="#" data-author="Solanki" data-cit="SolankiG%2C%20SchaufflerHH.%20Cost-sharing%20and%20the%20utilization%20of%20clinical%20preventive%20services.%20American%20Journal%20of%20Preventive%20Medicine.%201999%3B17%282%29%3A127%E2%80%9333.%20http%3A%2F%2Fdx.doi.org%2F10.1016%2FS0749-3797%2899%2900057-4.%2010490055" data-title="Cost-sharing%20and%20the%20utilization%20of%20clinical%20preventive%20services" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/pubmed/10490055" target="_new" title="Go to article in PubMed">
+                        PubMed/NCBI
+                      </a></li><li><a href="http://scholar.google.com/scholar?q=Cost-sharing+and+the+utilization+of+clinical+preventive+services+Solanki+1999" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref21"><span class="order">21.
+            </span><a name="pone.0189661.ref021" id="pone.0189661.ref021" class="link-target"></a>Pace LE, Dusetzina SB, Keating NL. Early Impact of the Affordable Care Act on Uptake of Long-acting Reversible Contraceptive Methods. Medical Care. 2016;54(9):811–7. Epub 5/20/2016.  pmid:27213549 <ul class="reflinks" data-doi="10.1097/MLR.0000000000000551"><li><a href="https://doi.org/10.1097/MLR.0000000000000551" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/pubmed/27213549" target="_new" title="Go to article in PubMed">
+                        PubMed/NCBI
+                      </a></li><li><a href="http://scholar.google.com/scholar?q=Early+Impact+of+the+Affordable+Care+Act+on+Uptake+of+Long-acting+Reversible+Contraceptive+Methods+Pace+2016" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref22"><span class="order">22.
+            </span><a name="pone.0189661.ref022" id="pone.0189661.ref022" class="link-target"></a>Garnick DW, Hendricks AM, Thorpe KE, Newhouse JP, Donelan K, Blendon RJ. How well do Americans understand their health coverage? Health Affairs. 1993;12(3):204–12.  pmid:8244233 <ul class="reflinks" data-doi="10.1377/hlthaff.12.3.204"><li><a href="https://doi.org/10.1377/hlthaff.12.3.204" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/pubmed/8244233" target="_new" title="Go to article in PubMed">
+                        PubMed/NCBI
+                      </a></li><li><a href="http://scholar.google.com/scholar?q=How+well+do+Americans+understand+their+health+coverage%3F+Garnick+1993" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref23"><span class="order">23.
+            </span><a name="pone.0189661.ref023" id="pone.0189661.ref023" class="link-target"></a>Loewenstein G, Friedman JY, McGill B, Ahmad S, Linck S, Sinkula S, et al. Consumers’ misunderstanding of health insurance. J Health Econ. 2013;32(5):850–62. Epub 2013/07/23.  pmid:23872676. <ul class="reflinks" data-doi="10.1016/j.jhealeco.2013.04.004"><li><a href="https://doi.org/10.1016/j.jhealeco.2013.04.004" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/pubmed/23872676" target="_new" title="Go to article in PubMed">
+                        PubMed/NCBI
+                      </a></li><li><a href="http://scholar.google.com/scholar?q=Consumers%E2%80%99+misunderstanding+of+health+insurance+Loewenstein+2013" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref24"><span class="order">24.
+            </span><a name="pone.0189661.ref024" id="pone.0189661.ref024" class="link-target"></a>Nelson DE, Thompson BL, Davenport NJ, Penaloza LJ. What people really know about their health insurance: a comparison of information obtained from individuals and their insurers. Am J Public Health. 2000;90(6):924–8. Epub 2000/06/10. pmid:10846510. <ul class="reflinks"><li><a href="#" data-author="Nelson" data-cit="NelsonDE%2C%20ThompsonBL%2C%20DavenportNJ%2C%20PenalozaLJ.%20What%20people%20really%20know%20about%20their%20health%20insurance%3A%20a%20comparison%20of%20information%20obtained%20from%20individuals%20and%20their%20insurers.%20Am%20J%20Public%20Health.%202000%3B90%286%29%3A924%E2%80%938.%20Epub%202000%2F06%2F10.%2010846510." data-title="What%20people%20really%20know%20about%20their%20health%20insurance%3A%20a%20comparison%20of%20information%20obtained%20from%20individuals%20and%20their%20insurers" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/pubmed/10846510" target="_new" title="Go to article in PubMed">
+                        PubMed/NCBI
+                      </a></li><li><a href="http://scholar.google.com/scholar?q=What+people+really+know+about+their+health+insurance%3A+a+comparison+of+information+obtained+from+individuals+and+their+insurers+Nelson+2000" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref25"><span class="order">25.
+            </span><a name="pone.0189661.ref025" id="pone.0189661.ref025" class="link-target"></a>Kodjak A. Trump’s Executive Order Could Dismantle Parts of ACA Before Replacement is Ready. National Public Radio. 2017 1/21/2017. <ul class="find-nolinks"></ul></li><li id="ref26"><span class="order">26.
+            </span><a name="pone.0189661.ref026" id="pone.0189661.ref026" class="link-target"></a>Cornwell S. Republicans propose giving U.S. states option to keep Obamacare. Reuters Politics. 2017 1/23/2017. <ul class="find-nolinks"></ul></li><li id="ref27"><span class="order">27.
+            </span><a name="pone.0189661.ref027" id="pone.0189661.ref027" class="link-target"></a>Goodman J. HealthAffairsBlog [Internet]: Project HOPE. 2015. [cited 2016]. <a href="http://healthaffairs.org/blog/2015/06/25/six-problems-with-the-aca-that-arent-going-away/">http://healthaffairs.org/blog/2015/06/25/six-problems-with-the-aca-that-arent-going-away/</a>. <ul class="find-nolinks"></ul></li><li id="ref28"><span class="order">28.
+            </span><a name="pone.0189661.ref028" id="pone.0189661.ref028" class="link-target"></a>Jost JT, Federico CM, Napier JL. Political ideologies and their social psychological functions. The Oxford handbook of political ideologies. 2013:232–50. <ul class="find-nolinks"></ul></li><li id="ref29"><span class="order">29.
+            </span><a name="pone.0189661.ref029" id="pone.0189661.ref029" class="link-target"></a>The Henry J. Kaiser Family Foundation, Health Research &amp; Educational Trust. 2013 Employer Health Benefits Survey. 2013. <ul class="find-nolinks"></ul></li><li id="ref30"><span class="order">30.
+            </span><a name="pone.0189661.ref030" id="pone.0189661.ref030" class="link-target"></a>Hamer M, Malan L. Psychophysiological risk markers of cardiovascular disease. Neurosci Biobehav Rev. 2010;35(1):76–83. Epub 2009/11/17.  pmid:19909773. <ul class="reflinks" data-doi="10.1016/j.neubiorev.2009.11.004"><li><a href="https://doi.org/10.1016/j.neubiorev.2009.11.004" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/pubmed/19909773" target="_new" title="Go to article in PubMed">
+                        PubMed/NCBI
+                      </a></li><li><a href="http://scholar.google.com/scholar?q=Psychophysiological+risk+markers+of+cardiovascular+disease+Hamer+2010" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref31"><span class="order">31.
+            </span><a name="pone.0189661.ref031" id="pone.0189661.ref031" class="link-target"></a>American National Election Studies. 2013 Internet Recontact Survey. Ann Arbor, MI2014. <ul class="find-nolinks"></ul></li><li id="ref32"><span class="order">32.
+            </span><a name="pone.0189661.ref032" id="pone.0189661.ref032" class="link-target"></a>Short SE, Mollborn S. Social Determinants and Health Behaviors: Conceptual Frames and Empirical Advances. Current opinion in psychology. 2015;5:78–84.  pmid:26213711 <ul class="reflinks" data-doi="10.1016/j.copsyc.2015.05.002"><li><a href="https://doi.org/10.1016/j.copsyc.2015.05.002" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/pubmed/26213711" target="_new" title="Go to article in PubMed">
+                        PubMed/NCBI
+                      </a></li><li><a href="http://scholar.google.com/scholar?q=Social+Determinants+and+Health+Behaviors%3A+Conceptual+Frames+and+Empirical+Advances+Short+2015" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref33"><span class="order">33.
+            </span><a name="pone.0189661.ref033" id="pone.0189661.ref033" class="link-target"></a>StataCorp. Stata Statistical Software: Release 14. College Station, TX: StataCorp LP; 2015. <ul class="find-nolinks"></ul></li><li id="ref34"><span class="order">34.
+            </span><a name="pone.0189661.ref034" id="pone.0189661.ref034" class="link-target"></a>D’Amico EJ, Paddock SM, Burnam A, Kung FY. Identification of and guidance for problem drinking by general medical providers: results from a national survey. Medical Care. 2005;43(3):229–36. Epub 2005/02/24. pmid:15725979. <ul class="reflinks"><li><a href="#" data-author="D%E2%80%99Amico" data-cit="D%E2%80%99AmicoEJ%2C%20PaddockSM%2C%20BurnamA%2C%20KungFY.%20Identification%20of%20and%20guidance%20for%20problem%20drinking%20by%20general%20medical%20providers%3A%20results%20from%20a%20national%20survey.%20Medical%20Care.%202005%3B43%283%29%3A229%E2%80%9336.%20Epub%202005%2F02%2F24.%2015725979." data-title="Identification%20of%20and%20guidance%20for%20problem%20drinking%20by%20general%20medical%20providers%3A%20results%20from%20a%20national%20survey" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/pubmed/15725979" target="_new" title="Go to article in PubMed">
+                        PubMed/NCBI
+                      </a></li><li><a href="http://scholar.google.com/scholar?q=Identification+of+and+guidance+for+problem+drinking+by+general+medical+providers%3A+results+from+a+national+survey+D%E2%80%99Amico+2005" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref35"><span class="order">35.
+            </span><a name="pone.0189661.ref035" id="pone.0189661.ref035" class="link-target"></a>Maar M, Burchell A, Little J, Ogilvie G, Severini A, Yang JM, et al. A qualitative study of provider perspectives of structural barriers to cervical cancer screening among first nations women. Women’s Health Issues. 2013;23(5):e319–e25.  pmid:23993479 <ul class="reflinks" data-doi="10.1016/j.whi.2013.06.005"><li><a href="https://doi.org/10.1016/j.whi.2013.06.005" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/pubmed/23993479" target="_new" title="Go to article in PubMed">
+                        PubMed/NCBI
+                      </a></li><li><a href="http://scholar.google.com/scholar?q=A+qualitative+study+of+provider+perspectives+of+structural+barriers+to+cervical+cancer+screening+among+first+nations+women+Maar+2013" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref36"><span class="order">36.
+            </span><a name="pone.0189661.ref036" id="pone.0189661.ref036" class="link-target"></a>Block JP, Oken E. Practical Considerations for the US Preventive Services Task Force Recommendations on Obesity in Children and Adolescents. JAMA Internal Medicine. 2017;177(8):1077–9.  pmid:28632842 <ul class="reflinks" data-doi="10.1001/jamainternmed.2017.1978"><li><a href="https://doi.org/10.1001/jamainternmed.2017.1978" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/pubmed/28632842" target="_new" title="Go to article in PubMed">
+                        PubMed/NCBI
+                      </a></li><li><a href="http://scholar.google.com/scholar?q=Practical+Considerations+for+the+US+Preventive+Services+Task+Force+Recommendations+on+Obesity+in+Children+and+Adolescents+Block+2017" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref37"><span class="order">37.
+            </span><a name="pone.0189661.ref037" id="pone.0189661.ref037" class="link-target"></a>Saitz R, Alford DP, Bernstein J, Cheng DM, Samet J, Palfai T. Screening and brief intervention for unhealthy drug use in primary care settings: randomized clinical trials are needed. Journal of addiction medicine. 2010;4(3):123.  pmid:20936079 <ul class="reflinks" data-doi="10.1097/ADM.0b013e3181db6b67"><li><a href="https://doi.org/10.1097/ADM.0b013e3181db6b67" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/pubmed/20936079" target="_new" title="Go to article in PubMed">
+                        PubMed/NCBI
+                      </a></li><li><a href="http://scholar.google.com/scholar?q=Screening+and+brief+intervention+for+unhealthy+drug+use+in+primary+care+settings%3A+randomized+clinical+trials+are+needed+Saitz+2010" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref38"><span class="order">38.
+            </span><a name="pone.0189661.ref038" id="pone.0189661.ref038" class="link-target"></a>Almost All State Health Insurance Marketplace Plans Do Not Offer Required Quit Smoking Coverage, New Report Reveals [Internet]. Chicago, IL; 2015. <a href="http://www.lung.org/about-us/media/press-releases/Exchange-Cessation-Report-national-release.html">http://www.lung.org/about-us/media/press-releases/Exchange-Cessation-Report-national-release.html</a>. New Report from American Lung Association finds Opportunity for Millions to Quit Smoking Ignored by Health Insurance Plans and Policymakers; March 31 <ul class="find-nolinks"></ul></li><li id="ref39"><span class="order">39.
+            </span><a name="pone.0189661.ref039" id="pone.0189661.ref039" class="link-target"></a>Kirzinger A, Sugarman E, Brodie M. Kaiser Health Tracking Poll: November 2016 March 6, 2017 at <a href="http://kff.org/health-costs/poll-finding/kaiser-health-tracking-poll-november-2016/">http://kff.org/health-costs/poll-finding/kaiser-health-tracking-poll-november-2016/</a>. <ul class="find-nolinks"></ul></li><li id="ref40"><span class="order">40.
+            </span><a name="pone.0189661.ref040" id="pone.0189661.ref040" class="link-target"></a>Bernard DM, Selden TM. Workers who decline employment-related health insurance. Medical Care. 2006;44(5 Suppl):I12–8. Epub 2006/04/21.  pmid:16625059. <ul class="reflinks" data-doi="10.1097/01.mlr.0000208168.01349.f3"><li><a href="https://doi.org/10.1097/01.mlr.0000208168.01349.f3" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/pubmed/16625059" target="_new" title="Go to article in PubMed">
+                        PubMed/NCBI
+                      </a></li><li><a href="http://scholar.google.com/scholar?q=Workers+who+decline+employment-related+health+insurance+Bernard+2006" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li></ol></div>
+
+
+
+          <div class="ref-tooltip">
+            <div class="ref_tooltip-content">
+
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+  </section>
+  <aside class="article-aside">
+
+
+<!--[if IE 9]>
+<style>
+.dload-xml {margin-top: 38px}
+</style>
+<![endif]-->
+<div class="dload-menu">
+  <div class="dload-pdf">
+    <a href="/plosone/article/file?id=10.1371/journal.pone.0189661&type=printable"
+       id="downloadPdf" target="_blank">Download PDF</a>
+  </div>
+  <div data-js-tooltip-hover="trigger" class="dload-hover">&nbsp;
+    <ul class="dload-xml" data-js-tooltip-hover="target">
+      <li><a href="/plosone/article/citation?id=10.1371/journal.pone.0189661"
+             id="downloadCitation">Citation</a></li>
+      <li><a href="/plosone/article/file?id=10.1371/journal.pone.0189661&type=manuscript"
+             id="downloadXml">XML</a>
+      </li>
+    </ul>
+
+  </div>
+</div>
+
+<div class="aside-container">
+  <div class="print-article" id="printArticle" data-js-tooltip-hover="trigger">
+    <a href="#" onclick="window.print(); return false;" class="preventDefault" id="printBrowser">Print</a>
+  </div>
+  <div class="share-article" id="shareArticle" data-js-tooltip-hover="trigger">
+    Share
+    <ul data-js-tooltip-hover="target" class="share-options" id="share-options">
+
+      <li><a href="https://www.reddit.com/submit?url=https%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0189661" id="shareReddit" target="_blank" title="Submit to Reddit"><img src="/resource/img/icon.reddit.16.png" width="16" height="16" alt="Reddit">Reddit</a></li>
+
+      <li><a href="https://www.facebook.com/share.php?u=https%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0189661&t=Examining public knowledge and preferences for adult preventive services coverage" id="shareFacebook" target="_blank" title="Share on Facebook"><img src="/resource/img/icon.fb.16.png" width="16" height="16" alt="Facebook">Facebook</a></li>
+
+      <li><a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0189661&title=Examining public knowledge and preferences for adult preventive services coverage&summary=Checkout this article I found at PLOS"  id="shareLinkedIn" target="_blank" title="Add to LinkedIn"><img src="/resource/img/icon.linkedin.16.png" width="16" height="16" alt="LinkedIn">LinkedIn</a></li>
+
+      <li><a href="https://www.mendeley.com/import/?url=https%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0189661"  id="shareMendeley" target="_blank" title="Add to Mendeley"><img src="/resource/img/icon.mendeley.16.png" width="16" height="16" alt="Mendeley">Mendeley</a></li>
+
+      <li><a href="https://bsky.app/intent/compose?text=Checkout%20this%20article%20I%20found%20at%20PLOS:%20https%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0189661"  id="shareBluesky" target="_blank" title="Share on Bluesky"><img src="/resource/img/icon.bluesky.light.png" width="16" height="16" alt="Bluesky">Bluesky</a></li>
+
+      <li><a href="mailto:?subject=Examining public knowledge and preferences for adult preventive services coverage&body=I%20thought%20you%20would%20find%20this%20article%20interesting.%20From%20PLOS ONE:%20https%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0189661"  id="shareEmail" rel="noreferrer" aria-label="Email"><img src="/resource/img/icon.email.16.png" width="16" height="16" alt="Email">Email</a></li>
+    </ul>
+  </div>
+</div>
+
+
+     <!-- Crossmark 2.0 widget -->
+    <script src="https://crossmark-cdn.crossref.org/widget/v2.0/widget.js"></script>
+    <a aria-label="Check for updates via CrossMark" data-target="crossmark">
+      <img alt="Check for updates via CrossMark" width="150" src="https://crossmark-cdn.crossref.org/widget/v2.0/logos/CROSSMARK_BW_horizontal.svg">
+    </a>
+    <!-- End Crossmark 2.0 widget -->
+
+
+
+<div class="aside-container collections-aside-container"><!-- React Magic --></div>
+
+
+<div class="skyscraper-container">
+  <div class="title">Advertisement</div>
+<!-- DoubleClick Ad Zone -->
+  <div class='advertisement' id='div-gpt-ad-1458247671871-1' style='width:160px; height:600px;'>
+    <script type='text/javascript'>
+      googletag.cmd.push(function() { googletag.display('div-gpt-ad-1458247671871-1'); });
+    </script>
+  </div>
+</div>
+
+
+
+
+<div class="subject-areas-container">
+  <h3>Subject Areas <div id="subjInfo">?</div>
+    <div id="subjInfoText">
+      <p>For more information about PLOS Subject Areas, click
+        <a href="https://github.com/PLOS/plos-thesaurus/blob/master/README.md" target="_blank" title="Link opens in new window">here</a>.</p>
+      <span class="inline-intro">We want your feedback.</span> Do these Subject Areas make sense for this article? Click the target next to the incorrect Subject Area and let us know. Thanks for your help!
+
+
+    </div>
+  </h3>
+  <ul id="subjectList">
+      <li>
+              <a class="taxo-term" title="Search for articles about Health insurance"
+                 href="/plosone/search?filterSubjects=Health+insurance&filterJournals=PLoSONE&q=">Health insurance</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Health insurance"><p class="taxo-explain">Is the Subject Area <strong>"Health insurance"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+      <li>
+              <a class="taxo-term" title="Search for articles about Cancer screening"
+                 href="/plosone/search?filterSubjects=Cancer+screening&filterJournals=PLoSONE&q=">Cancer screening</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Cancer screening"><p class="taxo-explain">Is the Subject Area <strong>"Cancer screening"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+      <li>
+              <a class="taxo-term" title="Search for articles about Surveys"
+                 href="/plosone/search?filterSubjects=Surveys&filterJournals=PLoSONE&q=">Surveys</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Surveys"><p class="taxo-explain">Is the Subject Area <strong>"Surveys"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+      <li>
+              <a class="taxo-term" title="Search for articles about Health screening"
+                 href="/plosone/search?filterSubjects=Health+screening&filterJournals=PLoSONE&q=">Health screening</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Health screening"><p class="taxo-explain">Is the Subject Area <strong>"Health screening"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+      <li>
+              <a class="taxo-term" title="Search for articles about Behavioral and social aspects of health"
+                 href="/plosone/search?filterSubjects=Behavioral+and+social+aspects+of+health&filterJournals=PLoSONE&q=">Behavioral and social aspects of health</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Behavioral and social aspects of health"><p class="taxo-explain">Is the Subject Area <strong>"Behavioral and social aspects of health"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+      <li>
+              <a class="taxo-term" title="Search for articles about Sexually transmitted diseases"
+                 href="/plosone/search?filterSubjects=Sexually+transmitted+diseases&filterJournals=PLoSONE&q=">Sexually transmitted diseases</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Sexually transmitted diseases"><p class="taxo-explain">Is the Subject Area <strong>"Sexually transmitted diseases"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+      <li>
+              <a class="taxo-term" title="Search for articles about Blood pressure"
+                 href="/plosone/search?filterSubjects=Blood+pressure&filterJournals=PLoSONE&q=">Blood pressure</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Blood pressure"><p class="taxo-explain">Is the Subject Area <strong>"Blood pressure"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+      <li>
+              <a class="taxo-term" title="Search for articles about Political aspects of health"
+                 href="/plosone/search?filterSubjects=Political+aspects+of+health&filterJournals=PLoSONE&q=">Political aspects of health</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Political aspects of health"><p class="taxo-explain">Is the Subject Area <strong>"Political aspects of health"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+  </ul>
+</div>
+<div id="subjectErrors"></div>
+  </aside>
+</div>
+
+
+
+
+</main>
+<footer id="pageftr">
+  <div class="row">
+    <div class="block x-small">
+
+<ul class="nav nav-secondary">
+    <li class="ftr-header"><a href="https://plos.org/our-journals/">Publications</a></li>
+    <li><a href="/agingandhealth/" id="ftr-age">PLOS Aging and Health</a></li>
+    <li><a href="/plosbiology/" id="ftr-bio">PLOS Biology</a></li>
+    <li><a href="/climate/" id="ftr-climate">PLOS Climate</a></li>
+    <li><a href="/complexsystems/" id="ftr-complex-systems">PLOS Complex Systems</a></li>
+    <li><a href="/ploscompbiol/" id="ftr-compbio">PLOS Computational Biology</a></li>
+    <li><a href="/digitalhealth/" id="ftr-digitalhealth">PLOS Digital Health</a></li>
+    <li><a href="/ecosystems/" id="ftr-eco">PLOS Ecosystems</a></li>
+    <li><a href="/plosgenetics/" id="ftr-gen">PLOS Genetics</a></li>
+  </ul>
+    </div>
+    <div class="block x-small">
+
+<ul class="nav nav-secondary">
+    <li class="ftr-header">&nbsp;</li>
+    <li><a href="/globalpublichealth/" id="ftr-globalpublichealth">PLOS Global Public Health</a></li>
+    <li><a href="/plosmedicine/" id="ftr-med">PLOS Medicine</a></li>
+    <li><a href="/mentalhealth/" id="ftr-mental-health">PLOS Mental Health</a></li>
+    <li><a href="/plosntds/" id="ftr-ntds">PLOS Neglected Tropical Diseases</a></li>
+    <li><a href="/plosone/" id="ftr-one">PLOS One</a></li>
+    <li><a href="/plospathogens/" id="ftr-path">PLOS Pathogens</a></li>
+    <li><a href="/sustainabilitytransformation/" id="ftr-sustainabilitytransformation">PLOS Sustainability and Transformation</a></li>
+    <li><a href="/water/" id="ftr-water">PLOS Water</a></li>
+</ul>
+    </div>
+    <div class="block xx-small">	
+
+
+<ul class="nav nav-tertiary">
+  <li>
+    <a href="https://plos.org" id="ftr-home">Home</a>
+  </li>
+  <li>
+    <a href="https://blogs.plos.org" id="ftr-blog">Blogs</a>
+  </li>
+  <li>
+    <a href="https://collections.plos.org/" id="ftr-collections">Collections</a>
+  </li>
+  <li>
+    <a href="mailto:customercare@plos.org" id="ftr-feedback">Give feedback</a>
+  </li>
+  <li>
+    <a href="/plosone/lockss-manifest" id="ftr-lockss">LOCKSS</a>
+  </li>
+</ul>
+    </div>
+    <div class="block xx-small">
+
+<ul class="nav nav-primary">
+  <li><a href="https://plos.org/privacy-policy" id="ftr-privacy">Privacy Policy</a></li>
+  <li><a href="https://plos.org/terms-of-use" id="ftr-terms">Terms of Use</a></li>
+  <li><a href="https://plos.org/advertise/" id="ftr-advertise">Advertise</a></li>
+  <li><a href="https://plos.org/media-inquiries" id="ftr-media">Media Inquiries</a></li>
+  <li><a href="https://plos.org/contact" id="ftr-contact">Contact</a></li>
+</ul>
+    </div>
+  </div>
+  <div class="row">
+    <p>
+
+<img src="/resource/img/logo-plos-footer.png" alt="PLOS" class="logo-footer"/>
+
+
+<span class="footer-non-profit-statement">PLOS is a nonprofit 501(c)(3) corporation, #C2354500, based in California, US</span>    </p>
+    <div class="block">
+    </div>
+  </div>
+ 
+<script src="/resource/js/global.js" type="text/javascript"></script>
+</footer>
+
+
+
+
+<script type="text/javascript">
+  var ArticleData = {
+    doi: '10.1371/journal.pone.0189661',
+    title: '<article-title xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">Examining public knowledge and preferences for adult preventive services coverage<\/article-title>',
+    date: 'Dec 20, 2017'
+  };
+</script>
+<script src="/resource/js/components/show_onscroll.js" type="text/javascript"></script>
+<script src="/resource/js/components/pagination.js" type="text/javascript"></script>
+<script src="/resource/js/vendor/spin.js" type="text/javascript"></script>
+<script src="/resource/js/pages/article.js" type="text/javascript"></script>
+<script src="/resource/js/pages/article_references.js" type="text/javascript"></script>
+<script src="/resource/js/pages/article_sidebar.js" type="text/javascript"></script>
+<script src="/resource/js/vendor/foundation/foundation.dropdown.js" type="text/javascript"></script>
+  <script src="/resource/js/components/table_open.js" type="text/javascript"></script>
+
+        <script src="/resource/js/components/figshare.js" type="text/javascript"></script>
+  <script src="/resource/js/vendor/jquery.panzoom.min.js" type="text/javascript"></script>
+  <script src="/resource/js/vendor/jquery.mousewheel.js" type="text/javascript"></script>
+
+  <script src="/resource/js/components/lightbox.js" type="text/javascript"></script>
+
+  <script src="/resource/js/pages/article_body.js" type="text/javascript"></script>
+
+
+<!-- This file should be loaded before the renderJs, to avoid conflicts with the FigShare, that implements the MathJax also. -->
+
+<!--  mathjax configuration options  -->
+<!-- more can be found at http://docs.mathjax.org/en/latest/ -->
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  "HTML-CSS": {
+    scale: 100,
+    availableFonts: ["STIX","TeX"],
+    preferredFont: "STIX",
+    webFont: "STIX-Web",
+    linebreaks: { automatic: false }
+  },
+  jax: ["input/MathML", "output/HTML-CSS"]
+});
+</script>
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=MML_HTMLorMML"></script>
+
+<div class="reveal-modal-bg"></div>
+</body>
+</html>

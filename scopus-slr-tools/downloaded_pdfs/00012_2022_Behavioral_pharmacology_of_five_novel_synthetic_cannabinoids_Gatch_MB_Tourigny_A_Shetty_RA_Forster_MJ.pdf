@@ -1,0 +1,2544 @@
+
+<!DOCTYPE html>
+<html lang="en" >
+    <head >
+
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="HandheldFriendly" content="True" />
+        <meta name="MobileOptimized" content="320" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        
+        
+
+        
+        
+  <link  rel="stylesheet" href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/assets/base_style-BxRs1iOp.css" />
+<script type="module" crossorigin="" src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/assets/base_style-D-jH62-1.js"></script>
+
+  <link  rel="stylesheet" href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/assets/article_style-B67IZFds.css" />
+<link  rel="stylesheet" href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/assets/style-D77LS1kY.css" />
+<script type="module" crossorigin="" src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/assets/article_style-CTAd1LmM.js"></script>
+
+  
+  
+    <style>
+  
+  
+  @media screen and (min-width: 64em) {
+    div.pmc-wm {
+      background: repeat-y;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='350' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Cdefs%3E%3Cfilter x='-.02' y='0' width='1.05' height='1' id='c'%3E%3CfeFlood flood-color='%23FFF'/%3E%3CfeComposite in='SourceGraphic'/%3E%3C/filter%3E%3Ctext id='b' font-family='Helvetica' font-size='11pt' style='opacity:1;fill:%23005ea2;stroke:none;text-anchor:middle' x='175' y='14'%3EAuthor Manuscript%3C/text%3E%3Cpath id='a' style='fill:%23005ea2' d='M0 8h350v3H0z'/%3E%3C/defs%3E%3Cuse xlink:href='%23a' transform='rotate(90 10 10)'/%3E%3Cuse xlink:href='%23b' transform='rotate(90 10 10)' filter='url(%23c)'/%3E%3C/svg%3E");
+      padding-left: 3rem;
+    }
+  }
+</style>
+
+  
+
+
+
+        
+            <link rel="apple-touch-icon"
+                  sizes="180x180"
+                  href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/favicons/apple-touch-icon.png" />
+            <link rel="icon"
+                  type="image/png"
+                  sizes="48x48"
+                  href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/favicons/favicon-48x48.png" />
+            <link rel="icon"
+                  type="image/png"
+                  sizes="32x32"
+                  href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/favicons/favicon-32x32.png" />
+            <link rel="icon"
+                  type="image/png"
+                  sizes="16x16"
+                  href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/favicons/favicon-16x16.png" />
+            <link rel="manifest" href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/favicons/site.webmanifest" />
+            <link rel="mask-icon"
+                  href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/favicons/safari-pinned-tab.svg"
+                  color="#0071bc" />
+            <meta name="msapplication-config"
+                  content="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/favicons/browserconfig.xml" />
+            <meta name="theme-color" content="#ffffff" />
+        
+
+        <title>
+            Behavioral Pharmacology of Five Novel Synthetic Cannabinoids - PMC
+        </title>
+
+        
+        
+  
+  <!-- Logging params: Pinger defaults -->
+<meta name="ncbi_app" content="cloudpmc-viewer" />
+<meta name="ncbi_db" content="pmc" />
+<meta name="ncbi_phid" content="C1ED1D6EAC2624130B1D6E0019FEF1CC.m_1" />
+<meta name="ncbi_pinger_stat_url" content="https://pmc.ncbi.nlm.nih.gov/stat" />
+<!-- Logging params: Pinger custom -->
+<meta name="ncbi_pdid" content="article" />
+  
+    <link rel="preconnect" href="https://www.google-analytics.com" />
+
+    
+        <link rel="preconnect" href="https://cdn.ncbi.nlm.nih.gov" />
+    
+
+    <!-- Include USWDS Init Script -->
+    <script src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/assets/uswds-init.js"></script>
+
+
+    <meta name="ncbi_domain" content="nihpa">
+<meta name="ncbi_type" content="fulltext">
+<meta name="ncbi_pcid" content="manuscript">
+<link rel="canonical" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8364570/">
+<meta name="robots" content="INDEX,NOFOLLOW,NOARCHIVE">
+<meta name="citation_journal_title" content="Behavioural pharmacology">
+<meta name="citation_title" content="Behavioral Pharmacology of Five Novel Synthetic Cannabinoids">
+<meta name="citation_author" content="Michael B Gatch">
+<meta name="citation_author_institution" content="Department of Pharmacology and Neuroscience, Center for Neuroscience Discovery, University of North Texas Health Science Center, 3500 Camp Bowie Blvd, Fort Worth, TX 76107-2699, USA">
+<meta name="citation_author" content="Andrew Tourigny">
+<meta name="citation_author_institution" content="Department of Pharmacology and Neuroscience, Center for Neuroscience Discovery, University of North Texas Health Science Center, 3500 Camp Bowie Blvd, Fort Worth, TX 76107-2699, USA">
+<meta name="citation_author" content="Ritu A Shetty">
+<meta name="citation_author_institution" content="Department of Pharmacology and Neuroscience, Center for Neuroscience Discovery, University of North Texas Health Science Center, 3500 Camp Bowie Blvd, Fort Worth, TX 76107-2699, USA">
+<meta name="citation_author" content="Michael J Forster">
+<meta name="citation_author_institution" content="Department of Pharmacology and Neuroscience, Center for Neuroscience Discovery, University of North Texas Health Science Center, 3500 Camp Bowie Blvd, Fort Worth, TX 76107-2699, USA">
+<meta name="citation_publication_date" content="2022 Apr 1">
+<meta name="citation_volume" content="33">
+<meta name="citation_issue" content="2-3">
+<meta name="citation_firstpage" content="175">
+<meta name="citation_doi" content="10.1097/FBP.0000000000000618">
+<meta name="citation_pmid" content="33595956">
+<meta name="citation_abstract_html_url" content="https://pmc.ncbi.nlm.nih.gov/articles/PMC8364570/">
+<meta name="citation_fulltext_html_url" content="https://pmc.ncbi.nlm.nih.gov/articles/PMC8364570/">
+<meta name="citation_pdf_url" content="https://pmc.ncbi.nlm.nih.gov/articles/PMC8364570/pdf/nihms-1652522.pdf">
+<meta name="description" content="Newly emerging synthetic cannabinoid compounds continue to be found in the designer drug market. They are often targeted as a “legal high” alternative to traditional cannabinoids via “darknet” markets and their increased potency and efficacy are ...">
+<meta name="og:title" content="Behavioral Pharmacology of Five Novel Synthetic Cannabinoids">
+<meta name="og:type" content="article">
+<meta name="og:site_name" content="PubMed Central (PMC)">
+<meta name="og:description" content="Newly emerging synthetic cannabinoid compounds continue to be found in the designer drug market. They are often targeted as a “legal high” alternative to traditional cannabinoids via “darknet” markets and their increased potency and efficacy are ...">
+<meta name="og:url" content="https://pmc.ncbi.nlm.nih.gov/articles/PMC8364570/">
+<meta name="og:image" content="https://cdn.ncbi.nlm.nih.gov/pmc/cms/images/pmc-card-share.jpg?_=0">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@ncbi">
+    
+    
+
+    </head>
+    <body >
+        
+    <a class="usa-skipnav " href="#main-content">
+      Skip to main content
+    </a>
+
+
+        
+            
+
+<section class="usa-banner " aria-label="Official website of the United States government" >
+    <div class="usa-accordion">
+        <header class="usa-banner__header">
+            <div class="usa-banner__inner">
+                <div class="grid-col-auto">
+                    <img aria-hidden="true"
+                         class="usa-banner__header-flag"
+                         src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/us_flag.svg"
+                         alt="" />
+                </div>
+
+                <div class="grid-col-fill tablet:grid-col-auto" aria-hidden="true">
+                    <p class="usa-banner__header-text">
+                        An official website of the United States government
+                    </p>
+                    <span class="usa-banner__header-action">Here's how you know</span>
+                </div>
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="button"
+        
+    
+    class="usa-accordion__button usa-banner__button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           
+           "
+    aria-expanded="false"
+    aria-controls="gov-banner-default"
+    
+    data-testid="storybook-django-banner"
+    
+    >
+    
+        
+
+        
+                    <span class="usa-banner__button-text">Here's how you know</span>
+                
+
+        
+    
+        
+            </button>
+        
+
+
+            </div>
+        </header>
+
+        <div class="usa-banner__content usa-accordion__content"
+             id="gov-banner-default"
+             hidden>
+            <div class="grid-row grid-gap-lg">
+                <div class="usa-banner__guidance tablet:grid-col-6">
+                    <img class="usa-banner__icon usa-media-block__img"
+                         src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-dot-gov.svg"
+                         alt=""
+                         aria-hidden="true" />
+                    <div class="usa-media-block__body">
+                        <p>
+                            <strong>Official websites use .gov</strong>
+                            <br />
+                            A
+                            <strong>.gov</strong> website belongs to an official
+                            government organization in the United States.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="usa-banner__guidance tablet:grid-col-6">
+                    <img class="usa-banner__icon usa-media-block__img"
+                         src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-https.svg"
+                         alt=""
+                         aria-hidden="true" />
+
+                    <div class="usa-media-block__body">
+                        <p>
+                            <strong>Secure .gov websites use HTTPS</strong>
+                            <br />
+                            A <strong>lock</strong> (
+                            <span class="icon-lock">
+                                <svg xmlns="http://www.w3.org/2000/svg"
+                                     width="52"
+                                     height="64"
+                                     viewBox="0 0 52 64"
+                                     class="usa-banner__lock-image"
+                                     role="graphics-symbol"
+                                     aria-labelledby="banner-lock-description"
+                                     focusable="false">
+                                    <title id="banner-lock-title">Lock</title>
+                                    <desc id="banner-lock-description">
+                                    Locked padlock icon
+                                    </desc>
+                                    <path fill="#000000"
+                                          fill-rule="evenodd"
+                                          d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z" />
+                                </svg>
+</span>) or <strong>https://</strong> means you've safely
+                                connected to the .gov website. Share sensitive
+                                information only on official, secure websites.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+        
+
+        
+    
+    
+    
+
+<div class="usa-overlay">
+</div>
+
+
+
+<header class="usa-header usa-header--extended usa-header--wide" data-header data-testid="header"    >
+    <div class="ncbi-header">
+        <div class="ncbi-header__container">
+            <a class="ncbi-header__logo-container"
+               href="https://www.ncbi.nlm.nih.gov/">
+                <img alt="NCBI home page"
+                     class="ncbi-header__logo-image"
+                     src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/ncbi-logos/nih-nlm-ncbi--white.svg"
+                     width="410"
+                     height="100" />
+            </a>
+
+            <!-- Mobile menu hamburger button -->
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="button"
+        
+    
+    class="usa-menu-btn ncbi-header__hamburger-button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           
+           "
+    
+    
+    aria-label="Show menu"
+    data-testid="navMenuButton"
+    
+    >
+    
+        
+
+        
+                <svg aria-hidden="true"
+                     class="ncbi-hamburger-icon"
+                     fill="none"
+                     focusable="false"
+                     height="21"
+                     viewBox="0 0 31 21"
+                     width="31"
+                     xmlns="http://www.w3.org/2000/svg">
+                    <path clip-rule="evenodd"
+                          d="M0.125 20.75H30.875V17.3333H0.125V20.75ZM0.125 12.2083H30.875V8.79167H0.125V12.2083ZM0.125 0.25V3.66667H30.875V0.25H0.125Z"
+                          fill="#F1F1F1"
+                          fill-rule="evenodd" />
+                </svg>
+            
+
+        
+    
+        
+            </button>
+        
+
+
+
+            
+                <!-- Desktop buttons-->
+                <div class="ncbi-header__desktop-buttons">
+                    
+                        <!-- Desktop search button -->
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="button"
+        
+    
+    class="usa-button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           usa-button--unstyled ncbi-header__desktop-button
+           "
+    aria-expanded="false"
+    aria-controls="search-field-desktop-navigation"
+    aria-label="Show search overlay"
+    data-testid="toggleSearchPanelButton"
+    data-toggle-search-panel-button
+    >
+    
+        
+
+        
+                            
+
+
+
+    <img
+        src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/search.svg"
+        class="usa-icon "
+        aria-hidden="true"
+        
+        
+    />
+
+
+                            Search
+                        
+
+        
+    
+        
+            </button>
+        
+
+
+                    
+
+                    <!-- Desktop login dropdown -->
+                    
+                        <div class="ncbi-header__login-dropdown">
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="button"
+        
+    
+    class="usa-button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           usa-button--unstyled ncbi-header__desktop-button ncbi-header__login-dropdown-button
+           "
+    aria-expanded="false"
+    aria-controls="login-dropdown-menu"
+    aria-label="Show login menu"
+    data-testid="toggleLoginMenuDropdown"
+    data-desktop-login-button
+    >
+    
+        
+
+        
+                                
+
+
+
+    <img
+        src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/person.svg"
+        class="usa-icon "
+        aria-hidden="true"
+        
+        
+    />
+
+
+
+                                <span data-login-dropdown-text>Log in</span>
+
+                                <!-- Dropdown icon pointing up -->
+                                
+
+
+
+    <img
+        src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/expand_less.svg"
+        class="usa-icon ncbi-header__login-dropdown-icon ncbi-header__login-dropdown-icon--expand-less ncbi-header__login-dropdown-icon--hidden"
+        aria-hidden="true"
+        data-login-dropdown-up-arrow
+        
+    />
+
+
+
+                                <!-- Dropdown icon pointing down -->
+                                
+
+
+
+    <img
+        src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/expand_more.svg"
+        class="usa-icon ncbi-header__login-dropdown-icon ncbi-header__login-dropdown-icon--expand-more ncbi-header__login-dropdown-icon--hidden"
+        aria-hidden="true"
+        data-login-dropdown-down-arrow
+        
+    />
+
+
+                            
+
+        
+    
+        
+            </button>
+        
+
+
+
+                            <!-- Login dropdown menu -->
+                            <ul class="usa-nav__submenu ncbi-header__login-dropdown-menu"
+                                id="login-dropdown-menu"
+                                data-desktop-login-menu-dropdown
+                                hidden>
+                                
+                                    <li class="usa-nav__submenu-item">
+                                        <!-- Uses custom style overrides to render external and document links. -->
+                                        
+
+
+
+
+
+
+
+
+
+    <a href="https://www.ncbi.nlm.nih.gov/myncbi/" class="usa-link  "  >
+        
+
+        
+            Dashboard
+        
+
+        
+    </a>
+
+
+                                    </li>
+                                
+                                    <li class="usa-nav__submenu-item">
+                                        <!-- Uses custom style overrides to render external and document links. -->
+                                        
+
+
+
+
+
+
+
+
+
+    <a href="https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/" class="usa-link  "  >
+        
+
+        
+            Publications
+        
+
+        
+    </a>
+
+
+                                    </li>
+                                
+                                    <li class="usa-nav__submenu-item">
+                                        <!-- Uses custom style overrides to render external and document links. -->
+                                        
+
+
+
+
+
+
+
+
+
+    <a href="https://www.ncbi.nlm.nih.gov/account/settings/" class="usa-link  "  >
+        
+
+        
+            Account settings
+        
+
+        
+    </a>
+
+
+                                    </li>
+                                
+                                <li class="usa-nav__submenu-item">
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="button"
+        
+    
+    class="usa-button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           usa-button--outline ncbi-header__login-dropdown-logout-button
+           "
+    
+    
+    
+    data-testid="desktopLogoutButton"
+    data-desktop-logout-button
+    >
+    
+        
+
+        Log out
+
+        
+    
+        
+            </button>
+        
+
+
+                                </li>
+                            </ul>
+                        </div>
+                    
+                </div>
+            
+        </div>
+    </div>
+
+    <!-- Search panel -->
+    
+        <div class="ncbi-search-panel ncbi--show-only-at-desktop"
+             data-header-search-panel
+             hidden>
+            <div class="ncbi-search-panel__container">
+                <form action="https://www.ncbi.nlm.nih.gov/search/all/"
+                      
+                      autocomplete="off"
+                      class="usa-search usa-search--big ncbi-search-panel__form"
+                      data-testid="desktop-navigation-search-form"
+                      method="GET"
+                      role="search">
+                    <label class="usa-sr-only" for="search-field-desktop-navigation">
+                        Search…
+                    </label>
+                    <input class="usa-input"
+                           id="search-field-desktop-navigation"
+                           name="term"
+                           
+                               placeholder="Search NCBI"
+                           
+                           type="search"
+                           value="" />
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="submit"
+        
+    
+    class="usa-button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           
+           "
+    
+    
+    
+    
+    
+    >
+    
+        
+
+        
+                        <span class="usa-search__submit-text">
+                            Search NCBI
+                        </span>
+                    
+
+        
+    
+        
+            </button>
+        
+
+
+                </form>
+
+                
+            </div>
+        </div>
+    
+
+    <nav aria-label="Primary navigation" class="usa-nav">
+        <p class="usa-sr-only" id="primary-navigation-sr-only-title">
+            Primary site navigation
+        </p>
+
+        <!-- Mobile menu close button -->
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="button"
+        
+    
+    class="usa-nav__close ncbi-nav__close-button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           
+           "
+    
+    
+    aria-label="Close navigation menu"
+    data-testid="navCloseButton"
+    
+    >
+    
+        
+
+        
+            <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg" alt="Close" />
+        
+
+        
+    
+        
+            </button>
+        
+
+
+
+        
+            <!-- Mobile search component -->
+            <form class="usa-search usa-search--small ncbi--hide-at-desktop"
+                  action="https://www.ncbi.nlm.nih.gov/search/all/"
+                  
+                  autocomplete="off"
+                  data-testid="mobile-navigation-search-form"
+                  method="GET"
+                  role="search">
+                <label class="usa-sr-only" for="search-field-mobile-navigation">
+                    Search
+                </label>
+
+                <input class="usa-input"
+                       id="search-field-mobile-navigation"
+                       type="search"
+                       
+                           placeholder="Search NCBI"
+                       
+                       name="term" />
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="submit"
+        
+    
+    class="usa-button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           
+           "
+    
+    
+    
+    
+    
+    >
+    
+        
+
+        
+                    <!-- This SVG should be kept inline and not replaced with a link to the icon as otherwise it will render in the wrong color -->
+                    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0Ij48cGF0aCBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIi8+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE1LjUgMTRoLS43OWwtLjI4LS4yN0E2LjQ3MSA2LjQ3MSAwIDAgMCAxNiA5LjUgNi41IDYuNSAwIDEgMCA5LjUgMTZjMS42MSAwIDMuMDktLjU5IDQuMjMtMS41N2wuMjcuMjh2Ljc5bDUgNC45OUwyMC40OSAxOWwtNC45OS01em0tNiAwQzcuMDEgMTQgNSAxMS45OSA1IDkuNVM3LjAxIDUgOS41IDUgMTQgNy4wMSAxNCA5LjUgMTEuOTkgMTQgOS41IDE0eiIvPjwvc3ZnPg=="
+                         class="usa-search__submit-icon"
+                         alt="Search" />
+                
+
+        
+    
+        
+            </button>
+        
+
+
+            </form>
+
+            
+        
+
+        <!-- Primary navigation menu items -->
+        <!-- This usa-nav__inner wrapper is required to correctly style the navigation items on Desktop -->
+        
+
+        
+            <div class="ncbi-nav__mobile-login-menu ncbi--hide-at-desktop"
+                 data-mobile-login-menu
+                 hidden>
+                <p class="ncbi-nav__mobile-login-menu-status">
+                    Logged in as:
+                    <strong class="ncbi-nav__mobile-login-menu-email"
+                            data-mobile-login-email-text></strong>
+                </p>
+                <ul class="usa-nav__primary usa-accordion">
+                    
+                        <li class="usa-nav__primary-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.ncbi.nlm.nih.gov/myncbi/" class="usa-link  "  >
+        
+
+        
+            Dashboard
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="usa-nav__primary-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/" class="usa-link  "  >
+        
+
+        
+            Publications
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="usa-nav__primary-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.ncbi.nlm.nih.gov/account/settings/" class="usa-link  "  >
+        
+
+        
+            Account settings
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                </ul>
+            </div>
+        
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="button"
+        
+    
+    class="usa-button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           ncbi-nav__mobile-login-button ncbi--hide-at-desktop
+           "
+    
+    
+    
+    data-testid="mobileLoginButton"
+    data-mobile-login-button
+    >
+    
+        
+
+        Log in
+
+        
+    
+        
+            </button>
+        
+
+
+    </nav>
+</header>
+
+    
+    
+        
+
+<section class="pmc-header pmc-header--basic" aria-label="PMC Header with search box">
+    <div class="pmc-nav-container">
+        <div class="pmc-header__bar">
+           <div class="pmc-header__logo">
+               <a href="/" title="Home" aria-label="PMC Home"></a>
+           </div>
+            <button
+                    type="button"
+                    class="usa-button usa-button--unstyled pmc-header__search__button"
+                    aria-label="Open search"
+                    data-ga-category="search"
+                    data-ga-action="PMC"
+                    data-ga-label="pmc_search_panel_mobile"
+            >
+                <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/search.svg" alt="PMC search open icon" aria-hidden="true" class="usa-icon usa-icon--size-4 pmc-icon__open" />
+                <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg" alt="PMC search close ison" aria-hidden="true" class="usa-icon usa-icon--size-4 pmc-icon__close" />
+            </button>
+        </div>
+        <div class="pmc-header__search">
+            
+
+
+<form class="usa-search usa-search--extra usa-search--article-right-column  pmc-header__search__form" id="pmc-search-form" autocomplete="off" role="search">
+<label class="usa-sr-only" for="pmc-search">Search PMC Full-Text Archive</label>
+<span class="autoComplete_wrapper flex-1">
+<input class="usa-input width-full maxw-none" required="required" placeholder="Search PMC Full-Text Archive" id="pmc-search"  type="search" name="term" data-autocomplete-url="https://pmc.ncbi.nlm.nih.gov/autocomp/search/autocomp/"/>
+</span>
+<button
+class="usa-button"
+type="submit"
+formaction="https://pmc.ncbi.nlm.nih.gov/search/"
+data-ga-category="search"
+data-ga-action="PMC"
+data-ga-label="PMC_search_button"
+>
+<span class="usa-search__submit-text">Search in PMC</span>
+<img
+src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons-bg/search--white.svg"
+class="usa-search__submit-icon"
+alt="Search"
+/>
+</button>
+</form>
+            <div class="display-flex flex-column tablet:flex-row tablet:flex-justify flex-justify-center flex-align-center width-full desktop:maxw-44">
+                <ul class="pmc-header__search__menu">
+                    <li>
+                        
+                            <a class="usa-link" href="/journals/" data-ga-action="featured_link" data-ga-label="journal list">
+                                Journal List
+                            </a>
+                        
+                    </li>
+                    <li>
+                        
+                            <a class="usa-link" href="/about/userguide/" data-ga-action="featured_link"
+                            data-ga-label="user guide">
+                                User Guide
+                            </a>
+                        
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+    
+
+
+        
+        
+
+       
+  <div class="usa-section padding-top-0 desktop:padding-top-6 pmc-article-section" data-article-db="pmc" data-article-id="8364570">
+
+    
+
+   
+
+
+
+<div class="grid-container pmc-actions-bar" aria-label="Actions bar" role="complementary">
+    <div class="grid-row">
+        <div class="grid-col-fill display-flex">
+             <div class="display-flex">
+                <ul class="usa-list usa-list--unstyled usa-list--horizontal">
+                    <li class="margin-right-2 mobile-lg:margin-right-4 display-flex mob">
+                        <button
+                                type="button"
+                                class="usa-button pmc-sidenav__container__open usa-button--unstyled width-auto display-flex"
+                                aria-label="Open resources"
+                                data-extra-class="is-visible-resources"
+                                data-ga-category="resources_accordion"
+                                data-ga-action="click"
+                                data-ga-label="mobile_icon"
+                        >
+                            <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/more_vert.svg" alt="Open resources icon" class="usa-icon usa-icon--size-4 usa-icon--link" />
+                        </button>
+                    </li>
+                    
+                    <li class="margin-right-2 mobile-lg:margin-right-4 display-flex mob">
+                        <a
+                                href="https://doi.org/10.1097/FBP.0000000000000618"
+                                class="usa-link display-flex usa-tooltip"
+                                role="button"
+                                target="_blank"
+                                rel="noreferrer noopener"
+                                title="View on publisher site"
+                                data-position="bottom"
+                                aria-label="View on publisher site"
+                                data-ga-category="actions"
+                                data-ga-action="click"
+                                data-ga-label="publisher_link_mobile"
+                        >
+                                <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/launch.svg" alt="View on publisher site icon" class="usa-icon usa-icon--size-4 usa-icon--link" />
+                        </a>
+                    </li>
+                    
+                    
+                        <li class="margin-right-2 mobile-lg:margin-right-4 display-flex">
+                             <a
+                                     href="pdf/nihms-1652522.pdf"
+                                     class="usa-link display-flex usa-tooltip"
+                                     role="button"
+                                     title="Download PDF"
+                                     data-position="bottom"
+                                     aria-label="Download PDF"
+                                     data-ga-category="actions"
+                                     data-ga-action="click"
+                                     data-ga-label="pdf_download_mobile"
+                             >
+
+                                 <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg" alt="Download PDF icon" aria-hidden="true" class="usa-icon usa-icon--size-4 usa-icon--link" />
+                            </a>
+                        </li>
+                    
+                    <li class="margin-right-2 mobile-lg:margin-right-4 display-flex">
+                        <button
+                            class="usa-button usa-button--unstyled  usa-tooltip collections-dialog-trigger collections-button display-flex collections-button-empty"
+                            title="Add to Collections"
+                            data-position="bottom"
+                            aria-label="Save article in MyNCBI collections."
+                            data-ga-category="actions"
+                            data-ga-action="click"
+                            data-ga-label="collections_button_mobile"
+                            data-collections-open-dialog-enabled="false"
+                            data-collections-open-dialog-url="https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpmc.ncbi.nlm.nih.gov%2Farticles%2FPMC8364570%2F%23open-collections-dialog"
+                            data-in-collections="false"
+                        >
+                            <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-full.svg" alt="Collections icon" aria-hidden="true" class="usa-icon usa-icon--size-4 usa-icon--link usa-icon--bookmark-full" />
+                            <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-empty.svg" alt="Collections icon" aria-hidden="true" class="usa-icon usa-icon--size-4 usa-icon--link usa-icon--bookmark-empty" />
+                        </button>
+                    </li>
+                    
+                    <li class="margin-right-2 mobile-lg:margin-right-4 display-flex">
+                        <button role="button" class="usa-button usa-button--unstyled usa-tooltip citation-dialog-trigger display-flex"
+                            aria-label="Open dialog with citation text in different styles"
+                            title="Cite"
+                            data-position="bottom"
+                            data-ga-category="actions"
+                            data-ga-action="open"
+                            data-ga-label="cite_mobile"
+                            data-all-citations-url="/resources/citations/8364570/"
+                            data-citation-style="nlm"
+                            data-download-format-link="/resources/citations/8364570/export/"
+                        >
+                            <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/format_quote.svg" alt="Cite icon" aria-hidden="true" class="usa-icon usa-icon--size-4 usa-icon--link" />
+                        </button>
+                    </li>
+                    
+                    <li class="pmc-permalink display-flex" >
+                         <button
+                                 type="button"
+                                 title="Permalink"
+                                 data-position="bottom"
+                                 class="usa-button usa-button--unstyled display-flex usa-tooltip"
+                                 aria-label="Show article permalink"
+                                 aria-expanded="false"
+                                 aria-haspopup="true"
+                                 data-ga-category="actions"
+                                 data-ga-action="open"
+                                 data-ga-label="permalink_mobile"
+                         >
+                            <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/share.svg" alt="Show article permalink icon" aria-hidden="true" class="usa-icon usa-icon--size-4 usa-icon--link" />
+                        </button>
+                        
+
+<div class="pmc-permalink__dropdown" hidden>
+    <div class="pmc-permalink__dropdown__container">
+          <h2 class="usa-modal__heading margin-top-0 margin-bottom-2 text-uppercase font-sans-xs">PERMALINK</h2>
+          <div class="pmc-permalink__dropdown__content">
+              <input type="text" class="usa-input" value="https://pmc.ncbi.nlm.nih.gov/articles/PMC8364570/" aria-label="Article permalink">
+              <button class="usa-button display-inline-flex pmc-permalink__dropdown__copy__btn margin-right-0" title="Copy article permalink" data-ga-category="save_share" data-ga-action="link" data-ga-label="copy_link">
+                  <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg" alt="Copy icon" aria-hidden="true" class="usa-icon usa-icon--white" />
+                  <span class="margin-left-1">Copy</span>
+              </button>
+          </div>
+    </div>
+</div>
+                    </li>
+                </ul>
+            </div>
+            <button
+                    type="button"
+                    class="usa-button pmc-sidenav__container__open usa-button--unstyled width-auto display-flex"
+                    aria-label="Open article navigation"
+                    data-extra-class="is-visible-in-page"
+                    data-ga-category="actions"
+                    data-ga-action="open"
+                    data-ga-label="article_nav_mobile"
+            >
+                <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/list.svg" alt="Open article navigation icon" aria-hidden="true" class="usa-icon usa-icon--size-4 usa-icon--link" />
+            </button>
+        </div>
+    </div>
+</div>
+    <div class="grid-container desktop:padding-left-6">
+      <div id="article-container" class="grid-row grid-gap">
+        <div class="grid-col-12 desktop:grid-col-8 order-2 pmc-layout__content">
+            <div class="grid-container padding-left-0 padding-right-0">
+                <div class="grid-row desktop:margin-left-neg-6">
+                    <div class="grid-col-12">
+                        <div class="pmc-layout__disclaimer" role="complementary" aria-label="Disclaimer note">
+    As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+    the contents by NLM or the National Institutes of Health.<br/>
+    Learn more:
+    <a class="usa-link" data-ga-category="Link click" data-ga-action="Disclaimer" data-ga-label="New disclaimer box" href="/about/disclaimer/">PMC Disclaimer</a>
+    |
+    <a class="usa-link" data-ga-category="Link click" data-ga-action="PMC Copyright Notice" data-ga-label="New disclaimer box" href="/about/copyright/">
+        PMC Copyright Notice
+    </a>
+</div>
+                    </div>
+                </div>
+                <div class="grid-row pmc-wm desktop:margin-left-neg-6">
+                    <!-- Main content -->
+                    <main
+                      id="main-content"
+                      class="usa-layout-docs__main usa-layout-docs grid-col-12 pmc-layout pmc-prose padding-0"
+                    >
+
+                      
+                        <section class="pmc-journal-banner text-center line-height-none" aria-label="Journal banner"><img src="https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-nihpa.png" alt="NIHPA Author Manuscripts logo" usemap="#pmc-banner-imagemap" width="500" height="75"><map name="pmc-banner-imagemap"><area alt="Link to NIHPA Author Manuscripts" title="Link to NIHPA Author Manuscripts" shape="default" href="https://pmc.ncbi.nlm.nih.gov/about/public-access/" target="_blank" rel="noopener noreferrer"></map></section><article lang="en"><section aria-label="Article citation and metadata"><section class="pmc-layout__citation font-secondary font-xs"><div>
+<div class="display-inline-block"><button type="button" class="cursor-pointer text-no-underline bg-transparent border-0 padding-0 text-left margin-0 text-normal text-primary" aria-controls="journal_context_menu">Behav Pharmacol</button></div>. Author manuscript; available in PMC: 2023 Apr 1.</div>
+<div>
+<em>Published in final edited form as: </em>Behav Pharmacol. 2022 Apr 1;33(2-3):175–183. doi: <a href="https://doi.org/10.1097/FBP.0000000000000618" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">10.1097/FBP.0000000000000618</a>
+</div>
+<nav id="journal_context_menu" hidden="hidden"><ul class="menu-list font-family-ui" role="menu">
+<li role="presentation"><a href='https://pmc.ncbi.nlm.nih.gov/search/?term="Behav%20Pharmacol"[jour]' class="usa-link" role="menuitem">Search in PMC</a></li>
+<li role="presentation"><a href='https://pubmed.ncbi.nlm.nih.gov/?term="Behav%20Pharmacol"[jour]' lang="en" class="usa-link" role="menuitem">Search in PubMed</a></li>
+<li role="presentation"><a href='https://www.ncbi.nlm.nih.gov/nlmcatalog?term="Behav%20Pharmacol"[Title%20Abbreviation]' class="usa-link" role="menuitem">View in NLM Catalog</a></li>
+<li role="presentation"><a href='?term="Behav%20Pharmacol"[jour]' class="usa-link" role="menuitem" data-add-to-search="true">Add to search</a></li>
+</ul></nav></section><section class="front-matter"><div class="ameta p font-secondary font-xs">
+<hgroup><h1>Behavioral Pharmacology of Five Novel Synthetic Cannabinoids</h1></hgroup><div class="cg p">
+<a href='https://pubmed.ncbi.nlm.nih.gov/?term="Gatch%20MB"[Author]' class="usa-link" aria-describedby="id1"><span class="name western">Michael B Gatch</span></a><div hidden="hidden" id="id1">
+<h3><span class="name western">Michael B Gatch</span></h3>
+<div class="p">
+<sup>1</sup>Department of Pharmacology and Neuroscience, Center for Neuroscience Discovery, University of North Texas Health Science Center, 3500 Camp Bowie Blvd, Fort Worth, TX 76107-2699, USA</div>
+<div class="p">Find articles by <a href='https://pubmed.ncbi.nlm.nih.gov/?term="Gatch%20MB"[Author]' class="usa-link"><span class="name western">Michael B Gatch</span></a>
+</div>
+</div>
+<sup>1</sup>, <a href='https://pubmed.ncbi.nlm.nih.gov/?term="Tourigny%20A"[Author]' class="usa-link" aria-describedby="id2"><span class="name western">Andrew Tourigny</span></a><div hidden="hidden" id="id2">
+<h3><span class="name western">Andrew Tourigny</span></h3>
+<div class="p">
+<sup>1</sup>Department of Pharmacology and Neuroscience, Center for Neuroscience Discovery, University of North Texas Health Science Center, 3500 Camp Bowie Blvd, Fort Worth, TX 76107-2699, USA</div>
+<div class="p">Find articles by <a href='https://pubmed.ncbi.nlm.nih.gov/?term="Tourigny%20A"[Author]' class="usa-link"><span class="name western">Andrew Tourigny</span></a>
+</div>
+</div>
+<sup>1</sup>, <a href='https://pubmed.ncbi.nlm.nih.gov/?term="Shetty%20RA"[Author]' class="usa-link" aria-describedby="id3"><span class="name western">Ritu A Shetty</span></a><div hidden="hidden" id="id3">
+<h3><span class="name western">Ritu A Shetty</span></h3>
+<div class="p">
+<sup>1</sup>Department of Pharmacology and Neuroscience, Center for Neuroscience Discovery, University of North Texas Health Science Center, 3500 Camp Bowie Blvd, Fort Worth, TX 76107-2699, USA</div>
+<div class="p">Find articles by <a href='https://pubmed.ncbi.nlm.nih.gov/?term="Shetty%20RA"[Author]' class="usa-link"><span class="name western">Ritu A Shetty</span></a>
+</div>
+</div>
+<sup>1</sup>, <a href='https://pubmed.ncbi.nlm.nih.gov/?term="Forster%20MJ"[Author]' class="usa-link" aria-describedby="id4"><span class="name western">Michael J Forster</span></a><div hidden="hidden" id="id4">
+<h3><span class="name western">Michael J Forster</span></h3>
+<div class="p">
+<sup>1</sup>Department of Pharmacology and Neuroscience, Center for Neuroscience Discovery, University of North Texas Health Science Center, 3500 Camp Bowie Blvd, Fort Worth, TX 76107-2699, USA</div>
+<div class="p">Find articles by <a href='https://pubmed.ncbi.nlm.nih.gov/?term="Forster%20MJ"[Author]' class="usa-link"><span class="name western">Michael J Forster</span></a>
+</div>
+</div>
+<sup>1</sup>
+</div>
+<ul class="d-buttons inline-list">
+<li><button class="d-button" aria-controls="aip_a" aria-expanded="false">Author information</button></li>
+<li><button class="d-button" aria-controls="clp_a" aria-expanded="false">Copyright and License information</button></li>
+</ul>
+<div class="d-panels font-secondary-light">
+<div id="aip_a" class="d-panel p" style="display: none">
+<div class="p" id="A1">
+<sup>1</sup>Department of Pharmacology and Neuroscience, Center for Neuroscience Discovery, University of North Texas Health Science Center, 3500 Camp Bowie Blvd, Fort Worth, TX 76107-2699, USA</div>
+<div class="author-notes p"><div class="fn" id="CR1">
+<sup>✉</sup><p class="display-inline"><strong>Corresponding author:</strong> Michael B. Gatch, Department of Pharmacology &amp; Neuroscience, University of North Texas Health Science Center, 3500 Camp Bowie Blvd, Fort Worth, TX 76107-2699, USA, phone: 817-735-2062, fax: 817-735-0408, <span>michael.gatch@unthsc.edu</span></p>
+</div></div>
+</div>
+<div id="clp_a" class="d-panel p" style="display: none"><div class="p"><a href="/about/copyright/" class="usa-link">PMC Copyright notice</a></div></div>
+</div>
+<div>PMCID: PMC8364570  NIHMSID: NIHMS1652522  PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/33595956/" class="usa-link">33595956</a>
+</div>
+<div class="ra xbox p" role="complementary" aria-label="Related or updated information about this article"><div>The publisher's version of this article is available at <a href="https://doi.org/10.1097/FBP.0000000000000618" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Behav Pharmacol</a>
+</div></div>
+</div></section></section><section aria-label="Article content"><section class="body main-article-body"><section class="abstract" id="ABS1"><h2>Abstract</h2>
+<p id="P2">Newly emerging synthetic cannabinoid compounds continue to be found in the designer drug market. They are often targeted as a “legal high” alternative to traditional cannabinoids via “darknet” markets and their increased potency and efficacy are becoming a growing concern internationally. The purpose of this study was to determine whether 4-CN-CUMYL-BUTINACA, 4F-MDMB-BINACA, 5F-AEB, 5F-CUMYL-P7AICA and EMB-FUBINACA exhibited similar behavioral effects as Δ<sup>9</sup>-tetrahydrocannabinol (Δ<sup>9</sup>-THC). Locomotor activity was assessed in an open-field assay using Swiss-Webster mice. Male Sprague-Dawley rats were trained to discriminate between IP injections of Δ<sup>9</sup>-THC (3 mg/kg) and vehicle. Following successful training, substitution tests for 4-CN-CUMYL-BUTINACA, 4F -MDMB-BINACA, 5F-AEB, 5F-CUMYL-P7AICA and EMB-FUBINACA were conducted. All of the test compounds decreased locomotor activity. 4-CN-CUMYL-BUTINACA (ED<sub>50</sub>= 0.26 mg/kg), 4F-MDMB-BINACA (ED<sub>50</sub>=0.019 mg/kg), 5F-CUMYL-P7AICA (ED<sub>50</sub>= 0.13 mg/kg) and EMB-FUBINACA (ED<sub>50</sub> = 0.13 mg/kg) each fully substituted for the discriminative stimulus effects of the training dose of Δ<sup>9</sup>-THC, whereas 5F-AEB produced only a maximum of 67% drug-appropriate responding at 0.5 mg/kg. Higher doses produced piloerection, exophthalmos and convulsions. 4-CN-CUMYL-BUTINACA, 4F-MDMB-BINACA, 5F-CUMYL-P7AICA and EMB-FUBINACA are likely to produce similar subjective effects in humans as those produced by abused synthetic cannabinoids, and may therefore share similar abuse liability. In contrast, 5F-AEB may have a reduced abuse liability given its weaker THC-like discriminative stimulus effects, but may be more dangerous due to the adverse effects observed at doses needed to produce discriminative stimulus effects.</p>
+<section id="kwd-group1" class="kwd-group"><p><strong>Keywords:</strong> cannabinoids, drug discrimination, locomotor activity</p></section></section><hr class="headless">
+<p id="P3">Cannabis has long been one of the most commonly used drugs to achieve psychoactive effects. In the last decade, synthetic cannabinoids have made a rapid and vast emergence as a popular alternative to the Δ<sup>9</sup>-tetrahydrocannabinol (Δ<sup>9</sup>-THC) found in cannabis (<a href="#R9" class="usa-link" aria-describedby="R9">EMCDDA, 2018</a>; <a href="#R32" class="usa-link" aria-describedby="R32">WHO 2018</a>). Synthetic cannabinoids tend to produce more powerful cannabimimetic effects than standard Δ<sup>9</sup>-THC (<a href="#R5" class="usa-link" aria-describedby="R5">Bovens, 2017</a>). They are usually described as “herbal incense” to naive buyers despite the serious abuse potential these drugs possess (<a href="#R26" class="usa-link" aria-describedby="R26">Tai &amp; Fantegrossi, 2014</a>). The effects of these synthetic cannabinoids can range from confusion, anxiety, tachycardia and drowsiness to convulsions, extreme hypertension, and in some cases death (<a href="#R32" class="usa-link" aria-describedby="R32">WHO, 2018</a>). There are several growing concerns with synthetic cannabinoids that have been introduced in recent years, such as the abundance and ease of access for new and developing drugs (<a href="#R26" class="usa-link" aria-describedby="R26">Tai &amp; Fantegrossi, 2014</a>).</p>
+<p id="P4">The DEA has identified a set of 5 synthetic cannabinoid compounds of interest and requested tests of their abuse liability, 4-CN-CUMYL-BUTINACA (also known as CUMYL-4CN-BINACA, CUMYL-CYBINACA or SGT-78), 4F-MDMB-BINACA, 5F-EMB-PINACA (5F-AEB), 5F-CUMYL-P7AICA and EMB-FUBINACA. CUMYL-4CN-BINACA is widely trafficked (EMCDDA, 2017; DEA, 2019) and has been found in urine samples and seized plant material (<a href="#R3" class="usa-link" aria-describedby="R3">Åstrand et al., 2018</a>; <a href="#R33" class="usa-link" aria-describedby="R33">Öztürk et al., 2018</a>; <a href="#R34" class="usa-link" aria-describedby="R34">Yeter, 2017</a>; Yeter et al., 2018). It is a potent agonist at cannabinoid CB1 and CB2 receptors, binding and stimulating cAMP at nanomolar affinities (<a href="#R19" class="usa-link" aria-describedby="R19">Kevin et al., 2019</a>; <a href="#R24" class="usa-link" aria-describedby="R24">Patel et al., 2020</a>). Aerosolized CUMYL-4CN-BINACA produced dose-dependent increases in drug-appropriate responding in female mice trained to discriminate Δ<sup>9</sup>-THC to close to 80% (<a href="#R30" class="usa-link" aria-describedby="R30">Wiley et al., 2019</a>). CUMYL-4CN-BINACA also produced convulsions in mice (<a href="#R19" class="usa-link" aria-describedby="R19">Kevin et al., 2019</a>). There is one reported case of hyperthermia, rhabdomyolysis, and renal failure following dosing with CUMYL-4CN-BINACA (<a href="#R8" class="usa-link" aria-describedby="R8">El Zahran et al., 2019</a>). It is metabolized into cyanide, which may produce toxicity in multiple organ systems, including central nervous system, cardiovascular system, lungs, liver, and kidney. (<a href="#R3" class="usa-link" aria-describedby="R3">Åstrand et al., 2018</a>).</p>
+<p id="P5">5F-CUMYL-P7AICA is also a potent CB1 agonist, binding and stimulating cAMP at nanomolar affinities, and producing hypothermia in mice (<a href="#R4" class="usa-link" aria-describedby="R4">Banister et al., 2018</a>; <a href="#R24" class="usa-link" aria-describedby="R24">Patel et al., 2020</a>). Its illicit use has been confirmed by its identification in urine samples (<a href="#R25" class="usa-link" aria-describedby="R25">Steheli et al, 2019</a>). Both CUMYL-4CN-BINACA and 5F-CUMYL-P7AICA are controlled in United States as Schedule I compounds (<a href="#R7" class="usa-link" aria-describedby="R7">DEA, 2018</a>). 4F-MDMB-BINACA has been identified in samples from seizures and samples from individuals (<a href="#R17" class="usa-link" aria-describedby="R17">Haschimi et al., 2019</a>; <a href="#R21" class="usa-link" aria-describedby="R21">Krotulski et al., 2019</a>; <a href="#R20" class="usa-link" aria-describedby="R20">2020</a>; <a href="#R23" class="usa-link" aria-describedby="R23">Norman, et a., 2020</a>). 5F-AEB and EMP-FUBINACA have also been found in samples (<a href="#R2" class="usa-link" aria-describedby="R2">Antonides et al, 2019</a>) and bound to CB1 and CB2 receptors with nanomolar potencies (Doi et al., 2017). The two compounds were involved with a case of fatal intoxication (<a href="#R1" class="usa-link" aria-describedby="R1">Adamowicz et al., 2019</a>).</p>
+<p id="P6">The purpose of the present study was to identify the potential abuse liability of CUMYL-4CN-BINACA, 4F-MDMB-BINACA, 5F-AEB, 5F-CUMYL-P7AICA and EMB-FUBINACA. Abuse liability is determined by a number of factors, including whether the chemical structure of the compound is closely related to those of any known substances of abuse, it has a pharmacological mechanism shared by any known substances of abuse, and it produces subjective effects similar to any known substances of abuse. Chemical structures are shown in <a href="#F1" class="usa-link">Figure 1</a> and are closely related to a number of controlled synthetic cannabinoids. Four of the five compounds act as agonists at CB1 receptors as does Δ<sup>9</sup>-THC and the known synthetic cannabinoids. To date, no mechanistic testing of 4F-MDMB-BINACA has been published. Because little or no behavioral testing has been conducted with these compounds, 8-h tests for locomotor activity were conducted using multiple doses to identify the active time course and dose ranges of these compounds. To provide data on the whether the five compounds produce subjective effects similar to Δ<sup>9</sup>-THC, they were tested in rats trained to discriminate Δ<sup>9</sup>-THC. The drug discrimination assay is a well-validated animal model of the subjective effects of behaviorally-active compounds (<a href="#R35" class="usa-link" aria-describedby="R35">Young, 2009</a>; <a href="#R18" class="usa-link" aria-describedby="R18">Horton et al., 2013</a>).</p>
+<figure class="fig xbox font-sm" id="F1"><h2 class="obj_head">Figure 1.</h2>
+<p class="img-box line-height-none margin-x-neg-2 tablet:margin-x-0 text-center"><a class="tileshop" target="_blank" href="https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&amp;p=PMC3&amp;id=8364570_nihms-1652522-f0001.jpg"><img class="graphic zoom-in" src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c915/8364570/2edf115c63dc/nihms-1652522-f0001.jpg" loading="lazy" height="508" width="800" alt="Figure 1."></a></p>
+<div class="p text-right font-secondary"><a href="figure/F1/" class="usa-link" target="_blank" rel="noopener noreferrer">Open in a new tab</a></div>
+<figcaption><p id="P31">Chemical structures of the synthetic cannabinoid compounds tested in the present study.</p></figcaption></figure><section id="S1"><h2 class="pmc_sec_title">Methods</h2>
+<section id="S2"><h3 class="pmc_sec_title">Subjects</h3>
+<p id="P7">Male ND4 Swiss–Webster mice (n=232) were obtained from Envigo (Houston, TX) at approximately 8 weeks of age and maintained in the University of North Texas Health Science Center (UNTHSC) animal facility for two weeks prior to testing. Mice were housed 3–4 per cage on a 12:12-h light/dark cycle (lights on at 7:00 AM) and were allowed free access to food and water except during test sessions. Thirty-three male Sprague-Dawley rats were obtained from Envigo (Houston, TX). All rats were housed individually and were maintained on a 12:12 light/dark cycle (lights on at 7:00 A.M.). Body weights were maintained at 320–350 g by limiting food to 15 g/day, which included the food received during sessions. Water was continuously available in the home cage. All housing and procedures were in accordance with Guidelines for the Care and Use of Laboratory Animals (<a href="#R22" class="usa-link" aria-describedby="R22">National Research Council, 2011</a>) and were approved by the University of North Texas Health Science Center Animal Care and Use Committee.</p></section><section id="S3"><h3 class="pmc_sec_title">Locomotor activity</h3>
+<p id="P8">Each study was conducted using 32 Digiscan locomotor activity testing chambers (40.5 X 40.5 X 30.5 cm) (Omnitech Electronics, Columbus OH) each housed within a sound-attenuating chamber that provided dim illumination. A panel of 16 infrared beams and corresponding photodetectors were located in the horizontal direction along the sides of each activity chamber. Separate groups of 8 mice were injected with either vehicle (ethanol/Cremophor EL/0.9% saline 1:1:18) or a cannabinoid: Δ<sup>9</sup>-THC (2.5 – 25 mg/kg), 4-CN-CUMYL-BUTINACA (0.01–1 mg/kg), 4F-MDMB-BINACA (0.1–1 mg/kg), 5F-AEB (0.1–1 mg/kg), 5F-CUMYL-P7AICA (0.25–10 mg/kg, and EMB-FUBINACA (0.05–0.5 mg/kg) immediately prior to locomotor activity testing. Each dose range included doses that were without effect to those producing at least 50% depression compared to vehicle control. In all studies, horizontal activity (interruption of photocell beams) was measured for 8 hours within 10-min periods, beginning at 8:00 AM (1 h after lights on). Behavioral observations were recorded on each mouse at 30, 120, and 480 min following the top dose of each test compound.</p></section><section id="S4"><h3 class="pmc_sec_title">Discrimination procedures</h3>
+<p id="P9">Standard two-lever behavior-testing chambers (Coulbourn Instruments, Allentown, PA) were connected to IBM-PC-compatible computers via Med Associates interfaces (East Fairfield, VT). Response levers were positioned to the left and right of the food hopper. A houselight was centered over the hopper close to the ceiling and was illuminated only when the levers were active. The computers were programmed in Med-PC for Windows, version IV (Med Associates, East Fairfield, VT) for the operation of the chambers and collection of data. Rats were first trained to discriminate Δ<sup>9</sup>-THC (3 mg/kg) from vehicle (ethanol/ Cremophor EL/0.9 % saline in a ratio of 1:1:18) using a two-lever choice methodology. Thirty minutes prior to the training sessions, rats received an injection of either vehicle or Δ<sup>9</sup>-THC and were subsequently placed in the behavior-testing chambers, where food (45-mg food pellets; Bio-Serve, Frenchtown, NJ) was available as a reinforcer for every ten responses (fixed-ratio 10) on a designated injection appropriate lever. Each training session lasted a maximum of 10 min, and the rats could earn up to 20 food pellets. Rats were used in tests of substitution of the experimental compounds once they had achieved nine of ten sessions at 85% or greater injection-appropriate responding for both the first reinforcer and the total session, which occurred after approximately 60 training sessions. The training sessions occurred on separate days in a double-alternating fashion (drug-drug-vehicle-vehicle-drug etc.) until the training phase was complete, after which substitution tests were introduced into the training schedule such that at least one vehicle and one drug session occurred between each test (drug-vehicle-test-vehicle-drug-test-drug etc.). The substitution tests occurred only if the rats had achieved 85% injection-appropriate responding on the two prior training sessions. During test sessions, both levers were active, such that ten consecutive responses on either lever led to reinforcement. For dose-effect experiments, sessions lasted until 20 reinforcers were obtained or for a maximum of 20 min. Each test compound was tested in a group of six rats using a repeated-measure design such that each rat was tested at all doses of a given drug. Δ<sup>9</sup>-THC was tested in a group of 15 rats. Vehicle (1 ml/kg) and Δ<sup>9</sup>-THC (3 mg/kg) controls were tested before the start of each compound evaluation. Doses of 4-CN-CUMYL-BUTINACA (0.01–1 mg/kg), 4F-MDMB-BINACA (0.1–1 mg/kg), 5F-AEB (0.1–1 mg/kg), 5F-CUMYL-P7AICA (0.25–10 mg/kg, and EMB-FUBINACA (0.05–0.5 mg/kg) were tested. A dose range was tested from no effect (&lt; 20 % Δ<sup>9</sup>-THC-appropriate responding) to full effect (≥ 80 % Δ<sup>9</sup>-THC-appropriate responding or suppression of responding to less than 20% of vehicle control). Pretreatment times were based on the time of peak depression for each compound in the previous locomotor activity testing. 4F-MDMB-BINACA, 5F-CUMYL-P7AICA, 5F-AEB and EMB-FUBINACA were tested using a 15-min pretreatment. Δ<sup>9</sup>-THC and 4-CN-CUMYL-BUTINACA had a 30-min pretreatment.</p></section><section id="S5"><h3 class="pmc_sec_title">Drugs</h3>
+<p id="P10">Δ<sup>9</sup>-Tetrahydrocannabinol, 4-CN-CUMYL-BUTINACA (1-(4-cyanobutyl)-N-(1-methyl-1-phenylethyl)-1H-indazole-3-carboxamide), 4F-MDMB-BINACA methyl (S)-2-(1-(4-fluorobutyl)-1H-indazole-3-carboxamido)-3,3-dimethylbutanoate), 5-fluoro-AEB (ethyl (1-(5-fluoropentyl)-1H-indazole-3-carbonyl)-L-valinate), 5F-CUMYL-P7AICA (1-(5-fluoropentyl)-N-(2-phenylpropan-2-yl)-1H-pyrrolo[2,3-b]pyridine-3-carboxamide) and EMB-FUBINACA (ethyl (1-(4-fluorobenzyl)-1H-indazole-3-carbonyl)-L-valinate) were provided by the National Institute on Drug Abuse Drug Supply Program. All drugs were dissolved in ethanol/Cremophor EL/0.9 % saline (in a ratio of 1:1:18) and were administered i.p. in a volume of 1 ml/kg. Cremophor EL was obtained from Sigma Aldrich (St. Louis, MO).</p></section><section id="S6"><h3 class="pmc_sec_title">Data analysis</h3>
+<p id="P11">Locomotor activity data were expressed as the mean number of photocell counts in the horizontal plane (ambulation counts) during each 10-min period of testing. A 30-min period, beginning when maximal depression of locomotor activity first appeared as a function of dose, was used for analysis of dose-response data and calculation of ED<sub>50</sub> values. OriginGraph (OriginLab Corporation, Northampton, MA) was used to estimate the maximal depression (0 photocell counts) induced by each cannabinoid. The ED<sub>50</sub> values were calculated by estimating the log dose producing ½ of maximal depression from the descending linear portion of the dose response curve. A two-way analysis of variance, with dose as a between groups factor and time as a within subject factor, was conducted on horizontal activity counts/10 min interval. Subsequently, a one-way analysis of variance was conducted on horizontal activity counts for the 30-min period of maximal effect, and planned comparisons were conducted for each dose against the vehicle control using single degree-of-freedom F tests.</p>
+<p id="P12">Drug discrimination data were expressed as the mean percentage (± standard error) of drug-appropriate responses occurring in each test period. The rate of responding was calculated by dividing the total number of responses for each rat tested by the session time. Response rate data are expressed as the mean (± standard error) of all rats tested. Because response suppression may compromise stimulus control, rats failing to complete at least ten responses during the test session were excluded from the analysis of the discriminative stimulus effects of that dose of test compound. If three or more of the rats did not complete the first fixed ratio at a given dose, the discrimination data for that dose is not shown. Graphs for percent drug-appropriate responding and response rate were plotted as a function of the dose of the test compound (log scale). Percent drug-appropriate responding was shown only if at least three rats completed the first fixed ratio, whereas all rats are shown for the response rate data. Full substitution was defined as ≥ 80 % drug-appropriate responding and not statistically different from the training drug. The potencies of 4-CN-CUMYL-BUTINACA, 4F-MDMB-BINACA, 5F-CUMYL-P7AICA and EMB-FUBINACA were calculated by fitting straight lines to the dose-response data for each compound by means of OriginGraph (OriginLab Corporation, Northampton, MA). Straight lines were fitted to the linear portion of dose-effect curves, including not more than one dose producing &lt; 20 % of the maximal effect and not more than one dose producing &gt; 80 % of the maximal effect. Other doses were excluded from the analyses. Response-rate data were analyzed by one-way repeated- measure analysis of variance. Effects of individual doses were compared to the vehicle control value using a priori contrasts. The criterion for significance was set a priori at p &lt; 0.05.</p></section></section><section id="S7"><h2 class="pmc_sec_title">Results</h2>
+<section id="S8"><h3 class="pmc_sec_title">Locomotor Activity</h3>
+<p id="P13">Treatment with Δ<sup>9</sup>-THC resulted in time- and dose-dependent depression of locomotor activity following 10 and 25 mg/kg (ED<sub>50</sub>=7.11<strong>±</strong>0.04 mg/kg). Depressant effects of 10 mg/kg occurred within 30 minutes following injection and lasted 210 minutes (<a href="#F2" class="usa-link">Fig. 2</a>). Potency data are shown in <a href="#T1" class="usa-link">Table 1</a>. Data in <a href="#F2" class="usa-link">figure 2</a> represent only the first 4 h of locomotor activity. Peak effects were observed between 30–60 min. A two-way analysis of variance conducted on horizontal activity counts/10 min indicated significant effects of Dose F(4,35)=11.6, p&lt;.001, of 10-Minute Periods F(47,1645)=15.2, p&lt;.001, and the interaction of Periods and Dose F(188,1645)=1.4, p=.001. A one-way analysis of variance conducted on horizontal activity counts for the 30–60 min time period (<a href="#F3" class="usa-link">Fig. 3</a>) indicated a significant effect of Dose F(4,35)=12.8, p&lt;.001.</p>
+<figure class="fig xbox font-sm" id="F2"><h4 class="obj_head">Figure 2. Locomotor activity time course.</h4>
+<p class="img-box line-height-none margin-x-neg-2 tablet:margin-x-0 text-center"><a class="tileshop" target="_blank" href="https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&amp;p=PMC3&amp;id=8364570_nihms-1652522-f0002.jpg"><img class="graphic zoom-in" src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c915/8364570/9e28d0e3ef69/nihms-1652522-f0002.jpg" loading="lazy" height="649" width="800" alt="Figure 2."></a></p>
+<div class="p text-right font-secondary"><a href="figure/F2/" class="usa-link" target="_blank" rel="noopener noreferrer">Open in a new tab</a></div>
+<figcaption><p id="P32">Average horizontal activity counts/10 min as a function of time (10 min bins) and dose. Only data from the first four hours are shown. Data are from independent groups of 8 mice per dose. Asterisks indicate doses significantly different from vehicle during the time of peak effect (p&lt;0.05).</p></figcaption></figure><section class="tw xbox font-sm" id="T1"><h4 class="obj_head">Table 1.</h4>
+<div class="caption p"><p id="P1">Potencies of the test compounds in the drug discrimination (DD) and locomotor activity (LMA) assays. Average ED<sub>50</sub> values are expressed in mg/kg ± standard error of the mean.</p></div>
+<div class="tbl-box p" tabindex="0"><table class="content" frame="box" rules="all">
+<colgroup span="1">
+<col align="left" valign="middle" span="1">
+<col align="left" valign="middle" span="1">
+<col align="left" valign="middle" span="1">
+<col align="left" valign="middle" span="1">
+</colgroup>
+<thead><tr>
+<th align="left" valign="bottom" rowspan="1" colspan="1">Compound</th>
+<th align="center" valign="bottom" rowspan="1" colspan="1">DD</th>
+<th align="center" valign="bottom" rowspan="1" colspan="1">LMA</th>
+<th align="center" valign="bottom" rowspan="1" colspan="1">LMA/DD Ratio</th>
+</tr></thead>
+<tbody>
+<tr>
+<td align="left" valign="bottom" rowspan="1" colspan="1">Δ<sup>9</sup>-THC</td>
+<td align="center" valign="bottom" rowspan="1" colspan="1">0.61±0.07</td>
+<td align="center" valign="bottom" rowspan="1" colspan="1">7.11±0.04</td>
+<td align="center" valign="bottom" rowspan="1" colspan="1">11.66</td>
+</tr>
+<tr>
+<td align="left" valign="bottom" rowspan="1" colspan="1">4-CN-CUMYL-BUTINACA</td>
+<td align="center" valign="bottom" rowspan="1" colspan="1">0.049±0.08</td>
+<td align="center" valign="bottom" rowspan="1" colspan="1">0.032±0.12</td>
+<td align="center" valign="bottom" rowspan="1" colspan="1">0.71</td>
+</tr>
+<tr>
+<td align="left" valign="bottom" rowspan="1" colspan="1">4F-MDMB-BINACA</td>
+<td align="center" valign="bottom" rowspan="1" colspan="1">0.019±0.08</td>
+<td align="center" valign="bottom" rowspan="1" colspan="1">0.012±0.14</td>
+<td align="center" valign="bottom" rowspan="1" colspan="1">0.63</td>
+</tr>
+<tr>
+<td align="left" valign="bottom" rowspan="1" colspan="1">5F-AEB</td>
+<td align="center" valign="bottom" rowspan="1" colspan="1">--</td>
+<td align="center" valign="bottom" rowspan="1" colspan="1">0.34±0.06</td>
+<td align="center" valign="bottom" rowspan="1" colspan="1">--</td>
+</tr>
+<tr>
+<td align="left" valign="bottom" rowspan="1" colspan="1">5F-CUMYL-P7AICA</td>
+<td align="center" valign="bottom" rowspan="1" colspan="1">0.085±0.33</td>
+<td align="center" valign="bottom" rowspan="1" colspan="1">0.45±0.06</td>
+<td align="center" valign="bottom" rowspan="1" colspan="1">5.29</td>
+</tr>
+<tr>
+<td align="left" valign="bottom" rowspan="1" colspan="1">EMB-FUBINACA</td>
+<td align="center" valign="bottom" rowspan="1" colspan="1">0.13±0.13</td>
+<td align="center" valign="bottom" rowspan="1" colspan="1">0.35±0.06</td>
+<td align="center" valign="bottom" rowspan="1" colspan="1">2.69</td>
+</tr>
+</tbody>
+</table></div>
+<div class="p text-right font-secondary"><a href="table/T1/" class="usa-link" target="_blank" rel="noopener noreferrer">Open in a new tab</a></div></section><figure class="fig xbox font-sm" id="F3"><h4 class="obj_head">Figure 3. Locomotor activity dose effect.</h4>
+<p class="img-box line-height-none margin-x-neg-2 tablet:margin-x-0 text-center"><a class="tileshop" target="_blank" href="https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&amp;p=PMC3&amp;id=8364570_nihms-1652522-f0003.jpg"><img class="graphic zoom-in" src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c915/8364570/edf013d91a5c/nihms-1652522-f0003.jpg" loading="lazy" height="673" width="800" alt="Figure 3."></a></p>
+<div class="p text-right font-secondary"><a href="figure/F3/" class="usa-link" target="_blank" rel="noopener noreferrer">Open in a new tab</a></div>
+<figcaption><p id="P33">Average horizontal activity counts/10 min (±SE) during the 30 min of peak effect as a function of dose for each test compound. Data are from independent groups of 8 mice per dose. Veh indicates vehicle controls. Asterisks indicate doses significantly different from vehicle during the time of peak effect (p&lt;0.05).</p></figcaption></figure><p id="P14">4-CN-CUMYL-BUTINACA produced time- and dose-dependent depression of locomotor activity in doses from 0.01 to 1 mg/kg (ED<sub>50</sub>=0.032±0.12 mg/kg). Depressant effects occurred within 10–40 minutes following injection and lasted 40–180 minutes. Peak effects were observed between 30–60 min. There was a significant effect of Dose <em>F</em>(5,42)=6.8, <em>p</em>&lt;.001, 10-Minute Periods <em>F</em>(47,1974)=10.3, <em>p</em>&lt;.001, and interaction of Periods and Dose <em>F</em>(235,1974)=2.7, <em>p</em>&lt;.001. Analysis of the period of maximal depressant effects (30–60 min) indicated a significant effect of dose <em>F</em>(5,42)=14.3, <em>p</em>&lt;.001. Planned comparisons (a priori contrast) against the vehicle group showed a significant depressant effect for 0.01, 0.025, 0.05, 0.25, and 1 mg/kg. One out of 8 mice at 0.25 mg/kg and two out of 8 mice at 1 mg/kg exhibited convulsions at the 30 min observation time. Due to the likelihood of adverse effects, the 0.1 and 0.5 mg/kg doses of 4-CN-CUMYL-BUTINACA were not tested, and a lower dose range was examined (0.01 – 0.05 mg/kg). Bleeding from one eye was observed in 1 of 6 mice at the end of test session following 0.025 and 0.05 mg/kg.</p>
+<p id="P15">Treatment with 4F-MDMB-BINACA resulted in time- and dose-dependent depression of locomotor activity in doses from 0.001 to 0.05 mg/kg (ED<sub>50</sub>=0.012±0.14 mg/kg). Depressant effects of 0.005 to 0.05 mg/kg occurred within 10 minutes following injection and lasted 60–70 minutes. Peak effects were observed between 0–30 min. There was not a significant effect of Dose <em>F</em>(6,49)=1.51, <em>p</em>=.196, but there was a significant effect for 10-Minute Periods <em>F</em>(47,2303)=17.59, <em>p</em>&lt;.001, and a significant interaction of Periods and Dose <em>F</em>(282,2303)=1.37, <em>p</em>=.028. Analysis of the period of maximal depressant effects (30–60 min) indicated a significant effect of Dose <em>F</em>(6,49)=4.31, <em>p</em>=.0001; planned comparisons (a priori contrast) against the vehicle group showed a significant depressant effect for the 0.005 to 0.05 mg/kg doses. Rigidity and convulsions were observed in 8 of 8 mice at 30 min following injection of 1 mg/kg 4F-MDMB-BINACA (data not shown). These adverse effects were not observed at 120 or 480 min.</p>
+<p id="P16">5F-AEB produced depression of locomotor activity at 0.5 and 1 mg/kg (ED<sub>50</sub>=0.55±0.06 mg/kg). Depressant effects of 0.5 and 1 mg/kg occurred within 10 minutes following injection and lasted 40–80 minutes. Peak effects were observed between 0–30 min. A two-way analysis of variance conducted on horizontal activity counts/10 min indicated a significant effect of Dose <em>F</em>(4,35)=3.68, <em>p</em>=.013, a significant effect for 10-Minute Periods <em>F</em>(47,1645)=20.38, <em>p</em>&lt;.001, and a significant interaction of Periods and Dose <em>F</em>(188,1645)=2.26, <em>p</em>&lt;.001. Analysis of the period of maximal depressant effects (30–60 min) indicated a significant effect of dose <em>F</em>(4,35)=13.83, <em>p</em>&lt;.001, and planned comparisons (a priori contrast) against the vehicle group showed a significant depressant effect for 0.5 and 1 mg/kg and a significant stimulant effect during the first 30 minutes following 0.1 mg/kg 5F-AEB. Rigidity and convulsions were observed in 8 of 8 mice at 30 min following injection of 1 mg/kg 5F-AEB. These adverse reactions were not observed at 120 or 480 min.</p>
+<p id="P17">5F-CUMYL-P7AICA produced time- and dose-dependent depression of locomotor activity in doses from 0.5 to 2.5 mg/kg (ED<sub>50</sub>=0.45±0.06 mg/kg). Depressant effects of 0.5 mg/kg occurred within 20 minutes following injection and lasted 60 minutes. Peak effects were observed between 10–40 min. There was a significant effect of Dose <em>F</em>(4,35)=3.32, <em>p</em>=.021, a significant effect for 10-Minute Periods <em>F</em>(47,1645)=13.42, <em>p</em>&lt;.001, but no significant interaction of Periods and Dose <em>F</em>(188,1645)=0.986, <em>p</em>=.54. Analysis of the period of maximal depressant effects (10–40 min) indicated a significant effect of Dose <em>F</em>(4,35)=5.44, <em>p</em>=.002, and planned comparisons (a priori contrast) against the vehicle group showed a significant depressant effect for 0.5, 1, 2.5 and 10 mg/kg.</p>
+<p id="P18">EMB-FUBINACA produced depression of locomotor activity at 0.25 and 0.5 mg/kg (ED<sub>50</sub>=0.35±0.036 mg/kg). Depressant effects of 0.25 and 0.5 mg/kg occurred within 10 minutes following injection and lasted 30–50 minutes. Peak effects were observed between 0–30 min. There was not a significant effect of Dose <em>F</em>(4,35)=1.7, <em>p</em>=.172, but there were significant effects for 10-Minute Periods <em>F</em>(47,1645)=27.86, <em>p</em>&lt;.001, and the interaction of Periods and Dose <em>F</em>(188,1645)=1.56, <em>p</em>&lt;.001. Analysis of the period of maximal depressant effects (30–60 min) indicated a significant effect of Dose <em>F</em>(4,35)=10.47, <em>p</em>&lt;.001.</p></section><section id="S9"><h3 class="pmc_sec_title">Drug Discrimination</h3>
+<p id="P19">Δ<sup>9</sup>-THC (ED<sub>50</sub>=0.61±0.07 mg/kg) produced dose-dependent increases in drug-appropriate responding with a peak (95±5%) following the training dose of 3 mg/kg (<a href="#F4" class="usa-link">Figure 4</a>). 4-CN-CUMYL-BUTINACA (ED<sub>50</sub>=0.049±0.08 mg/kg), 4F-MDMB-BINACA (ED<sub>50</sub>=0.019±0.08 mg/kg), 5F-CUMYL-P7AICA (ED<sub>50</sub>=0.085±0.33 mg/kg) and EMB-FUBINACA (ED<sub>50</sub>=0.13±0.13 mg/kg) all fully substituted for the discriminative stimulus effects of Δ<sup>9</sup>-THC (<a href="#F4" class="usa-link">Figure 4</a>). Response rate was increased following 0.005 mg/kg 4F-MDMB-BINACA <em>F</em>(4,20)=4.48, <em>p</em>=.01. Response rate was not affected by Δ<sup>9</sup>-THC or the other test compounds. In contrast, 5F-AEB only produced maximum Δ<sup>9</sup>-THC-appropriate responding of 67±21% following 0.25 and 0.5 mg/kg. The same 4 of 6 rats selected the drug-appropriate lever following both doses. Response rate was not affected at these doses. A higher dose (1 mg/kg) produced convulsions in one rat; additional rats were not tested at that dose.</p>
+<figure class="fig xbox font-sm" id="F4"><h4 class="obj_head">Figure 4.</h4>
+<p class="img-box line-height-none margin-x-neg-2 tablet:margin-x-0 text-center"><a class="tileshop" target="_blank" href="https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&amp;p=PMC3&amp;id=8364570_nihms-1652522-f0004.jpg"><img class="graphic zoom-in" src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c915/8364570/67f7e97f81e5/nihms-1652522-f0004.jpg" loading="lazy" height="577" width="800" alt="Figure 4."></a></p>
+<div class="p text-right font-secondary"><a href="figure/F4/" class="usa-link" target="_blank" rel="noopener noreferrer">Open in a new tab</a></div>
+<figcaption><p id="P34">Substitution for the discriminative stimulus effects of Δ<sup>9</sup>-tetrahydrocannabinol: Top panels show percentage of total responses (±SE) made on the drug-appropriate lever. Bottom panels show rate of responding (±SE) in responses per second (r/s). All of the cathinones fully substituted for the discriminative stimulus effects of Δ<sup>9</sup>-THC (≥80% drug-appropriate responding). n=6 unless otherwise shown, except Δ<sup>9</sup>-THC, n=15. Ctrl indicates vehicle and Δ<sup>9</sup>-THC control values. * indicates response rate different from vehicle control (<em>p</em> &lt; 0.05).</p></figcaption></figure></section></section><section id="S10"><h2 class="pmc_sec_title">Discussion</h2>
+<p id="P20">In the present study, the abuse liability of five synthetic cannabinoids identified by the DEA was evaluated using locomotor activity and drug discrimination. All five of the test compounds depressed locomotor activity similar to Δ<sup>9</sup>-THC, although the time courses of the compounds differed, with 5F-AEB and EMB-FUBINACA being relatively short-acting (1 – 1.5 h). In contrast, depressant effects of 4-CN-CUMYL-BUTINACA and 5F-CUMYL-P7AICA lasted close to 4 h, which was similar to Δ<sup>9</sup>-THC. All of the test compounds had a more rapid onset than did Δ<sup>9</sup>-THC, which may be of concern as short-onset, short-acting compounds have greater abuse liability.</p>
+<p id="P21">Three of the test compounds (4-CN-CUMYL-BUTINACA, 4F-MDMB-BINACA, and 5F -AEB) produced convulsions at the higher doses tested. Retro-orbital bleeding was also observed in two mice following administration of mid-range doses (0.025 and 0.05 mg/kg) of 4-CN-CUMYL-BUTINACA. An earlier study noted 4-CN-CUMYL-BUTINACA produced convulsions in mice at doses similar to those observed in the present study (<a href="#R19" class="usa-link" aria-describedby="R19">Kevin et al., 2019</a>). Convulsions have been observed in humans taking synthetic cannabinoids recreationally (<a href="#R16" class="usa-link" aria-describedby="R16">Gounder et al., 2020</a>; <a href="#R27" class="usa-link" aria-describedby="R27">Tait, et al., 2016</a>) and the convulsant effects of at least some of the synthetic cannabinoids are mediated via CB1 receptors (<a href="#R31" class="usa-link" aria-describedby="R31">Wilson et al., 2019</a>). Of the 34 synthetic cannabinoids tested by this laboratory, only five have produced convulsions at the doses tested (<a href="#R15" class="usa-link" aria-describedby="R15">Gatch and Forster, 2014</a>; <a href="#R14" class="usa-link" aria-describedby="R14">2015</a>; <a href="#R13" class="usa-link" aria-describedby="R13">2016</a>, <a href="#R12" class="usa-link" aria-describedby="R12">2018</a>; <a href="#R11" class="usa-link" aria-describedby="R11">2019</a>), three of which are in the current study. The likelihood of a synthetic cannabinoid producing convulsions in vivo via CB1 receptor effects may be related to rate of metabolism (<a href="#R31" class="usa-link" aria-describedby="R31">Wilson et al., 2019</a>) or to other receptor mechanisms. For example, 4-CN-CUMYL-BUTINACA may be more dangerous due to the cyanide moiety attached at the end of the side chain which is cleaved off during metabolism and is able to enter systemic circulation (<a href="#R3" class="usa-link" aria-describedby="R3">Åstrand et al., 2018</a>). The convulsions and bleeding observed in the present study may be due at least in part to the toxic effects of cyanide.</p>
+<p id="P22">Four of the five cannabinoid compounds (4-CN-CUMYL-BUTINACA, 4F-MDMB-BINACA, 5F-CUMYL-P7AICA and EMB-FUBINACA) fully substituted for the discriminative stimulus effects of Δ<sup>9</sup>-THC. This finding is in agreement with earlier work in which synthetic cannabinoids produce Δ<sup>9</sup>-THC-like discriminative stimulus effects (see review in <a href="#R29" class="usa-link" aria-describedby="R29">Wiley et al., 2018</a>). Further, aerosolized CUMYL-4CN-BINACA produced dose-dependent increases in drug-appropriate responding in female mice trained to discriminate Δ<sup>9</sup>-THC to close to 80%, the common cut-off for “full-substitution” (<a href="#R30" class="usa-link" aria-describedby="R30">Wiley et al., 2019</a>).</p>
+<p id="P23">In contrast, 5F -AEB did not fully substitute for Δ<sup>9</sup>-THC, producing a plateau following 0.25 and 0.5 mg/kg with a peak effect of 67%. The low efficacy of 5-AEB is somewhat unusual for compounds flagged by DEA for testing. In our lab, 33 of the 34 synthetic cannabinoids tested have fully substituted at some dose (<a href="#R15" class="usa-link" aria-describedby="R15">Gatch and Forster, 2014</a>; <a href="#R14" class="usa-link" aria-describedby="R14">2015</a>; <a href="#R13" class="usa-link" aria-describedby="R13">2016</a>, <a href="#R12" class="usa-link" aria-describedby="R12">2018</a>; <a href="#R11" class="usa-link" aria-describedby="R11">2019</a>) However, there is evidence of at least one compound with CB1 receptor activity (EG-018) failing to substitute for Δ<sup>9</sup>-THC (<a href="#R10" class="usa-link" aria-describedby="R10">Gamage et al., 2020</a>). Higher doses of 5F-AEB produced convulsions and discrimination was not tested. Convulsions were not observed during the drug discrimination studies of 4-CN-CUMYL-BUTINACA or 4F-MDMB-BINACA, but lower doses were tested than in the locomotor activity studies.</p>
+<p id="P24">In our earliest studies of synthetic cathinones, we reported no correlation between the potencies of the test compounds in the locomotor activity and drug discrimination assays (<a href="#R15" class="usa-link" aria-describedby="R15">Gatch and Forster, 2014</a>; <a href="#R14" class="usa-link" aria-describedby="R14">2015</a>). However, when we include 37 cannabinoid compounds tested in our laboratory in the regression, a weak correlation is observed between the potencies of the test compounds in the locomotor activity and drug discrimination assays (R<sup>2</sup> of 0.41, p&lt;0.001). The correlation is fairly weak. For example, of the 37 compounds, 28 were more potent in the drug discrimination assay, 9 were more potent in the locomotor activity assay and 3 compounds had similar potencies in the two assays. Further, in the present study, 4CN-CUMYL-BUTINACA produced stimulation of the rate of operant lever pressing in a dose range that produced depression of non-motivated locomotor activity.</p>
+<p id="P25">Four of the five test compounds (4-CN-CUMYL-BUTINACA, 5F-CUMYL-P7AICA, 5F-AEB, and EMB-FUBINACA) have been reported to act as potent CB1 agonists (<a href="#R4" class="usa-link" aria-describedby="R4">Banister et al., 2018</a>; Doi et al., 2017; <a href="#R19" class="usa-link" aria-describedby="R19">Kevin et al., 2019</a>; <a href="#R24" class="usa-link" aria-describedby="R24">Patel et al., 2020</a>). 4-CN-CUMYL-BUTINACA and 5F-CUMYL-P7AICA were tested in functional assays (cAMP, β-arrestin) and were full agonists with EC50s of 8–9 nM (<a href="#R4" class="usa-link" aria-describedby="R4">Banister et al., 2018</a>; <a href="#R19" class="usa-link" aria-describedby="R19">Kevin et al., 2019</a>; <a href="#R24" class="usa-link" aria-describedby="R24">Patel et al., 2020</a>). Binding studies were conducted on the isomers of 5F-AEB and EMB-FUBINACA (Doi et al., 2017). Both compounds were potent in the nanomolar range, with the R-isomers being less potent at CB1 receptors than the S-isomers. It is difficult to make strong conclusions about relations between CB1 receptor affinity and relative potency in the behavioral assays, since different types of receptor tests were used, and the binding studies examined the stereoisomers whereas the behavioral studies tested the racemates. To date, mechanistic testing of 4F-MDMB-BINACA has not been published. The discriminative stimulus effects of cannabinoids have been shown to be mediated by CB1 receptors, with fairly high specificity (see review by <a href="#R28" class="usa-link" aria-describedby="R28">Tanda, 2016</a>), so it is likely that the behavioral effects of the present set of test compounds are mediated by CB1 receptors.</p>
+<p id="P26">In conclusion, 4-CN-CUMYL-BUTINACA, 5F-CUMYL-P7AICA, 4F-MDMB-BINACA, and EMB-FUBINACA may have abuse liability similar to Δ<sup>9</sup>-THC. 4-CN-CUMYL-BUTINACA and 4F-MDMB-BINACA produced convulsions although at doses significantly higher than those needed to produce Δ<sup>9</sup>-THC-like discriminative stimulus effects. Nevertheless, these compounds may still be a substantial risk for street use. 5F-AEB may be less favored by recreational users due to its limited Δ<sup>9</sup>-THC-like discriminative stimulus effects; however, its pro-convulsant effects at doses needed to produce mild Δ<sup>9</sup>-THC-like discriminative stimulus effects may make it exceptionally dangerous for recreational use.</p></section><section id="floats-group1" class="floats-group"><figure class="fig xbox font-sm" id="F5"><h2 class="obj_head">Figure 5.</h2>
+<p class="img-box line-height-none margin-x-neg-2 tablet:margin-x-0 text-center"><a class="tileshop" target="_blank" href="https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&amp;p=PMC3&amp;id=8364570_nihms-1652522-f0005.jpg"><img class="graphic zoom-in" src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c915/8364570/d225ef5f887b/nihms-1652522-f0005.jpg" loading="lazy" height="702" width="800" alt="Figure 5."></a></p>
+<div class="p text-right font-secondary"><a href="figure/F5/" class="usa-link" target="_blank" rel="noopener noreferrer">Open in a new tab</a></div>
+<figcaption><p id="P35">Regression of potencies (ED<sub>50</sub> values in mg/kg) in the locomotor activity and drug discrimination assays for 37 cannabinoid compounds tested in our laboratory.</p></figcaption></figure></section><section id="S11" class="ack"><h2 class="pmc_sec_title">Acknowledgments</h2>
+<p id="P27">Funding</p>
+<p id="P28">This work was supported by the National Institutes of Health N01DA-18-8936.</p></section><section id="fn-group1" class="fn-group"><h2 class="pmc_sec_title">Footnotes</h2>
+<div class="fn-group p font-secondary-light font-sm"><div class="fn p" id="FN1">
+<p id="P29">Conflict of Interest</p>
+<p id="P30">The authors report no conflict of interest.</p>
+</div></div></section><section id="ref-list1" class="ref-list"><h2 class="pmc_sec_title">References</h2>
+<section id="ref-list1_sec2"><ol class="ref-list font-sm">
+<li id="R1">
+<cite>Adamowicz P, Meissner E, Maślanka M. (2019). Fatal intoxication with new synthetic cannabinoids AMB-FUBINACA and EMB-FUBINACA. <em>Clin</em> Toxicol (Phila)
+57: 1103–1108.</cite> [<a href="https://doi.org/10.1080/15563650.2019.1580371" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/30806094/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Clin%20Toxicol%20(Phila)&amp;title=Fatal%20intoxication%20with%20new%20synthetic%20cannabinoids%20AMB-FUBINACA%20and%20EMB-FUBINACA&amp;author=P%20Adamowicz&amp;author=E%20Meissner&amp;author=M%20Ma%C5%9Blanka&amp;volume=57&amp;publication_year=2019&amp;pages=1103-1108&amp;pmid=30806094&amp;doi=10.1080/15563650.2019.1580371&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R2">
+<cite>Antonides LH, Cannaert A, Norman C, Vives L, Harrison A, Costello A, et al.  (2019). Enantiospecific synthesis, chiral separation, and biological activity of four indazole-3-carboxamide-type synthetic cannabinoid receptor agonists and their detection in seized drug samples. Front Chem
+16: 321.</cite> [<a href="https://doi.org/10.3389/fchem.2019.00321" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC6532652/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/31157203/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Front%20Chem&amp;title=Enantiospecific%20synthesis,%20chiral%20separation,%20and%20biological%20activity%20of%20four%20indazole-3-carboxamide-type%20synthetic%20cannabinoid%20receptor%20agonists%20and%20their%20detection%20in%20seized%20drug%20samples&amp;author=LH%20Antonides&amp;author=A%20Cannaert&amp;author=C%20Norman&amp;author=L%20Vives&amp;author=A%20Harrison&amp;volume=16&amp;publication_year=2019&amp;pages=321&amp;pmid=31157203&amp;doi=10.3389/fchem.2019.00321&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R3">
+<cite>Åstrand A, Vikingsson S, Lindstedt D, Thelander G, Gréen H, Kronstrand R. et al.  (2018). Metabolism study for CUMYL-4CN-BINACA in human hepatocytes and authentic urine specimens: free cyanide is formed during the main metabolic pathway. Drug Test Anal
+10: 1270–1279.</cite> [<a href="https://doi.org/10.1002/dta.2373" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/29577658/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Drug%20Test%20Anal&amp;title=Metabolism%20study%20for%20CUMYL-4CN-BINACA%20in%20human%20hepatocytes%20and%20authentic%20urine%20specimens:%20free%20cyanide%20is%20formed%20during%20the%20main%20metabolic%20pathway&amp;author=A%20%C3%85strand&amp;author=S%20Vikingsson&amp;author=D%20Lindstedt&amp;author=G%20Thelander&amp;author=H%20Gr%C3%A9en&amp;volume=10&amp;publication_year=2018&amp;pages=1270-1279&amp;pmid=29577658&amp;doi=10.1002/dta.2373&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R4">
+<cite>Banister S, Adams A, Kevin R, Macdonald C, Glass M, Boyd R, et al.  (2018). Synthesis and pharmacology of new psychoactive substance 5F-CUMYL-P7AICA, a scaffold-hopping analog of synthetic cannabinoid receptor agonists 5F-CUMYL-PICA and 5F-CUMYL-PINACA. Drug Test Anal
+11: 279–291.</cite> [<a href="https://doi.org/10.1002/dta.2491" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/30151911/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Drug%20Test%20Anal&amp;title=Synthesis%20and%20pharmacology%20of%20new%20psychoactive%20substance%205F-CUMYL-P7AICA,%20a%20scaffold-hopping%20analog%20of%20synthetic%20cannabinoid%20receptor%20agonists%205F-CUMYL-PICA%20and%205F-CUMYL-PINACA&amp;author=S%20Banister&amp;author=A%20Adams&amp;author=R%20Kevin&amp;author=C%20Macdonald&amp;author=M%20Glass&amp;volume=11&amp;publication_year=2018&amp;pages=279-291&amp;pmid=30151911&amp;doi=10.1002/dta.2491&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R5">
+<cite>Boven M, Bissig C, Staeheli S, Poetzsch M, Pfeiffer B, Kraemer T. (2017). Structural characterization of the new synthetic cannabinoids CUMYL-PINACA, 5F-CUMYL-PINACA, CUMYL-4CN-BINACA, 5F-CUMYL-P7AICA and CUMYL-4CN-B7AICA. Forensic Sci Int
+281: 98–105.</cite> [<a href="https://doi.org/10.1016/j.forsciint.2017.10.020" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/29125990/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Forensic%20Sci%20Int&amp;title=Structural%20characterization%20of%20the%20new%20synthetic%20cannabinoids%20CUMYL-PINACA,%205F-CUMYL-PINACA,%20CUMYL-4CN-BINACA,%205F-CUMYL-P7AICA%20and%20CUMYL-4CN-B7AICA&amp;author=M%20Boven&amp;author=C%20Bissig&amp;author=S%20Staeheli&amp;author=M%20Poetzsch&amp;author=B%20Pfeiffer&amp;volume=281&amp;publication_year=2017&amp;pages=98-105&amp;pmid=29125990&amp;doi=10.1016/j.forsciint.2017.10.020&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R6">
+<cite>Doi T, Tagami T, Takeda A, Asada A, Sawabe Y. (2018). Evaluation of carboxamide-type synthetic cannabinoids as CB1/CB2 receptor agonists: difference between the enantiomers. Forensic Toxicol
+36: 51–60.</cite> [<a href="https://doi.org/10.1007/s11419-017-0378-5" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC5754384/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/29367862/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Forensic%20Toxicol&amp;title=Evaluation%20of%20carboxamide-type%20synthetic%20cannabinoids%20as%20CB1/CB2%20receptor%20agonists:%20difference%20between%20the%20enantiomers&amp;author=T%20Doi&amp;author=T%20Tagami&amp;author=A%20Takeda&amp;author=A%20Asada&amp;author=Y%20Sawabe&amp;volume=36&amp;publication_year=2018&amp;pages=51-60&amp;pmid=29367862&amp;doi=10.1007/s11419-017-0378-5&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R7">
+<cite>Drug Enforcement Administration, Department of Justice. (2018). Schedules of controlled substances: temporary placement of NM2201, 5F-AB-PINACA, 4-CN-CUMYL-BUTINACA, MMB-CHMICA and 5F-CUMYL-P7AICA into schedule I. Fed Regist
+83: 24696–24701.</cite> [<a href="https://scholar.google.com/scholar_lookup?journal=Fed%20Regist&amp;title=Schedules%20of%20controlled%20substances:%20temporary%20placement%20of%20NM2201,%205F-AB-PINACA,%204-CN-CUMYL-BUTINACA,%20MMB-CHMICA%20and%205F-CUMYL-P7AICA%20into%20schedule%20I&amp;volume=83&amp;publication_year=2018&amp;pages=24696-24701&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R8">
+<cite>El Zahran T, Gerona R, Morgan BW, Pomerleau AC. (2019). A novel synthetic cannabinoid (Cumyl-4-cyano-BINACA) resulting in hyperthermia, rhabdomyolysis, and renal failure in a 29-year-old patient: it’s not meningitis. <em>Clin</em> Toxicol (Phila)
+57: 421–422.</cite> [<a href="https://doi.org/10.1080/15563650.2018.1534241" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/30442067/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Clin%20Toxicol%20(Phila)&amp;title=A%20novel%20synthetic%20cannabinoid%20(Cumyl-4-cyano-BINACA)%20resulting%20in%20hyperthermia,%20rhabdomyolysis,%20and%20renal%20failure%20in%20a%2029-year-old%20patient:%20it%E2%80%99s%20not%20meningitis&amp;author=T%20El%20Zahran&amp;author=R%20Gerona&amp;author=BW%20Morgan&amp;author=AC%20Pomerleau&amp;volume=57&amp;publication_year=2019&amp;pages=421-422&amp;pmid=30442067&amp;doi=10.1080/15563650.2018.1534241&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R9">
+<cite>European Monitoring Centre for Drugs and Drug Addiction. European Drug Report 2018: Trends and Developments. (2018). Publications Office of the European Union, Luxembourg. ISBN 978–92-9497–272-9. ISSN 2314–9086. doi: 10.2810/800331.TD-AT-18-001-EN-N.</cite> [<a href="https://doi.org/10.2810/800331.TD-AT-18-001-EN-N" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Publications%20Office%20of%20the%20European%20Union,%20Luxembourg.%20ISBN%20978%E2%80%9392-9497%E2%80%93272-9.%20ISSN%202314%E2%80%939086&amp;publication_year=2018&amp;doi=10.2810/800331.TD-AT-18-001-EN-N&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R10">
+<cite>Gamage T, Barrus D, Kevin R, Finlay D, Lefever T, Patel P. (2020). In vitro and in vivo pharmacological evaluation of the synthetic cannabinoid receptor agonist EG-018. Pharmacol Biochem Behav
+193: 172918.</cite> [<a href="https://doi.org/10.1016/j.pbb.2020.172918" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC7239729/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/32247816/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Pharmacol%20Biochem%20Behav&amp;title=In%20vitro%20and%20in%20vivo%20pharmacological%20evaluation%20of%20the%20synthetic%20cannabinoid%20receptor%20agonist%20EG-018&amp;author=T%20Gamage&amp;author=D%20Barrus&amp;author=R%20Kevin&amp;author=D%20Finlay&amp;author=T%20Lefever&amp;volume=193&amp;publication_year=2020&amp;pages=172918&amp;pmid=32247816&amp;doi=10.1016/j.pbb.2020.172918&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R11">
+<cite>Gatch M, Forster M. (2019). Cannabinoid-like effects of five novel carboxamide synthetic cannabinoids. Neurotoxicology
+70: 72–79.</cite> [<a href="https://doi.org/10.1016/j.neuro.2018.11.004" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC6342640/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/30439379/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Neurotoxicology&amp;title=Cannabinoid-like%20effects%20of%20five%20novel%20carboxamide%20synthetic%20cannabinoids&amp;author=M%20Gatch&amp;author=M%20Forster&amp;volume=70&amp;publication_year=2019&amp;pages=72-79&amp;pmid=30439379&amp;doi=10.1016/j.neuro.2018.11.004&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R12">
+<cite>Gatch M, Forster M. (2018). Δ<sup>9</sup>-Tetrahydrocannabinol-like discriminative stimulus effects of five novel synthetic cannabinoids in rats. Psychopharmacology
+253: 673–680.</cite> [<a href="https://doi.org/10.1007/s00213-017-4783-6" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC5823726/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/29138877/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Psychopharmacology&amp;title=%CE%949-Tetrahydrocannabinol-like%20discriminative%20stimulus%20effects%20of%20five%20novel%20synthetic%20cannabinoids%20in%20rats&amp;author=M%20Gatch&amp;author=M%20Forster&amp;volume=253&amp;publication_year=2018&amp;pages=673-680&amp;pmid=29138877&amp;doi=10.1007/s00213-017-4783-6&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R13">
+<cite>Gatch M, Forster M. (2016). Δ<sup>9</sup>-Tetrahydrocannabinol-like effects of novel synthetic cannabinoids in mice and rats. Psychopharmacology
+233: 1901–1910.</cite> [<a href="https://doi.org/10.1007/s00213-016-4237-6" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC4846470/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/26875756/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Psychopharmacology&amp;title=%CE%949-Tetrahydrocannabinol-like%20effects%20of%20novel%20synthetic%20cannabinoids%20in%20mice%20and%20rats&amp;author=M%20Gatch&amp;author=M%20Forster&amp;volume=233&amp;publication_year=2016&amp;pages=1901-1910&amp;pmid=26875756&amp;doi=10.1007/s00213-016-4237-6&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R14">
+<cite>Gatch M, Forster M. (2015). Δ<sup>9</sup>-Tetrahydrocannabinol-like effects of novel synthetic cannabinoids found on the gray market. Behav Pharmacol
+26: 460–468.</cite> [<a href="https://doi.org/10.1097/FBP.0000000000000150" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC4497846/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/26061356/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Behav%20Pharmacol&amp;title=%CE%949-Tetrahydrocannabinol-like%20effects%20of%20novel%20synthetic%20cannabinoids%20found%20on%20the%20gray%20market&amp;author=M%20Gatch&amp;author=M%20Forster&amp;volume=26&amp;publication_year=2015&amp;pages=460-468&amp;pmid=26061356&amp;doi=10.1097/FBP.0000000000000150&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R15">
+<cite>Gatch M, Forster M. (2014). Δ<sup>9</sup>-Tetrahydrocannabinol-like discriminative stimulus effects of compounds commonly found in K2/Spice. Behav Pharmacol
+25: 750–757.</cite> [<a href="https://doi.org/10.1097/FBP.0000000000000093" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC4216610/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/25325289/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Behav%20Pharmacol&amp;title=%CE%949-Tetrahydrocannabinol-like%20discriminative%20stimulus%20effects%20of%20compounds%20commonly%20found%20in%20K2/Spice&amp;author=M%20Gatch&amp;author=M%20Forster&amp;volume=25&amp;publication_year=2014&amp;pages=750-757&amp;pmid=25325289&amp;doi=10.1097/FBP.0000000000000093&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R16">
+<cite>Gounder K, Dunuwille J, Dunne J, Lee J, Silbert P, Lawn N. (2020). The other side of the leaf: seizures associated with synthetic cannabinoid use. Epilepsy Behav
+104: 106901.</cite> [<a href="https://doi.org/10.1016/j.yebeh.2020.106901" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/31958643/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Epilepsy%20Behav&amp;title=The%20other%20side%20of%20the%20leaf:%20seizures%20associated%20with%20synthetic%20cannabinoid%20use&amp;author=K%20Gounder&amp;author=J%20Dunuwille&amp;author=J%20Dunne&amp;author=J%20Lee&amp;author=P%20Silbert&amp;volume=104&amp;publication_year=2020&amp;pages=106901&amp;pmid=31958643&amp;doi=10.1016/j.yebeh.2020.106901&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R17">
+<cite>Haschimi B, Mogler L, Halter S, Giorgetti A, Schwarze B, Westphal F, et al.  (2019). Detection of the recently emerged synthetic cannabinoid 4F-MDMB-BINACA in “legal high” products and human urine specimens. Drug Test Anal
+11: 1377–1386.</cite> [<a href="https://doi.org/10.1002/dta.2666" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/31228224/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Drug%20Test%20Anal&amp;title=Detection%20of%20the%20recently%20emerged%20synthetic%20cannabinoid%204F-MDMB-BINACA%20in%20%E2%80%9Clegal%20high%E2%80%9D%20products%20and%20human%20urine%20specimens&amp;author=B%20Haschimi&amp;author=L%20Mogler&amp;author=S%20Halter&amp;author=A%20Giorgetti&amp;author=B%20Schwarze&amp;volume=11&amp;publication_year=2019&amp;pages=1377-1386&amp;pmid=31228224&amp;doi=10.1002/dta.2666&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R18">
+<cite>Horton D, Potter D, Mead A. (2013). A translational pharmacology approach to understanding the predictive value of abuse potential assessments. Behav Pharmacol
+24: 410–436.</cite> [<a href="https://doi.org/10.1097/FBP.0b013e3283644d2e" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/23873088/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Behav%20Pharmacol&amp;title=A%20translational%20pharmacology%20approach%20to%20understanding%20the%20predictive%20value%20of%20abuse%20potential%20assessments&amp;author=D%20Horton&amp;author=D%20Potter&amp;author=A%20Mead&amp;volume=24&amp;publication_year=2013&amp;pages=410-436&amp;pmid=23873088&amp;doi=10.1097/FBP.0b013e3283644d2e&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R19">
+<cite>Kevin R, Anderson L, McGregor I, Boyd R, Manning J, Glass M, et al.  (2019). CUMYL-4CN-BINACA is an efficacious and potent pro-convulsant synthetic cannabinoid receptor agonist. Front in Pharmacol
+10: 595.</cite> [<a href="https://doi.org/10.3389/fphar.2019.00595" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC6549035/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/31191320/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Front%20in%20Pharmacol&amp;title=CUMYL-4CN-BINACA%20is%20an%20efficacious%20and%20potent%20pro-convulsant%20synthetic%20cannabinoid%20receptor%20agonist&amp;author=R%20Kevin&amp;author=L%20Anderson&amp;author=I%20McGregor&amp;author=R%20Boyd&amp;author=J%20Manning&amp;volume=10&amp;publication_year=2019&amp;pages=595&amp;pmid=31191320&amp;doi=10.3389/fphar.2019.00595&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R20">
+<cite>Krotulski A, Mohr A, Diamond F, Logan B. (2020). Detection and characterization of the new synthetic cannabinoid APP-BINACA in forensic casework. Drug Test Anal
+12: 136–144.</cite> [<a href="https://doi.org/10.1002/dta.2698" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/31788963/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Drug%20Test%20Anal&amp;title=Detection%20and%20characterization%20of%20the%20new%20synthetic%20cannabinoid%20APP-BINACA%20in%20forensic%20casework&amp;author=A%20Krotulski&amp;author=A%20Mohr&amp;author=F%20Diamond&amp;author=B%20Logan&amp;volume=12&amp;publication_year=2020&amp;pages=136-144&amp;pmid=31788963&amp;doi=10.1002/dta.2698&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R21">
+<cite>Krotulski A, Mohr A, Kacinko S, Fogarty M, Shuda S, Diamond F, et al.  (2019). 4F-MDMB-BINACA: A new synthetic cannabinoid widely implicated in forensic casework. J Forensic Sci
+64: 1451–1461.</cite> [<a href="https://doi.org/10.1111/1556-4029.14101" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/31260580/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=J%20Forensic%20Sci&amp;title=4F-MDMB-BINACA:%20A%20new%20synthetic%20cannabinoid%20widely%20implicated%20in%20forensic%20casework&amp;author=A%20Krotulski&amp;author=A%20Mohr&amp;author=S%20Kacinko&amp;author=M%20Fogarty&amp;author=S%20Shuda&amp;volume=64&amp;publication_year=2019&amp;pages=1451-1461&amp;pmid=31260580&amp;doi=10.1111/1556-4029.14101&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R22">
+<cite>National Research Council. (2011). Guide for the care and use of laboratory animals, 8th ed. Washington, D.C.
+The National Academies Press.</cite> [<a href="https://scholar.google.com/scholar_lookup?title=Guide%20for%20the%20care%20and%20use%20of%20laboratory%20animals&amp;publication_year=2011&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R23">
+<cite>Norman C, Walker G, McKirdy B, McDonald C, Fletcher D, Antonides L, et al.  (2020). Detection and quantitation of synthetic cannabinoid receptor agonists in infused papers from prisons in a constantly evolving illicit market. Drug Test Anal
+12: 538–554.</cite> [<a href="https://doi.org/10.1002/dta.2767" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/31944624/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Drug%20Test%20Anal&amp;title=Detection%20and%20quantitation%20of%20synthetic%20cannabinoid%20receptor%20agonists%20in%20infused%20papers%20from%20prisons%20in%20a%20constantly%20evolving%20illicit%20market&amp;author=C%20Norman&amp;author=G%20Walker&amp;author=B%20McKirdy&amp;author=C%20McDonald&amp;author=D%20Fletcher&amp;volume=12&amp;publication_year=2020&amp;pages=538-554&amp;pmid=31944624&amp;doi=10.1002/dta.2767&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R24">
+<cite>Patel M, Manning J, Finlay D, Javitch J, Banister S, Grimsey N, et al.  (2020). Signaling profiles of a structurally diverse panel of synthetic cannabinoid receptor agonists. Biochem Pharmacol
+175: 113871.</cite> [<a href="https://doi.org/10.1016/j.bcp.2020.113871" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/32088263/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Biochem%20Pharmacol&amp;title=Signaling%20profiles%20of%20a%20structurally%20diverse%20panel%20of%20synthetic%20cannabinoid%20receptor%20agonists&amp;author=M%20Patel&amp;author=J%20Manning&amp;author=D%20Finlay&amp;author=J%20Javitch&amp;author=S%20Banister&amp;volume=175&amp;publication_year=2020&amp;pages=113871&amp;pmid=32088263&amp;doi=10.1016/j.bcp.2020.113871&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R25">
+<cite>Staeheli S, Steuer A, Kraemer T. (2019). Identification of urinary metabolites of the synthetic cannabinoid 5F-CUMYL-P7AICA in human casework. Forensic Sci Int
+294: 76–79.</cite> [<a href="https://doi.org/10.1016/j.forsciint.2018.11.002" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/30471536/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Forensic%20Sci%20Int&amp;title=Identification%20of%20urinary%20metabolites%20of%20the%20synthetic%20cannabinoid%205F-CUMYL-P7AICA%20in%20human%20casework&amp;author=S%20Staeheli&amp;author=A%20Steuer&amp;author=T%20Kraemer&amp;volume=294&amp;publication_year=2019&amp;pages=76-79&amp;pmid=30471536&amp;doi=10.1016/j.forsciint.2018.11.002&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R26">
+<cite>Tai S, Fantegrossi W. (2014). Synthetic cannabinoids: pharmacology, behavioral Effects, and abuse potential. Curr addict rep
+1: 129–136.</cite> [<a href="https://doi.org/10.1007/s40429-014-0014-y" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC4582439/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/26413452/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Curr%20addict%20rep&amp;title=Synthetic%20cannabinoids:%20pharmacology,%20behavioral%20Effects,%20and%20abuse%20potential&amp;author=S%20Tai&amp;author=W%20Fantegrossi&amp;volume=1&amp;publication_year=2014&amp;pages=129-136&amp;pmid=26413452&amp;doi=10.1007/s40429-014-0014-y&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R27">
+<cite>Tait R, Caldicott D, Mountain D, Hill S, Lenton S. (2016). A systematic review of adverse events arising from the use of synthetic cannabinoids and their associated treatment. <em>Clin</em> Toxicol (Phila)
+54: 1–13.</cite> [<a href="https://doi.org/10.3109/15563650.2015.1110590" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/26567470/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Clin%20Toxicol%20(Phila)&amp;title=A%20systematic%20review%20of%20adverse%20events%20arising%20from%20the%20use%20of%20synthetic%20cannabinoids%20and%20their%20associated%20treatment&amp;author=R%20Tait&amp;author=D%20Caldicott&amp;author=D%20Mountain&amp;author=S%20Hill&amp;author=S%20Lenton&amp;volume=54&amp;publication_year=2016&amp;pages=1-13&amp;pmid=26567470&amp;doi=10.3109/15563650.2015.1110590&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R28">
+<cite>Tanda G (2016). Preclinical studies on the reinforcing effects of cannabinoids. A tribute to the scientific research of Dr. Steve Goldberg. Psychopharmacology (Berl)
+233: 1845–1886.</cite> [<a href="https://doi.org/10.1007/s00213-016-4244-7" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC5073892/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/27026633/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Psychopharmacology%20(Berl)&amp;title=Preclinical%20studies%20on%20the%20reinforcing%20effects%20of%20cannabinoids.%20A%20tribute%20to%20the%20scientific%20research%20of%20Dr.%20Steve%20Goldberg&amp;author=G%20Tanda&amp;volume=233&amp;publication_year=2016&amp;pages=1845-1886&amp;pmid=27026633&amp;doi=10.1007/s00213-016-4244-7&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R29">
+<cite>Wiley J, Owens R, Lichtman A. (2018). Discriminative stimulus properties of phytocannabinoids, endocannabinoids, and synthetic cannabinoids. Curr Top Behav Neurosci
+39: 153–173.</cite> [<a href="https://doi.org/10.1007/7854_2016_24" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/27278640/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Curr%20Top%20Behav%20Neurosci&amp;title=Discriminative%20stimulus%20properties%20of%20phytocannabinoids,%20endocannabinoids,%20and%20synthetic%20cannabinoids&amp;author=J%20Wiley&amp;author=R%20Owens&amp;author=A%20Lichtman&amp;volume=39&amp;publication_year=2018&amp;pages=153-173&amp;pmid=27278640&amp;doi=10.1007/7854_2016_24&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R30">
+<cite>Wiley J, Lefever T, Glass M, Thomas B. (2019). Do you feel it now? Route of administration and Δ 9-tetrahydrocannabinol-like discriminative stimulus effects of synthetic cannabinoids in mice. Neurotoxicology
+73: 161–167.</cite> [<a href="https://doi.org/10.1016/j.neuro.2019.04.002" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC6635084/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/30953678/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Neurotoxicology&amp;title=Do%20you%20feel%20it%20now?%20Route%20of%20administration%20and%20%CE%94%209-tetrahydrocannabinol-like%20discriminative%20stimulus%20effects%20of%20synthetic%20cannabinoids%20in%20mice&amp;author=J%20Wiley&amp;author=T%20Lefever&amp;author=M%20Glass&amp;author=B%20Thomas&amp;volume=73&amp;publication_year=2019&amp;pages=161-167&amp;pmid=30953678&amp;doi=10.1016/j.neuro.2019.04.002&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R31">
+<cite>Wilson C, Tai S, Ewing L, Crane J, Lockhart T, Fujiwara R, et al.  (2019). Convulsant effects of abused synthetic cannabinoids JWH-018 and 5F-AB-PINACA are mediated by agonist actions at CB1 receptors in mice. J Pharmacol Exp Ther
+368: 146–156.</cite> [<a href="https://doi.org/10.1124/jpet.118.251157" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC6323622/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/30420360/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=J%20Pharmacol%20Exp%20Ther&amp;title=Convulsant%20effects%20of%20abused%20synthetic%20cannabinoids%20JWH-018%20and%205F-AB-PINACA%20are%20mediated%20by%20agonist%20actions%20at%20CB1%20receptors%20in%20mice&amp;author=C%20Wilson&amp;author=S%20Tai&amp;author=L%20Ewing&amp;author=J%20Crane&amp;author=T%20Lockhart&amp;volume=368&amp;publication_year=2019&amp;pages=146-156&amp;pmid=30420360&amp;doi=10.1124/jpet.118.251157&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R32">
+<cite>World Health Organization. (2018). Critical review report: CUMYL-4CN-BINACA expert committee on drug dependence forty-first meeting. World Health Organization.</cite> [<a href="https://scholar.google.com/scholar_lookup?title=Critical%20review%20report:%20CUMYL-4CN-BINACA%20expert%20committee%20on%20drug%20dependence%20forty-first%20meeting&amp;publication_year=2018&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R33">
+<cite>Öztürk Y, Yeter O, Öztürk S, Karakus G, Ates I, Buyuk Y, et al.  (2018). Detection of metabolites of the new synthetic cannabinoid CUMYL-4CN-BINACA in authentic urine samples and human liver microsomes using high-resolution mass spectrometry. Drug Test Anal
+10: 449–459.</cite> [<a href="https://doi.org/10.1002/dta.2248" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/28691766/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Drug%20Test%20Anal&amp;title=Detection%20of%20metabolites%20of%20the%20new%20synthetic%20cannabinoid%20CUMYL-4CN-BINACA%20in%20authentic%20urine%20samples%20and%20human%20liver%20microsomes%20using%20high-resolution%20mass%20spectrometry&amp;author=Y%20%C3%96zt%C3%BCrk&amp;author=O%20Yeter&amp;author=S%20%C3%96zt%C3%BCrk&amp;author=G%20Karakus&amp;author=I%20Ates&amp;volume=10&amp;publication_year=2018&amp;pages=449-459&amp;pmid=28691766&amp;doi=10.1002/dta.2248&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R34">
+<cite>Yeter O (2017) Identification of the synthetic cannabinoid 1-(4-cyanobutyl)-N-(2-phenylpropan-2-yl)-1H-indazole-3-carboxamide (CUMYL-4CN-BINACA) in plant material and quantification in post-mortem blood samples. J Anal Toxicol
+41:720–728.</cite> [<a href="https://doi.org/10.1093/jat/bkx061" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/28977413/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=J%20Anal%20Toxicol&amp;title=Identification%20of%20the%20synthetic%20cannabinoid%201-(4-cyanobutyl)-N-(2-phenylpropan-2-yl)-1H-indazole-3-carboxamide%20(CUMYL-4CN-BINACA)%20in%20plant%20material%20and%20quantification%20in%20post-mortem%20blood%20samples&amp;author=O%20Yeter&amp;volume=41&amp;publication_year=2017&amp;pages=720-728&amp;pmid=28977413&amp;doi=10.1093/jat/bkx061&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="R35">
+<cite>Young R (2009). Drug discrimination in methods of behavior analysis in neuroscience. Buccafuso J. (editor). 2nd ed. Boca Raton. CRC Press, Taylor &amp; Francis Group LLC.</cite> [<a href="https://pubmed.ncbi.nlm.nih.gov/21204335/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?title=Buccafuso%20J&amp;author=R%20Young&amp;publication_year=2009&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+</ol></section></section></section></section></article>
+
+                      
+
+                    </main>
+                </div>
+            </div>
+        </div>
+
+        
+
+
+
+<!-- Secondary navigation placeholder -->
+<div class="pmc-sidenav desktop:grid-col-4 display-flex">
+    <section class="pmc-sidenav__container" aria-label="Article resources and navigation">
+        <button type="button" class="pmc-sidenav__container__close">
+            <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg" role="img" alt="Close" />
+        </button>
+    <div class="display-none desktop:display-block">
+       <section class="margin-top-4 desktop:margin-top-0">
+              <h2 class="margin-top-0">ACTIONS</h2>
+           <ul class="usa-list usa-list--unstyled usa-list--actions">
+               
+               <li>
+                     <a
+                             href="https://doi.org/10.1097/FBP.0000000000000618"
+                             class="usa-button usa-button--outline width-24 font-xs display-inline-flex flex-align-center flex-justify-start padding-left-1"
+                             target="_blank"
+                             rel="noreferrer noopener"
+                             data-ga-category="actions"
+                             data-ga-action="click"
+                             data-ga-label="publisher_link_desktop"
+                     >
+                         <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/launch.svg" alt="View on publisher site icon" class="usa-icon usa-icon--size-3 usa-icon--link"/>
+                         <span class="display-inline-flex flex-justify-center flex-1 padding-right-2">View on publisher site</span>
+                     </a>
+               </li>
+               
+               
+               <li>
+                    <a
+                            href="pdf/nihms-1652522.pdf"
+                            class="usa-button usa-button--outline width-24 display-inline-flex flex-align-center flex-justify-start padding-left-1"
+                            data-ga-category="actions"
+                            data-ga-action="click"
+                            data-ga-label="pdf_download_desktop"
+                    >
+                         <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg" alt="Download PDF icon" class="usa-icon usa-icon--size-3 usa-icon--link"/>
+                        <span class="display-inline-flex flex-justify-center flex-1">PDF (1.8 MB)</span>
+                    </a>
+               </li>
+               
+                
+               <li>
+                   <button role="button" class="usa-button width-24 citation-dialog-trigger display-inline-flex flex-align-center flex-justify-start padding-left-1"
+                        aria-label="Open dialog with citation text in different styles"
+                        data-ga-category="actions"
+                        data-ga-action="open"
+                        data-ga-label="cite_desktop"
+                        data-all-citations-url="/resources/citations/8364570/"
+                        data-citation-style="nlm"
+                        data-download-format-link="/resources/citations/8364570/export/"
+                    >
+                       <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/format_quote.svg" alt="Cite icon" class="usa-icon usa-icon--size-3 usa-icon--white"/>
+                       <span class="display-inline-flex flex-justify-center flex-1 button-label">Cite</span>
+                    </button>
+               </li>
+                
+               <li>
+
+                        <button class="usa-button width-24 collections-dialog-trigger collections-button display-inline-flex flex-align-center flex-justify-start padding-left-1 collections-button-empty"
+                              aria-label="Save article in MyNCBI collections."
+                              data-ga-category="actions"
+                              data-ga-action="click"
+                              data-ga-label="collections_button_desktop"
+                              data-collections-open-dialog-enabled="false"
+                              data-collections-open-dialog-url="https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpmc.ncbi.nlm.nih.gov%2Farticles%2FPMC8364570%2F%23open-collections-dialog"
+                              data-in-collections="false">
+                            <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-full.svg" alt="Collections icon" class="usa-icon usa-icon--size-3 usa-icon--white usa-icon--bookmark-full" hidden />
+                            <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-empty.svg" alt="Collections icon" class="usa-icon usa-icon--size-3 usa-icon--white usa-icon--bookmark-empty" hidden />
+                            <span class="display-inline-flex flex-justify-center flex-1">Collections</span>
+                       </button>
+               </li>
+               <li class="pmc-permalink">
+                    <button
+                            type="button"
+                            class="usa-button width-24 display-inline-flex flex-align-center flex-justify padding-left-1 shadow-none"
+                            aria-label="Show article permalink"
+                            aria-expanded="false"
+                            aria-haspopup="true"
+                            data-ga-category="actions"
+                            data-ga-action="open"
+                            data-ga-label="permalink_desktop"
+                    >
+                        <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/share.svg" alt="Permalink icon" class="usa-icon usa-icon--size-3 usa-icon--white"/>
+                        <span class="display-inline-flex flex-justify-center flex-1 button-label">Permalink</span>
+                    </button>
+                   
+
+<div class="pmc-permalink__dropdown" hidden>
+    <div class="pmc-permalink__dropdown__container">
+          <h2 class="usa-modal__heading margin-top-0 margin-bottom-2 text-uppercase font-sans-xs">PERMALINK</h2>
+          <div class="pmc-permalink__dropdown__content">
+              <input type="text" class="usa-input" value="https://pmc.ncbi.nlm.nih.gov/articles/PMC8364570/" aria-label="Article permalink">
+              <button class="usa-button display-inline-flex pmc-permalink__dropdown__copy__btn margin-right-0" title="Copy article permalink" data-ga-category="save_share" data-ga-action="link" data-ga-label="copy_link">
+                  <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg" alt="Copy icon" aria-hidden="true" class="usa-icon usa-icon--white" />
+                  <span class="margin-left-1">Copy</span>
+              </button>
+          </div>
+    </div>
+</div>
+               </li>
+           </ul>
+       </section>
+     </div>
+
+        <section class="pmc-resources margin-top-6 desktop:margin-top-4" data-page-path="/articles/PMC8364570/">
+            <h2 class="margin-top-0">RESOURCES</h2>
+            
+                <div class="usa-accordion usa-accordion--multiselectable" data-allow-multiple>
+                    <h3 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button"
+                        aria-expanded="false"
+                        aria-controls="resources-similar-articles"
+                        data-ga-category="resources_accordion"
+                        data-ga-action="open_similar_articles"
+                        data-ga-label="/articles/PMC8364570/"
+                        data-action-open="open_similar_articles"
+                        data-action-close="close_similar_articles"
+                        >
+                            Similar articles
+                        </button>
+                    </h3>
+                    <div
+                            id="resources-similar-articles"
+                            class="usa-accordion__content usa-prose"
+                            
+                                data-source-url="/resources/similar-article-links/33595956/"
+                            
+                    >
+                        
+                    </div>
+                    <h3 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button"
+                        aria-expanded="false"
+                        aria-controls="resources-cited-by-other-articles"
+                        data-ga-category="resources_accordion"
+                        data-ga-action="open_cited_by"
+                        data-ga-label="/articles/PMC8364570/"
+                        data-action-open="open_cited_by"
+                        data-action-close="close_cited_by"
+                        >
+                             Cited by other articles
+                        </button>
+                    </h3>
+                    <div
+                            id="resources-cited-by-other-articles"
+                            class="usa-accordion__content usa-prose"
+                            
+                                data-source-url="/resources/cited-by-links/33595956/"
+                            
+                    >
+                          
+                    </div>
+                    
+                        <h3 class="usa-accordion__heading">
+                            <button
+                            type="button"
+                            class="usa-accordion__button"
+                            aria-expanded="false"
+                            aria-controls="resources-links-to-ncbi-databases"
+                            data-ga-category="resources_accordion"
+                            data-ga-action="open_NCBI_links"
+                            data-ga-label="/articles/PMC8364570/"
+                            data-action-open="open_NCBI_links"
+                            data-action-close="close_NCBI_link"
+                            >
+                                 Links to NCBI Databases
+                            </button>
+                        </h3>
+                        <div
+                                id="resources-links-to-ncbi-databases"
+                                class="usa-accordion__content usa-prose"
+                                data-source-url="/resources/db-links/8364570/"
+                        >
+                        </div>
+                    
+                    
+                </div>
+            
+        </section>
+
+
+        <section
+        class="usa-in-page-nav usa-in-page-nav--wide margin-top-6 desktop:margin-top-4"
+        data-title-text="On this page"
+        data-title-heading-level="h2"
+        data-scroll-offset="0"
+        data-root-margin="-10% 0px -80% 0px"
+        data-main-content-selector="main"
+        data-threshold="1"
+        hidden
+        ></section>
+    </section>
+</div>
+
+        
+
+<div class="overlay" role="dialog" aria-label="Citation Dialog" hidden>
+    <div class="dialog citation-dialog" aria-hidden="true">
+        <div class="display-inline-flex flex-align-center flex-justify width-full margin-bottom-2">
+            <h2 class="usa-modal__heading margin-0">Cite</h2>
+             <button type="button" class="usa-button usa-button--unstyled close-overlay text-black width-auto"  tabindex="1">
+                 <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg" alt="Close icon" class="usa-icon usa-icon--size-3 usa-icon--button" />
+             </button>
+        </div>
+
+        
+
+<div class="citation-text-block">
+  <div class="citation-text margin-bottom-2"></div>
+  <ul class="usa-list usa-list--unstyled display-inline-flex flex-justify width-full flex-align-center">
+      <li>
+        <button
+          class="usa-button usa-button--unstyled text-no-underline display-flex flex-align-center copy-button dialog-focus"
+          data-ga-category="save_share"
+          data-ga-action="cite"
+          data-ga-label="copy"
+          tabindex="2">
+            <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg" alt="Copy icon" class="usa-icon usa-icon--size-3 usa-icon--link" />
+            <span>Copy</span>
+        </button>
+      </li>
+      <li>
+          <a
+              href="#"
+              role="button"
+              class="usa-button usa-button--unstyled text-no-underline display-flex flex-align-center export-button"
+              data-ga-category="save_share"
+              data-ga-action="cite"
+              data-ga-label="download"
+              title="Download a file for external citation management software"
+              tabindex="3">
+                <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg" alt="Download icon" aria-hidden="true" class="usa-icon usa-icon--size-3 usa-icon--link" />
+                <span class="display-none mobile-lg:display-inline">Download .nbib</span>
+                <span class="display-inline mobile-lg:display-none">.nbib</span>
+            </a>
+      </li>
+      <li>
+          
+
+<div class="display-inline-flex flex-align-center">
+  <label class="usa-label margin-top-0">Format:</label>
+  <select aria-label="Format" class="usa-select citation-style-selector padding-1 margin-top-0 border-0 padding-right-4" tabindex="4" >
+    
+      <option data-style-url-name="ama"
+              value="AMA"
+              >
+        AMA
+      </option>
+    
+      <option data-style-url-name="apa"
+              value="APA"
+              >
+        APA
+      </option>
+    
+      <option data-style-url-name="mla"
+              value="MLA"
+              >
+        MLA
+      </option>
+    
+      <option data-style-url-name="nlm"
+              value="NLM"
+              selected="selected">
+        NLM
+      </option>
+    
+  </select>
+</div>
+      </li>
+  </ul>
+</div>
+    </div>
+</div>
+
+        <div class="overlay" role="dialog" hidden>
+  <div id="collections-action-dialog" class="dialog collections-dialog" aria-hidden="true">
+   <div class="display-inline-flex flex-align-center flex-justify width-full margin-bottom-2">
+        <h2 class="usa-modal__heading margin-0">Add to Collections</h2>
+    </div>
+    <div class="collections-action-panel action-panel">
+      
+
+
+<form id="collections-action-dialog-form"
+      class="usa-form maxw-full collections-action-panel-form action-panel-content action-form action-panel-smaller-selectors"
+      data-existing-collections-url="/list-existing-collections/"
+      data-add-to-existing-collection-url="/add-to-existing-collection/"
+      data-create-and-add-to-new-collection-url="/create-and-add-to-new-collection/"
+      data-myncbi-max-collection-name-length="100"
+      data-collections-root-url="https://www.ncbi.nlm.nih.gov/myncbi/collections/">
+
+    <input type="hidden" name="csrfmiddlewaretoken" value="2SccXdDQCiRhztf5qx7a9dapQ6zzrevVkWxsk3XZ7t9EwXHHRKTG8v3qzHJT4vCb">
+
+    <fieldset class="usa-fieldset margin-bottom-2">
+        <div class="usa-radio">
+            <input type="radio"
+            id="collections-action-dialog-new"
+            class="usa-radio__input usa-radio__input--tile collections-new  margin-top-0"
+            name="collections"
+            value="new"
+            data-ga-category="collections_button"
+            data-ga-action="click"
+            data-ga-label="collections_radio_new" />
+            <label class="usa-radio__label" for="collections-action-dialog-new">Create a new collection</label>
+        </div>
+        <div class="usa-radio">
+            <input type="radio"
+            id="collections-action-dialog-existing"
+            class="usa-radio__input usa-radio__input--tile collections-existing"
+            name="collections"
+            value="existing"
+            checked="true"
+            data-ga-category="collections_button"
+            data-ga-action="click"
+            data-ga-label="collections_radio_existing" />
+            <label class="usa-radio__label" for="collections-action-dialog-existing">Add to an existing collection</label>
+        </div>
+    </fieldset>
+
+    <fieldset class="usa-fieldset margin-bottom-2">
+        <div class="action-panel-control-wrap new-collections-controls">
+           <label for="collections-action-dialog-add-to-new" class="usa-label margin-top-0">
+                Name your collection
+               <abbr title="required" class="usa-hint usa-hint--required text-no-underline">*</abbr>
+          </label>
+          <input
+            type="text"
+            name="add-to-new-collection"
+            id="collections-action-dialog-add-to-new"
+            class="usa-input collections-action-add-to-new"
+            pattern="[^&quot;&amp;=&lt;&gt;/]*" title="The following characters are not allowed in the Name field: &quot;&amp;=&lt;&gt;/"
+            maxlength=""
+            data-ga-category="collections_button"
+            data-ga-action="create_collection"
+            data-ga-label="non_favorties_collection"
+            required
+          />
+        </div>
+        <div class="action-panel-control-wrap existing-collections-controls">
+             <label for="collections-action-dialog-add-to-existing" class="usa-label margin-top-0">
+                Choose a collection
+              </label>
+              <select id="collections-action-dialog-add-to-existing"
+                      class="usa-select collections-action-add-to-existing"
+                      data-ga-category="collections_button"
+                      data-ga-action="select_collection"
+                      data-ga-label="($('.collections-action-add-to-existing').val() === 'Favorites') ? 'Favorites' : 'non_favorites_collection'">
+              </select>
+              <div class="collections-retry-load-on-error usa-input-error-message selection-validation-message">
+                Unable to load your collection due to an error<br>
+                <a href="#">Please try again</a>
+              </div>
+        </div>
+    </fieldset>
+
+    <div class="display-inline-flex">
+        <button class="usa-button margin-top-0 action-panel-submit"
+            type="submit"
+            data-loading-label="Adding..."
+            data-pinger-ignore
+            data-ga-category="collections_button"
+            data-ga-action="click"
+            data-ga-label="add">
+          Add
+        </button>
+        <button class="usa-button usa-button--outline margin-top-0 action-panel-cancel"
+                aria-label="Close 'Add to Collections' panel"
+                ref="linksrc=close_collections_panel"
+                data-ga-category="collections_button"
+                data-ga-action="click"
+                data-ga-label="cancel">
+          Cancel
+        </button>
+    </div>
+</form>
+    </div>
+  </div>
+</div>
+
+        
+
+      </div>
+    </div>
+  </div>
+
+
+
+        
+    
+    
+
+<footer class="ncbi-footer ncbi-dark-background " >
+    
+        <div class="ncbi-footer__icon-section">
+            <div class="ncbi-footer__social-header">
+                Follow NCBI
+            </div>
+
+            <div class="grid-container ncbi-footer__ncbi-social-icons-container">
+                
+                    <a href="https://twitter.com/ncbi"
+                       class="ncbi-footer__social-icon ncbi-footer__social-icon--gray"
+                       target="_blank"
+                       rel="noreferrer noopener">
+                        <svg width="40"
+                             height="40"
+                             viewBox="0 0 40 40"
+                             fill="none"
+                             xmlns="http://www.w3.org/2000/svg"
+                             focusable="false"
+                             aria-hidden="true">
+                            <path d="m6.067 8 10.81 13.9L6 33.2h4.2l8.4-9.1 7.068 9.1H34L22.8 18.5 31.9 8h-3.5l-7.7 8.4L14.401 8H6.067Zm3.6 1.734h3.266l16.8 21.732H26.57L9.668 9.734Z">
+                            </path>
+                        </svg>
+                        <span class="usa-sr-only">NCBI on X (formerly known as Twitter)</span>
+                    </a>
+                
+
+                
+                    <a href="https://www.facebook.com/ncbi.nlm"
+                       class="ncbi-footer__social-icon ncbi-footer__social-icon--gray"
+                       target="_blank"
+                       rel="noreferrer noopener">
+                        <svg width="16"
+                             height="29"
+                             focusable="false"
+                             aria-hidden="true"
+                             viewBox="0 0 16 29"
+                             fill="none"
+                             xmlns="http://www.w3.org/2000/svg">
+                            <path d="M3.8809 21.4002C3.8809 19.0932 3.8809 16.7876 3.8809 14.478C3.8809 14.2117 3.80103 14.1452 3.54278 14.1492C2.53372 14.1638 1.52334 14.1492 0.514288 14.1598C0.302626 14.1598 0.248047 14.0972 0.248047 13.8936C0.256034 12.4585 0.256034 11.0239 0.248047 9.58978C0.248047 9.37013 0.302626 9.30224 0.528931 9.3049C1.53798 9.31688 2.54837 9.3049 3.55742 9.31555C3.80103 9.31555 3.8809 9.26097 3.87957 9.00272C3.87158 8.00565 3.85428 7.00592 3.90753 6.00884C3.97142 4.83339 4.31487 3.73115 5.04437 2.78467C5.93095 1.63318 7.15699 1.09005 8.56141 0.967577C10.5582 0.79319 12.555 0.982221 14.5518 0.927641C14.7102 0.927641 14.7462 0.99287 14.7449 1.13664C14.7449 2.581 14.7449 4.02668 14.7449 5.47104C14.7449 5.67604 14.6517 5.68669 14.4946 5.68669C13.4523 5.68669 12.4113 5.68669 11.3703 5.68669C10.3506 5.68669 9.92057 6.10868 9.90593 7.13904C9.89661 7.7647 9.91525 8.39303 9.89794 9.01869C9.88995 9.26364 9.96583 9.31822 10.2015 9.31688C11.7204 9.30623 13.2393 9.31688 14.7595 9.3049C15.0257 9.3049 15.0723 9.3728 15.0444 9.62439C14.89 10.9849 14.7515 12.3467 14.6144 13.7085C14.5691 14.1571 14.5785 14.1585 14.1458 14.1585C12.8386 14.1585 11.5313 14.1665 10.2254 14.1518C9.95119 14.1518 9.89794 14.2317 9.89794 14.4899C9.90593 19.0799 9.89794 23.6752 9.91125 28.2612C9.91125 28.5674 9.8407 28.646 9.53186 28.6433C7.77866 28.6273 6.02414 28.6366 4.27094 28.634C3.82499 28.634 3.87158 28.6992 3.87158 28.22C3.87602 25.9472 3.87913 23.6739 3.8809 21.4002Z">
+                            </path>
+                        </svg>
+                        <span class="usa-sr-only">NCBI on Facebook</span>
+                    </a>
+                
+
+                
+                    <a href="https://www.linkedin.com/company/ncbinlm"
+                       class="ncbi-footer__social-icon ncbi-footer__social-icon--gray"
+                       target="_blank"
+                       rel="noreferrer noopener">
+                        <svg width="25"
+                             height="23"
+                             viewBox="0 0 26 24"
+                             fill="none"
+                             xmlns="http://www.w3.org/2000/svg"
+                             focusable="false"
+                             aria-hidden="true">
+                            <path d="M14.6983 9.98423C15.6302 9.24808 16.5926 8.74754 17.6762 8.51991C19.673 8.09126 21.554 8.30824 23.1262 9.7526C24.2351 10.7723 24.7529 12.1115 25.0165 13.5612C25.1486 14.3363 25.2105 15.1218 25.2015 15.9081C25.2015 18.3043 25.2015 20.6898 25.2082 23.0806C25.2082 23.3468 25.1549 23.444 24.8621 23.4414C23.1297 23.4272 21.3992 23.4272 19.6704 23.4414C19.4041 23.4414 19.3429 23.3588 19.3442 23.1019C19.3535 20.5194 19.3442 17.9368 19.3442 15.3543C19.3442 14.0005 18.3258 12.9448 17.0266 12.9488C15.7273 12.9528 14.6983 14.0071 14.6983 15.361C14.6983 17.9328 14.6917 20.5047 14.6983 23.0753C14.6983 23.3708 14.6198 23.444 14.3296 23.4427C12.6185 23.4294 10.9079 23.4294 9.19779 23.4427C8.93155 23.4427 8.86099 23.3735 8.86232 23.1086C8.8783 19.7619 8.88628 16.4144 8.88628 13.066C8.88628 11.5688 8.87874 10.0708 8.86365 8.57182C8.86365 8.3575 8.90758 8.27896 9.14054 8.28029C10.9048 8.29094 12.6687 8.29094 14.4321 8.28029C14.6464 8.28029 14.6983 8.34818 14.6983 8.54653C14.6903 9.00047 14.6983 9.45441 14.6983 9.98423Z">
+                            </path>
+                            <path d="M6.55316 15.8443C6.55316 18.2564 6.55316 20.6699 6.55316 23.082C6.55316 23.3629 6.48127 23.4388 6.19906 23.4374C4.47737 23.4241 2.75568 23.4241 1.03399 23.4374C0.767751 23.4374 0.69986 23.3629 0.701191 23.1006C0.709178 18.2648 0.709178 13.4281 0.701191 8.59053C0.701191 8.34026 0.765089 8.27237 1.01669 8.2737C2.74991 8.28435 4.48048 8.28435 6.20838 8.2737C6.47462 8.2737 6.5465 8.33627 6.54517 8.6065C6.54783 11.0186 6.55316 13.4308 6.55316 15.8443Z">
+                            </path>
+                            <path d="M3.65878 0.243898C5.36804 0.243898 6.58743 1.45529 6.58743 3.1406C6.58743 4.75801 5.32145 5.95742 3.60819 5.96807C3.22177 5.97614 2.83768 5.90639 2.47877 5.76299C2.11985 5.61959 1.79344 5.40546 1.51897 5.13334C1.24449 4.86123 1.02755 4.53668 0.881058 4.17902C0.734563 3.82136 0.661505 3.43788 0.666231 3.05141C0.67555 1.42601 1.9362 0.242566 3.65878 0.243898Z">
+                            </path>
+                        </svg>
+                        <span class="usa-sr-only">NCBI on LinkedIn</span>
+                    </a>
+                
+
+                
+                    <a href="https://github.com/ncbi"
+                       class="ncbi-footer__social-icon ncbi-footer__social-icon--gray"
+                       target="_blank"
+                       rel="noreferrer noopener">
+                        <svg width="28"
+                             height="27"
+                             viewBox="0 0 28 28"
+                             fill="none"
+                             xmlns="http://www.w3.org/2000/svg"
+                             focusable="false"
+                             aria-hidden="true">
+                            <path d="M16.7228 20.6334C17.5057 20.5527 18.2786 20.3944 19.0301 20.1608C21.3108 19.4193 22.5822 17.8259 22.963 15.4909C23.1228 14.5112 23.1814 13.5287 22.9883 12.5437C22.8106 11.6423 22.4013 10.8028 21.8007 10.1076C21.7526 10.0605 21.7197 10 21.7064 9.934C21.6931 9.86799 21.7 9.79952 21.7262 9.73748C22.0856 8.6206 21.9711 7.51969 21.601 6.42677C21.582 6.3497 21.5345 6.2827 21.468 6.23923C21.4016 6.19577 21.3211 6.17906 21.2429 6.19248C20.7329 6.21649 20.2313 6.33051 19.7611 6.52928C19.1103 6.7908 18.4899 7.12198 17.9104 7.51703C17.84 7.56996 17.7581 7.60551 17.6713 7.62078C17.5846 7.63605 17.4954 7.6306 17.4112 7.60489C15.2596 7.05882 13.0054 7.06203 10.8554 7.61421C10.7806 7.63586 10.7018 7.63967 10.6253 7.62534C10.5487 7.611 10.4766 7.57892 10.4148 7.53167C9.64788 7.03247 8.85171 6.58918 7.96368 6.33359C7.65781 6.24338 7.34123 6.19458 7.02239 6.18849C6.94879 6.17986 6.87462 6.19893 6.81432 6.242C6.75402 6.28507 6.71191 6.34904 6.69621 6.42145C6.32342 7.51437 6.2209 8.61527 6.56307 9.73348C6.59635 9.84264 6.64694 9.93316 6.54177 10.0516C5.47666 11.2604 5.09988 12.6834 5.19574 14.2676C5.2663 15.4244 5.46201 16.5466 6.01454 17.5769C6.84399 19.1171 8.21664 19.9119 9.85158 20.3352C10.3938 20.4706 10.9444 20.5698 11.4998 20.632C11.5384 20.7492 11.4506 20.7798 11.408 20.8291C11.1734 21.1179 10.9894 21.4441 10.8634 21.7942C10.7622 22.0458 10.8315 22.4039 10.6065 22.5516C10.263 22.7766 9.83827 22.8485 9.42421 22.8871C8.17936 23.0056 7.26471 22.4877 6.6283 21.4348C6.25552 20.8184 5.76956 20.3325 5.08523 20.0663C4.76981 19.9325 4.42139 19.8967 4.08537 19.9638C3.7898 20.029 3.73788 20.1901 3.93891 20.4111C4.03639 20.5234 4.14989 20.6207 4.27575 20.6999C4.9796 21.1318 5.51717 21.7884 5.80152 22.5636C6.37002 23.9973 7.48039 24.5697 8.93825 24.6323C9.43741 24.6575 9.93768 24.615 10.4254 24.5058C10.5892 24.4672 10.6531 24.4872 10.6517 24.6762C10.6451 25.4936 10.6637 26.3123 10.6517 27.131C10.6517 27.6635 10.1684 27.9297 9.58663 27.7393C8.17396 27.2671 6.84977 26.5631 5.66838 25.656C2.59555 23.2891 0.720966 20.1861 0.217704 16.3376C-0.357453 11.9127 0.911353 8.00824 3.98551 4.73881C6.11909 2.42656 8.99932 0.939975 12.1203 0.540191C16.5351 -0.0601815 20.4347 1.14323 23.7232 4.16373C26.2449 6.47869 27.724 9.37672 28.1048 12.7726C28.5828 17.0325 27.3686 20.7945 24.4768 23.9827C22.9762 25.6323 21.0956 26.8908 18.9982 27.6488C18.8783 27.6927 18.7585 27.738 18.636 27.7726C18.0356 27.9404 17.6189 27.6395 17.6189 27.0098C17.6189 25.7452 17.6308 24.4806 17.6295 23.2159C17.6329 22.9506 17.6128 22.6856 17.5696 22.4238C17.4325 21.6664 17.3419 21.484 16.7228 20.6334Z">
+                            </path>
+                        </svg>
+                        <span class="usa-sr-only">NCBI on GitHub</span>
+                    </a>
+                
+
+                
+                    <a href="https://ncbiinsights.ncbi.nlm.nih.gov/"
+                       class="ncbi-footer__social-icon ncbi-footer__social-icon--gray"
+                       target="_blank"
+                       rel="noreferrer noopener">
+                        <svg width="26"
+                             height="26"
+                             viewBox="0 0 27 27"
+                             fill="none"
+                             xmlns="http://www.w3.org/2000/svg"
+                             focusable="false"
+                             aria-hidden="true">
+                            <path d="M23.7778 26.4574C23.1354 26.3913 22.0856 26.8024 21.636 26.3087C21.212 25.8444 21.4359 24.8111 21.324 24.0347C19.9933 14.8323 14.8727 8.80132 6.09057 5.85008C4.37689 5.28406 2.58381 4.99533 0.779072 4.99481C0.202773 4.99481 -0.0229751 4.83146 0.00455514 4.21479C0.0660406 3.08627 0.0660406 1.95525 0.00455514 0.826734C-0.0413285 0.0815827 0.259669 -0.0193618 0.896534 0.00266238C6.96236 0.222904 12.3693 2.24179 16.9889 6.16209C22.9794 11.2478 26.1271 17.7688 26.4372 25.648C26.4629 26.294 26.3179 26.5271 25.6609 26.4684C25.0827 26.417 24.4991 26.4574 23.7778 26.4574Z">
+                            </path>
+                            <path d="M14.8265 26.441C14.0924 26.441 13.2371 26.6795 12.6626 26.3786C12.0092 26.0372 12.3781 25.0644 12.246 24.378C11.1154 18.5324 6.6849 14.5497 0.74755 14.1001C0.217135 14.0615 -0.0104482 13.9422 0.0134113 13.3659C0.0519536 12.1454 0.0482829 10.9213 0.0134113 9.69524C-0.00127145 9.14464 0.196946 9.03268 0.703502 9.04736C9.21217 9.27128 16.5994 16.2511 17.2804 24.7231C17.418 26.4446 17.418 26.4446 15.6579 26.4446H14.832L14.8265 26.441Z">
+                            </path>
+                            <path d="M3.58928 26.4555C2.64447 26.4618 1.73584 26.0925 1.06329 25.4289C0.39073 24.7653 0.00933763 23.8617 0.0030097 22.9169C-0.00331824 21.9721 0.365937 21.0635 1.02954 20.3909C1.69315 19.7184 2.59675 19.337 3.54156 19.3306C4.48637 19.3243 5.39499 19.6936 6.06755 20.3572C6.7401 21.0208 7.1215 21.9244 7.12782 22.8692C7.13415 23.814 6.7649 24.7226 6.10129 25.3952C5.43768 26.0677 4.53409 26.4491 3.58928 26.4555Z">
+                            </path>
+                        </svg>
+                        <span class="usa-sr-only">NCBI RSS feed</span>
+                    </a>
+                
+            </div>
+        </div>
+    
+
+    <div data-testid="gridContainer"
+         class="grid-container ncbi-footer__container">
+        <div class="grid-row ncbi-footer__main-content-container"
+             data-testid="grid">
+            
+                <div class="ncbi-footer__column">
+                    
+                        <p class="ncbi-footer__circled-icons-heading">
+                            Connect with NLM
+                        </p>
+                    
+
+                    <div class="ncbi-footer__circled-icons-list">
+                        
+                            <a href=https://twitter.com/nlm_nih class="ncbi-footer__social-icon ncbi-footer__social-icon--circled" target="_blank" rel="noreferrer noopener">
+                                <svg width="32"
+                                     height="32"
+                                     viewBox="0 0 40 40"
+                                     fill="none"
+                                     xmlns="http://www.w3.org/2000/svg"
+                                     focusable="false"
+                                     aria-hidden="true">
+                                    <path d="m6.067 8 10.81 13.9L6 33.2h4.2l8.4-9.1 7.068 9.1H34L22.8 18.5 31.9 8h-3.5l-7.7 8.4L14.401 8H6.067Zm3.6 1.734h3.266l16.8 21.732H26.57L9.668 9.734Z">
+                                    </path>
+                                </svg>
+                                <span class="usa-sr-only">NLM on X (formerly known as Twitter)</span>
+                            </a>
+                        
+
+                        
+                            <a href=https://www.facebook.com/nationallibraryofmedicine class="ncbi-footer__social-icon ncbi-footer__social-icon--circled" target="_blank" rel="noreferrer noopener">
+                                <svg width="13"
+                                     height="24"
+                                     viewBox="0 0 13 24"
+                                     fill="none"
+                                     xmlns="http://www.w3.org/2000/svg"
+                                     focusable="false"
+                                     aria-hidden="true">
+                                    <path d="M4.11371 23.1369C4.11371 23.082 4.11371 23.0294 4.11371 22.9745V12.9411H0.817305C0.6709 12.9411 0.670898 12.9411 0.670898 12.8016C0.670898 11.564 0.670898 10.3287 0.670898 9.09341C0.670898 8.97903 0.705213 8.95158 0.815017 8.95158C1.8673 8.95158 2.91959 8.95158 3.97417 8.95158H4.12057V8.83263C4.12057 7.8055 4.12057 6.7738 4.12057 5.74897C4.1264 4.92595 4.31387 4.11437 4.66959 3.37217C5.12916 2.38246 5.94651 1.60353 6.95717 1.1921C7.64827 0.905008 8.3913 0.764035 9.13953 0.778051C10.0019 0.791777 10.8644 0.830666 11.7268 0.860404C11.8869 0.860404 12.047 0.894717 12.2072 0.90158C12.2964 0.90158 12.3261 0.940469 12.3261 1.02968C12.3261 1.5421 12.3261 2.05452 12.3261 2.56465C12.3261 3.16857 12.3261 3.7725 12.3261 4.37642C12.3261 4.48165 12.2964 4.51367 12.1912 4.51138C11.5369 4.51138 10.8804 4.51138 10.2261 4.51138C9.92772 4.51814 9.63058 4.5526 9.33855 4.61433C9.08125 4.6617 8.84537 4.78881 8.66431 4.97766C8.48326 5.16652 8.3662 5.40755 8.32972 5.66661C8.28476 5.89271 8.26027 6.1224 8.25652 6.35289C8.25652 7.19014 8.25652 8.02969 8.25652 8.86923C8.25652 8.89439 8.25652 8.91955 8.25652 8.95615H12.0219C12.1797 8.95615 12.182 8.95616 12.1614 9.10714C12.0768 9.76596 11.9876 10.4248 11.9029 11.0813C11.8312 11.6319 11.7626 12.1824 11.697 12.733C11.6719 12.9434 11.6787 12.9434 11.4683 12.9434H8.26338V22.899C8.26338 22.979 8.26338 23.0591 8.26338 23.1392L4.11371 23.1369Z">
+                                    </path>
+                                </svg>
+                                <span class="usa-sr-only">NLM on Facebook</span>
+                            </a>
+                        
+
+                        
+                            <a href=https://www.youtube.com/user/NLMNIH class="ncbi-footer__social-icon ncbi-footer__social-icon--circled" target="_blank" rel="noreferrer noopener">
+                                <svg width="21"
+                                     height="15"
+                                     viewBox="0 0 21 15"
+                                     fill="none"
+                                     xmlns="http://www.w3.org/2000/svg"
+                                     focusable="false"
+                                     aria-hidden="true">
+                                    <path d="M19.2561 1.47914C18.9016 1.15888 18.5699 0.957569 17.2271 0.834039C15.5503 0.678484 13.2787 0.655608 11.563 0.65332H9.43556C7.71987 0.65332 5.4483 0.678484 3.77151 0.834039C2.43098 0.957569 2.097 1.15888 1.74242 1.47914C0.813665 2.32097 0.619221 4.62685 0.598633 6.89384C0.598633 7.31781 0.598633 7.74101 0.598633 8.16345C0.626084 10.4121 0.827391 12.686 1.74242 13.521C2.097 13.8412 2.4287 14.0425 3.77151 14.1661C5.4483 14.3216 7.71987 14.3445 9.43556 14.3468H11.563C13.2787 14.3468 15.5503 14.3216 17.2271 14.1661C18.5676 14.0425 18.9016 13.8412 19.2561 13.521C20.1712 12.6929 20.3725 10.451 20.3999 8.22064C20.3999 7.74025 20.3999 7.25986 20.3999 6.77946C20.3725 4.54907 20.1689 2.30724 19.2561 1.47914ZM8.55942 10.5311V4.65201L13.5601 7.50005L8.55942 10.5311Z"
+                                          fill="white" />
+                                </svg>
+                                <span class="usa-sr-only">NLM on YouTube</span>
+                            </a>
+                        
+                    </div>
+                </div>
+            
+
+            
+                <address class="ncbi-footer__address ncbi-footer__column">
+                    
+        <p>
+            <a class="usa-link usa-link--external"
+            href="https://www.google.com/maps/place/8600+Rockville+Pike,+Bethesda,+MD+20894/%4038.9959508,
+            -77.101021,17z/data%3D!3m1!4b1!4m5!3m4!1s0x89b7c95e25765ddb%3A0x19156f88b27635b8!8m2!3d38.9959508!
+            4d-77.0988323"
+            rel="noopener noreferrer" target="_blank">National Library of Medicine
+            <br/> 8600 Rockville Pike<br/> Bethesda, MD 20894</a>
+        </p>
+    
+                </address>
+            
+
+            
+                <ul class="usa-list usa-list--unstyled ncbi-footer__vertical-list ncbi-footer__column">
+                    
+                        <li class="ncbi-footer__vertical-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.nlm.nih.gov/web_policies.html" class="usa-link  usa-link--alt ncbi-footer__link"  >
+        
+
+        
+            Web Policies
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="ncbi-footer__vertical-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison/freedom-information-act-office" class="usa-link  usa-link--alt ncbi-footer__link"  >
+        
+
+        
+            FOIA
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="ncbi-footer__vertical-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.hhs.gov/vulnerability-disclosure-policy/index.html" class="usa-link usa-link--external usa-link--alt ncbi-footer__link" rel="noreferrer noopener" target='_blank' >
+        
+
+        
+            HHS Vulnerability Disclosure
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                </ul>
+            
+
+            
+                <ul class="usa-list usa-list--unstyled ncbi-footer__vertical-list ncbi-footer__column">
+                    
+                        <li class="ncbi-footer__vertical-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://support.nlm.nih.gov/" class="usa-link  usa-link--alt ncbi-footer__link"  >
+        
+
+        
+            Help
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="ncbi-footer__vertical-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.nlm.nih.gov/accessibility.html" class="usa-link  usa-link--alt ncbi-footer__link"  >
+        
+
+        
+            Accessibility
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="ncbi-footer__vertical-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.nlm.nih.gov/careers/careers.html" class="usa-link  usa-link--alt ncbi-footer__link"  >
+        
+
+        
+            Careers
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                </ul>
+            
+        </div>
+
+        
+            <div class="grid-row grid-col-12" data-testid="grid">
+                <ul class="ncbi-footer__bottom-links-list">
+                    
+                        <li class="ncbi-footer__bottom-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.nlm.nih.gov/" class="usa-link  usa-link--alt ncbi-footer__link"  >
+        
+
+        
+            NLM
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="ncbi-footer__bottom-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.nih.gov/" class="usa-link  usa-link--alt ncbi-footer__link"  >
+        
+
+        
+            NIH
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="ncbi-footer__bottom-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.hhs.gov/" class="usa-link usa-link--external usa-link--alt ncbi-footer__link" rel="noreferrer noopener" target='_blank' >
+        
+
+        
+            HHS
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="ncbi-footer__bottom-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.usa.gov/" class="usa-link usa-link--external usa-link--alt ncbi-footer__link" rel="noreferrer noopener" target='_blank' >
+        
+
+        
+            USA.gov
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                </ul>
+            </div>
+        
+    </div>
+</footer>
+
+    
+
+
+        
+        
+    
+  <script  type="text/javascript" src="https://cdn.ncbi.nlm.nih.gov/core/pinger/pinger.js"> </script>
+
+
+    
+        
+
+<button class="back-to-top" data-ga-category="pagination" data-ga-action="back_to_top">
+    <label>Back to Top</label>
+    <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/arrow_upward.svg" alt="back to top icon" class="usa-icon usa-icon--size-3 order-0 usa-icon--white" />
+</button>
+    
+
+
+        
+    
+    <div id="icon-container" style="display: none;"></div>
+    
+    
+        
+    <script type="application/javascript">
+    window.ncbi = window.ncbi || {};
+    window.ncbi.pmc = window.ncbi.pmc || {};
+    window.ncbi.pmc.options = {
+        logLevel: 'INFO',
+        
+        staticEndpoint: 'https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/',
+        
+        citeCookieName: 'pmc-cf',
+    };
+</script>
+    <script type="module" crossorigin="" src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/assets/base-Cp_Il6gk.js"></script>
+<link href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/assets/vendor-Co8Vdmw2.js" type="text/javascript" crossorigin="anonymous" rel="modulepreload" as="script" />
+    
+    <script type="text/javascript" src="https://cdn.ncbi.nlm.nih.gov/core/jquery/jquery-3.6.0.min.js">&#xA0;</script>
+    <script type="text/javascript">
+        jQuery.getScript("https://cdn.ncbi.nlm.nih.gov/core/alerts/alerts.js", function () {
+            galert(['div.nav_and_browser', 'div.header', '#universal_header', '.usa-banner', 'body > *:nth-child(1)'])
+        });
+    </script>
+
+
+    <script type="text/javascript">var exports = {};</script>
+     <script src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/CACHE/js/output.4e25b6297b38.js"></script>
+
+    <script type="module" crossorigin="" src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/assets/article-D47MIn9n.js"></script>
+<link href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/assets/vendor-Co8Vdmw2.js" type="text/javascript" crossorigin="anonymous" rel="modulepreload" as="script" />
+<link href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/assets/index-DXSA0fsx.js" type="text/javascript" crossorigin="anonymous" rel="modulepreload" as="script" />
+<link href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/assets/secure-cookie-Br6x5jtB.js" type="text/javascript" crossorigin="anonymous" rel="modulepreload" as="script" />
+    
+    
+
+    </body>
+</html>

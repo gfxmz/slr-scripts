@@ -1,0 +1,1429 @@
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en-US" xml:lang="en-US">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>
+		Cryptocurrency and financial crimes: A bibliometric analysis and future research agenda
+							| Multidisciplinary Reviews
+			</title>
+
+		
+									
+	<link rel="canonical" href="https://malque.pub/ojs/index.php/mr/article/view/2514">	<meta name="description" content="The use of cryptocurrency for financial crimes has increased in recent years because of its decentralized and anonymous nature. This study extracted scholarly…">
+			<meta property="og:type" content="article">
+		<meta property="og:title" content="Cryptocurrency and financial crimes: A bibliometric analysis and future research agenda">
+		<meta property="og:description" content="The use of cryptocurrency for financial crimes has increased in recent years because of its decentralized and anonymous nature. This study extracted scholarly articles from the Scopus database and…">		<meta property="og:url" content="https://malque.pub/ojs/index.php/mr/article/view/2514">		<meta property="og:site_name" content="Multidisciplinary Reviews">		<meta property="og:image" content="https://malque.pub/ojs/public/journals/2/submission_2514_2514_coverImage_en_US.jpg">		<meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:title" content="Cryptocurrency and financial crimes: A bibliometric analysis and future research agenda">
+		<meta name="twitter:description" content="The use of cryptocurrency for financial crimes has increased in recent years because of its decentralized and anonymous nature. This study extracted scholarly articles from the Scopus database and…">		<meta name="twitter:image" content="https://malque.pub/ojs/public/journals/2/submission_2514_2514_coverImage_en_US.jpg">		
+	
+<link rel="icon" href="https://malque.pub/ojs/public/journals/2/favicon_en_US.png">
+<meta name="generator" content="Open Journal Systems 3.3.0.14">
+<link rel="schema.DC" href="https://purl.org/dc/elements/1.1/" />
+<meta name="DC.Creator.PersonalName" content="Sabuj Saha"/>
+<meta name="DC.Creator.PersonalName" content="Ahmed Rizvan Hasan"/>
+<meta name="DC.Creator.PersonalName" content="Alvi Mahmud"/>
+<meta name="DC.Creator.PersonalName" content="Nujhat Ahmed"/>
+<meta name="DC.Creator.PersonalName" content="Nahida Parvin"/>
+<meta name="DC.Creator.PersonalName" content="Hemal Karmakar"/>
+<meta name="DC.Date.created" scheme="ISO8601" content="2024-05-10"/>
+<meta name="DC.Date.dateSubmitted" scheme="ISO8601" content="2024-02-06"/>
+<meta name="DC.Date.issued" scheme="ISO8601" content="2024-08-01"/>
+<meta name="DC.Date.modified" scheme="ISO8601" content="2024-05-20"/>
+<meta name="DC.Description" xml:lang="en" content="The use of cryptocurrency for financial crimes has increased in recent years because of its decentralized and anonymous nature. This study extracted scholarly articles from the Scopus database and adopted bibliographic and content analysis to review financial fraud research in cryptocurrency. In addition, this study discussed the top ten cryptocurrency scams, potential reasons for falling into those traps, and associated theories to explore scammers’ behavior and outlined comprehensive future research guidelines for a safer financial world. Since 2018, the publication trend of revealing cryptocurrency frauds has gained momentum, and research on this topic has increased significantly in the last two years. The USA is the most significant contributor to cryptocurrency scam research. We found that both developed and developing countries are fairly concerned about combatting crypto fraudsters even though there are no regulated guidelines across the countries. The research potential has shifted from malware, bitcoin, and blockchain to fintech-based crimes such as money laundering, pump-and-dump schemes, and phishing. We observed that ICO fraud, money laundering, Ponzi schemes, phishing, darknet market transactions, ransomware, and pumps and dumps are some of the predominant crimes in crypto and that investor overconfidence, speculative expectations, low barriers to entry, decentralization, and anonymity are the primary reasons for crimes in cryptocurrency. This study suggests studying the socioeconomic impacts of cryptocurrencies, the necessity for standardized global regulation, and the integration of interdisciplinary research. Future research should emphasize exploring the innovation cycle in cryptocurrency assets, understanding cybercrime dynamics, guarding against crypto market manipulation, and developing automated scam prevention."/>
+<meta name="DC.Format" scheme="IMT" content="application/pdf"/>
+<meta name="DC.Identifier" content="2514"/>
+<meta name="DC.Identifier.pageNumber" content="2024168"/>
+<meta name="DC.Identifier.DOI" content="10.31893/multirev.2024168"/>
+<meta name="DC.Identifier.URI" content="https://malque.pub/ojs/index.php/mr/article/view/2514"/>
+<meta name="DC.Language" scheme="ISO639-1" content="en"/>
+<meta name="DC.Rights" content="Copyright (c) 2024 Malque Publishing"/>
+<meta name="DC.Rights" content="https://creativecommons.org/licenses/by-nc-nd/4.0"/>
+<meta name="DC.Source" content="Multidisciplinary Reviews"/>
+<meta name="DC.Source.ISSN" content="2595-3982"/>
+<meta name="DC.Source.Issue" content="8"/>
+<meta name="DC.Source.Volume" content="7"/>
+<meta name="DC.Source.URI" content="https://malque.pub/ojs/index.php/mr"/>
+<meta name="DC.Subject" xml:lang="en" content="Crypto"/>
+<meta name="DC.Subject" xml:lang="en" content="Frauds"/>
+<meta name="DC.Subject" xml:lang="en" content="Scams"/>
+<meta name="DC.Subject" xml:lang="en" content="future direction"/>
+<meta name="DC.Title" content="Cryptocurrency and financial crimes: A bibliometric analysis and future research agenda"/>
+<meta name="DC.Type" content="Text.Serial.Journal"/>
+<meta name="DC.Type.articleType" content="Review Article"/>
+<meta name="gs_meta_revision" content="1.1"/>
+<meta name="citation_journal_title" content="Multidisciplinary Reviews"/>
+<meta name="citation_journal_abbrev" content="Multidiscip. Rev."/>
+<meta name="citation_issn" content="2595-3982"/> 
+<meta name="citation_author" content="Sabuj Saha"/>
+<meta name="citation_author_institution" content="Oklahoma State University, USA."/>
+<meta name="citation_author" content="Ahmed Rizvan Hasan"/>
+<meta name="citation_author_institution" content="The Pennsylvania State University, USA."/>
+<meta name="citation_author" content="Alvi Mahmud"/>
+<meta name="citation_author_institution" content="Oklahoma State University, USA."/>
+<meta name="citation_author" content="Nujhat Ahmed"/>
+<meta name="citation_author_institution" content="Oklahoma State University, USA."/>
+<meta name="citation_author" content="Nahida Parvin"/>
+<meta name="citation_author_institution" content="Oklahoma State University, USA."/>
+<meta name="citation_author" content="Hemal Karmakar"/>
+<meta name="citation_author_institution" content="Oklahoma State University, USA."/>
+<meta name="citation_title" content="Cryptocurrency and financial crimes: A bibliometric analysis and future research agenda"/>
+<meta name="citation_language" content="en"/>
+<meta name="citation_date" content="2024/05/10"/>
+<meta name="citation_volume" content="7"/>
+<meta name="citation_issue" content="8"/>
+<meta name="citation_firstpage" content="2024168"/>
+<meta name="citation_lastpage" content="2024168"/>
+<meta name="citation_doi" content="10.31893/multirev.2024168"/>
+<meta name="citation_abstract_html_url" content="https://malque.pub/ojs/index.php/mr/article/view/2514"/>
+<meta name="citation_keywords" xml:lang="en" content="Crypto"/>
+<meta name="citation_keywords" xml:lang="en" content="Frauds"/>
+<meta name="citation_keywords" xml:lang="en" content="Scams"/>
+<meta name="citation_keywords" xml:lang="en" content="future direction"/>
+<meta name="citation_pdf_url" content="https://malque.pub/ojs/index.php/mr/article/download/2514/1524"/>
+<meta name="citation_reference" content="Abhilash, S. S. S., &amp; Shetty, D. K. (2022). A state-of-the-art overview of green bond markets: Evidence from technology empowered systematic literature review. Cogent Economics &amp; Finance, 10(1), 2135834."/>
+<meta name="citation_reference" content="Agrawal, R., Agrawal, S., Samadhiya, A., Kumar, A., Luthra, S., &amp; Jain, V. (2023). Adoption of green finance and green innovation for achieving circularity: an exploratory review and future directions. Geoscience Frontiers, 101669."/>
+<meta name="citation_reference" content="Agbo, F. J., Oyelere, S. S., Suhonen, J., &amp; Tukiainen, M. (2021). Scientific production and thematic breakthroughs in smart learning environments: a bibliometric analysis. Smart Learning Environments, 8(1), 1-25."/>
+<meta name="citation_reference" content="Ahammed, A., &amp; Saha, S. (2018). Firm-specific Financial Determinants of Non-Performing Loan in the Banking Sector of Developing Countries: Evidence from the Listed Commercial Banks in Bangladesh. In: Journal of Economics and Business, 1(4), 555-563."/>
+<meta name="citation_reference" content="AIS, D. (2018). Firm-specific Financial Determinants of Non-Performing Loan in the Banking Sector of Developing Countries: Evidence from the Listed Commercial Banks in Bangladesh. Journal of Economics and Business, 1(4), 555-563."/>
+<meta name="citation_reference" content="Almaqableh, L., Wallace, D., Pereira, V., Ramiah, V., Wood, G., Veron, J. F.,&amp; Watson, A. (2023). Is it possible to establish the link between drug busts and the cryptocurrency market? Yes, we can. International Journal of Information Management, 71, 102488."/>
+<meta name="citation_reference" content="Al-rimy, B. A. S., Maarof, M. A., &amp; Shaid, S. Z. M. (2018). Ransomware threat success factors, taxonomy, and countermeasures: A survey and research directions. Computers &amp; Security, 74, 144-166."/>
+<meta name="citation_reference" content="Alyami, M., Alhotaylah, R., Alshehri, S., &amp; Alghamdi, A. (2023). Phishing Attacks on Cryptocurrency Investors in the Arab States of the Gulf. Journal of Risk and Financial Management, 16(5), 271."/>
+<meta name="citation_reference" content="Bailey, A. M., Rettler, B., &amp; Warmke, C. (2021). Philosophy, politics, and economics of cryptocurrency II: The moral landscape of monetary design. Philosophy Compass, 16(11), e12784."/>
+<meta name="citation_reference" content="Bartoletti, M., Pes, B., &amp; Serusi, S. (2018, June). Data mining for detecting bitcoin ponzi schemes. In 2018 Crypto Valley Conference on Blockchain Technology (CVCBT) (pp. 75-84). IEEE."/>
+<meta name="citation_reference" content="Binh, N. H. (2021). Crime in Era of Digital Technology: What Can Change with Cryptocurrency Status Clarification for Development of Information Environment of Vietnam?. Management."/>
+<meta name="citation_reference" content="Broadhead, S. (2018). The contemporary cybercrime ecosystem: A multi-disciplinary overview of the state of affairs and developments. Computer Law &amp; Security Review, 34(6), 1180-1196."/>
+<meta name="citation_reference" content="Burge, M. E. (2015). Apple pay, bitcoin, and consumers: The ABCs of future public payments law. Hastings LJ, 67, 1493."/>
+<meta name="citation_reference" content="Castonguay, J. J., &amp; Stein Smith, S. (2020). Digital assets and blockchain: Hackable, fraudulent, or just misunderstood?. Accounting Perspectives, 19(4), 363-387."/>
+<meta name="citation_reference" content="Chergarova, V., Arcanjo, V., Tomeo, M., Bezerra, J., Vera, L. M., &amp; Uloa, A. (2022). Cryptocurrency fraud: A study on the characteristics of criminals who are using fake profiles on a social media platform to persuade individuals to invest into cryptocurrency. Issues in Information Systems, 23(3)."/>
+<meta name="citation_reference" content="Conti, M., Gangwal, A., &amp; Ruj, S. (2018). On the economic significance of ransomware campaigns: A Bitcoin transactions perspective. Computers &amp; Security, 79, 162-189."/>
+<meta name="citation_reference" content="Dhali, M., et al. (2023). Cryptocurrency in the darknet: Sustainability of the current national legislation. International Journal of Law and Management, 65(3), 261–282."/>
+<meta name="citation_reference" content="Dolejška, D., Koutenský, M., Veselý, V., &amp; Pluskal, J. (2023). Busting up Monopoly: Methods for modern darknet marketplace forensics. Forensic Science International: Digital Investigation, 46, 301604."/>
+<meta name="citation_reference" content="Donthu, N., Kumar, S., Mukherjee, D., Pandey, N., &amp; Lim, W. M. (2021). How to conduct a bibliometric analysis: An overview and guidelines. Journal of Business Research, 133, 285-296."/>
+<meta name="citation_reference" content="Dupuis, D., &amp; Gleason, K. (2020). Money laundering with cryptocurrency: open doors and the regulatory dialectic. Journal of Financial Crime, 28(1), 60-74."/>
+<meta name="citation_reference" content="Dupuis, D., &amp; Gleason, K. C. (2021). Old Frauds with a New Sauce: Digital Coins and Behavioral Paradigms. Available at SSRN 3904002."/>
+<meta name="citation_reference" content="Gandal, N., Hamrick, J. T., Moore, T., &amp; Oberman, T. (2018). Price manipulation in the Bitcoin ecosystem. Journal of Monetary Economics, 95, 86-96."/>
+<meta name="citation_reference" content="Hendrickson, J. R., &amp; Luther, W. J. (2022). Cash, crime, and cryptocurrencies. The Quarterly Review of Economics and Finance, 85, 200-207."/>
+<meta name="citation_reference" content="Higbee, A. (2018). The role of crypto-currency in cybercrime. Computer Fraud and Security, 2018(7), 13–15."/>
+<meta name="citation_reference" content="Hornuf, L., Kück, T., &amp; Schwienbacher, A. (2022). Initial coin offerings, information disclosure, and fraud. Small Business Economics, 58(4), 1741-1759."/>
+<meta name="citation_reference" content="Irwin, A. S., &amp; Dawson, C. (2019). Following the cyber money trail: Global challenges when investigating ransomware attacks and how regulation can help. Journal of money laundering control, 22(1), 110-131."/>
+<meta name="citation_reference" content="Jaishankar, K. (2007). Establishing a theory of cyber crimes. International Journal of Cyber Criminology, 1(2), 7-9."/>
+<meta name="citation_reference" content="Janze, C. (2017). Are cryptocurrencies criminals best friends? Examining the co-evolution of bitcoin and darknet markets."/>
+<meta name="citation_reference" content="Johnson, B., Co, S., Sun, T., Lim, C. C., Stjepanović, D., Leung, J., ... &amp; Chan, G. C. (2023). Cryptocurrency trading and its associations with gambling and mental health: A scoping review. Addictive Behaviors, 136, 107504."/>
+<meta name="citation_reference" content="Kamps, J., &amp; Kleinberg, B. (2018). To the moon: defining and detecting cryptocurrency pump-and-dumps. Crime Science, 7(1), 1-18."/>
+<meta name="citation_reference" content="Kashi, A., &amp; Shah, M. E. (2023). Bibliometric Review on Sustainable Finance. Sustainability, 15(9), 7119."/>
+<meta name="citation_reference" content="Kerr, D. S., Loveland, K. A., Smith, K. T., &amp; Smith, L. M. (2023). Cryptocurrency Risks, Fraud Cases, and Financial Performance. Risks, 11(3), 51."/>
+<meta name="citation_reference" content="Kethineni, S., &amp; Cao, Y. (2020). The rise in popularity of cryptocurrency and associated criminal activity. International Criminal Justice Review, 30(3), 325-344."/>
+<meta name="citation_reference" content="Kfir, I. (2020). Cryptocurrencies, national security, crime and terrorism. Comparative Strategy, 39(2), 113–127."/>
+<meta name="citation_reference" content="Kher, R., Terjesen, S., &amp; Liu, C. (2021). Blockchain, Bitcoin, and ICOs: a review and research agenda. Small Business Economics, 56, 1699-1720."/>
+<meta name="citation_reference" content="Koerhuis, W., Kechadi, T., &amp; Le-Khac, N. A. (2020). Forensic analysis of privacy-oriented cryptocurrencies. Forensic Science International: Digital Investigation, 33, 200891."/>
+<meta name="citation_reference" content="Kozii, V. (2023). Criminal liability for illegal possession of cryptocurrency in Ukraine. Адреса редакції, 32."/>
+<meta name="citation_reference" content="Kreminskyi, O., Kuzmenko, O., Antoniuk, A., &amp; Smahlo, O. (2021). International cooperation in the investigation of economic crimes related to cryptocurrency circulation. Studies of Applied Economics, 39(6)."/>
+<meta name="citation_reference" content="Kutera, M. (2022). Cryptocurrencies as a subject of financial fraud. Journal of Entrepreneurship, Management and Innovation, 18(4), 45-77."/>
+<meta name="citation_reference" content="Lacey, D., et al. (2020). The application of scam compliance models to investment fraud offending. Journal of Criminological Research, Policy and Practice, 6(1), 65–81."/>
+<meta name="citation_reference" content="Lacey, D., Goode, S., Pawada, J., &amp; Gibson, D. (2020). The application of scam compliance models to investment fraud offending. Journal of Criminological Research, Policy and Practice, 6(1), 65-81."/>
+<meta name="citation_reference" content="Li, Y., &amp; Wang, C. C. (2022). A search-theoretic model of double-spending fraud. Journal of Economic Dynamics and Control, 142, 104157."/>
+<meta name="citation_reference" content="Mackenzie, S. (2022). Criminology towards the metaverse: Cryptocurrency scams, grey economy and the technosocial. The British Journal of Criminology, 62(6), 1537-1552."/>
+<meta name="citation_reference" content="McCord, A., Birch, P., &amp; Davison, A. (2022). Technology Enabled Crime: Examining the Role of Cryptocurrency. Kriminologie-Das Online-Journal| Criminology-The Online Journal, (4), 428-451."/>
+<meta name="citation_reference" content="Nadir, I., &amp; Bakhshi, T. (2018, March). Contemporary cybercrime: A taxonomy of ransomware threats &amp; mitigation techniques. In 2018 International Conference on Computing, Mathematics and Engineering Technologies (iCoMET) (pp. 1-7). IEEE."/>
+<meta name="citation_reference" content="Nasir, A., Shaukat, K., Iqbal Khan, K., A. Hameed, I., Alam, T. M., &amp; Luo, S. (2021). Trends and directions of financial technology (Fintech) in society and environment: A bibliometric study. Applied Sciences, 11(21), 10353."/>
+<meta name="citation_reference" content="Nikkel, B. (2020). Fintech forensics: Criminal investigation and digital evidence in financial technologies. Forensic Science International: Digital Investigation, 33, 200908."/>
+<meta name="citation_reference" content="Nolasco Braaten, C., &amp; Vaughn, M. S. (2021). Convenience theory of cryptocurrency crime: A content analysis of US federal court decisions. Deviant Behavior, 42(8), 958-978."/>
+<meta name="citation_reference" content="Phillips, R., &amp; Wilder, H. (2020, May). Tracing cryptocurrency scams: Clustering replicated advance-fee and phishing websites. In: 2020 IEEE international conference on blockchain and cryptocurrency (ICBC) (pp. 1-8). IEEE."/>
+<meta name="citation_reference" content="Reynolds, P., &amp; Irwin, A. S. (2017). Tracking digital footprints: anonymity within the bitcoin system. Journal of Money Laundering Control, 20(2), 172-189."/>
+<meta name="citation_reference" content="Rivera, J.W. (2019). Potential negative effects of a cashless society: Turning citizens into criminals and other economic dangers. Journal of Money Laundering Control, 22(2), 350-358."/>
+<meta name="citation_reference" content="Sabuj, S., Arif, A. &amp; Momotaz, B. (2019). Audit Expectation Gap: Empirical Evidences from Bangladesh, SSRG International Journal of Economics and Management Studies 6(5)."/>
+<meta name="citation_reference" content="Saha, S., Hasan, A. R., Islam, K. R., &amp; Priom, M. A. I. (2024). Sustainable Development Goals (SDGs) practices and firms' financial performance: The moderating role of country governance. Green Finance, 6(1), 162-198."/>
+<meta name="citation_reference" content="Sanz-Bas, D., del Rosal, C., Náñez Alonso, S. L., &amp; Echarte Fernández, M. Á. (2021). Cryptocurrencies and fraudulent transactions: Risks, practices, and legislation for their prevention in Europe and Spain. Laws, 10(3), 57."/>
+<meta name="citation_reference" content="Șcheau, M. C., Crăciunescu, S. L., Brici, I., &amp; Achim, M. V. (2020). A cryptocurrency spectrum short analysis. Journal of Risk and Financial Management, 13(8), 184."/>
+<meta name="citation_reference" content="Sudzina, F., Dobes, M., &amp; Pavlicek, A. (2023). Towards the psychological profile of cryptocurrency early adopters: Overconfidence and self-control as predictors of cryptocurrency use. Current Psychology, 42(11), 8713-8717."/>
+<meta name="citation_reference" content="Sun, N., Zhang, Y., &amp; Liu, Y. (2022). A privacy-preserving KYC-compliant identity scheme for accounts on all public blockchains. Sustainability, 14(21), 14584."/>
+<meta name="citation_reference" content="Teichmann, F. M. J., &amp; Falker, M. C. (2021). Cryptocurrencies and financial crime: solutions from Liechtenstein. Journal of Money Laundering Control, 24(4), 775-788."/>
+<meta name="citation_reference" content="Teichmann, F. M., &amp; Falker, M.-C. (2020). Money laundering via cryptocurrencies – potential solutions from Liechtenstein. Journal of Money Laundering Control, 24(1), 91–101."/>
+<meta name="citation_reference" content="Trozze, A., Kamps, J., Akartuna, E. A., Hetzel, F. J., Kleinberg, B., Davies, T., &amp; Johnson, S. D. (2022). Cryptocurrencies and future financial crime. Crime Science, 11, 1-35."/>
+<meta name="citation_reference" content="Turner, A. B., McCombie, S., &amp; Uhlmann, A. J. (2019). A target-centric intelligence approach to WannaCry 2.0. Journal of Money Laundering Control, 22(4), 646–665."/>
+<meta name="citation_reference" content="Van Wegberg, R., Oerlemans, J. J., &amp; van Deventer, O. (2018). Bitcoin money laundering: mixed results? An explorative study on money laundering of cybercrime proceeds using bitcoin. Journal of Financial Crime, 25(2), 419-435."/>
+<meta name="citation_reference" content="Wang, H., He, D., Liu, Z., &amp; Guo, R. (2020). Blockchain-Based anonymous reporting scheme with anonymous rewarding. IEEE Transactions on Engineering Management, 67(4), 1514–1524."/>
+<meta name="citation_reference" content="Zimba, A., et al. (2018). Crypto mining attacks in information systems: An emerging threat to cyber security. Journal of Computer Information Systems, 60(4), 297–308."/>
+<link rel="alternate" type="application/atom+xml" href="https://malque.pub/ojs/index.php/mr/gateway/plugin/AnnouncementFeedGatewayPlugin/atom">
+<link rel="alternate" type="application/rdf+xml" href="https://malque.pub/ojs/index.php/mr/gateway/plugin/AnnouncementFeedGatewayPlugin/rss">
+<link rel="alternate" type="application/rss+xml" href="https://malque.pub/ojs/index.php/mr/gateway/plugin/AnnouncementFeedGatewayPlugin/rss2">
+<meta name="google-adsense-account" content="ca-pub-7328034817160917">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7328034817160917"
+     crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="//fonts.googleapis.com/css2?family=Open+Sans&display=swap" type="text/css" /><link rel="stylesheet" href="//fonts.googleapis.com/css2?family=Raleway:wght@300;400;700&display=swap" type="text/css" /><link rel="stylesheet" href="//fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap" type="text/css" /><link rel="stylesheet" href="https://malque.pub/ojs/index.php/mr/$$$call$$$/page/page/css?name=index" type="text/css" /><link rel="stylesheet" href="https://malque.pub/ojs/plugins/generic/citations/css/citations.css?v=3.3.0.14" type="text/css" /><link rel="stylesheet" href="https://malque.pub/ojs/plugins/generic/mostViewed/css/mostViewed.css?v=3.3.0.14" type="text/css" /><link rel="stylesheet" href="https://malque.pub/ojs/plugins/generic/orcidProfile/css/orcidProfile.css?v=3.3.0.14" type="text/css" />
+
+	
+		<script type="text/javascript">
+		function resizeIframe(obj) {
+			obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
+		}
+	</script>
+
+		<script type="application/ld+json">{"@context":"https://schema.org","@type":"ScholarlyArticle","headline":"Cryptocurrency and financial crimes: A bibliometric analysis and future research agenda","name":"Cryptocurrency and financial crimes: A bibliometric analysis and future research agenda","url":"https://malque.pub/ojs/index.php/mr/article/view/2514","isPartOf":{"@type":"Periodical","name":"Multidisciplinary Reviews","issn":"2595-3982"},"publisher":{"@type":"Organization","name":"Malque Publishing"},"author":[{"@type":"Person","name":"Sabuj Saha","affiliation":{"@type":"Organization","name":"Oklahoma State University, USA."}},{"@type":"Person","name":"Ahmed Rizvan Hasan","affiliation":{"@type":"Organization","name":"The Pennsylvania State University, USA."}},{"@type":"Person","name":"Alvi Mahmud","affiliation":{"@type":"Organization","name":"Oklahoma State University, USA."}},{"@type":"Person","name":"Nujhat Ahmed","affiliation":{"@type":"Organization","name":"Oklahoma State University, USA."}},{"@type":"Person","name":"Nahida Parvin","affiliation":{"@type":"Organization","name":"Oklahoma State University, USA."}},{"@type":"Person","name":"Hemal Karmakar","affiliation":{"@type":"Organization","name":"Oklahoma State University, USA."}}],"abstract":"The use of cryptocurrency for financial crimes has increased in recent years because of its decentralized and anonymous nature. This study extracted scholarly articles from the Scopus database and adopted bibliographic and content analysis to review financial fraud research in cryptocurrency. In addition, this study discussed the top ten cryptocurrency scams, potential reasons for falling into those traps, and associated theories to explore scammers’ behavior and outlined comprehensive future research guidelines for a safer financial world. Since 2018, the publication trend of revealing cryptocurrency frauds has gained momentum, and research on this topic has increased significantly in the last two years. The USA is the most significant contributor to cryptocurrency scam research. We found that both developed and developing countries are fairly concerned about combatting crypto fraudsters even though there are no regulated guidelines across the countries. The research potential has shifted from malware, bitcoin, and blockchain to fintech-based crimes such as money laundering, pump-and-dump schemes, and phishing. We observed that ICO fraud, money laundering, Ponzi schemes, phishing, darknet market transactions, ransomware, and pumps and dumps are some of the predominant crimes in crypto and that investor overconfidence, speculative expectations, low barriers to entry, decentralization, and anonymity are the primary reasons for crimes in cryptocurrency. This study suggests studying the socioeconomic impacts of cryptocurrencies, the necessity for standardized global regulation, and the integration of interdisciplinary research. Future research should emphasize exploring the innovation cycle in cryptocurrency assets, understanding cybercrime dynamics, guarding against crypto market manipulation, and developing automated scam prevention.","datePublished":"2024-05-10","dateModified":"2024-05-20 17:33:36","identifier":{"@type":"PropertyValue","propertyID":"doi","value":"10.31893/multirev.2024168"},"sameAs":"https://doi.org/10.31893/multirev.2024168","license":"https://creativecommons.org/licenses/by-nc-nd/4.0","keywords":"Crypto, Frauds, Scams, future direction","image":"https://malque.pub/ojs/public/journals/2/submission_2514_2514_coverImage_en_US.jpg"}</script>
+</head>
+	
+<body dir="ltr">
+
+		<header class="uk-flex uk-flex-column" style="background: repeating-linear-gradient(rgba(0,0,0,0.65), rgba(0,0,0,0.65) 3px, rgba(0,0,0,0.7) 5px, rgba(0,0,0,0.7) 6px), url(					https://malque.pub/ojs/public/journals/2/submission_2514_2514_coverImage_en_US.jpg
+	) no-repeat; background-size: cover;">
+		<div id="header-film"></div>
+				<div class="uk-container-expand uk-padding-small" id="aux-nav">
+			<div class="uk-container uk-container-large">
+				<nav class="uk-flex" uk-navbar>
+		<div class="uk-flex uk-flex-left">
+		<div>
+						<a href="https://malque.pub">
+				<img src="https://malque.pub/ojs/plugins/themes/gdMalqueUk/images/logomalque.png" alt="Multidisciplinary Reviews" width="120" />
+			</a>
+		</div>
+		<div class="uk-hidden@m uk-margin-left uk-hidden" id="journal-name">
+			<h2 class="uk-h5 uk-margin-remove"><a href="	https://malque.pub/ojs/index.php/mr/index
+">Multidisciplinary Reviews</a></h1>
+		</div>
+	</div>
+
+			<div class="uk-navbar-right uk-visible@m">
+		<ul class="uk-navbar-nav uk-iconnav uk-flex-middle">
+																	<li>
+				<a href="https://malque.pub/">
+					Publisher home
+				</a>
+							</li>
+																					<li>
+				<a href="https://malque.pub/about/">
+					About us
+				</a>
+									<div class="uk-navbar-dropdown uk-navbar-dropdown-bottom-left">
+						<ul class="uk-nav uk-navbar-dropdown-nav">
+													<li>
+															<a href="https://malque.pub/journals/">
+									Journals
+								</a>
+														</li>
+													<li>
+															<a href="https://malque.pub/author-services/">
+									Author Services
+								</a>
+														</li>
+													<li>
+															<a href="https://malque.pub/news/blog/">
+									Blog
+								</a>
+														</li>
+													<li>
+															<a href="https://malque.pub/contact-us/">
+									Contact
+								</a>
+														</li>
+												</ul>
+					</div>
+							</li>
+														<li>
+				<a href="https://malque.pub/ojs/index.php/mr/user/register">
+					Register
+				</a>
+							</li>
+														<li>
+				<a href="https://malque.pub/ojs/index.php/mr/login">
+					Login
+				</a>
+							</li>
+									
+			
+			<li>
+							</li>
+					<li class="socialLink"><a href="http://www.x.com/malquepub" target="_blank"><span uk-icon="icon: x; ratio: 1"></span></a></li>
+				<li class="socialLink"><a href="https://www.facebook.com/malquepub" target="_blank" tooltip="Facebook"><span uk-icon="icon: facebook; ratio: 1"></span></a></li>
+			<li class="socialLink"><a href="https://www.instagram.com/malquepub" target="_blank" tooltip="Instagram"><span uk-icon="icon: instagram; ratio: 1"></span></a></li>
+			<li class="socialLink"><a href="https://wa.me/message/J6KDJCRWDAW6K1" target="_blank" tooltip="WhatsApp"><span uk-icon="icon: whatsapp; ratio: 1"></span></a></li>
+			</ul>
+	</div>
+
+			<button class="uk-button uk-button-primary uk-padding-small uk-hidden@m uk-navbar-right" type="button" uk-toggle="target: #offcanvas-nav-primary"><span uk-icon="icon: menu; ratio: 1"></span></button>
+		<!-- offcanvas -->
+		<div id="offcanvas-nav-primary" uk-offcanvas="overlay: true; flip: true">
+			
+    <div class="uk-offcanvas-bar uk-background-primary">
+        <button class="uk-offcanvas-close" type="button" uk-close></button>
+        
+        <a href="			https://malque.pub/ojs/index.php/index
+	">
+            <img src="https://malque.pub/ojs/plugins/themes/gdMalqueUk/images/logomalque.png" alt="Multidisciplinary Reviews" width="120" />
+        </a>
+        <ul class="uk-nav">
+            <li><a href="	https://malque.pub/ojs/index.php/mr/index
+">Multidisciplinary Reviews</a></li>                                        
+        </ul>
+        
+        <hr />
+        
+        <!-- offcanvas nav -->
+        <ul class="uk-nav">
+            
+            <li>
+                <hr class="uk-hr uk-margin-remove"/>
+            </li>
+            														<li>
+				<a href="https://malque.pub/ojs/index.php/mr">
+					Home
+				</a>
+							</li>
+																					<li>
+				<a href="https://malque.pub/ojs/index.php/mr">
+					About
+				</a>
+									<div class="uk-navbar-dropdown uk-navbar-dropdown-bottom-left">
+						<ul class="uk-nav uk-navbar-dropdown-nav">
+													<li>
+															<a href="https://malque.pub/ojs/index.php/mr/about">
+									About the Journal
+								</a>
+														</li>
+													<li>
+															<a href="https://malque.pub/ojs/index.php/mr/about/editorialTeam">
+									Editorial Team
+								</a>
+														</li>
+													<li>
+															<a href="https://malque.pub/ojs/index.php/mr/indexing">
+									Indexing and Archiving
+								</a>
+														</li>
+													<li>
+															<a href="https://malque.pub/ojs/index.php/mr/about/privacy">
+									Privacy Statement
+								</a>
+														</li>
+												</ul>
+					</div>
+							</li>
+																					<li>
+				<a href="https://malque.pub/ojs/index.php/mr/.">
+					Guidelines and Policies
+				</a>
+									<div class="uk-navbar-dropdown uk-navbar-dropdown-bottom-left">
+						<ul class="uk-nav uk-navbar-dropdown-nav">
+													<li>
+															<a href="https://malque.pub/ojs/index.php/mr/ethics">
+									Publication and Research Ethics
+								</a>
+														</li>
+													<li>
+															<a href="https://malque.pub/ojs/index.php/mr/guide">
+									Guide for Authors
+								</a>
+														</li>
+													<li>
+															<a href="https://malque.pub/ojs/index.php/mr/apc">
+									Article Processing Charge (APC)
+								</a>
+														</li>
+													<li>
+															<a href="https://malque.pub/ojs/index.php/mr/withdrawal-policy">
+									Withdrawal Policy
+								</a>
+														</li>
+													<li>
+															<a href="https://malque.pub/ojs/index.php/mr/refund-policy">
+									Refund Policy
+								</a>
+														</li>
+												</ul>
+					</div>
+							</li>
+																					<li>
+				<a href="https://malque.pub/ojs/index.php/mr">
+					Articles
+				</a>
+									<div class="uk-navbar-dropdown uk-navbar-dropdown-bottom-left">
+						<ul class="uk-nav uk-navbar-dropdown-nav">
+													<li>
+															<a href="https://malque.pub/ojs/index.php/mr/issue/current">
+									Current Issue
+								</a>
+														</li>
+													<li>
+															<a href="https://malque.pub/ojs/index.php/mr/issue/archive">
+									All Issues
+								</a>
+														</li>
+													<li>
+															<a href="https://malque.pub/ojs/index.php/mr/issue/view/46">
+									Accepted Articles
+								</a>
+														</li>
+												</ul>
+					</div>
+							</li>
+														<li>
+				<a href="https://malque.pub/ojs/index.php/mr/about/contact">
+					Contact
+				</a>
+							</li>
+		
+        </ul>
+
+                        <a href="" class="uk-button uk-button-small uk-button-tertiary uk-text-center">Submit your paper</a>
+
+        <hr />
+        <!-- issue contacts -->
+        <div class="">
+            <h3 class="uk-heading">Contact</h3>
+            <ul class="uk-nav uk-nav-default uk-list-divider uk-text-meta">
+
+                                <li>
+                    <span uk-icon="icon: location"></span> Malque Publishing,
+West Home and Business - Av. João da Escóssia, 3715 - Sala 57 - Bela Vista, Mossoró - RN, 59607-330, Brazil.
+                </li>
+                
+                <!-- main contact -->
+                                <li>
+                    <strong>Principal Contact</strong>
+                </li>
+                
+                                <li>
+                    <span uk-icon="icon: user"></span> Dr. João Souza-Junior - Editor-in-chief
+                </li>
+                
+                
+                                <li>
+                    <span uk-icon="icon: mail"></span> <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="b5d8c0d9c1dcc7d0c3dcd0c2c6f5d8d4d9c4c0d09bc5c0d7">[email&#160;protected]</a>
+                </li>
+                
+                <!-- contact support -->
+                                <li>
+                    <strong>Support Contact</strong>
+                </li>
+                
+                                <li>
+                    <span uk-icon="icon: receiver"></span> 55 (84) 981542648
+                </li>
+                
+                                <li>
+                    <span uk-icon="icon: mail"></span> <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="65081009110c1700130c001216250804091410004b151007">[email&#160;protected]</a>
+                </li>
+                            </ul>
+
+        </div>
+            </div>
+		</div>
+</nav>
+			</div>
+		</div>
+		
+				<div class="uk-container-expand" id="main-nav">
+			<div class="uk-container uk-container-large uk-margin-small-top">
+				<div class="uk-flex uk-flex-between uk-flex-middle uk-padding-remove" id="header-nav">
+					<div class="uk-visible@m" id="journal-name">
+						<h2 class="uk-h5 uk-margin-remove"><a href="	https://malque.pub/ojs/index.php/mr/index
+">Multidisciplinary Reviews</a></h2>
+					</div>
+					<nav class="uk-visible@m" uk-navbar>
+						<div class="uk-navbar-right">
+														<ul class="uk-navbar-nav uk-flex-middle" id="main-navbar">
+																						<li>
+				<a href="https://malque.pub/ojs/index.php/mr">
+					Home
+				</a>
+							</li>
+																					<li>
+				<a href="https://malque.pub/ojs/index.php/mr">
+					About
+				</a>
+									<div class="uk-navbar-dropdown uk-navbar-dropdown-bottom-left">
+						<ul class="uk-nav uk-navbar-dropdown-nav">
+													<li>
+															<a href="https://malque.pub/ojs/index.php/mr/about">
+									About the Journal
+								</a>
+														</li>
+													<li>
+															<a href="https://malque.pub/ojs/index.php/mr/about/editorialTeam">
+									Editorial Team
+								</a>
+														</li>
+													<li>
+															<a href="https://malque.pub/ojs/index.php/mr/indexing">
+									Indexing and Archiving
+								</a>
+														</li>
+													<li>
+															<a href="https://malque.pub/ojs/index.php/mr/about/privacy">
+									Privacy Statement
+								</a>
+														</li>
+												</ul>
+					</div>
+							</li>
+																					<li>
+				<a href="https://malque.pub/ojs/index.php/mr/.">
+					Guidelines and Policies
+				</a>
+									<div class="uk-navbar-dropdown uk-navbar-dropdown-bottom-left">
+						<ul class="uk-nav uk-navbar-dropdown-nav">
+													<li>
+															<a href="https://malque.pub/ojs/index.php/mr/ethics">
+									Publication and Research Ethics
+								</a>
+														</li>
+													<li>
+															<a href="https://malque.pub/ojs/index.php/mr/guide">
+									Guide for Authors
+								</a>
+														</li>
+													<li>
+															<a href="https://malque.pub/ojs/index.php/mr/apc">
+									Article Processing Charge (APC)
+								</a>
+														</li>
+													<li>
+															<a href="https://malque.pub/ojs/index.php/mr/withdrawal-policy">
+									Withdrawal Policy
+								</a>
+														</li>
+													<li>
+															<a href="https://malque.pub/ojs/index.php/mr/refund-policy">
+									Refund Policy
+								</a>
+														</li>
+												</ul>
+					</div>
+							</li>
+																					<li>
+				<a href="https://malque.pub/ojs/index.php/mr">
+					Articles
+				</a>
+									<div class="uk-navbar-dropdown uk-navbar-dropdown-bottom-left">
+						<ul class="uk-nav uk-navbar-dropdown-nav">
+													<li>
+															<a href="https://malque.pub/ojs/index.php/mr/issue/current">
+									Current Issue
+								</a>
+														</li>
+													<li>
+															<a href="https://malque.pub/ojs/index.php/mr/issue/archive">
+									All Issues
+								</a>
+														</li>
+													<li>
+															<a href="https://malque.pub/ojs/index.php/mr/issue/view/46">
+									Accepted Articles
+								</a>
+														</li>
+												</ul>
+					</div>
+							</li>
+														<li>
+				<a href="https://malque.pub/ojs/index.php/mr/about/contact">
+					Contact
+				</a>
+							</li>
+		
+																<li class="uk-float-right">
+									<a href="" class="uk-button uk-button-small uk-button-tertiary">Submit your paper</a>
+								</li>
+							</ul>
+						</div>
+					</nav>
+				</div>
+			</div>
+			<div class="uk-container uk-container-large uk-padding">
+				<div class="uk-flex uk-text-left" id="articleHeader" uk-sticky="start: 200; animation: uk-animation-slide-top">
+					
+										<div id="articleMeta" class="uk-width-3-5@m uk-width-1-1@s">
+						<h6><strong>	Review Article
+</strong> <span class="uk-white-alpha">| <a href="https://malque.pub/ojs/index.php/mr/issue/view/122"><strong>Vol. 7 Issue  8 (2024)</strong></a>, e2024168 | Published in 10 May 2024</span></h6>
+						<div id="articleHeaderTitle" class="uk-flex"><h1 class="uk-h4">Cryptocurrency and financial crimes: A bibliometric analysis and future research agenda</h1></div>
+						<ul class="uk-list uk-margin-small-bottom" id="articleAuthors">
+																<li class="article-details-author-name uk-margin-remove-top">
+										<a href="#authorBiographyModal1" uk-tooltip="title: [+] info; pos: top-left" uk-toggle>Sabuj Saha</a>
+																															<a href="/cdn-cgi/l/email-protection#11627073647b3f62707970517e7a62657065743f747564" class="ico-mail-solid"><?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M2.272 6.365C2 6.9 2 7.6 2 9v6c0 1.4 0 2.1.272 2.635a2.5 2.5 0 0 0 1.093 1.092C3.9 19 4.6 19 6 19h12c1.4 0 2.1 0 2.635-.273a2.5 2.5 0 0 0 1.092-1.092C22 17.1 22 16.4 22 15V9c0-1.4 0-2.1-.273-2.635a2.5 2.5 0 0 0-1.092-1.093C20.1 5 19.4 5 18 5H6c-1.4 0-2.1 0-2.635.272a2.5 2.5 0 0 0-1.093 1.093zM4.647 7h14.706a.5.5 0 0 1 .278.916l-7.075 4.732a1 1 0 0 1-1.112 0L4.369 7.916A.5.5 0 0 1 4.647 7z" fill="#000000"/></svg></a>
+																			</li>
+
+									<!-- author biography -->
+																																				<li class="article-details-author-name uk-margin-remove-top">
+										<a href="#authorBiographyModal2" uk-tooltip="title: [+] info; pos: top-left" uk-toggle>Ahmed Rizvan Hasan</a>
+																															<a href="/cdn-cgi/l/email-protection#0c6d6a64393435344c7c7f7922696879" class="ico-mail-solid"><?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M2.272 6.365C2 6.9 2 7.6 2 9v6c0 1.4 0 2.1.272 2.635a2.5 2.5 0 0 0 1.093 1.092C3.9 19 4.6 19 6 19h12c1.4 0 2.1 0 2.635-.273a2.5 2.5 0 0 0 1.092-1.092C22 17.1 22 16.4 22 15V9c0-1.4 0-2.1-.273-2.635a2.5 2.5 0 0 0-1.092-1.093C20.1 5 19.4 5 18 5H6c-1.4 0-2.1 0-2.635.272a2.5 2.5 0 0 0-1.093 1.093zM4.647 7h14.706a.5.5 0 0 1 .278.916l-7.075 4.732a1 1 0 0 1-1.112 0L4.369 7.916A.5.5 0 0 1 4.647 7z" fill="#000000"/></svg></a>
+																			</li>
+
+									<!-- author biography -->
+																																				<li class="article-details-author-name uk-margin-remove-top">
+										<a href="#authorBiographyModal3" uk-tooltip="title: [+] info; pos: top-left" uk-toggle>Alvi Mahmud</a>
+																															<a href="/cdn-cgi/l/email-protection#fa9b968c93d4979b92978f9eba9d979b9396d4999597" class="ico-mail-solid"><?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M2.272 6.365C2 6.9 2 7.6 2 9v6c0 1.4 0 2.1.272 2.635a2.5 2.5 0 0 0 1.093 1.092C3.9 19 4.6 19 6 19h12c1.4 0 2.1 0 2.635-.273a2.5 2.5 0 0 0 1.092-1.092C22 17.1 22 16.4 22 15V9c0-1.4 0-2.1-.273-2.635a2.5 2.5 0 0 0-1.092-1.093C20.1 5 19.4 5 18 5H6c-1.4 0-2.1 0-2.635.272a2.5 2.5 0 0 0-1.093 1.093zM4.647 7h14.706a.5.5 0 0 1 .278.916l-7.075 4.732a1 1 0 0 1-1.112 0L4.369 7.916A.5.5 0 0 1 4.647 7z" fill="#000000"/></svg></a>
+																			</li>
+
+									<!-- author biography -->
+																																				<li class="article-details-author-name uk-margin-remove-top">
+										<a href="#authorBiographyModal4" uk-tooltip="title: [+] info; pos: top-left" uk-toggle>Nujhat Ahmed</a>
+																															<a href="/cdn-cgi/l/email-protection#0d637867656c79236c656068694d62667e796c796823686978" class="ico-mail-solid"><?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M2.272 6.365C2 6.9 2 7.6 2 9v6c0 1.4 0 2.1.272 2.635a2.5 2.5 0 0 0 1.093 1.092C3.9 19 4.6 19 6 19h12c1.4 0 2.1 0 2.635-.273a2.5 2.5 0 0 0 1.092-1.092C22 17.1 22 16.4 22 15V9c0-1.4 0-2.1-.273-2.635a2.5 2.5 0 0 0-1.092-1.093C20.1 5 19.4 5 18 5H6c-1.4 0-2.1 0-2.635.272a2.5 2.5 0 0 0-1.093 1.093zM4.647 7h14.706a.5.5 0 0 1 .278.916l-7.075 4.732a1 1 0 0 1-1.112 0L4.369 7.916A.5.5 0 0 1 4.647 7z" fill="#000000"/></svg></a>
+																			</li>
+
+									<!-- author biography -->
+																																				<li class="article-details-author-name uk-margin-remove-top">
+										<a href="#authorBiographyModal5" uk-tooltip="title: [+] info; pos: top-left" uk-toggle>Nahida Parvin</a>
+																															<a href="/cdn-cgi/l/email-protection#cfa1aea7a6abaee1bfaebdb9a6a18fa0a4bcbbaebbaae1aaabba" class="ico-mail-solid"><?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M2.272 6.365C2 6.9 2 7.6 2 9v6c0 1.4 0 2.1.272 2.635a2.5 2.5 0 0 0 1.093 1.092C3.9 19 4.6 19 6 19h12c1.4 0 2.1 0 2.635-.273a2.5 2.5 0 0 0 1.092-1.092C22 17.1 22 16.4 22 15V9c0-1.4 0-2.1-.273-2.635a2.5 2.5 0 0 0-1.092-1.093C20.1 5 19.4 5 18 5H6c-1.4 0-2.1 0-2.635.272a2.5 2.5 0 0 0-1.093 1.093zM4.647 7h14.706a.5.5 0 0 1 .278.916l-7.075 4.732a1 1 0 0 1-1.112 0L4.369 7.916A.5.5 0 0 1 4.647 7z" fill="#000000"/></svg></a>
+																			</li>
+
+									<!-- author biography -->
+																																				<li class="article-details-author-name uk-margin-remove-top">
+										<a href="#authorBiographyModal6" uk-tooltip="title: [+] info; pos: top-left" uk-toggle>Hemal Karmakar</a>
+																															<a href="/cdn-cgi/l/email-protection#5139343c303d7f3a30233c303a3023113e3a22253025347f343524" class="ico-mail-solid"><?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M2.272 6.365C2 6.9 2 7.6 2 9v6c0 1.4 0 2.1.272 2.635a2.5 2.5 0 0 0 1.093 1.092C3.9 19 4.6 19 6 19h12c1.4 0 2.1 0 2.635-.273a2.5 2.5 0 0 0 1.092-1.092C22 17.1 22 16.4 22 15V9c0-1.4 0-2.1-.273-2.635a2.5 2.5 0 0 0-1.092-1.093C20.1 5 19.4 5 18 5H6c-1.4 0-2.1 0-2.635.272a2.5 2.5 0 0 0-1.093 1.093zM4.647 7h14.706a.5.5 0 0 1 .278.916l-7.075 4.732a1 1 0 0 1-1.112 0L4.369 7.916A.5.5 0 0 1 4.647 7z" fill="#000000"/></svg></a>
+																			</li>
+
+									<!-- author biography -->
+																											
+						</ul>
+																																																									<div id="authorBiographyModal1" uk-modal>
+												<div class="uk-modal-dialog uk-modal-body">
+													<button class="uk-modal-close-default" type="button" uk-close></button>
+													<h2 class="uk-modal-title">Sabuj Saha</h2>
+																											<p class="uk-text-meta"><span  uk-tooltip="title: Affiliation" uk-icon="icon: location"></span> Oklahoma State University, USA.</p>
+																										<p class="uk-text-meta">
+																											</p>
+																											<p><p>Sabuj Saha is a finance enthusiast and loves to explore the impact of innovation and information in financial decision-making. After Completing BBA (2014) and MBA (2016) in Accounting &amp; Information Systems, University of Dhaka, Mr. Saha worked as a Business Analyst in a startup for 6 months. Later, he worked as a Financial Compliance Analyst in Beximco Pharmaceutical for 1.5 years. Then Mr. Saha did his dual masters from   Oklahoma State University, USA in 2022: MS in Quantitative Financial Economics and MS in Business Analyst &amp; Data Science. Currently, he has been preparing to apply for a PhD in Finance. His research interests are sustainable financing, information disclosure, and FinTech.</p></p>
+																									</div>
+											</div>
+										
+																										<div id="authorBiographyModal2" uk-modal>
+												<div class="uk-modal-dialog uk-modal-body">
+													<button class="uk-modal-close-default" type="button" uk-close></button>
+													<h2 class="uk-modal-title">Ahmed Rizvan Hasan</h2>
+																											<p class="uk-text-meta"><span  uk-tooltip="title: Affiliation" uk-icon="icon: location"></span> The Pennsylvania State University, USA.</p>
+																										<p class="uk-text-meta">
+																											</p>
+																											<p><p>Ahmed Rizvan Hasan is an Assistant Professor of Accounting at the University of Dhaka, Bangladesh. Currently, he is pursuing a Master’s in Accounting Analytics at Pennsylvania State University. Rizvan has more than 7 years of experience in academia. Before joining the University of Dhaka, he used to work at Primeasia University, as Lecturer and Assistant Proctor. He completed his undergraduate and graduate degrees from the Department of Accounting &amp; Information Systems, University of Dhaka. His research interests include but are not limited to - Financial and Risk Reporting, Corporate Governance, Business Information Systems, and Accounting Analytics etc. He has worked on research projects funded by the University Grants Commission (UGC) of Bangladesh and Centennial Research Grant (CRG), University of Dhaka.</p></p>
+																									</div>
+											</div>
+										
+																										<div id="authorBiographyModal3" uk-modal>
+												<div class="uk-modal-dialog uk-modal-body">
+													<button class="uk-modal-close-default" type="button" uk-close></button>
+													<h2 class="uk-modal-title">Alvi Mahmud</h2>
+																											<p class="uk-text-meta"><span  uk-tooltip="title: Affiliation" uk-icon="icon: location"></span> Oklahoma State University, USA.</p>
+																										<p class="uk-text-meta">
+																											</p>
+																											<p><p>Alvi Mahmud is a finance professional with adequate knowledge of data. He worked for the Central Bank of Bangladesh for 3 years before moving to the USA to complete his master's degree. He worked as a government contract support for a couple of years before joining the private sector as a financial analyst. Alvi is enthusiastic about fintech development and applying new data trends in the finance domain.</p></p>
+																									</div>
+											</div>
+										
+																										<div id="authorBiographyModal4" uk-modal>
+												<div class="uk-modal-dialog uk-modal-body">
+													<button class="uk-modal-close-default" type="button" uk-close></button>
+													<h2 class="uk-modal-title">Nujhat Ahmed</h2>
+																											<p class="uk-text-meta"><span  uk-tooltip="title: Affiliation" uk-icon="icon: location"></span> Oklahoma State University, USA.</p>
+																										<p class="uk-text-meta">
+																											</p>
+																											<p><p>Nujhat Ahmed is currently a graduate student, pursuing MS in Quantitative Finance at Oklahoma State University. She was a banker by profession and worked as an Associate Manager at BRAC Bank Limited. Ms. Nujhat completed her BBA and MBA degrees in Accounting &amp; Information Systems from the University of Dhaka. She is an Endeavour Leadership Program (ELP) alumnus. Her research interests include Capital Structure, Risk Disclosure, FinTech, and Information Technology.</p></p>
+																									</div>
+											</div>
+										
+																										<div id="authorBiographyModal5" uk-modal>
+												<div class="uk-modal-dialog uk-modal-body">
+													<button class="uk-modal-close-default" type="button" uk-close></button>
+													<h2 class="uk-modal-title">Nahida Parvin</h2>
+																											<p class="uk-text-meta"><span  uk-tooltip="title: Affiliation" uk-icon="icon: location"></span> Oklahoma State University, USA.</p>
+																										<p class="uk-text-meta">
+																											</p>
+																											<p><p>Nahida Parvin is an accounting and finance enthusiast with a passion for exploring the transformative impact of innovation and technology on various aspects of finance &amp; and accounting. Currently pursuing “Master's in Quantitative Finance” at Oklahoma State University, she holds a Master of Business Administration (2019) and a Bachelor of Business Administration (2017) in Accounting and information Systems from the University of Dhaka, Bangladesh. With a keen interest in academia, Nahida served as the "Lecturer of Accounting" and "Program Coordinator" at Universal College Bangladesh, a global partner of Monash College Australia, for 2.5 years. Her brief tenure as a "Lecturer of Accounting" at Ahsanullah University of Science &amp; Technology further enriches her academic experience. Nahida's research focus includes ESG accounting, Sustainable finance and accounting Fintech, and Circular Economy.</p></p>
+																									</div>
+											</div>
+										
+																										<div id="authorBiographyModal6" uk-modal>
+												<div class="uk-modal-dialog uk-modal-body">
+													<button class="uk-modal-close-default" type="button" uk-close></button>
+													<h2 class="uk-modal-title">Hemal Karmakar</h2>
+																											<p class="uk-text-meta"><span  uk-tooltip="title: Affiliation" uk-icon="icon: location"></span> Oklahoma State University, USA.</p>
+																										<p class="uk-text-meta">
+																											</p>
+																											<p><p>Hemal Karmakar holds a Bachelor of Business Administration in Finance from the University of Dhaka, Bangladesh. After working as a Business Analyst for a Canada-based software firm, he is currently pursuing a Master's in Quantitative Finance at Oklahoma State University. Hemal plans to further his academic journey with a Ph.D. in Finance, focusing on Corporate Finance and Investment Management.</p></p>
+																									</div>
+											</div>
+										
+													
+																																																							<p class="uk-text-small uk-margin-remove-top" id="articleHeaderDoi"><img src="https://malque.pub/ojs/plugins/themes/gdMalqueUk/images/ico-doi.svg" width="16" /> <a href="https://doi.org/10.31893/multirev.2024168" class="uk-link-muted" style="display: inline;">https://10.31893/multirev.2024168</a></p>
+																		</div>
+
+										<div class="uk-margin-small-right uk-hidden@m">
+						<button type="button" class="uk-button uk-button-tertiary uk-button-small" id="articleButtonSmallScreen"><span uk-icon="icon: download; ratio: 0.8"></span></button>
+						<div uk-dropdown="mode: click" class="uk-background-tertiary">
+
+							<ul class="uk-list uk-margin-remove">
+								<li class="uk-text-center">
+																														<div class="uk-child-width-1-1 uk-margin-small-bottom">
+												 
+
+	
+							
+
+		
+	<a class="uk-button uk-button-small uk-button-tertiary gd-button-small " href="https://malque.pub/ojs/index.php/mr/article/view/2514/1524">
+		<span uk-icon="icon: file-pdf"></span> 
+		PDF
+			</a>
+
+
+											</div>
+																			
+																	</li>
+								<li>
+									<ul class="uk-list uk-margin-remove">
+										<li class="uk-text-center">
+											<a href="javascript:void(0)" onClick="return rudr_favorite(this);" class="bookmark-link">
+												Save bookmark
+											</a>
+										</li>
+									</ul>
+								</li>
+																	<li class="uk-text-center">
+									<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://crossmark-cdn.crossref.org/widget/v2.0/widget.js"></script>
+									<a data-target="crossmark" style="cursor: pointer;"><img width="40" src="https://crossmark-cdn.crossref.org/widget/v2.0/logos/CROSSMARK_Color_square_no_text.svg"></a>
+									</li>
+															</ul>
+
+						</div>
+					</div>
+
+
+					<div class="uk-visible@m uk-width-2-5 uk-margin-left" id="articleButtons">
+						<ul class="uk-list uk-margin-remove uk-flex uk-flex-right">
+	<li>
+		<div class="uk-inline">
+			<button class="ico-document-solid" type="button">
+				<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="24" height="24" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10C15.5523 10 16 10.4477 16 11V17C16 17.5523 15.5523 18 15 18C14.4477 18 14 17.5523 14 17L14 11C14 10.4477 14.4477 10 15 10ZM12 11C12.5523 11 13 11.4477 13 12L13 17C13 17.5523 12.5523 18 12 18C11.4477 18 11 17.5523 11 17L11 12C11 11.4477 11.4477 11 12 11ZM10 14C10 13.4477 9.55229 13 9 13C8.44772 13 8 13.4477 8 14V17C8 17.5523 8.44772 18 9 18C9.55228 18 10 17.5523 10 17L10 14ZM12.482 1.99989C13.1608 1.99885 13.7632 1.99793 14.3196 2.2284C14.876 2.45887 15.3014 2.88551 15.7806 3.36624C16.7302 4.31875 17.6813 5.26983 18.6338 6.21942C19.1145 6.69867 19.5412 7.12401 19.7716 7.68041C20.0021 8.23682 20.0012 8.83926 20.0001 9.51807C19.9963 12.034 20 14.5499 20 17.0659C20.0001 17.9524 20.0001 18.7162 19.9179 19.3278C19.8297 19.9833 19.631 20.6117 19.1213 21.1214C18.6117 21.631 17.9833 21.8298 17.3278 21.9179C16.7161 22.0001 15.9523 22.0001 15.0658 22H8.9342C8.0477 22.0001 7.28388 22.0001 6.67221 21.9179C6.0167 21.8298 5.38835 21.631 4.87868 21.1214C4.36902 20.6117 4.17028 19.9833 4.08215 19.3278C3.99991 18.7162 3.99995 17.9524 4 17.0659L4.00001 7.00004C4.00001 6.97802 4 6.95607 4 6.93421C3.99995 6.04772 3.99991 5.28391 4.08215 4.67224C4.17028 4.01673 4.36902 3.38838 4.87869 2.87872C5.38835 2.36905 6.0167 2.17031 6.67221 2.08218C7.28387 1.99994 8.04769 1.99998 8.93418 2.00003C10.1168 2.0001 11.2994 2.00171 12.482 1.99989Z" fill="#323232"/>
+</svg>			</button>
+			<div uk-dropdown="mode: hover; pos: bottom-right; animate-out: true" class="uk-background-tertiary">
+															<div class="uk-child-width-1-1 uk-margin-small-bottom">
+							 
+
+	
+							
+
+		
+	<a class="uk-button uk-button-small uk-button-tertiary gd-button-small " href="https://malque.pub/ojs/index.php/mr/article/view/2514/1524">
+		<span uk-icon="icon: file-pdf"></span> 
+		PDF
+			</a>
+
+
+						</div>
+									
+							</div>
+		</div>
+	</li>
+	<li>
+		<div class="uk-inline">
+			<button class="ico-bookmark-solid" type="button">
+				<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5 6c0-1.4 0-2.1.272-2.635a2.5 2.5 0 0 1 1.093-1.093C6.9 2 7.6 2 9 2h6c1.4 0 2.1 0 2.635.272a2.5 2.5 0 0 1 1.092 1.093C19 3.9 19 4.6 19 6v13.208c0 1.056 0 1.583-.217 1.856a1 1 0 0 1-.778.378c-.349.002-.764-.324-1.593-.976L12 17l-4.411 3.466c-.83.652-1.245.978-1.594.976a1 1 0 0 1-.778-.378C5 20.791 5 20.264 5 19.208V6z" fill="#000000"/></svg>			</button>
+			<div uk-dropdown="mode: hover; pos: bottom-right; animate-out: true" class="uk-background-tertiary">
+				<ul class="uk-list uk-margin-remove">
+					<li>
+						<a class=" " href="javascript:void(0)" onClick="return rudr_favorite(this);">
+							Save bookmark
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</li>
+		<li>
+		<div class="uk-inline">
+			<button class="ico-quote" type="button">
+				<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg fill="#ffffff" width="800px" height="800px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+
+<rect id="Icons" x="-1216" y="0" width="1280" height="800" style="fill:none;"/>
+
+<g id="Icons1" serif:id="Icons">
+
+<g id="Strike">
+
+</g>
+
+<g id="H1">
+
+</g>
+
+<g id="H2">
+
+</g>
+
+<g id="H3">
+
+</g>
+
+<g id="list-ul">
+
+</g>
+
+<g id="hamburger-1">
+
+</g>
+
+<g id="hamburger-2">
+
+</g>
+
+<g id="list-ol">
+
+</g>
+
+<g id="list-task">
+
+</g>
+
+<path id="quote-2" d="M36.806,51.968l0,-8.026c2.537,-0.14 4.458,-0.604 5.761,-1.391c1.304,-0.786 2.22,-2.063 2.749,-3.829c0.528,-1.766 0.793,-4.293 0.793,-7.581l-9.303,0l0,-19.147l19.081,0l0,18.203c0,7.519 -1.612,13.028 -4.836,16.525c-3.225,3.497 -7.973,5.246 -14.245,5.246Zm-28.806,0l0,-8.026c2.537,-0.14 4.457,-0.586 5.761,-1.338c1.304,-0.752 2.247,-2.029 2.828,-3.83c0.581,-1.801 0.872,-4.345 0.872,-7.633l-9.461,0l0,-19.147l19.186,0l0,18.203c0,7.519 -1.603,13.028 -4.809,16.525c-3.207,3.497 -7.999,5.246 -14.377,5.246Z" style="fill-rule:nonzero;"/>
+
+<g id="trash">
+
+</g>
+
+<g id="vertical-menu">
+
+</g>
+
+<g id="horizontal-menu">
+
+</g>
+
+<g id="sidebar-2">
+
+</g>
+
+<g id="Pen">
+
+</g>
+
+<g id="Pen1" serif:id="Pen">
+
+</g>
+
+<g id="clock">
+
+</g>
+
+<g id="external-link">
+
+</g>
+
+<g id="hr">
+
+</g>
+
+<g id="info">
+
+</g>
+
+<g id="warning">
+
+</g>
+
+<g id="plus-circle">
+
+</g>
+
+<g id="minus-circle">
+
+</g>
+
+<g id="vue">
+
+</g>
+
+<g id="cog">
+
+</g>
+
+<g id="logo">
+
+</g>
+
+<g id="radio-check">
+
+</g>
+
+<g id="eye-slash">
+
+</g>
+
+<g id="eye">
+
+</g>
+
+<g id="toggle-off">
+
+</g>
+
+<g id="shredder">
+
+</g>
+
+<g id="spinner--loading--dots-" serif:id="spinner [loading, dots]">
+
+</g>
+
+<g id="react">
+
+</g>
+
+<g id="check-selected">
+
+</g>
+
+<g id="turn-off">
+
+</g>
+
+<g id="code-block">
+
+</g>
+
+<g id="user">
+
+</g>
+
+<g id="coffee-bean">
+
+</g>
+
+<g id="coffee-beans">
+
+<g id="coffee-bean1" serif:id="coffee-bean">
+
+</g>
+
+</g>
+
+<g id="coffee-bean-filled">
+
+</g>
+
+<g id="coffee-beans-filled">
+
+<g id="coffee-bean2" serif:id="coffee-bean">
+
+</g>
+
+</g>
+
+<g id="clipboard">
+
+</g>
+
+<g id="clipboard-paste">
+
+</g>
+
+<g id="clipboard-copy">
+
+</g>
+
+<g id="Layer1">
+
+</g>
+
+</g>
+
+</svg>			</button>
+			<div uk-dropdown="mode: hover; pos: bottom-right; animate-out: true" class="uk-background-tertiary">
+				<ul class="uk-list uk-margin-remove">
+									<li>
+						<a class="uk-link-muted uk-text-meta" href="#modal_ACM" uk-toggle>ACM</a>
+						<div id="modal_ACM" uk-modal>
+							<div class="uk-modal-dialog uk-modal-body uk-margin-auto-vertical">
+								<button class="uk-modal-close-default" type="button" uk-close></button>
+								<input class="uk-hidden" id="ACM" />
+								<iframe class="citationFrame" src="https://malque.pub/ojs/index.php/mr/citationstylelanguage/get/acm-sig-proceedings?submissionId=2514&amp;publicationId=2514"></iframe>
+							</div>
+						</div>
+					</li>
+									<li>
+						<a class="uk-link-muted uk-text-meta" href="#modal_ACS" uk-toggle>ACS</a>
+						<div id="modal_ACS" uk-modal>
+							<div class="uk-modal-dialog uk-modal-body uk-margin-auto-vertical">
+								<button class="uk-modal-close-default" type="button" uk-close></button>
+								<input class="uk-hidden" id="ACS" />
+								<iframe class="citationFrame" src="https://malque.pub/ojs/index.php/mr/citationstylelanguage/get/acs-nano?submissionId=2514&amp;publicationId=2514"></iframe>
+							</div>
+						</div>
+					</li>
+									<li>
+						<a class="uk-link-muted uk-text-meta" href="#modal_APA" uk-toggle>APA</a>
+						<div id="modal_APA" uk-modal>
+							<div class="uk-modal-dialog uk-modal-body uk-margin-auto-vertical">
+								<button class="uk-modal-close-default" type="button" uk-close></button>
+								<input class="uk-hidden" id="APA" />
+								<iframe class="citationFrame" src="https://malque.pub/ojs/index.php/mr/citationstylelanguage/get/apa?submissionId=2514&amp;publicationId=2514"></iframe>
+							</div>
+						</div>
+					</li>
+									<li>
+						<a class="uk-link-muted uk-text-meta" href="#modal_ABNT" uk-toggle>ABNT</a>
+						<div id="modal_ABNT" uk-modal>
+							<div class="uk-modal-dialog uk-modal-body uk-margin-auto-vertical">
+								<button class="uk-modal-close-default" type="button" uk-close></button>
+								<input class="uk-hidden" id="ABNT" />
+								<iframe class="citationFrame" src="https://malque.pub/ojs/index.php/mr/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=2514&amp;publicationId=2514"></iframe>
+							</div>
+						</div>
+					</li>
+									<li>
+						<a class="uk-link-muted uk-text-meta" href="#modal_Chicago" uk-toggle>Chicago</a>
+						<div id="modal_Chicago" uk-modal>
+							<div class="uk-modal-dialog uk-modal-body uk-margin-auto-vertical">
+								<button class="uk-modal-close-default" type="button" uk-close></button>
+								<input class="uk-hidden" id="Chicago" />
+								<iframe class="citationFrame" src="https://malque.pub/ojs/index.php/mr/citationstylelanguage/get/chicago-author-date?submissionId=2514&amp;publicationId=2514"></iframe>
+							</div>
+						</div>
+					</li>
+									<li>
+						<a class="uk-link-muted uk-text-meta" href="#modal_Harvard" uk-toggle>Harvard</a>
+						<div id="modal_Harvard" uk-modal>
+							<div class="uk-modal-dialog uk-modal-body uk-margin-auto-vertical">
+								<button class="uk-modal-close-default" type="button" uk-close></button>
+								<input class="uk-hidden" id="Harvard" />
+								<iframe class="citationFrame" src="https://malque.pub/ojs/index.php/mr/citationstylelanguage/get/harvard-cite-them-right?submissionId=2514&amp;publicationId=2514"></iframe>
+							</div>
+						</div>
+					</li>
+									<li>
+						<a class="uk-link-muted uk-text-meta" href="#modal_IEEE" uk-toggle>IEEE</a>
+						<div id="modal_IEEE" uk-modal>
+							<div class="uk-modal-dialog uk-modal-body uk-margin-auto-vertical">
+								<button class="uk-modal-close-default" type="button" uk-close></button>
+								<input class="uk-hidden" id="IEEE" />
+								<iframe class="citationFrame" src="https://malque.pub/ojs/index.php/mr/citationstylelanguage/get/ieee?submissionId=2514&amp;publicationId=2514"></iframe>
+							</div>
+						</div>
+					</li>
+									<li>
+						<a class="uk-link-muted uk-text-meta" href="#modal_MLA" uk-toggle>MLA</a>
+						<div id="modal_MLA" uk-modal>
+							<div class="uk-modal-dialog uk-modal-body uk-margin-auto-vertical">
+								<button class="uk-modal-close-default" type="button" uk-close></button>
+								<input class="uk-hidden" id="MLA" />
+								<iframe class="citationFrame" src="https://malque.pub/ojs/index.php/mr/citationstylelanguage/get/modern-language-association?submissionId=2514&amp;publicationId=2514"></iframe>
+							</div>
+						</div>
+					</li>
+									<li>
+						<a class="uk-link-muted uk-text-meta" href="#modal_Turabian" uk-toggle>Turabian</a>
+						<div id="modal_Turabian" uk-modal>
+							<div class="uk-modal-dialog uk-modal-body uk-margin-auto-vertical">
+								<button class="uk-modal-close-default" type="button" uk-close></button>
+								<input class="uk-hidden" id="Turabian" />
+								<iframe class="citationFrame" src="https://malque.pub/ojs/index.php/mr/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=2514&amp;publicationId=2514"></iframe>
+							</div>
+						</div>
+					</li>
+									<li>
+						<a class="uk-link-muted uk-text-meta" href="#modal_Vancouver" uk-toggle>Vancouver</a>
+						<div id="modal_Vancouver" uk-modal>
+							<div class="uk-modal-dialog uk-modal-body uk-margin-auto-vertical">
+								<button class="uk-modal-close-default" type="button" uk-close></button>
+								<input class="uk-hidden" id="Vancouver" />
+								<iframe class="citationFrame" src="https://malque.pub/ojs/index.php/mr/citationstylelanguage/get/vancouver?submissionId=2514&amp;publicationId=2514"></iframe>
+							</div>
+						</div>
+					</li>
+								</ul>
+			</div>
+		</div>
+	</li>
+		<li>
+		<div class="uk-inline">
+			<button class="ico-copyright" type="button" style="padding-top: 4px;">
+				<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg fill="#000000" width="800px" height="800px" viewBox="0 0 256 256" id="Flat" xmlns="http://www.w3.org/2000/svg">
+  <path d="M128,20A108,108,0,1,0,236,128,108.12249,108.12249,0,0,0,128,20Zm0,196a88,88,0,1,1,88-88A88.09957,88.09957,0,0,1,128,216Zm0-160a72,72,0,1,0,72,72A72.08124,72.08124,0,0,0,128,56Zm.00293,103.99512a31.76384,31.76384,0,0,0,25.60254-12.79981,8,8,0,0,1,12.791,9.61182,47.99976,47.99976,0,1,1,0-57.62451,8,8,0,0,1-12.791,9.61181,32.001,32.001,0,1,0-25.60254,51.20069Z"/>
+</svg>			</button>
+			<div uk-dropdown="mode: hover; pos: bottom-right; animate-out: true" class="uk-background-tertiary">
+													<div class="article-details-block article-details-license">
+																					<a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" src="//i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><p>This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.</p>
+																			<span>Copyright (c) 2024 Malque Publishing</span>
+																											</div>
+							</div>
+		</div>
+	</li>
+	<!--
+		<li>
+		<div class="uk-inline">
+			<button class="ico-share" type="button">
+							</button>
+			<div uk-dropdown="mode: hover; pos: bottom-right; animate-out: true" class="uk-background-tertiary">
+							</div>
+		</div>
+	</li>
+		-->
+			<li>
+		<script src="https://crossmark-cdn.crossref.org/widget/v2.0/widget.js"></script>
+		<a data-target="crossmark" style="cursor: pointer;"><img width="40" src="https://crossmark-cdn.crossref.org/widget/v2.0/logos/CROSSMARK_Color_square_no_text.svg"></a>
+		</li>
+	</ul>
+
+
+
+														
+								<div class="uk-flex uk-flex-right uk-flex-middle" id="articleHeaderMetrics">
+										
+										<div class="uk-flex uk-flex-right">
+											<script type="text/javascript" async src="//cdn.plu.mx/widget-popup.js"></script>
+											<a href="https://plu.mx/plum/a/?doi=10.31893/multirev.2024168" class="plumx-plum-print-popup"></a>
+										</div>
+																												<div class="uk-flex uk-flex-right">
+											<span class="__dimensions_badge_embed__" data-doi="10.31893/multirev.2024168" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+										</div>
+																	</div>
+																		</div>
+				</div>
+			</div>
+			<hr />
+		</div>
+	</header>
+
+<section class="uk-container-expand" id="pageWrapper">
+ 
+
+<div class="uk-container uk-container-large articlePage">
+	<div uk-grid>
+		
+
+<div class="uk-width-1-1@s uk-width-2-3@m" id="">
+	<div class="uk-margin-top uk-margin-large-bottom">
+						
+				<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+<a class="a2a_button_facebook"></a>
+<a class="a2a_button_x"></a>
+<a class="a2a_button_threads"></a>
+<a class="a2a_button_linkedin"></a>
+<a class="a2a_button_mendeley"></a>
+<a class="a2a_button_whatsapp"></a>
+<a class="a2a_button_telegram"></a>
+<a class="a2a_button_copy_link"></a>
+</div>
+<script defer src="https://static.addtoany.com/menu/page.js"></script>
+		
+				
+							<div class="uk-margin-top">
+				<dl class="uk-description-list" id="keywordList">
+					<dd class="uk-inline"><strong>Keywords: </strong></dd>
+																		<dd class="uk-inline"><a uk-tooltip="title: Search" href="../../search/search?query=Crypto" value="Crypto" class="uk-link-muted">Crypto</a></dd>
+																								<dd class="uk-inline"><a uk-tooltip="title: Search" href="../../search/search?query=Frauds" value="Frauds" class="uk-link-muted">Frauds</a></dd>
+																								<dd class="uk-inline"><a uk-tooltip="title: Search" href="../../search/search?query=Scams" value="Scams" class="uk-link-muted">Scams</a></dd>
+																								<dd class="uk-inline"><a uk-tooltip="title: Search" href="../../search/search?query=future direction" value="future direction" class="uk-link-muted">future direction</a></dd>
+															</dl>
+			</div>
+		
+		<ul class="uk-subnav uk-subnav-pill uk-margin-large-top uk-margin-remove-bottom" uk-switcher="animation: uk-animation-fade" id="article-tags-nav">
+										<li><a href="#">Abstract</a></li>
+						
+										<li><a href="#">References</a></li>
+			
+		</ul>
+
+		<ul class="uk-switcher uk-margin uk-margin-remove-top" id="article-tags-content">
+		
+									<li class="uk-background-neutral uk-padding-small">
+				<div class="uk-background-white uk-padding article-details-abstract">
+					<h3 class="uk-h4">Abstract</h3>
+					<p>The use of cryptocurrency for financial crimes has increased in recent years because of its decentralized and anonymous nature. This study extracted scholarly articles from the Scopus database and adopted bibliographic and content analysis to review financial fraud research in cryptocurrency. In addition, this study discussed the top ten cryptocurrency scams, potential reasons for falling into those traps, and associated theories to explore scammers’ behavior and outlined comprehensive future research guidelines for a safer financial world. Since 2018, the publication trend of revealing cryptocurrency frauds has gained momentum, and research on this topic has increased significantly in the last two years. The USA is the most significant contributor to cryptocurrency scam research. We found that both developed and developing countries are fairly concerned about combatting crypto fraudsters even though there are no regulated guidelines across the countries. The research potential has shifted from malware, bitcoin, and blockchain to fintech-based crimes such as money laundering, pump-and-dump schemes, and phishing. We observed that ICO fraud, money laundering, Ponzi schemes, phishing, darknet market transactions, ransomware, and pumps and dumps are some of the predominant crimes in crypto and that investor overconfidence, speculative expectations, low barriers to entry, decentralization, and anonymity are the primary reasons for crimes in cryptocurrency. This study suggests studying the socioeconomic impacts of cryptocurrencies, the necessity for standardized global regulation, and the integration of interdisciplinary research. Future research should emphasize exploring the innovation cycle in cryptocurrency assets, understanding cybercrime dynamics, guarding against crypto market manipulation, and developing automated scam prevention.</p>
+				</div>
+			</li>
+			
+									<li class="uk-background-neutral uk-padding-small">
+				<div class="uk-background-white uk-padding article-details-references">
+					<h3 class="uk-h4">References</h3>
+					<ol class="references">
+																			<li>Abhilash, S. S. S., &amp; Shetty, D. K. (2022). A state-of-the-art overview of green bond markets: Evidence from technology empowered systematic literature review. Cogent Economics &amp; Finance, 10(1), 2135834. </li>
+													<li>Agrawal, R., Agrawal, S., Samadhiya, A., Kumar, A., Luthra, S., &amp; Jain, V. (2023). Adoption of green finance and green innovation for achieving circularity: an exploratory review and future directions. Geoscience Frontiers, 101669. </li>
+													<li>Agbo, F. J., Oyelere, S. S., Suhonen, J., &amp; Tukiainen, M. (2021). Scientific production and thematic breakthroughs in smart learning environments: a bibliometric analysis. Smart Learning Environments, 8(1), 1-25. </li>
+													<li>Ahammed, A., &amp; Saha, S. (2018). Firm-specific Financial Determinants of Non-Performing Loan in the Banking Sector of Developing Countries: Evidence from the Listed Commercial Banks in Bangladesh. In: Journal of Economics and Business, 1(4), 555-563. </li>
+													<li>AIS, D. (2018). Firm-specific Financial Determinants of Non-Performing Loan in the Banking Sector of Developing Countries: Evidence from the Listed Commercial Banks in Bangladesh. Journal of Economics and Business, 1(4), 555-563. </li>
+													<li>Almaqableh, L., Wallace, D., Pereira, V., Ramiah, V., Wood, G., Veron, J. F.,&amp; Watson, A. (2023). Is it possible to establish the link between drug busts and the cryptocurrency market? Yes, we can. International Journal of Information Management, 71, 102488. </li>
+													<li>Al-rimy, B. A. S., Maarof, M. A., &amp; Shaid, S. Z. M. (2018). Ransomware threat success factors, taxonomy, and countermeasures: A survey and research directions. Computers &amp; Security, 74, 144-166. </li>
+													<li>Alyami, M., Alhotaylah, R., Alshehri, S., &amp; Alghamdi, A. (2023). Phishing Attacks on Cryptocurrency Investors in the Arab States of the Gulf. Journal of Risk and Financial Management, 16(5), 271. </li>
+													<li>Bailey, A. M., Rettler, B., &amp; Warmke, C. (2021). Philosophy, politics, and economics of cryptocurrency II: The moral landscape of monetary design. Philosophy Compass, 16(11), e12784. </li>
+													<li>Bartoletti, M., Pes, B., &amp; Serusi, S. (2018, June). Data mining for detecting bitcoin ponzi schemes. In 2018 Crypto Valley Conference on Blockchain Technology (CVCBT) (pp. 75-84). IEEE. </li>
+													<li>Binh, N. H. (2021). Crime in Era of Digital Technology: What Can Change with Cryptocurrency Status Clarification for Development of Information Environment of Vietnam?. Management. </li>
+													<li>Broadhead, S. (2018). The contemporary cybercrime ecosystem: A multi-disciplinary overview of the state of affairs and developments. Computer Law &amp; Security Review, 34(6), 1180-1196. </li>
+													<li>Burge, M. E. (2015). Apple pay, bitcoin, and consumers: The ABCs of future public payments law. Hastings LJ, 67, 1493. </li>
+													<li>Castonguay, J. J., &amp; Stein Smith, S. (2020). Digital assets and blockchain: Hackable, fraudulent, or just misunderstood?. Accounting Perspectives, 19(4), 363-387. </li>
+													<li>Chergarova, V., Arcanjo, V., Tomeo, M., Bezerra, J., Vera, L. M., &amp; Uloa, A. (2022). Cryptocurrency fraud: A study on the characteristics of criminals who are using fake profiles on a social media platform to persuade individuals to invest into cryptocurrency. Issues in Information Systems, 23(3). </li>
+													<li>Conti, M., Gangwal, A., &amp; Ruj, S. (2018). On the economic significance of ransomware campaigns: A Bitcoin transactions perspective. Computers &amp; Security, 79, 162-189. </li>
+													<li>Dhali, M., et al. (2023). Cryptocurrency in the darknet: Sustainability of the current national legislation. International Journal of Law and Management, 65(3), 261–282. </li>
+													<li>Dolejška, D., Koutenský, M., Veselý, V., &amp; Pluskal, J. (2023). Busting up Monopoly: Methods for modern darknet marketplace forensics. Forensic Science International: Digital Investigation, 46, 301604. </li>
+													<li>Donthu, N., Kumar, S., Mukherjee, D., Pandey, N., &amp; Lim, W. M. (2021). How to conduct a bibliometric analysis: An overview and guidelines. Journal of Business Research, 133, 285-296. </li>
+													<li>Dupuis, D., &amp; Gleason, K. (2020). Money laundering with cryptocurrency: open doors and the regulatory dialectic. Journal of Financial Crime, 28(1), 60-74. </li>
+													<li>Dupuis, D., &amp; Gleason, K. C. (2021). Old Frauds with a New Sauce: Digital Coins and Behavioral Paradigms. Available at SSRN 3904002. </li>
+													<li>Gandal, N., Hamrick, J. T., Moore, T., &amp; Oberman, T. (2018). Price manipulation in the Bitcoin ecosystem. Journal of Monetary Economics, 95, 86-96. </li>
+													<li>Hendrickson, J. R., &amp; Luther, W. J. (2022). Cash, crime, and cryptocurrencies. The Quarterly Review of Economics and Finance, 85, 200-207. </li>
+													<li>Higbee, A. (2018). The role of crypto-currency in cybercrime. Computer Fraud and Security, 2018(7), 13–15. </li>
+													<li>Hornuf, L., Kück, T., &amp; Schwienbacher, A. (2022). Initial coin offerings, information disclosure, and fraud. Small Business Economics, 58(4), 1741-1759. </li>
+													<li>Irwin, A. S., &amp; Dawson, C. (2019). Following the cyber money trail: Global challenges when investigating ransomware attacks and how regulation can help. Journal of money laundering control, 22(1), 110-131. </li>
+													<li>Jaishankar, K. (2007). Establishing a theory of cyber crimes. International Journal of Cyber Criminology, 1(2), 7-9. </li>
+													<li>Janze, C. (2017). Are cryptocurrencies criminals best friends? Examining the co-evolution of bitcoin and darknet markets. </li>
+													<li>Johnson, B., Co, S., Sun, T., Lim, C. C., Stjepanović, D., Leung, J., ... &amp; Chan, G. C. (2023). Cryptocurrency trading and its associations with gambling and mental health: A scoping review. Addictive Behaviors, 136, 107504. </li>
+													<li>Kamps, J., &amp; Kleinberg, B. (2018). To the moon: defining and detecting cryptocurrency pump-and-dumps. Crime Science, 7(1), 1-18. </li>
+													<li>Kashi, A., &amp; Shah, M. E. (2023). Bibliometric Review on Sustainable Finance. Sustainability, 15(9), 7119. </li>
+													<li>Kerr, D. S., Loveland, K. A., Smith, K. T., &amp; Smith, L. M. (2023). Cryptocurrency Risks, Fraud Cases, and Financial Performance. Risks, 11(3), 51. </li>
+													<li>Kethineni, S., &amp; Cao, Y. (2020). The rise in popularity of cryptocurrency and associated criminal activity. International Criminal Justice Review, 30(3), 325-344. </li>
+													<li>Kfir, I. (2020). Cryptocurrencies, national security, crime and terrorism. Comparative Strategy, 39(2), 113–127. </li>
+													<li>Kher, R., Terjesen, S., &amp; Liu, C. (2021). Blockchain, Bitcoin, and ICOs: a review and research agenda. Small Business Economics, 56, 1699-1720. </li>
+													<li>Koerhuis, W., Kechadi, T., &amp; Le-Khac, N. A. (2020). Forensic analysis of privacy-oriented cryptocurrencies. Forensic Science International: Digital Investigation, 33, 200891. </li>
+													<li>Kozii, V. (2023). Criminal liability for illegal possession of cryptocurrency in Ukraine. Адреса редакції, 32. </li>
+													<li>Kreminskyi, O., Kuzmenko, O., Antoniuk, A., &amp; Smahlo, O. (2021). International cooperation in the investigation of economic crimes related to cryptocurrency circulation. Studies of Applied Economics, 39(6). </li>
+													<li>Kutera, M. (2022). Cryptocurrencies as a subject of financial fraud. Journal of Entrepreneurship, Management and Innovation, 18(4), 45-77. </li>
+													<li>Lacey, D., et al. (2020). The application of scam compliance models to investment fraud offending. Journal of Criminological Research, Policy and Practice, 6(1), 65–81. </li>
+													<li>Lacey, D., Goode, S., Pawada, J., &amp; Gibson, D. (2020). The application of scam compliance models to investment fraud offending. Journal of Criminological Research, Policy and Practice, 6(1), 65-81. </li>
+													<li>Li, Y., &amp; Wang, C. C. (2022). A search-theoretic model of double-spending fraud. Journal of Economic Dynamics and Control, 142, 104157. </li>
+													<li>Mackenzie, S. (2022). Criminology towards the metaverse: Cryptocurrency scams, grey economy and the technosocial. The British Journal of Criminology, 62(6), 1537-1552. </li>
+													<li>McCord, A., Birch, P., &amp; Davison, A. (2022). Technology Enabled Crime: Examining the Role of Cryptocurrency. Kriminologie-Das Online-Journal| Criminology-The Online Journal, (4), 428-451. </li>
+													<li>Nadir, I., &amp; Bakhshi, T. (2018, March). Contemporary cybercrime: A taxonomy of ransomware threats &amp; mitigation techniques. In 2018 International Conference on Computing, Mathematics and Engineering Technologies (iCoMET) (pp. 1-7). IEEE. </li>
+													<li>Nasir, A., Shaukat, K., Iqbal Khan, K., A. Hameed, I., Alam, T. M., &amp; Luo, S. (2021). Trends and directions of financial technology (Fintech) in society and environment: A bibliometric study. Applied Sciences, 11(21), 10353. </li>
+													<li>Nikkel, B. (2020). Fintech forensics: Criminal investigation and digital evidence in financial technologies. Forensic Science International: Digital Investigation, 33, 200908. </li>
+													<li>Nolasco Braaten, C., &amp; Vaughn, M. S. (2021). Convenience theory of cryptocurrency crime: A content analysis of US federal court decisions. Deviant Behavior, 42(8), 958-978. </li>
+													<li>Phillips, R., &amp; Wilder, H. (2020, May). Tracing cryptocurrency scams: Clustering replicated advance-fee and phishing websites. In: 2020 IEEE international conference on blockchain and cryptocurrency (ICBC) (pp. 1-8). IEEE. </li>
+													<li>Reynolds, P., &amp; Irwin, A. S. (2017). Tracking digital footprints: anonymity within the bitcoin system. Journal of Money Laundering Control, 20(2), 172-189. </li>
+													<li>Rivera, J.W. (2019). Potential negative effects of a cashless society: Turning citizens into criminals and other economic dangers. Journal of Money Laundering Control, 22(2), 350-358. </li>
+													<li>Sabuj, S., Arif, A. &amp; Momotaz, B. (2019). Audit Expectation Gap: Empirical Evidences from Bangladesh, SSRG International Journal of Economics and Management Studies 6(5). </li>
+													<li>Saha, S., Hasan, A. R., Islam, K. R., &amp; Priom, M. A. I. (2024). Sustainable Development Goals (SDGs) practices and firms' financial performance: The moderating role of country governance. Green Finance, 6(1), 162-198. </li>
+													<li>Sanz-Bas, D., del Rosal, C., Náñez Alonso, S. L., &amp; Echarte Fernández, M. Á. (2021). Cryptocurrencies and fraudulent transactions: Risks, practices, and legislation for their prevention in Europe and Spain. Laws, 10(3), 57. </li>
+													<li>Șcheau, M. C., Crăciunescu, S. L., Brici, I., &amp; Achim, M. V. (2020). A cryptocurrency spectrum short analysis. Journal of Risk and Financial Management, 13(8), 184. </li>
+													<li>Sudzina, F., Dobes, M., &amp; Pavlicek, A. (2023). Towards the psychological profile of cryptocurrency early adopters: Overconfidence and self-control as predictors of cryptocurrency use. Current Psychology, 42(11), 8713-8717. </li>
+													<li>Sun, N., Zhang, Y., &amp; Liu, Y. (2022). A privacy-preserving KYC-compliant identity scheme for accounts on all public blockchains. Sustainability, 14(21), 14584. </li>
+													<li>Teichmann, F. M. J., &amp; Falker, M. C. (2021). Cryptocurrencies and financial crime: solutions from Liechtenstein. Journal of Money Laundering Control, 24(4), 775-788. </li>
+													<li>Teichmann, F. M., &amp; Falker, M.-C. (2020). Money laundering via cryptocurrencies – potential solutions from Liechtenstein. Journal of Money Laundering Control, 24(1), 91–101. </li>
+													<li>Trozze, A., Kamps, J., Akartuna, E. A., Hetzel, F. J., Kleinberg, B., Davies, T., &amp; Johnson, S. D. (2022). Cryptocurrencies and future financial crime. Crime Science, 11, 1-35. </li>
+													<li>Turner, A. B., McCombie, S., &amp; Uhlmann, A. J. (2019). A target-centric intelligence approach to WannaCry 2.0. Journal of Money Laundering Control, 22(4), 646–665. </li>
+													<li>Van Wegberg, R., Oerlemans, J. J., &amp; van Deventer, O. (2018). Bitcoin money laundering: mixed results? An explorative study on money laundering of cybercrime proceeds using bitcoin. Journal of Financial Crime, 25(2), 419-435. </li>
+													<li>Wang, H., He, D., Liu, Z., &amp; Guo, R. (2020). Blockchain-Based anonymous reporting scheme with anonymous rewarding. IEEE Transactions on Engineering Management, 67(4), 1514–1524. </li>
+													<li>Zimba, A., et al. (2018). Crypto mining attacks in information systems: An emerging threat to cyber security. Journal of Computer Information Systems, 60(4), 297–308. </li>
+																	</ol>
+				</div>
+			</li>
+			
+		</ul>
+		
+						<hr />
+			<div class="article-details-block article-details-license uk-text-meta">
+				<small>
+															<a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" src="//i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><p>This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.</p>
+															<span>Copyright (c) 2024 Malque Publishing</span>
+																				</small>
+			</div>
+				
+	</div>
+</div>
+
+
+
+
+<div class="uk-grid-item-match uk-padding-remove uk-width-1-1@s uk-width-1-3@m" id="articleDetails">
+	<div class="uk-padding">
+
+									
+		<div class="uk-child-width-1-1 uk-margin-large-bottom">
+			<h3 class="title-underline">
+				How to cite
+			</h3>
+			<div id="citationOutput" class="uk-text-small" role="region" aria-live="polite">
+				<div class="csl-bib-body">
+  <div class="csl-entry">Saha, S., Hasan, A. R., Mahmud, A., Ahmed, N., Parvin, N., &#38; Karmakar, H. (2024). Cryptocurrency and financial crimes: A bibliometric analysis and future research agenda. <i>Multidisciplinary Reviews</i>, <i>7</i>(8), 2024168. https://doi.org/10.31893/multirev.2024168</div>
+</div>
+			</div>			
+		</div>
+
+		
+		<div class="item citations-container" data-image-path="https://malque.pub/ojs/plugins/generic/citations/images/" data-citations-url="https://malque.pub/ojs/index.php/mr/citations/get?citationsId=10.31893%2Fmultirev.2024168&amp;citationsShowList=1&amp;citationsProvider=crossref"
+     data-citations-provider="crossref" data-citations-total="1" data-citations-list="1"
+     data-show-google="1" data-show-pmc="1">
+	<div id="citations-loader"></div>
+	<div class="citations-count">
+		<div class="citations-count-crossref">
+			<img class="img-fluid" src="https://malque.pub/ojs/plugins/generic/citations/images/crossref.png" alt="Crossref"/>
+			<div class="badge_total"></div>
+		</div>
+		<div class="citations-count-scopus">
+			<img src="https://malque.pub/ojs/plugins/generic/citations/images/scopus.png" alt="Scopus"/>
+			<br/>
+			<span class="badge_total"></span>
+		</div>
+		<div class="citations-count-google">
+			<a href="https://scholar.google.com/scholar?q=10.31893/multirev.2024168" target="_blank" rel="noreferrer">
+				<img src="https://malque.pub/ojs/plugins/generic/citations/images/scholar.png" alt="Google Scholar"/>
+			</a>
+		</div>
+		<div class="citations-count-pmc">
+			<a href="http://europepmc.org/search?scope=fulltext&query=(REF:10.31893/multirev.2024168)" target="_blank" rel="noreferrer">
+				<img src="https://malque.pub/ojs/plugins/generic/citations/images/pmc.png" alt="Europe PMC"/>
+				<br/>
+				<span class="badge_total"></span>
+			</a>
+		</div>
+	</div>
+	<div class="citations-list"></div>
+    </div>
+
+
+		<!-- stats -->
+		<div class="article-nav-block uk-padding-small uk-margin-top" id="article-nav-stats" style="border: 15px solid #f2f6fa;">
+			<ul class="uk-list">
+				<li class="item-views">
+					<span uk-icon="icon: file-text; ratio: 0.8"></span> Article viewed - 2571
+				</li>
+																			<li class="item-views">
+							<span uk-icon="icon: file-pdf; ratio: 0.8"></span> PDF downloaded - 2165
+						</li>
+												</ul>
+		</div>
+
+		
+	</div>
+</div>
+	</div>
+</div>
+
+
+
+</section><!-- page -->
+<!-- //page wrapper -->
+
+<footer class="site-footer uk-padding uk-padding-remove-horizontal">
+
+<section class="uk-text-small" id="footer">
+	<div class="uk-padding uk-container uk-container-large uk-padding-remove-bottom uk-light">
+		<div class="uk-child-width-expand@m uk-child-width-1-1@s uk-grid-large" uk-grid>
+			<div>
+				<h3>Publish with Malque Publishing and Advance your Academic Career</h3>
+				<ul class="">
+																			<li>
+				<a href="https://malque.pub/">
+					Publisher home
+				</a>
+							</li>
+																					<li>
+				<a href="https://malque.pub/about/">
+					About us
+				</a>
+									<div class="uk-navbar-dropdown uk-navbar-dropdown-bottom-left">
+						<ul class="uk-nav uk-navbar-dropdown-nav">
+													<li>
+															<a href="https://malque.pub/journals/">
+									Journals
+								</a>
+														</li>
+													<li>
+															<a href="https://malque.pub/author-services/">
+									Author Services
+								</a>
+														</li>
+													<li>
+															<a href="https://malque.pub/news/blog/">
+									Blog
+								</a>
+														</li>
+													<li>
+															<a href="https://malque.pub/contact-us/">
+									Contact
+								</a>
+														</li>
+												</ul>
+					</div>
+							</li>
+														<li>
+				<a href="https://malque.pub/ojs/index.php/mr/user/register">
+					Register
+				</a>
+							</li>
+														<li>
+				<a href="https://malque.pub/ojs/index.php/mr/login">
+					Login
+				</a>
+							</li>
+									
+				</ul>
+			</div>
+						<div>
+				<h3 class="uk-h4">Our Journals</h3>
+				<ul id="menu-our-services" class="menu">
+<li><a class="menu-link" href="https://malque.pub/ojs/index.php/avr" target="_blank" rel="noopener">Applied Veterinary Research</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-375"><a href="https://malque.pub/ojs/index.php/hj" target="_blank" rel="noopener">Humanities Journal</a></li>
+<li id="menu-item-375" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-375"><a class="menu-link" href="https://malque.pub/ojs/index.php/jabb" target="_blank" rel="noopener">Journal of Animal Behaviour and Biometeorology</a></li>
+<li><a href="https://malque.pub/ojs/index.php/health" target="_blank" rel="noopener">Malque Health</a></li>
+<li><a href="https://malque.pub/ojs/index.php/renewable" target="_blank" rel="noopener">Malque Renewable Energy</a></li>
+<li id="menu-item-376" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-376"><a class="menu-link" href="https://malque.pub/ojs/index.php/msj" target="_blank" rel="noopener">Multidisciplinary Science Journal</a></li>
+<li id="menu-item-377" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-377"><a class="menu-link" href="https://malque.pub/ojs/index.php/mr" target="_blank" rel="noopener">Multidisciplinary Reviews</a></li>
+<li><a href="https://malque.pub/ojs/index.php/sdgs" target="_blank" rel="noopener">NexusSDGs</a></li>
+<li><a href="https://malque.pub/ojs/index.php/tech" target="_blank" rel="noopener">NexusTech</a></li>
+<li><a href="https://malque.pub/ojs/index.php/wa/index" target="_blank" rel="noopener">Wild Animals</a></li>
+</ul>
+			</div>
+												<div>
+				<h3 class="uk-h4">Editorial Office</h3>
+                                                        <address>Malque Publishing,
+West Home and Business - Av. João da Escóssia, 3715 - Sala 57 - Bela Vista, Mossoró - RN, 59607-330, Brazil.</address>
+                                                                    <p><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="7f120a130b160d1a09161a080c3f121e130e0a1a510f0a1d">[email&#160;protected]</a></p>
+                			</div>
+						<div>
+				<a href="">
+					<img src="https://malque.pub/ojs/plugins/themes/gdMalqueUk/images/logomalque.png" alt="Multidisciplinary Reviews" width="120" loading="lazy" decoding="async" />
+				</a>
+				<ul class="uk-list" id="footerSocialLinks">
+										<li><a href="https://www.twitter.com/malquepub" target="_blank" class="twitter"><span uk-icon="icon: twitter; ratio: 1.2" class="uk-icon-button"></span> malquepub</a></li>
+																				<li><a href="https://www.facebook.com/malquepub" target="_blank" class="facebook"><span uk-icon="icon: facebook; ratio: 1.2" class="uk-icon-button"></span> malquepub</a></li>
+															<li><a href="https://www.instagram.com/malquepub" target="_blank" class="instagram"><span uk-icon="icon: instagram; ratio: 1.2" class="uk-icon-button"></span> malquepub</a></li>
+															<li><a href="https://wa.me/message/J6KDJCRWDAW6K1" target="_blank" class="whatsapp"><span uk-icon="icon: whatsapp; ratio: 1.2" class="uk-icon-button"></span> Whatsapp</a></li>
+									</ul>
+			</div>
+		</div>
+
+		<hr />
+
+		<div class="uk-width-1-1 uk-margin-small">
+				</div>
+
+		<div class="uk-flex uk-text-center@s uk-text-left@m uk-text-small uk-padding-small@m"><small>Exclusive OJS theme plugin developed with <span style='color: red; margin: 0 4px;'>♥</span> by <a href="https://geniusdesign.com.br" target="_blank" uk-tooltip="title: GeniusDesign; pos: top" title="" aria-expanded="false"><img src="https://geniusdesign.com.br/by-GD2.png" alt="GeniusDesign" style="max-width: 100%;"></a></small></div>
+	</div>
+</section>
+</footer>
+
+	<a href="https://wa.me/5584981542648" class="gd-whatsapp-float" target="_blank" rel="noopener" aria-label="WhatsApp" title="WhatsApp">
+		<span class="gd-whatsapp-waves" aria-hidden="true"></span>
+		<span uk-icon="icon: whatsapp; ratio: 1.8"></span>
+	</a>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://malque.pub/ojs/plugins/themes/gdMalqueUk/js/uikit.min.js?v=3.3.0.14" type="text/javascript"></script><script src="https://malque.pub/ojs/plugins/themes/gdMalqueUk/js/uikit-icons.min.js?v=3.3.0.14" type="text/javascript"></script><script src="https://malque.pub/ojs/plugins/themes/gdMalqueUk/js/scripts.js?v=3.3.0.14" type="text/javascript"></script><script src="https://malque.pub/ojs/plugins/generic/citationStyleLanguage/js/articleCitation.js?v=3.3.0.14" type="text/javascript"></script><script src="https://malque.pub/ojs/plugins/themes/gdMalqueUk/js/article.js?v=3.3.0.14" type="text/javascript"></script><script src="https://malque.pub/ojs/plugins/generic/citations/js/citations.js?v=3.3.0.14" type="text/javascript"></script><script type="text/javascript">
+(function (w, d, s, l, i) { w[l] = w[l] || []; var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
+j.src = 'https://www.googletagmanager.com/gtag/js?id=' + i + dl; f.parentNode.insertBefore(j, f); 
+function gtag(){dataLayer.push(arguments)}; gtag('js', new Date()); gtag('config', i); })
+(window, document, 'script', 'dataLayer', 'G-49Q4TB0BNF');
+</script>
+
+
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a454ec051b892f9d',t:'MTc5MTEyNDYxOQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

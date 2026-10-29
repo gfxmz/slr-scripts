@@ -1,0 +1,792 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head><!-- inj yui3-seed: --><script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/yui/3.6.0/yui/yui-min.js'></script><script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js'></script><!-- Adobe Analytics --><script type='text/javascript' src='https://assets.adobedtm.com/4a848ae9611a/d0e96722185b/launch-d525bb0064d8.min.js'></script><script type='text/javascript' src=/assets/nr_browser_production.js></script>
+
+<!-- def.1 -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<title>
+"Exercise is Medicine: Some Cautionary Remarks in Principle as Well as " by Ross Neville
+</title>
+
+
+<!-- FILE article_meta-tags.inc --><!-- FILE: /srv/sequoia/main/data/assets/site/article_meta-tags.inc -->
+<meta itemprop="name" content="Exercise is Medicine: Some Cautionary Remarks in Principle as Well as in Practice">
+<meta property="og:title" content="Exercise is Medicine: Some Cautionary Remarks in Principle as Well as in Practice">
+<meta name="twitter:title" content="Exercise is Medicine: Some Cautionary Remarks in Principle as Well as in Practice">
+<meta property="article:author" content="Ross Neville">
+<meta name="author" content="Ross Neville">
+<meta name="robots" content="noodp, noydir">
+<meta name="description" content="On the basis of extensive research on the relationship between physical activity, exercise and health, as well as strong support from policymakers and practitioners, the “Exercise is Medicine” initiative has become something of a linchpin in the agenda for modern healthcare reform and reflects a broader acceptance that the philosophy of health politics must shift from social engineering to performativity. However, in spite of the avowed commitment to encouraging individuals to take on a more reflexive relation to their health, it remains unclear as to whether an initiative such as this is, unambiguously, a good thing. In this paper, a number of cautionary remarks are made with respect to “Exercise is Medicine” in principle as well as in practice. Firstly, it is argued that equating exercise with medicine is to equate it with a definition of and relation to the body to which it is not entirely akin. And secondly, it is argued that any proposed alignment of the fitness and healthcare industries needs further critical examination, a realigning of interests, and a thorough reconsideration of their suitability of fit.">
+<meta itemprop="description" content="On the basis of extensive research on the relationship between physical activity, exercise and health, as well as strong support from policymakers and practitioners, the “Exercise is Medicine” initiative has become something of a linchpin in the agenda for modern healthcare reform and reflects a broader acceptance that the philosophy of health politics must shift from social engineering to performativity. However, in spite of the avowed commitment to encouraging individuals to take on a more reflexive relation to their health, it remains unclear as to whether an initiative such as this is, unambiguously, a good thing. In this paper, a number of cautionary remarks are made with respect to “Exercise is Medicine” in principle as well as in practice. Firstly, it is argued that equating exercise with medicine is to equate it with a definition of and relation to the body to which it is not entirely akin. And secondly, it is argued that any proposed alignment of the fitness and healthcare industries needs further critical examination, a realigning of interests, and a thorough reconsideration of their suitability of fit.">
+<meta name="twitter:description" content="On the basis of extensive research on the relationship between physical activity, exercise and health, as well as strong support from policymakers and practitioners, the “Exercise is Medicine” initiative has become something of a linchpin in the agenda for modern healthcare reform and reflects a broader acceptance that the philosophy of health politics must shift from social engineering to performativity. However, in spite of the avowed commitment to encouraging individuals to take on a more reflexive relation to their health, it remains unclear as to whether an initiative such as this is, unambiguously, a good thing. In this paper, a number of cautionary remarks are made with respect to “Exercise is Medicine” in principle as well as in practice. Firstly, it is argued that equating exercise with medicine is to equate it with a definition of and relation to the body to which it is not entirely akin. And secondly, it is argued that any proposed alignment of the fitness and healthcare industries needs further critical examination, a realigning of interests, and a thorough reconsideration of their suitability of fit.">
+<meta property="og:description" content="On the basis of extensive research on the relationship between physical activity, exercise and health, as well as strong support from policymakers and practitioners, the “Exercise is Medicine” initiative has become something of a linchpin in the agenda for modern healthcare reform and reflects a broader acceptance that the philosophy of health politics must shift from social engineering to performativity. However, in spite of the avowed commitment to encouraging individuals to take on a more reflexive relation to their health, it remains unclear as to whether an initiative such as this is, unambiguously, a good thing. In this paper, a number of cautionary remarks are made with respect to “Exercise is Medicine” in principle as well as in practice. Firstly, it is argued that equating exercise with medicine is to equate it with a definition of and relation to the body to which it is not entirely akin. And secondly, it is argued that any proposed alignment of the fitness and healthcare industries needs further critical examination, a realigning of interests, and a thorough reconsideration of their suitability of fit.">
+<meta name="keywords" content="“Exercise is medicine”, health and fitness, object- vs. subject-centred risk, fitness and healthcare industries">
+<meta name="bepress_citation_series_title" content="Articles">
+<meta name="bepress_citation_author" content="Neville, Ross">
+<meta name="bepress_citation_author_institution" content="Technological University Dublin">
+<meta name="bepress_citation_title" content="Exercise is Medicine: Some Cautionary Remarks in Principle as Well as in Practice">
+<meta name="bepress_citation_date" content="2012">
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_download_link.inc -->
+<!-- FILE: /srv/sequoia/main/data/assets/site/article_meta-tags.inc (cont) -->
+<meta name="bepress_citation_pdf_url" content="https://arrow.tudublin.ie/cgi/viewcontent.cgi?article=1060&amp;context=tfschhmtart">
+<meta name="bepress_citation_abstract_html_url" content="https://arrow.tudublin.ie/tfschhmtart/59">
+<meta name="bepress_citation_publisher" content="Technological University Dublin">
+<meta name="bepress_citation_doi" content="https://doi.org/10.1007/s11019-012-9383-y">
+<meta name="bepress_citation_online_date" content="2012/5/23">
+<meta name="viewport" content="width=device-width">
+<!-- Additional Twitter data -->
+<meta name="twitter:card" content="summary">
+<!-- Additional Open Graph data -->
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://arrow.tudublin.ie/tfschhmtart/59">
+<meta property="og:site_name" content="ARROW@TU Dublin">
+
+
+
+
+<!-- FILE: article_meta-tags.inc (cont) -->
+<meta name="bepress_is_article_cover_page" content="1">
+
+
+<!-- sh.1 -->
+<link rel="stylesheet" href="/ir-style.css" type="text/css" media="screen">
+<link rel="stylesheet" href="/ir-custom.css" type="text/css" media="screen">
+<link rel="stylesheet" href="../ir-custom.css" type="text/css" media="screen">
+<link rel="stylesheet" href="/ir-local.css" type="text/css" media="screen">
+<link rel="stylesheet" href="../ir-local.css" type="text/css" media="screen">
+<link rel="stylesheet" href="/ir-print.css" type="text/css" media="print">
+<link type="text/css" rel="stylesheet" href="/assets/floatbox/floatbox.css">
+<link rel="alternate" type="application/rss+xml" title="Site Feed" href="/recent.rss">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<!--[if IE]>
+<link rel="stylesheet" href="/ir-ie.css" type="text/css" media="screen">
+<![endif]-->
+
+<!-- JS  -->
+<script type="text/javascript" src="/assets/jsUtilities.js"></script>
+<script type="text/javascript" src="/assets/footnoteLinks.js"></script>
+<script type="text/javascript" src="/assets/scripts/yui-init.pack.js"></script>
+<script type="text/javascript" src="/assets/scripts/bepress-init.debug.js"></script>
+<script type="text/javascript" src="/assets/scripts/JumpListYUI.pack.js"></script>
+
+<!-- end sh.1 -->
+
+
+
+
+<script type="text/javascript">var pageData = {"page":{"environment":"prod","productName":"bpdg","language":"en","name":"ir_series:article","businessUnit":"els:rp:st"},"visitor":{}};</script>
+
+</head>
+<body id="geo-series">
+<!-- FILE /srv/sequoia/main/data/arrow.tudublin.ie/assets/header.pregen --><!-- FILE: /srv/sequoia/main/data/assets/site/mobile_nav.inc --><!--[if !IE]>-->
+<script src="/assets/scripts/dc-mobile/dc-responsive-nav.js"></script>
+
+<header id="mobile-nav" class="nav-down device-fixed-height" style="visibility: hidden;">
+  
+  
+  <nav class="nav-collapse">
+    <ul>
+      <li class="menu-item active device-fixed-width"><a href="https://arrow.tudublin.ie" title="Home" data-scroll >Home</a></li>
+      <li class="menu-item device-fixed-width"><a href="https://arrow.tudublin.ie/do/search/advanced/" title="Search" data-scroll ><i class="icon-search"></i> Search</a></li>
+      <li class="menu-item device-fixed-width"><a href="https://arrow.tudublin.ie/communities.html" title="Browse" data-scroll >Browse Collections</a></li>
+      <li class="menu-item device-fixed-width"><a href="/cgi/myaccount.cgi?context=tfschhmtart" title="My Account" data-scroll >My Account</a></li>
+      <li class="menu-item device-fixed-width"><a href="https://arrow.tudublin.ie/about.html" title="About" data-scroll >About</a></li>
+      <li class="menu-item device-fixed-width"><a href="https://network.bepress.com" title="Digital Commons Network" data-scroll ><img width="16" height="16" alt="DC Network" style="vertical-align:top;" src="/assets/md5images/8e240588cf8cd3a028768d4294acd7d3.png"> Digital Commons Network™</a></li>
+    </ul>
+  </nav>
+</header>
+
+<script src="/assets/scripts/dc-mobile/dc-mobile-nav.js"></script>
+<!--<![endif]-->
+<!-- FILE: /srv/sequoia/main/data/arrow.tudublin.ie/assets/header.pregen (cont) -->
+
+
+
+<div id="tudublin">
+	<div id="container">
+		<a href="#main" class="skiplink" accesskey="2" >Skip to main content</a>
+
+					
+			<div id="header" role="banner">
+				<a href="https://arrow.tudublin.ie" id="banner_link" title="ARROW@TU Dublin" >
+					<img id="banner_image" alt="ARROW@TU Dublin" width='980' height='143' src="/assets/md5images/a5de53fcd500168f11404b600b32e190.png">
+				</a>	
+				
+					<a href="https://www.tudublin.ie/" id="logo_link" title="Technological University Dublin" >
+						<img id="logo_image" alt="Technological University Dublin" width='240' height='143' src="/assets/md5images/6f13f65d839d3826c6b6b432e2772641.png">
+					</a>	
+				
+			</div>
+					
+			<div id="navigation">
+				<!-- FILE: /srv/sequoia/main/data/assets/site/ir_navigation.inc --><div id="tabs" role="navigation" aria-label="Main"><ul><li id="tabone"><a href="https://arrow.tudublin.ie" title="Home" ><span>Home</span></a></li><li id="tabtwo"><a href="https://arrow.tudublin.ie/about.html" title="About" ><span>About</span></a></li><li id="tabthree"><a href="https://arrow.tudublin.ie/faq.html" title="FAQ" ><span>FAQ</span></a></li><li id="tabfour"><a href="https://arrow.tudublin.ie/cgi/myaccount.cgi?context=tfschhmtart  " title="My Account" ><span>My Account</span></a></li></ul></div>
+
+
+<!-- FILE: /srv/sequoia/main/data/arrow.tudublin.ie/assets/header.pregen (cont) -->
+			</div>
+		
+
+		<div id="wrapper">
+			<div id="content">
+				<div id="main" class="text" role="main">
+
+<script type="text/javascript" src="/assets/floatbox/floatbox.js"></script>  
+<!-- FILE: /srv/sequoia/main/data/assets/site/article_pager.inc -->
+
+<div id="breadcrumb"><ul id="pager">
+
+                
+                 
+<li>&lt; <a href="https://arrow.tudublin.ie/tfschhmtart/60" class="ignore" >Previous</a></li>
+        
+        
+        
+
+                
+                 
+<li><a href="https://arrow.tudublin.ie/tfschhmtart/69" class="ignore" >Next</a> &gt;</li>
+        
+        
+        
+<li>&nbsp;</li></ul><div class="crumbs"><!-- FILE: /srv/sequoia/main/data/assets/site/ir_breadcrumb.inc -->
+
+<div class="crumbs" role="navigation" aria-label="Breadcrumb">
+    <ol style="list-style:none;margin:0;padding:0">
+	
+	
+	<li style="display:inline;margin:0">
+		<a href="https://arrow.tudublin.ie" class="ignore" >Home</a>
+	</li>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	 <span aria-hidden="true">&gt;</span> 
+	<li style="display:inline;margin:0">
+		<a href="https://arrow.tudublin.ie/colleges" class="ignore" >Faculties</a>
+	</li>	
+	
+	
+	
+	
+	
+	
+	 <span aria-hidden="true">&gt;</span> 
+	<li style="display:inline;margin:0">
+		<a href="https://arrow.tudublin.ie/facappa" class="ignore" >Faculty of Arts and Humanities</a>
+	</li>	
+	
+	
+	
+	
+	
+	
+	 <span aria-hidden="true">&gt;</span> 
+	<li style="display:inline;margin:0">
+		<a href="https://arrow.tudublin.ie/tfschhmt" class="ignore" >Tourism & Hospitality Management</a>
+	</li>	
+	
+	
+	
+	
+	
+	
+	 <span aria-hidden="true">&gt;</span> 
+	<li style="display:inline;margin:0">
+		<a href="https://arrow.tudublin.ie/tfschhmtart" class="ignore" >Articles</a>
+	</li>	
+	
+	
+	
+	
+	
+	 <span aria-hidden="true">&gt;</span> 
+	<li style="display:inline;margin:0">
+		<a href="https://arrow.tudublin.ie/tfschhmtart/59" class="ignore" aria-current="page" >59</a>
+	</li>	
+	
+	
+	
+	</ol>
+</div>
+
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/article_pager.inc (cont) --></div>
+</div>
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_series/article/index.html (cont) -->
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_series/article/article_info.inc --><!-- FILE: /srv/sequoia/main/data/assets/site/openurl.inc -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_series/article/article_info.inc (cont) -->
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_download_link.inc -->
+
+
+
+
+
+
+
+
+
+	
+	
+	
+    
+    
+    
+	
+		
+		
+		
+	
+	
+	
+	
+	
+	
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_series/article/article_info.inc (cont) -->
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_series/article/ir_article_header.inc -->
+
+
+<div id="series-header">
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_series/ir_series_logo.inc -->
+
+
+
+ 
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_series/article/ir_article_header.inc (cont) --><h2 id="series-title"><a href="https://arrow.tudublin.ie/tfschhmtart" >Articles</a></h2></div>
+<div style="clear: both">&nbsp;</div>
+
+<div id="sub">
+<div id="alpha">
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_series/article/article_info.inc (cont) --><div id='title' class='element'>
+<h1><a href='https://arrow.tudublin.ie/cgi/viewcontent.cgi?article=1060&amp;context=tfschhmtart'>Exercise is Medicine: Some Cautionary Remarks in Principle as Well as in Practice</a></h1>
+</div>
+<div class='clear'></div>
+<div id='authors' class='element'>
+<h2 class='visually-hidden'>Authors</h2>
+<ul class="author"><li><a href='https://arrow.tudublin.ie/do/search/?q=%28author%3A%22Ross%20Neville%22%20AND%20-bp_author_id%3A%5B%2A%20TO%20%2A%5D%29%20OR%20bp_author_id%3A%28%22ccf8dd6f-b079-43b9-bec3-24e7f669ae7c%22%29&start=0&context=490738'><strong>Ross Neville</strong>, <em>Technological University Dublin</em></a><a rel="nofollow" href="https://network.bepress.com/api/follow/subscribe?user=NzczMDk1OTlmOGRhNjVmZA%3D%3D&amp;institution=ZmI4ZWRmYTQ4MGYyOTg0MA%3D%3D&amp;format=html" data-follow-set="user:NzczMDk1OTlmOGRhNjVmZA== institution:ZmI4ZWRmYTQ4MGYyOTg0MA==" title="Follow Ross Neville" class="btn followable">Follow</a></li>
+</ul></div>
+<div class='clear'></div>
+<div id='document_type' class='element'>
+<h2 class='field-heading'>Document Type</h2>
+<p>Article</p>
+</div>
+<div class='clear'></div>
+<div id='rights' class='element'>
+<h2 class='field-heading'>Rights</h2>
+<p>Available under a Creative Commons Attribution Non-Commercial Share Alike 4.0 International Licence</p>
+</div>
+<div class='clear'></div>
+<div id='abstract' class='element'>
+<h2 class='field-heading'>Abstract</h2>
+<p>On the basis of extensive research on the relationship between physical activity, exercise and health, as well as strong support from policymakers and practitioners, the “Exercise is Medicine” initiative has become something of a linchpin in the agenda for modern healthcare reform and reflects a broader acceptance that the philosophy of health politics must shift from social engineering to performativity. However, in spite of the avowed commitment to encouraging individuals to take on a more reflexive relation to their health, it remains unclear as to whether an initiative such as this is, unambiguously, a good thing. In this paper, a number of cautionary remarks are made with respect to “Exercise is Medicine” in principle as well as in practice. Firstly, it is argued that equating exercise with medicine is to equate it with a definition of and relation to the body to which it is not entirely akin. And secondly, it is argued that any proposed alignment of the fitness and healthcare industries needs further critical examination, a realigning of interests, and a thorough reconsideration of their suitability of fit.</p>
+</div>
+<div class='clear'></div>
+<div id='doi' class='element'>
+<h2 class='field-heading'>DOI</h2>
+<p>https://doi.org/10.1007/s11019-012-9383-y</p>
+</div>
+<div class='clear'></div>
+<div id='recommended_citation' class='element'>
+<h2 class='field-heading'>Recommended Citation</h2>
+<p class='citation'>Neville, R.D. (2012) Exercise is medicine: Some cautionary remarks in principle as well as in practice, Medicine, Health Care and Philosophy. doi:10.1007/s11019-012-9383-y</p>
+</div>
+<div class='clear'></div>
+</div>
+    </div>
+    <div id='beta_7-3'>
+<!-- FILE: /srv/sequoia/main/data/assets/site/info_box_7_3.inc --><!-- FILE: /srv/sequoia/main/data/assets/site/openurl.inc -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/info_box_7_3.inc (cont) -->
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_download_link.inc -->
+
+
+
+
+
+
+
+
+
+	
+	
+	
+    
+    
+    
+	
+		
+		
+		
+	
+	
+	
+	
+	
+	
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/info_box_7_3.inc (cont) -->
+
+
+	<!-- FILE: /srv/sequoia/main/data/assets/site/info_box_download_button.inc --><div class="aside download-button">
+      <a id="pdf" class="btn" href="https://arrow.tudublin.ie/cgi/viewcontent.cgi?article=1060&amp;context=tfschhmtart" title="PDF (168&nbsp;KB) opens in new window" target="_blank" > 
+    	<i class="icon-download-alt" aria-hidden="true"></i>
+        Download
+      </a>
+</div>
+
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/info_box_7_3.inc (cont) -->
+	<!-- FILE: /srv/sequoia/main/data/assets/site/info_box_embargo.inc -->
+<!-- FILE: /srv/sequoia/main/data/assets/site/info_box_7_3.inc (cont) -->
+
+<!-- FILE: /srv/sequoia/main/data/arrow.tudublin.ie/assets/ir_series/info_box_custom_upper.inc -->
+
+
+<div class="aside">
+	<p class="flippingbook"><br></p>
+
+</div>
+<!-- FILE: /srv/sequoia/main/data/assets/site/info_box_7_3.inc (cont) -->
+<!-- FILE: /srv/sequoia/main/data/assets/site/info_box_openurl.inc -->
+<div id="open-url" class="aside">
+	
+	
+
+</div>
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/info_box_7_3.inc (cont) -->
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/info_box_article_metrics.inc -->
+
+
+
+
+
+
+<div id="article-stats" class="aside hidden">
+
+    <p class="article-downloads-wrapper hidden"><span id="article-downloads"></span> DOWNLOADS</p>
+    <p class="article-stats-date hidden">Since May 23, 2012</p>
+
+    <p class="article-plum-metrics">
+        <a href="https://plu.mx/plum/a/?repo_url=https://arrow.tudublin.ie/tfschhmtart/59" class="plumx-plum-print-popup plum-bigben-theme" data-badge="true" data-hide-when-empty="true" ></a>
+    </p>
+</div>
+<script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
+
+
+
+<!-- Article Download Counts -->
+<script type="text/javascript" src="/assets/scripts/article-downloads.pack.js"></script>
+<script type="text/javascript">
+    insertDownloads(2908504);
+</script>
+
+
+<!-- Add border to Plum badge & download counts when visible -->
+<script>
+// bind to event when PlumX widget loads
+jQuery('body').bind('plum:widget-load', function(e){
+// if Plum badge is visible
+  if (jQuery('.PlumX-Popup').length) {
+// remove 'hidden' class
+  jQuery('#article-stats').removeClass('hidden');
+  jQuery('.article-stats-date').addClass('plum-border');
+  }
+});
+// bind to event when page loads
+jQuery(window).bind('load',function(e){
+// if DC downloads are visible
+  if (jQuery('#article-downloads').text().length > 0) {
+// add border to aside
+  jQuery('#article-stats').removeClass('hidden');
+  }
+});
+</script>
+
+
+
+<!-- Adobe Analytics: Download Click Tracker -->
+<script>
+
+$(function() {
+
+  // Download button click event tracker for PDFs
+  $(".aside.download-button").on("click", "a#pdf", function(event) {
+    pageDataTracker.trackEvent('navigationClick', {
+      link: {
+          location: 'aside download-button',
+          name: 'pdf'
+      }
+    });
+  });
+
+  // Download button click event tracker for native files
+  $(".aside.download-button").on("click", "a#native", function(event) {
+    pageDataTracker.trackEvent('navigationClick', {
+        link: {
+            location: 'aside download-button',
+            name: 'native'
+        }
+     });
+  });
+
+});
+
+</script>
+<!-- FILE: /srv/sequoia/main/data/assets/site/info_box_7_3.inc (cont) -->
+
+
+
+	<!-- FILE: /srv/sequoia/main/data/assets/site/info_box_disciplines.inc -->
+
+
+
+
+	
+
+
+
+
+
+	<div id="beta-disciplines" class="aside">
+		<h3>Included in</h3>
+	<p>
+		
+				
+					<a href="https://network.bepress.com/hgg/discipline/759" title="Sports Sciences Commons" >Sports Sciences Commons</a>
+				
+				
+			
+		
+	</p>
+	</div>
+
+
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/info_box_7_3.inc (cont) -->
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/bookmark_widget.inc -->
+
+<div id="share" class="aside">
+<h2>Share</h2>
+	
+	<div class="a2a_kit a2a_kit_size_24 a2a_default_style">
+    	<a class="a2a_button_facebook"></a>
+    	<a class="a2a_button_linkedin"></a>
+		<a class="a2a_button_whatsapp"></a>
+		<a class="a2a_button_email"></a>
+    	<a class="a2a_dd"></a>
+    	<script async src="https://static.addtoany.com/menu/page.js"></script>
+	</div>
+</div>
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/info_box_7_3.inc (cont) -->
+<!-- FILE: /srv/sequoia/main/data/assets/site/info_box_geolocate.inc --><!-- FILE: /srv/sequoia/main/data/assets/site/ir_geolocate_enabled_and_displayed.inc -->
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/info_box_geolocate.inc (cont) -->
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/info_box_7_3.inc (cont) -->
+
+	<!-- FILE: /srv/sequoia/main/data/assets/site/zotero_coins.inc -->
+
+<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft_id=https%3A%2F%2Farrow.tudublin.ie%2Ftfschhmtart%2F59&amp;rft.atitle=Exercise%20is%20Medicine%3A%20Some%20Cautionary%20Remarks%20in%20Principle%20as%20Well%20as%20in%20Practice&amp;rft.aufirst=Ross&amp;rft.aulast=Neville&amp;rft.jtitle=Articles&amp;rft.date=2012-01-01&amp;rft_id=info:doi/https%3A%2F%2Fdoi.org%2F10.1007%2Fs11019-012-9383-y">COinS</span>
+<!-- FILE: /srv/sequoia/main/data/assets/site/info_box_7_3.inc (cont) -->
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/info_box_custom_lower.inc -->
+<!-- FILE: /srv/sequoia/main/data/assets/site/info_box_7_3.inc (cont) -->
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_series/article/article_info.inc (cont) --></div>
+
+<div class='clear'>&nbsp;</div>
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_article_custom_fields.inc -->
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_series/article/article_info.inc (cont) -->
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_series/article/index.html (cont) -->
+<!-- FILE /srv/sequoia/main/data/assets/site/footer.pregen --></div>
+	<div class="verticalalign">&nbsp;</div>
+	<div class="clear">&nbsp;</div>
+
+</div>
+
+	<div id="sidebar" role="complementary">
+	<!-- FILE: /srv/sequoia/main/data/assets/site/ir_sidebar_7_8.inc -->
+
+	<!-- FILE: /srv/sequoia/main/data/assets/site/ir_sidebar_sort_sba.inc --><!-- FILE: /srv/sequoia/main/data/assets/site/ir_sidebar_custom_upper_7_8.inc -->
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_sidebar_sort_sba.inc (cont) -->
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_sidebar_search_7_8.inc --><h2>Search</h2>
+
+
+	
+<form method='get' action='https://arrow.tudublin.ie/do/search/' id="sidebar-search">
+	<label for="search" accesskey="4">
+		Enter search terms:
+	</label>
+		<div>
+			<span class="border">
+				<input type="text" name='q' class="search" id="search">
+			</span> 
+			<input type="submit" value="Search" class="searchbutton" style="font-size:11px;">
+		</div>
+	<label for="context">
+		Select context to search:
+	</label> 
+		<div>
+			<span class="border">
+				<select name="fq" id="context">
+					
+					
+						<option value='virtual_ancestor_link:"https://arrow.tudublin.ie/tfschhmtart"'>in this series</option>
+					
+					
+					
+					<option value='virtual_ancestor_link:"https://arrow.tudublin.ie"'>in this repository</option>
+					<option value='virtual_ancestor_link:"http:/"'>across all repositories</option>
+				</select>
+			</span>
+		</div>
+</form>
+
+<p class="advanced">
+	
+	
+		<a href="https://arrow.tudublin.ie/do/search/advanced/?fq=virtual_ancestor_link:%22https://arrow.tudublin.ie/tfschhmtart%22" >
+			Advanced Search
+		</a>
+	
+</p>
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_sidebar_sort_sba.inc (cont) -->
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_sidebar_notify_7_8.inc -->
+
+
+	<ul id="side-notify">
+		<li class="notify">
+			<a href="https://arrow.tudublin.ie/tfschhmtart/announcements.html" title="Email or RSS Notifications" >
+				Notify me via email or <acronym title="Really Simple Syndication">RSS</acronym>
+			</a>
+		</li>
+	</ul>
+
+
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/urc_badge.inc -->
+
+
+
+
+
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_sidebar_notify_7_8.inc (cont) -->
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_sidebar_sort_sba.inc (cont) -->
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_sidebar_custom_middle_7_8.inc --><!-- FILE: /srv/sequoia/main/data/assets/site/ir_sidebar_sort_sba.inc (cont) -->
+<!-- FILE: /srv/sequoia/main/data/arrow.tudublin.ie/assets/ir_sidebar_browse.inc --><h2>Browse</h2>
+<ul id="side-browse">
+	<li class="collections"><a href="https://arrow.tudublin.ie/communities.html" title="Browse by Collections" >Collections</a></li>
+	<li class="collections"><a href="https://arrow.tudublin.ie/ditjou" >Journal Collection</a></li>
+	<li class="collections"><a href="https://arrow.tudublin.ie/speccoll" >Special Collections</a></li>
+	<li class="discipline-browser"><a href="https://arrow.tudublin.ie/do/discipline_browser/disciplines" title="Browse by Disciplines" >Disciplines</a></li>
+	<li class="author"><a href="https://arrow.tudublin.ie/authors.html" title="Browse by Author" >TU Dublin Authors</a></li>
+</ul>
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_sidebar_sort_sba.inc (cont) -->
+<!-- FILE: /srv/sequoia/main/data/arrow.tudublin.ie/assets/ir_sidebar_author_7_8.inc --><h2>Author Corner</h2>
+
+
+
+
+
+
+
+	<ul id="side-author">
+		<li class="faq">
+			<a href="https://arrow.tudublin.ie/faq.html" title="Author FAQ" >
+				Author FAQ
+			</a>
+		</li>
+		
+			<li class="policies">
+				<a href="https://arrow.tudublin.ie/tfschhmtart/policies.html" title="Articles Policies" >
+						Policies
+				</a>
+			</li>
+		
+		
+			<li class="guidelines">
+				<a href="https://arrow.tudublin.ie/tfschhmtart/guidelines.html" title="Articles Submission Guidelines" >
+						Submission Guidelines
+				</a>
+			</li>
+		
+		
+			<li class="submit">
+				<a href="https://arrow.tudublin.ie/cgi/ir_submit.cgi?context=tfschhmtart" >
+					Submit Research
+				</a>
+			</li>
+		
+	</ul>
+
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_sidebar_sort_sba.inc (cont) -->
+<!-- FILE: /srv/sequoia/main/data/arrow.tudublin.ie/assets/ir_sidebar_custom_lower_7_8.inc -->
+
+
+
+
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_sidebar_homepage_links_7_8.inc -->
+
+<!-- FILE: /srv/sequoia/main/data/arrow.tudublin.ie/assets/ir_sidebar_custom_lower_7_8.inc (cont) -->
+
+
+
+
+
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_sidebar_sort_sba.inc (cont) -->
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_sidebar_sw_links_7_8.inc -->
+
+	
+		
+	
+
+
+	<!-- FILE: /srv/sequoia/main/data/assets/site/ir_sidebar_sort_sba.inc (cont) -->
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_sidebar_geolocate.inc --><!-- FILE: /srv/sequoia/main/data/assets/site/ir_geolocate_enabled_and_displayed.inc -->
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_sidebar_geolocate.inc (cont) -->
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_sidebar_sort_sba.inc (cont) -->
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_sidebar_custom_lowest_7_8.inc -->
+
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_sidebar_sort_sba.inc (cont) -->
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_sidebar_7_8.inc (cont) -->
+
+		
+
+
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/footer.pregen (cont) -->
+	<div class="verticalalign">&nbsp;</div>
+	</div>
+
+</div>
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_footer_content.inc --><div id="footer" role="contentinfo">
+	
+	
+	<!-- FILE: /srv/sequoia/main/data/assets/site/ir_bepress_logo.inc --><div id="bepress">
+
+<a href="https://www.elsevier.com/solutions/digital-commons" title="Elsevier - Digital Commons" >
+	<em>Elsevier - Digital Commons</em>
+</a>
+
+</div>
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_footer_content.inc (cont) -->
+	<p>
+		<a href="https://arrow.tudublin.ie" title="Home page" accesskey="1" >Home</a> | 
+		<a href="https://arrow.tudublin.ie/about.html" title="About" >About</a> | 
+		<a href="https://arrow.tudublin.ie/faq.html" title="FAQ" >FAQ</a> | 
+		<a href="/cgi/myaccount.cgi?context=tfschhmtart" title="My Account Page" accesskey="3" >My Account</a> | 
+		<a href="https://arrow.tudublin.ie/accessibility.html" title="Accessibility Statement" accesskey="0" >Accessibility Statement</a>
+	</p>
+	<p>
+	
+	
+		<a class="secondary-link" href="https://www.elsevier.com/legal/privacy-policy" title="Privacy Policy" >Privacy</a>
+	
+		<a class="secondary-link" href="https://www.elsevier.com/legal/elsevier-website-terms-and-conditions" title="Copyright Policy" >Copyright</a>	
+	</p> 
+	
+</div>
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/footer.pregen (cont) -->
+
+</div>
+</div>
+
+<!-- FILE: /srv/sequoia/main/data/arrow.tudublin.ie/assets/ir_analytics.inc --><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-5499681-3', 'dit.ie');
+  ga('send', 'pageview');
+
+</script><!-- FILE: /srv/sequoia/main/data/assets/site/footer.pregen (cont) -->
+
+<script type='text/javascript' src='/assets/scripts/bpbootstrap-20160726.pack.js'></script><script type='text/javascript'>BPBootstrap.init({appendCookie:''})</script><script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a40ebe022c4acce9',t:'MTc5MDM4ODczMQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body></html>

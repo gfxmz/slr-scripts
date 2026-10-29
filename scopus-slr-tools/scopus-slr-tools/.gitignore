@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Script output (user data, should not be committed)
+downloaded_pdfs/
+merged.csv
+*.pdf
+download_log.csv
+abstracts.csv
+/data/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp

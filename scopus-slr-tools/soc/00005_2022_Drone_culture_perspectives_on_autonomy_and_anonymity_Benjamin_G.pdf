@@ -1,0 +1,813 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en" class="nexus-font-support">
+
+
+<head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta name="google" content="nositelinkssearchbox"/>
+    <meta name="tdm-reservation" content="0">
+    <title>
+        Drone Culture: perspectives on autonomy and anonymity
+      -  Southampton Solent University</title>
+    
+    
+    
+
+
+
+<meta property="og:site_name" content="Southampton Solent University">
+
+
+    <meta property="og:title" content="Drone Culture: perspectives on autonomy and anonymity"/>
+
+
+<meta property="og:url" content="https://pure.solent.ac.uk/en/publications/drone-culture-perspectives-on-autonomy-and-anonymity/">
+<meta property="og:locale" content="en_GB">
+
+
+
+
+    
+        <meta property="og:image" content="https://pure.solent.ac.uk/skin/headerImage/">
+    
+
+
+
+
+    
+        <meta property="og:type" content="article">
+    
+
+    
+
+    
+
+
+    <link rel="stylesheet" href="/assets/application-d8c4196ba42289b701050fcf209ab3eb.css" />
+    <!-- OneTrust Cookies Consent Notice start -->
+<script async src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="5dc8b81d-4a21-4f7f-93b5-c84089dffe58" data-document-language="true"></script>
+<script type="text/javascript">
+    document.cookieConsentBannerShowAll = false;
+    function OptanonWrapper() { }
+</script>
+<!-- OneTrust Cookies Consent Notice end -->
+    
+        <link rel="shortcut icon" href="/skin/favIcon/"/>
+    
+    <link href="/skin/css/" rel="stylesheet"/>
+    
+    <script src="/skin/script/" type="text/javascript"></script>
+    <script type="text/javascript" src="/assets/application-d9c3c96b32ee7877543159e1191a25d2.js" ></script>
+    <!--[if lt IE 9]>
+    <script type="text/javascript" src="/assets/html5shiv.min-ca5300beead9a4a9d2c9c584a9016410.js" ></script>
+    <script type="text/javascript" src="/assets/respond.min-678d372b349e434d9923e1b591f14a1e.js" ></script>
+    <![endif]-->
+    
+        
+        
+        <meta name="citation_title" content="Drone Culture: perspectives on autonomy and anonymity"></meta><meta name="citation_author" content="Garfield Benjamin"></meta><meta name="citation_publication_date" content="2020/08/18"></meta><meta name="citation_pdf_url" content="https://pure.solent.ac.uk/files/11265981/Drone_Culture_perspectives_on_autonomy_and_anonymity_AAM.pdf"></meta><meta name="citation_online_date" content="2021/11/11"></meta><meta name="citation_doi" content="10.1007/s00146-020-01042-7"></meta><meta name="citation_language" content="English"></meta><meta name="citation_journal_title" content="AI and Society"></meta><meta name="citation_issn" content="0951-5666"></meta><meta name="citation_publisher" content="Springer London"></meta>
+        <script src="/assets/Chart.min-27bff060c3e539ceb22e763c8f2e9e10.js"></script>
+        <script src="/assets/jquery.content-chart-9c09bb79ba3fc3829b6478d0e114f737.js"></script>
+        
+    
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script src="https://www.googletagmanager.com/gtag/js?id=G-1TM1M52Z9C" class="optanon-category-2" type="text/plain" async=""></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1TM1M52Z9C', {'cookie_domain' : document.location.hostname, 'anonymize_ip': true });
+</script>
+    <script src="//assets.adobedtm.com/4a848ae9611a/ea83f870454d/launch-af020409b299.min.js" class="optanon-category-2" type="text/plain" async=""></script>
+    
+    
+</head>
+
+<body class="" data-page="publications">
+
+<div id="aria-polite" aria-live="polite"></div>
+<div id="aria-assertive" aria-live="assertive"></div>
+
+<a href="#main-navigation" class="sr-only sr-only-focusable">Skip to main navigation</a>
+
+    <a href="#main-search" class="sr-only sr-only-focusable">Skip to search</a>
+
+<a href="#main-content" class="sr-only sr-only-focusable">Skip to main content</a>
+
+
+
+
+
+
+
+    <header class="header" id="page-header">
+        <div class="primary  ">
+            <div class="container">
+                
+                <a href="/en/" class="logo">
+                    
+                        <span class="sr-only">Southampton Solent University Home</span>
+                        <img src="/skin/headerImage/" alt="Southampton Solent University Logo"/>
+                    
+                </a>
+                
+                
+                
+            </div>
+        </div>
+
+        
+            <div class="header-search">
+                
+<form action="/en/searchAll/index/drone-culture-perspectives-on-autonomy-and-anonymity/" method="get"
+      class="search-form" id="search-everything">
+
+    <div class="global-search-wrapper">
+        <div class="global-search mini">
+            <div class="field-button-wrapper">
+                <div class="search-cell search-field">
+                    <label for="main-search" class="sr-only">Search content at Southampton Solent University</label>
+                    <input id="main-search" class="search-field" value="" name="search"
+                           placeholder="Search..."/>
+                </div>
+
+                <div class="search-submit">
+                    <button type="submit" aria-label="Search">
+                        <i class="icon icon-magnifying-glass" aria-hidden="true"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+<script>
+    $(function () {
+        var searchForm = $("#search-everything");
+        var searchField = $(".search-field", searchForm);
+        searchForm.on("submit", function () {
+            var field = searchField.find("input");
+            var searchString = field.val();
+
+            // No enter key submit nothing :-)
+            if (!searchString) return false;
+
+            if (searchString.length >= 200) {
+                searchForm.attr("method", "post");
+                searchForm.attr("action", "/en/concepts/copypaste/");
+                field.attr("name", "text");
+            }
+        });
+    });
+</script>
+            </div>
+        
+
+
+        
+        
+            <div class="subMenu">
+                <div class="secondary">
+                    <div class="container">
+                        <nav id="main-navigation" aria-label="Main navigation" class="content-navigation three-third">
+                            <ul data-value="More" role="menubar" aria-label="Main navigation">
+                                <li class="" role="none">
+                                    <a href="/en/" role="menuitem" tabindex="-1">Home</a>
+                                </li>
+
+                                
+                                    <li class="" role="none">
+                                        <a class="portal_link" tabindex="-1" role="menuitem" href="/en/persons/"><span>Profiles</span></a>
+                                    </li>
+                                
+                                    <li class="" role="none">
+                                        <a class="portal_link" tabindex="-1" role="menuitem" href="/en/organisations/"><span>Organisations</span></a>
+                                    </li>
+                                
+                                    <li class="" role="none">
+                                        <a class="portal_link" tabindex="-1" role="menuitem" href="/en/projects/"><span>Projects</span></a>
+                                    </li>
+                                
+                                    <li class="selected" role="none">
+                                        <a class="portal_link" tabindex="0" role="menuitem" href="/en/publications/"><span>Research output</span></a>
+                                    </li>
+                                
+                                    <li class="" role="none">
+                                        <a class="portal_link" tabindex="-1" role="menuitem" href="/en/studentTheses/"><span>Student theses</span></a>
+                                    </li>
+                                
+                                    <li class="" role="none">
+                                        <a class="portal_link" tabindex="-1" role="menuitem" href="/en/activities/"><span>Activities</span></a>
+                                    </li>
+                                
+                            </ul>
+                        </nav>
+
+                    </div>
+                </div>
+            </div>
+        
+    </header>
+
+    <main id="page-content">
+        
+    <div class="page-section page-section-publications page-section-publications-view ">
+
+        
+        
+        
+        
+        <section
+                class="page-section-header page-section-header-publications page-section-header-publications-view
+                 no-backdrop-image"
+                data-stickyheader=""
+                style="">
+            
+            
+        
+
+
+<div class="container">
+    <div class="row">
+        <div class="introduction no-metrics">
+            <div class="rendering"><h1><span>Drone Culture: perspectives on autonomy and anonymity</span></h1></div>
+            <div class="rendering rendering_researchoutput  rendering_researchoutput_associatespersonsclassifiedportal rendering_contributiontojournal rendering_associatespersonsclassifiedportal rendering_contributiontojournal_associatespersonsclassifiedportal"><ul class="relations persons"><li>Garfield Benjamin</li></div>
+            <div class="rendering rendering_researchoutput  rendering_researchoutput_associatesorganisationsportal rendering_contributiontojournal rendering_associatesorganisationsportal rendering_contributiontojournal_associatesorganisationsportal"><ul class="relations organisations"></ul></div>
+            
+            <div class="rendering rendering_researchoutput  rendering_researchoutput_publicationcontenttyperendererportalng rendering_contributiontojournal rendering_publicationcontenttyperendererportalng rendering_contributiontojournal_publicationcontenttyperendererportalng"><p class="type"><span class="type_family">Research output<span class="type_family_sep">: </span></span><span class="type_classification_parent">Contribution to journal<span class="type_parent_sep"> › </span></span><span class="type_classification">Article</span><span class="type_classification"><span class="type_parent_sep"> › </span>peer-review</span></p></div>
+        </div>
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="publication-metrics" role="region" aria-label="Publication metrics section">
+        
+            <div class="metrics-container">
+                
+                    <div class="metrics-wrap metrics-top one">
+                        
+                        
+                            <div class="metric metrics-downloads">
+                                <span class="count tooltipped tooltipped-n" aria-label="Total downloads for this work">974</span>
+                                <span class="label">Downloads
+(Pure)</span>
+                            </div>
+                        
+                    </div>
+                
+                
+            </div>
+        
+    </div>
+
+
+    </div>
+
+</div>
+<div class="subMenu">
+    <div class="content-profile-navigation">
+    <div class="container">
+        <nav role="navigation">
+            <ul role="menubar">
+                <li class="selected" role="none">
+                    <a class="portal_link" role="menuitem" href="/en/publications/drone-culture-perspectives-on-autonomy-and-anonymity/"><span>
+                        <i class="icon icon-publication" aria-hidden="true"></i>
+                        <span class="label">Overview</span>
+                    </span></a>
+                </li>
+                
+                    <li class="" role="none">
+                        <a class="portal_link" role="menuitem" href="/en/publications/drone-culture-perspectives-on-autonomy-and-anonymity/fingerprints/"><span>
+                            <i class="icon icon-fingerprint" aria-hidden="true"></i>
+                            <span class="label">Fingerprint</span>
+                        </span></a>
+                    </li>
+                
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+
+            </ul>
+        </nav>
+    </div>
+    </div>
+</div>
+
+    
+        </section>
+
+        <div id="main-content"
+             class="page-section-content page-section-content-publications page-section-content-publications-view   ">
+            
+        <section class="page-section content-relation-section">
+            <div class="container">
+                <div class="clearfix">
+                    <div class="content-content publication-content">
+                        
+                        
+                            <h2 class="subheader">Abstract</h2>
+                        <div class="rendering rendering_researchoutput  rendering_researchoutput_abstractportal rendering_contributiontojournal rendering_abstractportal rendering_contributiontojournal_abstractportal"><div class="textblock">This article addresses the problematic perspectives of drone culture. In critiquing focus on the drone’s apparent ‘autonomy’, it argues that such devices function as part of a socio-technical network. They are relational parts of human-machine interaction that, in our changing geopolitical realities, have a powerful influence on politics, reputation and warfare. Drawing on Žižek’s conception of parallax, the article stresses the importance of culture and perception in forming the role of the drone in widening power asymmetries. It examines how perceptions of autonomy are evoked by drones, to claim that this misperception is a smokescreen that obscures the relational socio-technical realities of the drone. The article therefore argues that a more critical culture of the drone emerges by shifting the focus and perception from autonomy to anonymity. This allows us to engage more fully with the distributed agency and decision-making that define how drones are developed and deployed. Rather than focusing on the drone as a singular, fetishised, technical object, a relational approach to the drone assemblage is proposed that highlights the competing human interests that define and resist drones in global politics and culture.</div></div>
+                        <div class="rendering rendering_researchoutput  rendering_researchoutput_detailsportal rendering_contributiontojournal rendering_detailsportal rendering_contributiontojournal_detailsportal"><div class="article"><table class="properties"><tbody><tr class="language"><th scope="row">Original language</th><td>English</td></tr><tr><th scope="row">Journal</th><td><a rel="Journal" href="#" class="link"><span>AI and Society</span></a></td></tr><tr class="digital_object_identifiers"><th scope="row">DOIs</th><td><ul class="relations digital_object_identifiers"><li><a onclick="window.open(this.href, '_blank','noopener,noreferrer'); return false;" href="https://doi.org/10.1007/s00146-020-01042-7" class="link"><span>https://doi.org/10.1007/s00146-020-01042-7</span></a> </li></ul></td></tr><tr class="status"><th scope="row">Publication status</th><td><span class="prefix">Published - </span><span class="date">18 Aug 2020</span></td></tr></tbody></table></div></div>
+                        
+
+                        
+
+                        
+
+                        
+
+                    </div>
+
+                    <div class="content-sidebar publication-sidebar">
+                        
+                            <h2 class="subheader">Access to Document</h2>
+                        <div class="rendering rendering_researchoutput  rendering_researchoutput_publicationaccessrenderer rendering_contributiontojournal rendering_publicationaccessrenderer rendering_contributiontojournal_publicationaccessrenderer"><ul class="dois"><li><div class="doi"><a onclick="window.open(this.href, '_blank','noopener,noreferrer'); return false;" href="https://doi.org/10.1007/s00146-020-01042-7" class="link"><span>10.1007/s00146-020-01042-7</span></a></div></li></ul><ul class="documents"><li class="open-access"><div class="document"><a onclick="if (this.href) {window.open(this.href)}; return false;" href="/files/11265981/Drone_Culture_perspectives_on_autonomy_and_anonymity_AAM.pdf" class="link document-link"><span>Drone Culture_ perspectives on autonomy and anonymity - AAM</span></a><span class="meta">Accepted author manuscript, 451 KB</span></div></li></ul></div>
+
+                        
+
+                        
+
+                        
+
+                        <div class="rendering rendering_researchoutput  rendering_researchoutput_versioneddocumentspureportal rendering_contributiontojournal rendering_versioneddocumentspureportal rendering_contributiontojournal_versioneddocumentspureportal"><ul class="relations documents"></ul></div>
+
+                        
+
+
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+            <section class="page-section content-relation-section publication-fingerprint">
+                <div class="container">
+                    <div class="header">
+                        <h2 class="section-title">
+                            <i class="icon icon-fingerprint" aria-hidden="true"></i>
+                            <span class="title">Fingerprint</span>
+                        </h2>
+                        <span class="sub-title">
+                            Dive into the research topics of 'Drone Culture: perspectives on autonomy and anonymity'. Together they form a unique fingerprint.
+                        </span>
+                    </div>
+
+                    <ul class="publication-top-concepts" role="menubar"  aria-label="Related fingerprints">
+                        
+                            <li class="concept-badge-large-container dropdown-overflow" role="none">
+
+    <button tabindex="0"
+            class="concept-badge-large dropdown-toggle"
+            type="button"
+            role="menuitem"
+            aria-haspopup="true"
+            aria-expanded="false"
+            aria-controls="3db0d8b9-b144-4c28-8cd8-0409cbfd565a"
+            data-concept-uuid="3db0d8b9-b144-4c28-8cd8-0409cbfd565a"
+            data-rank-size="32"
+            data-rank-thickness="8"
+            data-rank-value="1.0"
+            data-summary="true"
+            data-summary-url="/en/concepts/summary/">
+        <span class="concept-wrapper" title="100%">
+            <span class="rank"></span>
+            <span class="concept">Drone</span>
+            <span class="thesauri">Arts &amp; Humanities</span>
+            <span class="value sr-only">100%</span>
+        </span>
+    </button>
+
+    <div class="dropdown-container"></div>
+
+</li>
+                        
+                            <li class="concept-badge-large-container dropdown-overflow" role="none">
+
+    <button tabindex="0"
+            class="concept-badge-large dropdown-toggle"
+            type="button"
+            role="menuitem"
+            aria-haspopup="true"
+            aria-expanded="false"
+            aria-controls="340801af-70c7-4b93-98fa-f00ef979a372"
+            data-concept-uuid="340801af-70c7-4b93-98fa-f00ef979a372"
+            data-rank-size="32"
+            data-rank-thickness="8"
+            data-rank-value="0.958839403464393"
+            data-summary="true"
+            data-summary-url="/en/concepts/summary/">
+        <span class="concept-wrapper" title="95%">
+            <span class="rank"></span>
+            <span class="concept">Drones</span>
+            <span class="thesauri">Engineering &amp; Materials Science</span>
+            <span class="value sr-only">95%</span>
+        </span>
+    </button>
+
+    <div class="dropdown-container"></div>
+
+</li>
+                        
+                            <li class="concept-badge-large-container dropdown-overflow" role="none">
+
+    <button tabindex="0"
+            class="concept-badge-large dropdown-toggle"
+            type="button"
+            role="menuitem"
+            aria-haspopup="true"
+            aria-expanded="false"
+            aria-controls="05061108-cbed-4152-be21-542e7bda1353"
+            data-concept-uuid="05061108-cbed-4152-be21-542e7bda1353"
+            data-rank-size="32"
+            data-rank-thickness="8"
+            data-rank-value="0.8854555476465619"
+            data-summary="true"
+            data-summary-url="/en/concepts/summary/">
+        <span class="concept-wrapper" title="88%">
+            <span class="rank"></span>
+            <span class="concept">Anonymity</span>
+            <span class="thesauri">Arts &amp; Humanities</span>
+            <span class="value sr-only">88%</span>
+        </span>
+    </button>
+
+    <div class="dropdown-container"></div>
+
+</li>
+                        
+                            <li class="concept-badge-large-container dropdown-overflow" role="none">
+
+    <button tabindex="0"
+            class="concept-badge-large dropdown-toggle"
+            type="button"
+            role="menuitem"
+            aria-haspopup="true"
+            aria-expanded="false"
+            aria-controls="8048a431-67c1-4a69-bf7c-a46b66375a77"
+            data-concept-uuid="8048a431-67c1-4a69-bf7c-a46b66375a77"
+            data-rank-size="32"
+            data-rank-thickness="8"
+            data-rank-value="0.5780710465404715"
+            data-summary="true"
+            data-summary-url="/en/concepts/summary/">
+        <span class="concept-wrapper" title="57%">
+            <span class="rank"></span>
+            <span class="concept">Autonomy</span>
+            <span class="thesauri">Arts &amp; Humanities</span>
+            <span class="value sr-only">57%</span>
+        </span>
+    </button>
+
+    <div class="dropdown-container"></div>
+
+</li>
+                        
+                            <li class="concept-badge-large-container dropdown-overflow" role="none">
+
+    <button tabindex="0"
+            class="concept-badge-large dropdown-toggle"
+            type="button"
+            role="menuitem"
+            aria-haspopup="true"
+            aria-expanded="false"
+            aria-controls="256a67b5-946d-433f-bfb3-b903951c9ca6"
+            data-concept-uuid="256a67b5-946d-433f-bfb3-b903951c9ca6"
+            data-rank-size="32"
+            data-rank-thickness="8"
+            data-rank-value="0.13630268666713377"
+            data-summary="true"
+            data-summary-url="/en/concepts/summary/">
+        <span class="concept-wrapper" title="13%">
+            <span class="rank"></span>
+            <span class="concept">Socio-technical Networks</span>
+            <span class="thesauri">Arts &amp; Humanities</span>
+            <span class="value sr-only">13%</span>
+        </span>
+    </button>
+
+    <div class="dropdown-container"></div>
+
+</li>
+                        
+                            <li class="concept-badge-large-container dropdown-overflow" role="none">
+
+    <button tabindex="0"
+            class="concept-badge-large dropdown-toggle"
+            type="button"
+            role="menuitem"
+            aria-haspopup="true"
+            aria-expanded="false"
+            aria-controls="6da8071b-4e46-4dd2-94e2-23cc3e975f40"
+            data-concept-uuid="6da8071b-4e46-4dd2-94e2-23cc3e975f40"
+            data-rank-size="32"
+            data-rank-thickness="8"
+            data-rank-value="0.09986846715574875"
+            data-summary="true"
+            data-summary-url="/en/concepts/summary/">
+        <span class="concept-wrapper" title="9%">
+            <span class="rank"></span>
+            <span class="concept">Global Politics</span>
+            <span class="thesauri">Arts &amp; Humanities</span>
+            <span class="value sr-only">9%</span>
+        </span>
+    </button>
+
+    <div class="dropdown-container"></div>
+
+</li>
+                        
+                            <li class="concept-badge-large-container dropdown-overflow" role="none">
+
+    <button tabindex="0"
+            class="concept-badge-large dropdown-toggle"
+            type="button"
+            role="menuitem"
+            aria-haspopup="true"
+            aria-expanded="false"
+            aria-controls="4ad554af-aa41-43e5-a680-59fa90ced3a3"
+            data-concept-uuid="4ad554af-aa41-43e5-a680-59fa90ced3a3"
+            data-rank-size="32"
+            data-rank-thickness="8"
+            data-rank-value="0.08811772150749957"
+            data-summary="true"
+            data-summary-url="/en/concepts/summary/">
+        <span class="concept-wrapper" title="8%">
+            <span class="rank"></span>
+            <span class="concept">Military operations</span>
+            <span class="thesauri">Engineering &amp; Materials Science</span>
+            <span class="value sr-only">8%</span>
+        </span>
+    </button>
+
+    <div class="dropdown-container"></div>
+
+</li>
+                        
+                            <li class="concept-badge-large-container dropdown-overflow" role="none">
+
+    <button tabindex="0"
+            class="concept-badge-large dropdown-toggle"
+            type="button"
+            role="menuitem"
+            aria-haspopup="true"
+            aria-expanded="false"
+            aria-controls="628a57ed-95fb-4e35-9e40-5c173761a214"
+            data-concept-uuid="628a57ed-95fb-4e35-9e40-5c173761a214"
+            data-rank-size="32"
+            data-rank-thickness="8"
+            data-rank-value="0.07457372364641364"
+            data-summary="true"
+            data-summary-url="/en/concepts/summary/">
+        <span class="concept-wrapper" title="7%">
+            <span class="rank"></span>
+            <span class="concept">Assemblages</span>
+            <span class="thesauri">Arts &amp; Humanities</span>
+            <span class="value sr-only">7%</span>
+        </span>
+    </button>
+
+    <div class="dropdown-container"></div>
+
+</li>
+                        
+                    </ul>
+                    <div class="footer">
+                        <div class="view-all align-center">
+                            <a class="portal_link btn-primary btn-large btn-content-link" href="/en/publications/drone-culture-perspectives-on-autonomy-and-anonymity/fingerprints/"><span>
+                                View full fingerprint
+                                <i class="icon icon-right-open-mini" aria-hidden="true"></i>
+                            </span></a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        
+
+        
+            
+        
+            
+        
+            
+        
+            
+        
+        <section class="page-section cite">
+            <div class="container">
+                <section class="publication-cite" aria-labelledby="publications-cite-title">
+    <h2 class="subheader" id="publications-cite-title">Cite this</h2>
+    <ul class="tabs" role="tablist" aria-label="Cite this">
+        
+            <li class="selected" role="tab" id="tab-0" aria-controls="cite-apa" tabindex="-1"  aria-selected="false" >
+                APA
+            </li>
+        
+            <li class="" role="tab" id="tab-1" aria-controls="cite-author" tabindex="-1"  aria-selected="false" >
+                Author
+            </li>
+        
+            <li class="" role="tab" id="tab-2" aria-controls="cite-BIBTEX" tabindex="-1"  aria-selected="false" >
+                BIBTEX
+            </li>
+        
+            <li class="" role="tab" id="tab-3" aria-controls="cite-harvard" tabindex="-1"  aria-selected="false" >
+                Harvard
+            </li>
+        
+            <li class="" role="tab" id="tab-4" aria-controls="cite-standard" tabindex="-1"  aria-selected="false" >
+                Standard
+            </li>
+        
+            <li class="" role="tab" id="tab-5" aria-controls="cite-RIS" tabindex="-1"  aria-selected="false" >
+                RIS
+            </li>
+        
+            <li class="" role="tab" id="tab-6" aria-controls="cite-vancouver" tabindex="-1"  aria-selected="false" >
+                Vancouver
+            </li>
+        
+    </ul>
+    <div class="tab-container">
+        
+            <div id="cite-apa" class="tab selected" role="tabpanel" aria-labelledby="tab-0" tabindex="-1" aria-hidden="true">
+                <div class="rendering rendering_researchoutput  rendering_researchoutput_apa rendering_contributiontojournal rendering_apa rendering_contributiontojournal_apa">Benjamin, G. (2020). <a rel="ContributionToJournal" href="https://pure.solent.ac.uk/en/publications/drone-culture-perspectives-on-autonomy-and-anonymity/" class="link"><span>Drone Culture: perspectives on autonomy and anonymity</span></a>. <span><em>AI and Society</em></span>. <a onclick="window.open(this.href, '_blank','noopener,noreferrer'); return false;" href="https://doi.org/10.1007/s00146-020-01042-7" class="link"><span>https://doi.org/10.1007/s00146-020-01042-7</span></a></div>
+            </div>
+        
+            <div id="cite-author" class="tab " role="tabpanel" aria-labelledby="tab-1" tabindex="-1" aria-hidden="true">
+                <div class="rendering rendering_researchoutput  rendering_researchoutput_author rendering_contributiontojournal rendering_author rendering_contributiontojournal_author">Benjamin, Garfield. / <a rel="ContributionToJournal" href="https://pure.solent.ac.uk/en/publications/drone-culture-perspectives-on-autonomy-and-anonymity/" class="link"><span><strong>Drone Culture : perspectives on autonomy and anonymity</strong></span></a>. In: <a rel="Journal" href="#" class="link"><span>AI and Society</span></a>. 2020.</div>
+            </div>
+        
+            <div id="cite-BIBTEX" class="tab " role="tabpanel" aria-labelledby="tab-2" tabindex="-1" aria-hidden="true">
+                <div class="rendering rendering_researchoutput  rendering_researchoutput_bibtex rendering_contributiontojournal rendering_bibtex rendering_contributiontojournal_bibtex"><div>@article{624da32956414f42b9bbf6c4e18400a9,</div><div>  title     = "Drone Culture: perspectives on autonomy and anonymity",</div><div>  abstract  = "This article addresses the problematic perspectives of drone culture. In critiquing focus on the drone{\textquoteright}s apparent {\textquoteleft}autonomy{\textquoteright}, it argues that such devices function as part of a socio-technical network. They are relational parts of human-machine interaction that, in our changing geopolitical realities, have a powerful influence on politics, reputation and warfare. Drawing on {\v Z}i{\v z}ek{\textquoteright}s conception of parallax, the article stresses the importance of culture and perception in forming the role of the drone in widening power asymmetries. It examines how perceptions of autonomy are evoked by drones, to claim that this misperception is a smokescreen that obscures the relational socio-technical realities of the drone. The article therefore argues that a more critical culture of the drone emerges by shifting the focus and perception from autonomy to anonymity. This allows us to engage more fully with the distributed agency and decision-making that define how drones are developed and deployed. Rather than focusing on the drone as a singular, fetishised, technical object, a relational approach to the drone assemblage is proposed that highlights the competing human interests that define and resist drones in global politics and culture.",</div><div>  author    = "Garfield Benjamin",</div><div>  year      = "2020",</div><div>  month     = aug,</div><div>  day       = "18",</div><div>  doi       = "10.1007/s00146-020-01042-7",</div><div>  language  = "English",</div><div>  journal   = "AI and Society",</div><div>  issn      = "0951-5666",</div><div>  publisher = "Springer London",</div><p>}</p></div>
+            </div>
+        
+            <div id="cite-harvard" class="tab " role="tabpanel" aria-labelledby="tab-3" tabindex="-1" aria-hidden="true">
+                <div class="rendering rendering_researchoutput  rendering_researchoutput_harvard rendering_contributiontojournal rendering_harvard rendering_contributiontojournal_harvard">Benjamin, G 2020, '<a rel="ContributionToJournal" href="https://pure.solent.ac.uk/en/publications/drone-culture-perspectives-on-autonomy-and-anonymity/" class="link harvard_title"><span>Drone Culture: perspectives on autonomy and anonymity</span></a>', <span><em>AI and Society</em></span>. <a onclick="window.open(this.href, '_blank','noopener,noreferrer'); return false;" href="https://doi.org/10.1007/s00146-020-01042-7" class="link"><span>https://doi.org/10.1007/s00146-020-01042-7</span></a></div>
+            </div>
+        
+            <div id="cite-standard" class="tab " role="tabpanel" aria-labelledby="tab-4" tabindex="-1" aria-hidden="true">
+                <div class="rendering rendering_researchoutput  rendering_researchoutput_standard rendering_contributiontojournal rendering_standard rendering_contributiontojournal_standard"><a rel="ContributionToJournal" href="https://pure.solent.ac.uk/en/publications/drone-culture-perspectives-on-autonomy-and-anonymity/" class="link"><span><strong>Drone Culture: perspectives on autonomy and anonymity.</strong></span></a> / Benjamin, Garfield. <br />In: <span>AI and Society</span>, 18.08.2020.<p class="type"><span class="type_family">Research output<span class="type_family_sep">: </span></span><span class="type_classification_parent">Contribution to journal<span class="type_parent_sep"> › </span></span><span class="type_classification">Article</span><span class="type_classification"><span class="type_parent_sep"> › </span>peer-review</span></p></div>
+            </div>
+        
+            <div id="cite-RIS" class="tab " role="tabpanel" aria-labelledby="tab-5" tabindex="-1" aria-hidden="true">
+                <div class="rendering rendering_researchoutput  rendering_researchoutput_ris rendering_contributiontojournal rendering_ris rendering_contributiontojournal_ris"><p>TY  - JOUR</p><p>T1  - Drone Culture</p><p>T2  - perspectives on autonomy and anonymity</p><p>AU  - Benjamin, Garfield</p><p>PY  - 2020/8/18</p><p>Y1  - 2020/8/18</p><p>N2  - This article addresses the problematic perspectives of drone culture. In critiquing focus on the drone’s apparent ‘autonomy’, it argues that such devices function as part of a socio-technical network. They are relational parts of human-machine interaction that, in our changing geopolitical realities, have a powerful influence on politics, reputation and warfare. Drawing on Žižek’s conception of parallax, the article stresses the importance of culture and perception in forming the role of the drone in widening power asymmetries. It examines how perceptions of autonomy are evoked by drones, to claim that this misperception is a smokescreen that obscures the relational socio-technical realities of the drone. The article therefore argues that a more critical culture of the drone emerges by shifting the focus and perception from autonomy to anonymity. This allows us to engage more fully with the distributed agency and decision-making that define how drones are developed and deployed. Rather than focusing on the drone as a singular, fetishised, technical object, a relational approach to the drone assemblage is proposed that highlights the competing human interests that define and resist drones in global politics and culture.</p><p>AB  - This article addresses the problematic perspectives of drone culture. In critiquing focus on the drone’s apparent ‘autonomy’, it argues that such devices function as part of a socio-technical network. They are relational parts of human-machine interaction that, in our changing geopolitical realities, have a powerful influence on politics, reputation and warfare. Drawing on Žižek’s conception of parallax, the article stresses the importance of culture and perception in forming the role of the drone in widening power asymmetries. It examines how perceptions of autonomy are evoked by drones, to claim that this misperception is a smokescreen that obscures the relational socio-technical realities of the drone. The article therefore argues that a more critical culture of the drone emerges by shifting the focus and perception from autonomy to anonymity. This allows us to engage more fully with the distributed agency and decision-making that define how drones are developed and deployed. Rather than focusing on the drone as a singular, fetishised, technical object, a relational approach to the drone assemblage is proposed that highlights the competing human interests that define and resist drones in global politics and culture.</p><p>U2  - 10.1007/s00146-020-01042-7</p><p>DO  - 10.1007/s00146-020-01042-7</p><p>M3  - Article</p><p>SN  - 0951-5666</p><p>JO  - AI and Society</p><p>JF  - AI and Society</p><p>ER  - </p></div>
+            </div>
+        
+            <div id="cite-vancouver" class="tab " role="tabpanel" aria-labelledby="tab-6" tabindex="-1" aria-hidden="true">
+                <div class="rendering rendering_researchoutput  rendering_researchoutput_vancouver rendering_contributiontojournal rendering_vancouver rendering_contributiontojournal_vancouver">Benjamin G. <span class="title"><a rel="ContributionToJournal" href="https://pure.solent.ac.uk/en/publications/drone-culture-perspectives-on-autonomy-and-anonymity/" class="link"><span>Drone Culture: <span class="subtitle">perspectives on autonomy and anonymity</span></span></a></span>. <span>AI and Society</span>. 2020 Aug 18. doi: 10.1007/s00146-020-01042-7</div>
+            </div>
+        
+
+        <script>
+            $(function() {
+                $(".tab-container .rendering a:not([href^='http://dx.doi.org'])").contents().unwrap();
+            });
+        </script>
+    </div>
+</section>
+
+            </div>
+        </section>
+        <script>
+    $(function () {
+        if($('.publication-sidebar').length > 0){
+            if($('a.document-link').length === 0){
+                $(".metrics-top").addClass("one");
+                $('div.metrics-downloads').remove();
+            }
+        }
+    });
+
+    function plumXError(e) {
+        $(e).closest('.metric-plum-x').closest('.metrics-bottom').addClass('one');
+        $(e).closest('.metric-plum-x').remove();
+    }
+    $('div.altmetric-embed').on('altmetric:hide', function () {
+        $(this).closest('.metric-altmetric').closest('.metrics-bottom').addClass('one');
+        $(this).closest('.metric-altmetric').remove();
+    });
+</script>
+        
+
+
+
+
+
+    
+        </div>
+    </div>
+
+    <div id="new-modal-overlay"></div>
+    
+    </main>
+
+    <footer id="page-footer" class="main-footer">
+        <div class="container">
+            <div class="footer-wrapper">
+                <div class="content-navigation three-third">
+                    <div dir="ltr" class="footer-columns">
+                        
+                        <div class="footer-column">
+                            <p>
+                                Powered by <a href="http://www.elsevier.com/online-tools/research-intelligence/products-and-services/pure" target="_blank">Pure <span class="sr-only">Link opens in a new tab</span></a>, <a href="http://www.scopus.com/" target="_blank">Scopus <span class="sr-only">Link opens in a new tab</span></a> & <a href="https://www.elsevier.com/products/elsevier-fingerprint-engine" target="_blank">Elsevier Fingerprint Engine&trade; <span class="sr-only">Link opens in a new tab</span></a>
+                            </p>
+
+                            <p>
+                                All content on this site: Copyright &copy; 2026 Southampton Solent University, its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply
+                            </p>
+
+                            <p>We use cookies to help provide and enhance our service and tailor content. By continuing you agree to the <a href="/en/about/cookies/">use of cookies</a></p>
+                            <p><button id="ot-sdk-btn" class="ot-sdk-show-settings"></button></p>
+                            
+                                <p><a href="https://pure.solent.ac.uk/admin/workspace.xhtml" rel="nofollow" target="_blank">Log in to Pure <span class="sr-only">&nbsp; Link opens in a new tab</span></a></p>
+                            
+                            <p></p>
+                        </div>
+
+                        <div class="footer-column">
+                            
+                                <p><a href="https://www.solent.ac.uk/disclaimer/privacy-policy" target="_blank">Southampton Solent University data protection policy <span class="sr-only">&nbsp; Link opens in a new tab</span></a></p>
+                            
+                            
+                            
+                                <p><a href="/en/web-accessibility/" rel="nofollow" target="_blank">About web accessibility <span class="sr-only">&nbsp; Link opens in a new tab</span></a></p>
+                            
+
+                            <p>
+                                
+                            </p>
+
+                            <p>
+                                
+                            </p>
+
+                            <p>
+                                <a href="https://elsevier.responsibledisclosure.com/hc/en-us/requests/new" target="_blank" rel="nofollow">Report vulnerability <span class="sr-only">&nbsp; Link opens in a new tab</span></a>
+                            </p>
+                        </div>
+
+                        
+                            <div class="footer-column">
+                                
+                                    
+                                        <p>
+                                            <a href="/en/contact/index/"> Contact us</a>
+                                        </p>
+                                    
+                                
+
+                            </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="back-to-top">
+            <a href="#" class="back-to-top" aria-label="Go to top"><i class="icon icon-up-open"></i></a>
+        </div>
+    </footer>
+
+
+    <script src="//d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+
+
+
+    
+
+    
+
+
+<script>window.appData = window.appData || [];</script><script type="text/javascript">
+try {(function() {
+appData.push({...{"page":{"businessUnit":"ELS:RP:ST","cmsName":"Pure Portal","environment":"prod","language":"en","loadTime":"251","loadTimestamp":"1790388892375","name":"pure portal:publications:view","noTracking":"false","productName":"PR","type":"CP-CA"},"visitor":{"accountId":"","accountName":"pr:Solent University","ipAddress":"","accessType":"pr:ANON_GUEST","loginStatus":"anonymous"},"content":[{"id":"624da329-5641-4f42-b9bb-f6c4e18400a9","title":"Drone Culture: perspectives on autonomy and anonymity","recordType":"researchoutput"}]}, event: "pageLoad"});})();} catch(e) {if(console) { console.log(e) } }</script>
+<script>function trackPage(){try {(function() {
+window.appData = window.appData || [];
+})();} catch(e) {if(console) { console.log(e) } }}</script>
+
+</body>
+</html>
+

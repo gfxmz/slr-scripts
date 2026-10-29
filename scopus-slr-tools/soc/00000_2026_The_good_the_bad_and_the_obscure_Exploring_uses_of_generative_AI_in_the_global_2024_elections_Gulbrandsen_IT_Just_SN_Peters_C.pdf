@@ -1,0 +1,682 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="da" class="nexus-font-support">
+
+
+<head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta name="google" content="nositelinkssearchbox"/>
+    <meta name="tdm-reservation" content="0">
+    <title>
+        The good, the bad, and the obscure: Exploring uses of generative AI in the global 2024 elections
+      -  Roskilde Universitets forskningsportal</title>
+    
+    
+    
+
+<link rel='alternate' hreflang='da-dk' href='https://forskning.ruc.dk/da/publications/the-good-the-bad-and-the-obscure-exploring-uses-of-generative-ai--2/' /><link rel='alternate' hreflang='en-gb' href='https://forskning.ruc.dk/en/publications/the-good-the-bad-and-the-obscure-exploring-uses-of-generative-ai--2/' />
+
+<meta property="og:site_name" content="Roskilde Universitets forskningsportal">
+
+
+    <meta property="og:title" content="The good, the bad, and the obscure: Exploring uses of generative AI in the global 2024 elections"/>
+
+
+<meta property="og:url" content="https://forskning.ruc.dk/da/publications/the-good-the-bad-and-the-obscure-exploring-uses-of-generative-ai--2/">
+<meta property="og:locale" content="da_DK">
+
+
+
+
+    
+        <meta property="og:image" content="https://forskning.ruc.dk/skin/headerImage/">
+    
+
+
+
+
+    
+        <meta property="og:type" content="article">
+    
+
+    
+
+    
+
+
+    <link rel="stylesheet" href="/assets/application-d8c4196ba42289b701050fcf209ab3eb.css" />
+    <!-- OneTrust Cookies Consent Notice start -->
+<script async src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="bed2c2bb-0256-43fc-94c4-69bcb07cb0b7" data-document-language="true"></script>
+<script type="text/javascript">
+    document.cookieConsentBannerShowAll = false;
+    function OptanonWrapper() { }
+</script>
+<!-- OneTrust Cookies Consent Notice end -->
+    
+        <link rel="shortcut icon" href="/skin/favIcon/"/>
+    
+    <link href="/skin/css/" rel="stylesheet"/>
+    
+    <script src="/skin/script/" type="text/javascript"></script>
+    <script type="text/javascript" src="/assets/application-d9c3c96b32ee7877543159e1191a25d2.js" ></script>
+    <!--[if lt IE 9]>
+    <script type="text/javascript" src="/assets/html5shiv.min-ca5300beead9a4a9d2c9c584a9016410.js" ></script>
+    <script type="text/javascript" src="/assets/respond.min-678d372b349e434d9923e1b591f14a1e.js" ></script>
+    <![endif]-->
+    
+        
+        
+        <meta name="citation_title" content="The good, the bad, and the obscure: Exploring uses of generative AI in the global 2024 elections"></meta><meta name="citation_author" content="Ib T. Gulbrandsen"></meta><meta name="citation_author_institution" content="Institut for Kommunikation og Humanistisk Videnskab"></meta><meta name="citation_author_email" content="ibtunby@ruc.dk"></meta><meta name="citation_author_orcid" content="0000-0002-7351-9458"></meta><meta name="citation_author" content="Sine N. Just"></meta><meta name="citation_author_institution" content="Institut for Kommunikation og Humanistisk Videnskab"></meta><meta name="citation_author_email" content="sinenjust@ruc.dk"></meta><meta name="citation_author_orcid" content="0000-0002-4179-2708"></meta><meta name="citation_author" content="Chris Peters"></meta><meta name="citation_author_institution" content="Institut for Kommunikation og Humanistisk Videnskab"></meta><meta name="citation_author_email" content="cpeters@ruc.dk"></meta><meta name="citation_author_orcid" content="0000-0002-5813-1674"></meta><meta name="citation_publication_date" content="2026/07"></meta><meta name="citation_pdf_url" content="https://forskning.ruc.dk/files/126737997/The_good_the_bad_and_the_obscure-_Exploring_uses_of_generative_AI_in_the_global_2024_elections.pdf"></meta><meta name="citation_online_date" content="2026/08/19"></meta><meta name="citation_doi" content="10.1177/14614448261445574"></meta><meta name="citation_language" content="Engelsk"></meta><meta name="citation_keywords" content="campaigning; deepfakes; digital democracy; disinformation; elections; GenAI; Generative artificial intelligence; political communication"></meta><meta name="citation_keywords" content="campaigning; deepfakes; digital democracy; disinformation; elections; GenAI; Generative artificial intelligence; political communication"></meta><meta name="citation_journal_title" content="New Media and Society"></meta><meta name="citation_issn" content="1461-4448"></meta><meta name="citation_journal_abbrev" content="NEW MEDIA AND SOCIETY"></meta><meta name="citation_journal_abbrev" content="NEW MEDIA SOC"></meta><meta name="citation_publisher" content="SAGE Publications"></meta><meta name="citation_volume" content="28"></meta><meta name="citation_issue" content="7"></meta><meta name="citation_firstpage" content="2912"></meta><meta name="citation_lastpage" content="2931"></meta>
+        <script src="/assets/Chart.min-27bff060c3e539ceb22e763c8f2e9e10.js"></script>
+        <script src="/assets/jquery.content-chart-9c09bb79ba3fc3829b6478d0e114f737.js"></script>
+        
+    
+    
+    <!-- Google Analytics: No account ID (G) found -->
+    <script src="//assets.adobedtm.com/4a848ae9611a/ea83f870454d/launch-af020409b299.min.js" class="optanon-category-2" type="text/plain" async=""></script>
+    
+    
+</head>
+
+<body class="webkit" data-page="publications">
+
+<div id="aria-polite" aria-live="polite"></div>
+<div id="aria-assertive" aria-live="assertive"></div>
+
+<a href="#main-navigation" class="sr-only sr-only-focusable">Spring til hovednavigation</a>
+
+    <a href="#main-search" class="sr-only sr-only-focusable">Spring til søgning</a>
+
+<a href="#main-content" class="sr-only sr-only-focusable">Spring til hovedindhold</a>
+
+
+
+
+
+
+
+    <header class="header" id="page-header">
+        <div class="primary with-right-background ">
+            <div class="container">
+                
+                    <div class="primary-right-background clearfix">
+                
+                <a href="/da/" class="logo">
+                    
+                        <span class="sr-only">Roskilde Universitets forskningsportal Forside</span>
+                        <img src="/skin/headerImage/" alt="Roskilde Universitets forskningsportal Logo"/>
+                    
+                </a>
+                
+                    <ul class="header-tools ">
+                        
+                        
+                            <li class="language-dropdown dropdown">
+                                <button data-toggle="dropdown" class="language_btn" aria-label="Vælg sprog" aria-expanded="false">
+                                    <i class="icon icon-globe" aria-hidden="true"></i></button>
+
+                                <div class="dropdown-container">
+                                    <ul class='language-selector dropdown-menu'><li class='selected'><a href="/da/publications/the-good-the-bad-and-the-obscure-exploring-uses-of-generative-ai--2/" aria-current="true" lang="da">Dansk</a></li><li><a href="/en/publications/the-good-the-bad-and-the-obscure-exploring-uses-of-generative-ai--2/" lang="en">English</a></li></ul>
+                                </div>
+                            </li>
+                        
+                    </ul>
+                
+                
+                
+                    </div>
+                
+            </div>
+        </div>
+
+        
+            <div class="header-search">
+                
+<form action="/da/searchAll/index/the-good-the-bad-and-the-obscure-exploring-uses-of-generative-ai--2/" method="get"
+      class="search-form" id="search-everything">
+
+    <div class="global-search-wrapper">
+        <div class="global-search mini">
+            <div class="field-button-wrapper">
+                <div class="search-cell search-field">
+                    <label for="main-search" class="sr-only">Søg efter indhold i Roskilde Universitets forskningsportal</label>
+                    <input id="main-search" class="search-field" value="" name="search"
+                           placeholder="Søg…"/>
+                </div>
+
+                <div class="search-submit">
+                    <button type="submit" aria-label="Søgning">
+                        <i class="icon icon-magnifying-glass" aria-hidden="true"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+<script>
+    $(function () {
+        var searchForm = $("#search-everything");
+        var searchField = $(".search-field", searchForm);
+        searchForm.on("submit", function () {
+            var field = searchField.find("input");
+            var searchString = field.val();
+
+            // No enter key submit nothing :-)
+            if (!searchString) return false;
+
+            if (searchString.length >= 200) {
+                searchForm.attr("method", "post");
+                searchForm.attr("action", "/da/concepts/copypaste/");
+                field.attr("name", "text");
+            }
+        });
+    });
+</script>
+            </div>
+        
+
+
+        
+        
+            <div class="subMenu">
+                <div class="secondary">
+                    <div class="container">
+                        <nav id="main-navigation" aria-label="Hovednavigation" class="content-navigation three-third">
+                            <ul data-value="Mere" role="menubar" aria-label="Hovednavigation">
+                                <li class="" role="none">
+                                    <a href="/da/" role="menuitem" tabindex="-1">Forside</a>
+                                </li>
+
+                                
+                                    <li class="" role="none">
+                                        <a class="portal_link" tabindex="-1" role="menuitem" href="/da/persons/"><span>Profiler</span></a>
+                                    </li>
+                                
+                                    <li class="" role="none">
+                                        <a class="portal_link" tabindex="-1" role="menuitem" href="/da/organisations/"><span>Forskningsenheder</span></a>
+                                    </li>
+                                
+                                    <li class="selected" role="none">
+                                        <a class="portal_link" tabindex="0" role="menuitem" href="/da/publications/"><span>Publikationer</span></a>
+                                    </li>
+                                
+                                    <li class="" role="none">
+                                        <a class="portal_link" tabindex="-1" role="menuitem" href="/da/projects/"><span>Projekter</span></a>
+                                    </li>
+                                
+                                    <li class="" role="none">
+                                        <a class="portal_link" tabindex="-1" role="menuitem" href="/da/activities/"><span>Aktiviteter</span></a>
+                                    </li>
+                                
+                                    <li class="" role="none">
+                                        <a class="portal_link" tabindex="-1" role="menuitem" href="/da/clippings/"><span>Presse/medier</span></a>
+                                    </li>
+                                
+                                    <li class="" role="none">
+                                        <a class="portal_link" tabindex="-1" role="menuitem" href="/da/datasets/"><span>Forskningsdatasæt</span></a>
+                                    </li>
+                                
+                                    <li class="" role="none">
+                                        <a class="portal_link" tabindex="-1" role="menuitem" href="/da/prizes/"><span>Priser</span></a>
+                                    </li>
+                                
+                            </ul>
+                        </nav>
+
+                    </div>
+                </div>
+            </div>
+        
+    </header>
+
+    <main id="page-content">
+        
+    <div class="page-section page-section-publications page-section-publications-view ">
+
+        
+        
+        
+        
+        <section
+                class="page-section-header page-section-header-publications page-section-header-publications-view
+                 no-backdrop-image"
+                data-stickyheader=""
+                style="">
+            
+            
+        
+
+
+<div class="container">
+    <div class="row">
+        <div class="introduction no-metrics">
+            <div class="rendering"><h1><span>The good, the bad, and the obscure: Exploring uses of generative AI in the global 2024 elections</span></h1></div>
+            <div class="rendering rendering_researchoutput  rendering_researchoutput_associatespersonsclassifiedportal rendering_contributiontojournal rendering_associatespersonsclassifiedportal rendering_contributiontojournal_associatespersonsclassifiedportal"><ul class="relations persons"><li><a rel="Person" href="https://forskning.ruc.dk/da/persons/ibtunby/" class="link person"><span>Ib T. Gulbrandsen</span></a><sup>*</sup></li><li>, <a rel="Person" href="https://forskning.ruc.dk/da/persons/sinenjust/" class="link person"><span>Sine N. Just</span></a></li><li>, <a rel="Person" href="https://forskning.ruc.dk/da/persons/cpeters/" class="link person"><span>Chris Peters</span></a></li><div class="info-block"><div class="info"><sup>*</sup><span>Corresponding author</span></div></div></div>
+            <div class="rendering rendering_researchoutput  rendering_researchoutput_associatesorganisationsportal rendering_contributiontojournal rendering_associatesorganisationsportal rendering_contributiontojournal_associatesorganisationsportal"><ul class="relations organisations"><li class="institute"><a rel="Organisation" href="https://forskning.ruc.dk/da/organisations/institut-for-kommunikation-og-humanistisk-videnskab/" class="link"><span>Institut for Kommunikation og Humanistisk Videnskab</span></a></li></ul></div>
+            
+            <div class="rendering rendering_researchoutput  rendering_researchoutput_publicationcontenttyperendererportalng rendering_contributiontojournal rendering_publicationcontenttyperendererportalng rendering_contributiontojournal_publicationcontenttyperendererportalng"><p class="type"><span class="type_family">Publikation<span class="type_family_sep">: </span></span><span class="type_classification_parent">Bidrag til tidsskrift<span class="type_parent_sep"> › </span></span><span class="type_classification">Tidsskriftartikel</span><span class="type_classification"><span class="type_parent_sep"> › </span>Forskning</span><span class="type_classification"><span class="type_parent_sep"> › </span>peer review</span></p></div>
+        </div>
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="publication-metrics" role="region" aria-label="Afsnit med metrik til publikationer">
+        
+            <div class="metrics-container">
+                
+                    <div class="metrics-wrap metrics-top one">
+                        
+                        
+                            <div class="metric metrics-downloads">
+                                <span class="count tooltipped tooltipped-n" aria-label="Samlet antal downloads for dette arbejde">12</span>
+                                <span class="label">Downloads
+(Pure)</span>
+                            </div>
+                        
+                    </div>
+                
+                
+                    <div class="metrics-wrap metrics-bottom ">
+                        
+                            <div class="metric metric-plum-x">
+                                <a href="https://plu.mx/plum/a/?doi=10.1177/14614448261445574" class="plumx-plum-print-popup" data-on-empty="plumXError" data-on-fail="plumXError" data-on-success="plumXSuccess" data-popup="left" data-hide-when-empty="true" data-site="plum"
+                                   data-badge="false"></a>
+                            </div>
+                        
+
+                        
+                            <div class="metric metric-altmetric">
+                                
+                                    <div data-badge-popover="top" data-badge-type="donut" data-doi="10.1177/14614448261445574" data-hide-no-mentions="true" data-link-target='_blank'
+                                         class="altmetric-embed"></div>
+                                
+                            </div>
+                        
+                    </div>
+                
+            </div>
+        
+    </div>
+
+
+    </div>
+
+</div>
+<div class="subMenu">
+    <div class="content-profile-navigation">
+    <div class="container">
+        <nav role="navigation">
+            <ul role="menubar">
+                <li class="selected" role="none">
+                    <a class="portal_link" role="menuitem" href="/da/publications/the-good-the-bad-and-the-obscure-exploring-uses-of-generative-ai--2/"><span>
+                        <i class="icon icon-publication" aria-hidden="true"></i>
+                        <span class="label">Oversigt</span>
+                    </span></a>
+                </li>
+                
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+
+            </ul>
+        </nav>
+    </div>
+    </div>
+</div>
+
+    
+        </section>
+
+        <div id="main-content"
+             class="page-section-content page-section-content-publications page-section-content-publications-view   ">
+            
+        <section class="page-section content-relation-section">
+            <div class="container">
+                <div class="clearfix">
+                    <div class="content-content publication-content">
+                        
+                        
+                            <h2 class="subheader">Abstract</h2>
+                        <div class="rendering rendering_researchoutput  rendering_researchoutput_abstractportal rendering_contributiontojournal rendering_abstractportal rendering_contributiontojournal_abstractportal"><div class="textblock">Digital technologies are ubiquitous in political communication, but their democratic consequences remain contentious, with the recent emergence of generative AI (GenAI) further complicating already complex sociotechnical issues. This article explores the empirical terrain of GenAI uses that came to public attention in the 2024 global elections by collating and analysing data from two prominent tracking projects. First, we map where GenAI was identified, which actors were involved, and through which platforms and modalities it circulated. Second, we build a provisional typology of emerging GenAI use in election campaigns, identifying practices of informing, campaigning, dissenting, disinforming, defaming, impostering, and spoofing as a basis for discussing the in-/authenticity of communicators and the in-/correctness of content. The article nuances proposed assessments of the political implications of generative AI by offering one of the first systematic, empirical analyses of its potential democratic consequences, identifying context-specific good, bad, and obscure uses of these new technologies.</div></div>
+                        <div class="rendering rendering_researchoutput  rendering_researchoutput_detailsportal rendering_contributiontojournal rendering_detailsportal rendering_contributiontojournal_detailsportal"><div class="article"><table class="properties"><tbody><tr class="language"><th scope="row">Originalsprog</th><td>Engelsk</td></tr><tr><th scope="row">Tidsskrift</th><td><a rel="Journal" href="#" class="link"><span>New Media and Society</span></a></td></tr><tr><th scope="row">Vol/bind</th><td>28</td></tr><tr><th scope="row">Udgave nummer</th><td>7</td></tr><tr><th scope="row">Sider (fra-til)</th><td>2912-2931</td></tr><tr><th scope="row">Antal sider</th><td>20</td></tr><tr><th scope="row">ISSN</th><td>1461-4448</td></tr><tr class="digital_object_identifiers"><th scope="row">DOI</th><td><ul class="relations digital_object_identifiers"><li><a onclick="window.open(this.href, '_blank','noopener,noreferrer'); return false;" href="https://doi.org/10.1177/14614448261445574" class="link"><span>https://doi.org/10.1177/14614448261445574</span></a> </li></ul></td></tr><tr class="status"><th scope="row">Status</th><td><span class="prefix">Udgivet - </span><span class="date">jul. 2026</span></td></tr></tbody></table></div></div>
+                        
+
+                        
+
+                        
+    <div class="sdgs-content-page">
+        <h2 id="sdg-title" class="subheader">FN’s Verdensmål</h2>
+        <p class="sdg-text">Dette resultat bidrager til følgende verdensmål</p>
+        <ol class="sdg_icons" aria-labelledby="sdg-title">
+            
+                <li class="content-page">
+                    
+                    <img alt="Verdensmål 16 - Fred, retfærdighed og stærke institutioner" title="Verdensmål 16 - Fred, retfærdighed og stærke institutioner" class="peace_justice_and_strong_institutions"
+                         src="/assets/sdg_icons/peace_justice_and_strong_institutions-2198e62de154090dcd2642736839fe19.svg"
+                         role="presentation"/>
+                    <div class="sdg-name">
+                        <span>Verdensmål 16</span>
+                        <span>Fred, retfærdighed og stærke institutioner</span>
+                    </div>
+                </li>
+            
+        </ol>
+    </div>
+
+
+                        <div class="rendering rendering_keywordable rendering_expertkeywordgrouspbytypeportal rendering_keywordable_expertkeywordgrouspbytypeportal"><div class="keyword-group"><h2 class="subheader">Emneord</h2><ul class="relations keywords"><li class="userdefined-keyword"><span>campaigning</span></li><li class="userdefined-keyword"><span>deepfakes</span></li><li class="userdefined-keyword"><span>digital democracy</span></li><li class="userdefined-keyword"><span>disinformation</span></li><li class="userdefined-keyword"><span>elections</span></li><li class="userdefined-keyword"><span>GenAI</span></li><li class="userdefined-keyword"><span>Generative artificial intelligence</span></li><li class="userdefined-keyword"><span>political communication</span></li></ul></div></div>
+
+                    </div>
+
+                    <div class="content-sidebar publication-sidebar">
+                        
+                            <h2 class="subheader">Adgang til dokumentet</h2>
+                        <div class="rendering rendering_researchoutput  rendering_researchoutput_publicationaccessrenderer rendering_contributiontojournal rendering_publicationaccessrenderer rendering_contributiontojournal_publicationaccessrenderer"><ul class="dois"><li><div class="doi"><a onclick="window.open(this.href, '_blank','noopener,noreferrer'); return false;" href="https://doi.org/10.1177/14614448261445574" class="link"><span>10.1177/14614448261445574</span></a></div></li></ul><ul class="documents"><li class="open-access"><div class="document"><a onclick="if (this.href) {window.open(this.href)}; return false;" href="/files/126737997/The_good_the_bad_and_the_obscure-_Exploring_uses_of_generative_AI_in_the_global_2024_elections.pdf" class="link document-link"><span>The good, the bad, and the obscure: Exploring uses of generative AI in the global 2024 elections</span></a><span class="meta">Accepteret manuskript, 608 KB</span></div></li></ul></div>
+
+                        <div class="rendering rendering_researchoutput  rendering_researchoutput_publicationsfxportalrenderer rendering_contributiontojournal rendering_publicationsfxportalrenderer rendering_contributiontojournal_publicationsfxportalrenderer"><h2 class="subheader">KB link</h2><span class="globe"><a href="https://soeg.kb.dk/openurl/45KBDK_KGL/45KBDK_KGL:KGL?ctx_ver=Z39.88-2004&amp;ctx_tim=2026-09-25T21%3A52%3A10UTC&amp;ctx_enc=info%3Aofi%2FencUTF-8&amp;url_ver=Z39.88-2004&amp;url_ctx_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Actx&amp;rft.genre=article&amp;rft_val_fmt=info%3Aofi%2Fkev%3Afmt%3Ajournal&amp;rfr_id=info%3Asid%2Fpure.atira.dk%3Apure&amp;rft.atitle=The%20good%2C%20the%20bad%2C%20and%20the%20obscure&amp;rft_id=info%3Adoi%2F10.1177%2F14614448261445574&amp;rft.aulast=Gulbrandsen&amp;rft.aufirst=Ib%20T.&amp;rft.auinit=I&amp;rft.date=2026-07&amp;rft.volume=28&amp;rft.issue=7&amp;rft.issn=1461-4448&amp;rft.jtitle=New%20Media%20and%20Society&amp;rft.pages=2912-2931">Søg efter materialet på Det Kgl. Bibliotek</a></span></div>
+
+                        
+
+                        
+
+                        <div class="rendering rendering_researchoutput  rendering_researchoutput_versioneddocumentspureportal rendering_contributiontojournal rendering_versioneddocumentspureportal rendering_contributiontojournal_versioneddocumentspureportal"><ul class="relations documents"></ul></div>
+
+                        
+
+
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+        <section class="page-section cite">
+            <div class="container">
+                <section class="publication-cite" aria-labelledby="publications-cite-title">
+    <h2 class="subheader" id="publications-cite-title">Citationsformater</h2>
+    <ul class="tabs" role="tablist" aria-label="Citationsformater">
+        
+            <li class="selected" role="tab" id="tab-0" aria-controls="cite-apa" tabindex="-1"  aria-selected="false" >
+                APA
+            </li>
+        
+            <li class="" role="tab" id="tab-1" aria-controls="cite-author" tabindex="-1"  aria-selected="false" >
+                Author
+            </li>
+        
+            <li class="" role="tab" id="tab-2" aria-controls="cite-BIBTEX" tabindex="-1"  aria-selected="false" >
+                BIBTEX
+            </li>
+        
+            <li class="" role="tab" id="tab-3" aria-controls="cite-harvard" tabindex="-1"  aria-selected="false" >
+                Harvard
+            </li>
+        
+            <li class="" role="tab" id="tab-4" aria-controls="cite-standard" tabindex="-1"  aria-selected="false" >
+                Standard
+            </li>
+        
+            <li class="" role="tab" id="tab-5" aria-controls="cite-RIS" tabindex="-1"  aria-selected="false" >
+                RIS
+            </li>
+        
+            <li class="" role="tab" id="tab-6" aria-controls="cite-vancouver" tabindex="-1"  aria-selected="false" >
+                Vancouver
+            </li>
+        
+    </ul>
+    <div class="tab-container">
+        
+            <div id="cite-apa" class="tab selected" role="tabpanel" aria-labelledby="tab-0" tabindex="-1" aria-hidden="true">
+                <div class="rendering rendering_researchoutput  rendering_researchoutput_apa rendering_contributiontojournal rendering_apa rendering_contributiontojournal_apa"><a rel="Person" href="https://forskning.ruc.dk/da/persons/ibtunby/" class="link"><span>Gulbrandsen, I. T.</span></a><a rel="Person" href="https://forskning.ruc.dk/da/persons/sinenjust/" class="link"><span>, Just, S. N.</span></a><a rel="Person" href="https://forskning.ruc.dk/da/persons/cpeters/" class="link"><span>, &amp; Peters, C.</span></a> (2026). <a rel="ContributionToJournal" href="https://forskning.ruc.dk/da/publications/the-good-the-bad-and-the-obscure-exploring-uses-of-generative-ai--2/" class="link"><span>The good, the bad, and the obscure: Exploring uses of generative AI in the global 2024 elections</span></a>. <span><em>New Media and Society</em></span>, <em>28</em>(7), 2912-2931. <a onclick="window.open(this.href, '_blank','noopener,noreferrer'); return false;" href="https://doi.org/10.1177/14614448261445574" class="link"><span>https://doi.org/10.1177/14614448261445574</span></a></div>
+            </div>
+        
+            <div id="cite-author" class="tab " role="tabpanel" aria-labelledby="tab-1" tabindex="-1" aria-hidden="true">
+                <div class="rendering rendering_researchoutput  rendering_researchoutput_author rendering_contributiontojournal rendering_author rendering_contributiontojournal_author"><a rel="Person" href="https://forskning.ruc.dk/da/persons/ibtunby/" class="link"><span>Gulbrandsen, Ib T.</span></a> <a rel="Person" href="https://forskning.ruc.dk/da/persons/sinenjust/" class="link"><span> ; Just, Sine N.</span></a> <a rel="Person" href="https://forskning.ruc.dk/da/persons/cpeters/" class="link"><span> ; Peters, Chris</span></a>. / <a rel="ContributionToJournal" href="https://forskning.ruc.dk/da/publications/the-good-the-bad-and-the-obscure-exploring-uses-of-generative-ai--2/" class="link"><span><strong>The good, the bad, and the obscure : Exploring uses of generative AI in the global 2024 elections</strong></span></a>. I: <a rel="Journal" href="#" class="link"><span>New Media and Society</span></a>. 2026 ; Bind 28, Nr. 7. s. 2912-2931.</div>
+            </div>
+        
+            <div id="cite-BIBTEX" class="tab " role="tabpanel" aria-labelledby="tab-2" tabindex="-1" aria-hidden="true">
+                <div class="rendering rendering_researchoutput  rendering_researchoutput_bibtex rendering_contributiontojournal rendering_bibtex rendering_contributiontojournal_bibtex"><div>@article{76dd4b6325b0423eaf1b4b352d7ca93c,</div><div>  title     = "The good, the bad, and the obscure: Exploring uses of generative AI in the global 2024 elections",</div><div>  abstract  = "Digital technologies are ubiquitous in political communication, but their democratic consequences remain contentious, with the recent emergence of generative AI (GenAI) further complicating already complex sociotechnical issues. This article explores the empirical terrain of GenAI uses that came to public attention in the 2024 global elections by collating and analysing data from two prominent tracking projects. First, we map where GenAI was identified, which actors were involved, and through which platforms and modalities it circulated. Second, we build a provisional typology of emerging GenAI use in election campaigns, identifying practices of informing, campaigning, dissenting, disinforming, defaming, impostering, and spoofing as a basis for discussing the in-/authenticity of communicators and the in-/correctness of content. The article nuances proposed assessments of the political implications of generative AI by offering one of the first systematic, empirical analyses of its potential democratic consequences, identifying context-specific good, bad, and obscure uses of these new technologies.",</div><div>  keywords  = "campaigning, deepfakes, digital democracy, disinformation, elections, GenAI, Generative artificial intelligence, political communication, campaigning, deepfakes, digital democracy, disinformation, elections, GenAI, Generative artificial intelligence, political communication",</div><div>  author    = "Gulbrandsen, \{Ib T.\} and Just, \{Sine N.\} and Chris Peters",</div><div>  year      = "2026",</div><div>  month     = jul,</div><div>  doi       = "10.1177/14614448261445574",</div><div>  language  = "English",</div><div>  volume    = "28",</div><div>  pages     = "2912--2931",</div><div>  journal   = "New Media and Society",</div><div>  issn      = "1461-4448",</div><div>  publisher = "SAGE Publications",</div><div>  number    = "7",</div><p>}</p></div>
+            </div>
+        
+            <div id="cite-harvard" class="tab " role="tabpanel" aria-labelledby="tab-3" tabindex="-1" aria-hidden="true">
+                <div class="rendering rendering_researchoutput  rendering_researchoutput_harvard rendering_contributiontojournal rendering_harvard rendering_contributiontojournal_harvard"><a rel="Person" href="https://forskning.ruc.dk/da/persons/ibtunby/" class="link"><span>Gulbrandsen, IT</span></a><a rel="Person" href="https://forskning.ruc.dk/da/persons/sinenjust/" class="link"><span>, Just, SN</span></a><a rel="Person" href="https://forskning.ruc.dk/da/persons/cpeters/" class="link"><span> &amp; Peters, C</span></a> 2026, '<a rel="ContributionToJournal" href="https://forskning.ruc.dk/da/publications/the-good-the-bad-and-the-obscure-exploring-uses-of-generative-ai--2/" class="link harvard_title"><span>The good, the bad, and the obscure: Exploring uses of generative AI in the global 2024 elections</span></a>', <span><em>New Media and Society</em></span>, bind 28, nr. 7, s. 2912-2931. <a onclick="window.open(this.href, '_blank','noopener,noreferrer'); return false;" href="https://doi.org/10.1177/14614448261445574" class="link"><span>https://doi.org/10.1177/14614448261445574</span></a></div>
+            </div>
+        
+            <div id="cite-standard" class="tab " role="tabpanel" aria-labelledby="tab-4" tabindex="-1" aria-hidden="true">
+                <div class="rendering rendering_researchoutput  rendering_researchoutput_standard rendering_contributiontojournal rendering_standard rendering_contributiontojournal_standard"><a rel="ContributionToJournal" href="https://forskning.ruc.dk/da/publications/the-good-the-bad-and-the-obscure-exploring-uses-of-generative-ai--2/" class="link"><span><strong>The good, the bad, and the obscure: Exploring uses of generative AI in the global 2024 elections.</strong></span></a> / <a rel="Person" href="https://forskning.ruc.dk/da/persons/ibtunby/" class="link"><span>Gulbrandsen, Ib T.</span></a><a rel="Person" href="https://forskning.ruc.dk/da/persons/sinenjust/" class="link"><span>; Just, Sine N.</span></a><a rel="Person" href="https://forskning.ruc.dk/da/persons/cpeters/" class="link"><span>; Peters, Chris</span></a>. <br />I: <span>New Media and Society</span>, Bind 28, Nr. 7, 07.2026, s. 2912-2931.<p class="type"><span class="type_family">Publikation<span class="type_family_sep">: </span></span><span class="type_classification_parent">Bidrag til tidsskrift<span class="type_parent_sep"> › </span></span><span class="type_classification">Tidsskriftartikel</span><span class="type_classification"><span class="type_parent_sep"> › </span>Forskning</span><span class="type_classification"><span class="type_parent_sep"> › </span>peer review</span></p></div>
+            </div>
+        
+            <div id="cite-RIS" class="tab " role="tabpanel" aria-labelledby="tab-5" tabindex="-1" aria-hidden="true">
+                <div class="rendering rendering_researchoutput  rendering_researchoutput_ris rendering_contributiontojournal rendering_ris rendering_contributiontojournal_ris"><p>TY  - JOUR</p><p>T1  - The good, the bad, and the obscure</p><p>T2  - Exploring uses of generative AI in the global 2024 elections</p><p>AU  - Gulbrandsen, Ib T.</p><p>AU  - Just, Sine N.</p><p>AU  - Peters, Chris</p><p>PY  - 2026/7</p><p>Y1  - 2026/7</p><p>N2  - Digital technologies are ubiquitous in political communication, but their democratic consequences remain contentious, with the recent emergence of generative AI (GenAI) further complicating already complex sociotechnical issues. This article explores the empirical terrain of GenAI uses that came to public attention in the 2024 global elections by collating and analysing data from two prominent tracking projects. First, we map where GenAI was identified, which actors were involved, and through which platforms and modalities it circulated. Second, we build a provisional typology of emerging GenAI use in election campaigns, identifying practices of informing, campaigning, dissenting, disinforming, defaming, impostering, and spoofing as a basis for discussing the in-/authenticity of communicators and the in-/correctness of content. The article nuances proposed assessments of the political implications of generative AI by offering one of the first systematic, empirical analyses of its potential democratic consequences, identifying context-specific good, bad, and obscure uses of these new technologies.</p><p>AB  - Digital technologies are ubiquitous in political communication, but their democratic consequences remain contentious, with the recent emergence of generative AI (GenAI) further complicating already complex sociotechnical issues. This article explores the empirical terrain of GenAI uses that came to public attention in the 2024 global elections by collating and analysing data from two prominent tracking projects. First, we map where GenAI was identified, which actors were involved, and through which platforms and modalities it circulated. Second, we build a provisional typology of emerging GenAI use in election campaigns, identifying practices of informing, campaigning, dissenting, disinforming, defaming, impostering, and spoofing as a basis for discussing the in-/authenticity of communicators and the in-/correctness of content. The article nuances proposed assessments of the political implications of generative AI by offering one of the first systematic, empirical analyses of its potential democratic consequences, identifying context-specific good, bad, and obscure uses of these new technologies.</p><p>KW  - campaigning</p><p>KW  - deepfakes</p><p>KW  - digital democracy</p><p>KW  - disinformation</p><p>KW  - elections</p><p>KW  - GenAI</p><p>KW  - Generative artificial intelligence</p><p>KW  - political communication</p><p>KW  - campaigning</p><p>KW  - deepfakes</p><p>KW  - digital democracy</p><p>KW  - disinformation</p><p>KW  - elections</p><p>KW  - GenAI</p><p>KW  - Generative artificial intelligence</p><p>KW  - political communication</p><p>U2  - 10.1177/14614448261445574</p><p>DO  - 10.1177/14614448261445574</p><p>M3  - Journal article</p><p>AN  - SCOPUS:105044355029</p><p>SN  - 1461-4448</p><p>VL  - 28</p><p>SP  - 2912</p><p>EP  - 2931</p><p>JO  - New Media and Society</p><p>JF  - New Media and Society</p><p>IS  - 7</p><p>ER  - </p></div>
+            </div>
+        
+            <div id="cite-vancouver" class="tab " role="tabpanel" aria-labelledby="tab-6" tabindex="-1" aria-hidden="true">
+                <div class="rendering rendering_researchoutput  rendering_researchoutput_vancouver rendering_contributiontojournal rendering_vancouver rendering_contributiontojournal_vancouver"><a rel="Person" href="https://forskning.ruc.dk/da/persons/ibtunby/" class="link"><span>Gulbrandsen IT</span></a><a rel="Person" href="https://forskning.ruc.dk/da/persons/sinenjust/" class="link"><span>, Just SN</span></a><a rel="Person" href="https://forskning.ruc.dk/da/persons/cpeters/" class="link"><span>, Peters C</span></a>. <span class="title"><a rel="ContributionToJournal" href="https://forskning.ruc.dk/da/publications/the-good-the-bad-and-the-obscure-exploring-uses-of-generative-ai--2/" class="link"><span>The good, the bad, and the obscure: <span class="subtitle">Exploring uses of generative AI in the global 2024 elections</span></span></a></span>. <span>New Media and Society</span>. 2026 jul.;28(7):2912-2931. doi: 10.1177/14614448261445574</div>
+            </div>
+        
+
+        <script>
+            $(function() {
+                $(".tab-container .rendering a:not([href^='http://dx.doi.org'])").contents().unwrap();
+            });
+        </script>
+    </div>
+</section>
+
+            </div>
+        </section>
+        <script>
+    $(function () {
+        if($('.publication-sidebar').length > 0){
+            if($('a.document-link').length === 0){
+                $(".metrics-top").addClass("one");
+                $('div.metrics-downloads').remove();
+            }
+        }
+    });
+
+    function plumXError(e) {
+        $(e).closest('.metric-plum-x').closest('.metrics-bottom').addClass('one');
+        $(e).closest('.metric-plum-x').remove();
+    }
+    $('div.altmetric-embed').on('altmetric:hide', function () {
+        $(this).closest('.metric-altmetric').closest('.metrics-bottom').addClass('one');
+        $(this).closest('.metric-altmetric').remove();
+    });
+</script>
+        
+
+
+
+    
+    
+    
+    
+    
+    
+
+    
+        
+        
+        
+    
+
+    <div class="share-box">
+        <ul>
+            <li class="icon-share"></li>
+            <li><a aria-label="Del på Facebook"
+                   href="https://www.facebook.com/sharer.php?u=https://forskning.ruc.dk/da/publications/the-good-the-bad-and-the-obscure-exploring-uses-of-generative-ai--2/%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dsharelink%26doi%3D10.1177%2F14614448261445574&p[summary]=Tjek+denne+publikation+ud+p%C3%A5+Roskilde+Universitets+forskningsportal%3A+The+good%2C+the+bad%2C+and+the+obscure%3A+Exploring+uses+of+generative+AI+in+the+global+2024+elections"
+                   class="icon-facebook"
+                   onclick="window.location.origin('https://www.facebook.com/sharer.php?u=https://forskning.ruc.dk/da/publications/the-good-the-bad-and-the-obscure-exploring-uses-of-generative-ai--2/%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dsharelink%26doi%3D10.1177%2F14614448261445574&p[summary]=Tjek+denne+publikation+ud+p%C3%A5+Roskilde+Universitets+forskningsportal%3A+The+good%2C+the+bad%2C+and+the+obscure%3A+Exploring+uses+of+generative+AI+in+the+global+2024+elections', 'Facebook', 'width=600,height=600,scrollbars=no,resizable=no');
+                   return false;" target="popup"></a></li>
+            <li><a aria-label="Del på Twitter"
+                   href="https://twitter.com/intent/tweet?url=https://forskning.ruc.dk/da/publications/the-good-the-bad-and-the-obscure-exploring-uses-of-generative-ai--2/%3Futm_source%3Dtwitter%26utm_medium%3Dsocial%26utm_campaign%3Dsharelink%26doi%3D10.1177%2F14614448261445574&text=Tjek+denne+publikation+ud+p%C3%A5+Roskilde+Universitets+forskningsportal%3A+The+good%2C+the+bad%2C+and+the+obscure%3A+Exploring+uses+of+generative+AI+in+the+global+2024+elections"
+                   onclick="window.location.origin('https://twitter.com/intent/tweet?url=https://forskning.ruc.dk/da/publications/the-good-the-bad-and-the-obscure-exploring-uses-of-generative-ai--2/%3Futm_source%3Dtwitter%26utm_medium%3Dsocial%26utm_campaign%3Dsharelink%26doi%3D10.1177%2F14614448261445574&text=Tjek+denne+publikation+ud+p%C3%A5+Roskilde+Universitets+forskningsportal%3A+The+good%2C+the+bad%2C+and+the+obscure%3A+Exploring+uses+of+generative+AI+in+the+global+2024+elections doi%3A10.1177%2F14614448261445574', 'Twitter', 'width=600,height=600,scrollbars=no,resizable=no');
+                   return false;" class="twitter" target="popup"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 300 271">
+                    
+                    <path d="m236 0h46l-101 115 118 156h-92.6l-72.5-94.8-83 94.8h-46l107-123-113-148h94.9l65.5 86.6zm-16.1 244h25.5l-165-218h-27.4z"></path>
+                </svg></a></li>
+            <li><a aria-label="Del på LinkedIn"
+                   href="https://www.linkedin.com/shareArticle?mini=true&url=https://forskning.ruc.dk/da/publications/the-good-the-bad-and-the-obscure-exploring-uses-of-generative-ai--2/%3Futm_source%3Dlinkedin%26utm_medium%3Dsocial%26utm_campaign%3Dsharelink%26doi%3D10.1177%2F14614448261445574&summary=Tjek+denne+publikation+ud+p%C3%A5+Roskilde+Universitets+forskningsportal%3A+The+good%2C+the+bad%2C+and+the+obscure%3A+Exploring+uses+of+generative+AI+in+the+global+2024+elections"
+                   onclick="window.location.origin('https://www.linkedin.com/shareArticle?mini=true&url=https://forskning.ruc.dk/da/publications/the-good-the-bad-and-the-obscure-exploring-uses-of-generative-ai--2/%3Futm_source%3Dlinkedin%26utm_medium%3Dsocial%26utm_campaign%3Dsharelink%26doi%3D10.1177%2F14614448261445574&summary=Tjek+denne+publikation+ud+p%C3%A5+Roskilde+Universitets+forskningsportal%3A+The+good%2C+the+bad%2C+and+the+obscure%3A+Exploring+uses+of+generative+AI+in+the+global+2024+elections doi%3A10.1177%2F14614448261445574', 'LinkedIn', 'width=600,height=600,scrollbars=no,resizable=no');
+                   return false;" class="icon-linkedin" target="popup"></a></li>
+            <li><a aria-label="Del via e-mail" href="/cdn-cgi/l/email-protection#1e216d6b7c747b7d6a234a767b3b2c2e7971717a3b2c5d3b2c2e6a767b3b2c2e7c7f7a3b2c5d3b2c2e7f707a3b2c2e6a767b3b2c2e717c6d7d6b6c7b3b2d5f3b2c2e5b666e72716c7770793b2c2e6b6d7b6d3b2c2e71783b2c2e797b707b6c7f6a77687b3b2c2e5f573b2c2e77703b2c2e6a767b3b2c2e7972717c7f723b2c2e2c2e2c2a3b2c2e7b727b7d6a7771706d387c717a67234a747b753b2c2e7a7b70707b3b2c2e6e6b7c7277757f6a7771703b2c2e6b7a3b2c2e6e3b5d2d3b5f2b3b2c2e4c716d7577727a7b3b2c2e4b7077687b6c6d776a7b6a6d3b2c2e78716c6d75707770796d6e716c6a7f723b2d5f3b2c2e4a767b3b2c2e7971717a3b2c5d3b2c2e6a767b3b2c2e7c7f7a3b2c5d3b2c2e7f707a3b2c2e6a767b3b2c2e717c6d7d6b6c7b3b2d5f3b2c2e5b666e72716c7770793b2c2e6b6d7b6d3b2c2e71783b2c2e797b707b6c7f6a77687b3b2c2e5f573b2c2e77703b2c2e6a767b3b2c2e7972717c7f723b2c2e2c2e2c2a3b2c2e7b727b7d6a7771706d3e623e766a6a6e6d24313178716c6d7570777079306c6b7d307a75317a7f316e6b7c72777d7f6a7771706d316a767b337971717a336a767b337c7f7a337f707a336a767b33717c6d7d6b6c7b337b666e72716c777079336b6d7b6d33717833797b707b6c7f6a77687b337f7733332c31216b6a73416d716b6c7d7b237b737f7772387f736e256b6a7341737b7a776b73237b737f7772387f736e256b6a73417d7f736e7f777970236d767f6c7b72777075" class="icon-email"></a></li>
+        </ul>
+    </div>
+
+
+
+
+    
+        </div>
+    </div>
+
+    <div id="new-modal-overlay"></div>
+    
+    </main>
+
+    <footer id="page-footer" class="main-footer">
+        <div class="container">
+            <div class="footer-wrapper">
+                <div class="content-navigation three-third">
+                    <div dir="ltr" class="footer-columns">
+                        
+                            <div class="footer-column">
+                                <div class="footer-icon">
+                                    <img src="/skin/footerIcon/" alt="Roskilde Universitets forskningsportal Logo"/>
+                                </div>
+                            </div>
+                        
+                        <div class="footer-column">
+                            <p>
+                                Drevet af <a href="http://www.elsevier.com/online-tools/research-intelligence/products-and-services/pure">Pure</a>, <a href="http://www.scopus.com/">Scopus</a> & <a href="https://www.elsevier.com/products/elsevier-fingerprint-engine">Elsevier Fingerprint Engine&trade;</a>
+                            </p>
+
+                            <p>
+                                Alt indhold på dette websted: Copyright © 2026 Roskilde Universitets forskningsportal, dets licensgivere og bidragydere. Alle rettigheder forbeholdes, herunder dem til tekst- og datamining, AI-træning og lignende teknologier. For alt Open Access indhold gælder de relevante licensbetingelser.
+                            </p>
+
+                            <p>Vi bruger cookies til at hjælpe med at tilvejebringe og forbedre vores service og tilpasse indhold. Ved at fortsætte accepterer du <a href="/da/about/cookies/">brug af cookies</a></p>
+                            <p><button id="ot-sdk-btn" class="ot-sdk-show-settings"></button></p>
+                            
+                                <p><a href="https://rucforsk.ruc.dk/admin/workspace.xhtml" rel="nofollow" target="_blank">Log ind i Pure <span class="sr-only">&nbsp; Link åbnes på en ny fane</span></a></p>
+                            
+                            <p></p>
+                        </div>
+
+                        <div class="footer-column">
+                            
+                                <p><a href="https://ruc.dk/om-websitet-rucdk" target="_blank">Roskilde Universitets forskningsportal databeskyttelsespolitik <span class="sr-only">&nbsp; Link åbnes på en ny fane</span></a></p>
+                            
+                            
+                            
+                                <p><a href="/da/web-accessibility/" rel="nofollow" target="_blank">Om webtilgængelighed <span class="sr-only">&nbsp; Link åbnes på en ny fane</span></a></p>
+                            
+
+                            <p>
+                                
+                            </p>
+
+                            <p>
+                                
+                            </p>
+
+                            <p>
+                                <a href="https://elsevier.responsibledisclosure.com/hc/en-us/requests/new" target="_blank" rel="nofollow">Rapport sårbarhed <span class="sr-only">&nbsp; Link åbnes på en ny fane</span></a>
+                            </p>
+                        </div>
+
+                        
+                            <div class="footer-column">
+                                
+                                    
+                                        <p>
+                                            <a href="/da/contact/index/"> Kontakt os</a>
+                                        </p>
+                                    
+                                
+
+                            </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="back-to-top">
+            <a href="#" class="back-to-top" aria-label="Gå til toppen"><i class="icon icon-up-open"></i></a>
+        </div>
+    </footer>
+
+
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="//d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+
+
+
+    
+
+    
+
+
+<script>window.appData = window.appData || [];</script><script type="text/javascript">
+try {(function() {
+appData.push({...{"page":{"businessUnit":"ELS:RP:ST","cmsName":"Pure Portal","environment":"prod","language":"da","loadTime":"222","loadTimestamp":"1790378893053","name":"pure portal:publications:view","noTracking":"false","productName":"PR","type":"CP-CA"},"visitor":{"accountId":"","accountName":"pr:Roskilde Universitet","ipAddress":"","accessType":"pr:ANON_GUEST","loginStatus":"anonymous"},"content":[{"id":"76dd4b63-25b0-423e-af1b-4b352d7ca93c","title":"The good, the bad, and the obscure: Exploring uses of generative AI in the global 2024 elections","recordType":"researchoutput"}]}, event: "pageLoad"});})();} catch(e) {if(console) { console.log(e) } }</script>
+<script>function trackPage(){try {(function() {
+window.appData = window.appData || [];
+})();} catch(e) {if(console) { console.log(e) } }}</script>
+
+</body>
+</html>
+

@@ -1,0 +1,791 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head><!-- inj yui3-seed: --><script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/yui/3.6.0/yui/yui-min.js'></script><script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js'></script><!-- Adobe Analytics --><script type='text/javascript' src='https://assets.adobedtm.com/4a848ae9611a/d0e96722185b/launch-d525bb0064d8.min.js'></script><script type='text/javascript' src=/assets/nr_browser_production.js></script>
+
+<!-- def.1 -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<title>
+"“Etazene, Safer Than Heroin and Fentanyl”: Non-Fentanyl Novel Syntheti" by Francois R. Lamy, Raminta Daniulaityte et al.
+</title>
+
+
+<!-- FILE article_meta-tags.inc --><!-- FILE: /srv/sequoia/main/data/assets/site/article_meta-tags.inc -->
+<meta itemprop="name" content="“Etazene, Safer Than Heroin and Fentanyl”: Non-Fentanyl Novel Synthetic Opioid Listings on One Darknet Market">
+<meta property="og:title" content="“Etazene, Safer Than Heroin and Fentanyl”: Non-Fentanyl Novel Synthetic Opioid Listings on One Darknet Market">
+<meta name="twitter:title" content="“Etazene, Safer Than Heroin and Fentanyl”: Non-Fentanyl Novel Synthetic Opioid Listings on One Darknet Market">
+<meta property="article:author" content="Francois R. Lamy">
+<meta name="author" content="Francois R. Lamy">
+<meta property="article:author" content="Raminta Daniulaityte">
+<meta name="author" content="Raminta Daniulaityte">
+<meta property="article:author" content="Monica J. Barratt">
+<meta name="author" content="Monica J. Barratt">
+<meta property="article:author" content="Usha Lokala">
+<meta name="author" content="Usha Lokala">
+<meta property="article:author" content="Amit Sheth">
+<meta name="author" content="Amit Sheth">
+<meta property="article:author" content="Robert G. Carlson">
+<meta name="author" content="Robert G. Carlson">
+<meta name="robots" content="noodp, noydir">
+<meta name="description" content="Background Novel synthetic opioids are fueling the overdose deaths epidemic in North America.Recently, non-fentanyl novel synthetic opioids have emerged in forensic toxicological results. Cryptomarkets have become important platforms of distribution for illicit substances. This article presents the data concerning the availability trends of novel non-fentanyl synthetic opioids listed on one cryptomarket. Methods Listings from the EmpireMarket cryptomarket &quot;Opiates&quot; section were collected between June 2020 and August 2020. Collected data were processed using eDarkTrends Named Entity Recognition algorithm to identify novel synthetic opioids, and to analyze their availability trends in terms of frequency of listings, available average weights, average prices, quantity sold, and geographic indicators of shipment origin and destination information. Results 35,196 opioid-related listings were collected through 12 crawling sessions. 17 nonfentanyl novel synthetic opioids were identified in 2.9 % of the collected listings for an average of 9.2 kg of substance available at each data point. 587 items advertised as non-fentanyl novel synthetic opioids were sold on EmpireMarket for a total weight of between 858 g and 2.7 kg during the study period. 45.5 % of these listings were advertised as shipped from China. Conclusions Fourteen of the 17 non-fentanyl novel synthetic opioids were identified for the first time on one large cryptomarket suggesting a shift in terms of novel non-fentanyl synthetic opioids availability. This increased heterogeneity of available novel synthetic opioids could reduce the efficiency of existing overdose prevention strategies. Identification of new opioids underpins the value of cryptomarket data for early warning systems of emerging substance use trends.">
+<meta itemprop="description" content="Background Novel synthetic opioids are fueling the overdose deaths epidemic in North America.Recently, non-fentanyl novel synthetic opioids have emerged in forensic toxicological results. Cryptomarkets have become important platforms of distribution for illicit substances. This article presents the data concerning the availability trends of novel non-fentanyl synthetic opioids listed on one cryptomarket. Methods Listings from the EmpireMarket cryptomarket &quot;Opiates&quot; section were collected between June 2020 and August 2020. Collected data were processed using eDarkTrends Named Entity Recognition algorithm to identify novel synthetic opioids, and to analyze their availability trends in terms of frequency of listings, available average weights, average prices, quantity sold, and geographic indicators of shipment origin and destination information. Results 35,196 opioid-related listings were collected through 12 crawling sessions. 17 nonfentanyl novel synthetic opioids were identified in 2.9 % of the collected listings for an average of 9.2 kg of substance available at each data point. 587 items advertised as non-fentanyl novel synthetic opioids were sold on EmpireMarket for a total weight of between 858 g and 2.7 kg during the study period. 45.5 % of these listings were advertised as shipped from China. Conclusions Fourteen of the 17 non-fentanyl novel synthetic opioids were identified for the first time on one large cryptomarket suggesting a shift in terms of novel non-fentanyl synthetic opioids availability. This increased heterogeneity of available novel synthetic opioids could reduce the efficiency of existing overdose prevention strategies. Identification of new opioids underpins the value of cryptomarket data for early warning systems of emerging substance use trends.">
+<meta name="twitter:description" content="Background Novel synthetic opioids are fueling the overdose deaths epidemic in North America.Recently, non-fentanyl novel synthetic opioids have emerged in forensic toxicological results. Cryptomarkets have become important platforms of distribution for illicit substances. This article presents the data concerning the availability trends of novel non-fentanyl synthetic opioids listed on one cryptomarket. Methods Listings from the EmpireMarket cryptomarket &quot;Opiates&quot; section were collected between June 2020 and August 2020. Collected data were processed using eDarkTrends Named Entity Recognition algorithm to identify novel synthetic opioids, and to analyze their availability trends in terms of frequency of listings, available average weights, average prices, quantity sold, and geographic indicators of shipment origin and destination information. Results 35,196 opioid-related listings were collected through 12 crawling sessions. 17 nonfentanyl novel synthetic opioids were identified in 2.9 % of the collected listings for an average of 9.2 kg of substance available at each data point. 587 items advertised as non-fentanyl novel synthetic opioids were sold on EmpireMarket for a total weight of between 858 g and 2.7 kg during the study period. 45.5 % of these listings were advertised as shipped from China. Conclusions Fourteen of the 17 non-fentanyl novel synthetic opioids were identified for the first time on one large cryptomarket suggesting a shift in terms of novel non-fentanyl synthetic opioids availability. This increased heterogeneity of available novel synthetic opioids could reduce the efficiency of existing overdose prevention strategies. Identification of new opioids underpins the value of cryptomarket data for early warning systems of emerging substance use trends.">
+<meta property="og:description" content="Background Novel synthetic opioids are fueling the overdose deaths epidemic in North America.Recently, non-fentanyl novel synthetic opioids have emerged in forensic toxicological results. Cryptomarkets have become important platforms of distribution for illicit substances. This article presents the data concerning the availability trends of novel non-fentanyl synthetic opioids listed on one cryptomarket. Methods Listings from the EmpireMarket cryptomarket &quot;Opiates&quot; section were collected between June 2020 and August 2020. Collected data were processed using eDarkTrends Named Entity Recognition algorithm to identify novel synthetic opioids, and to analyze their availability trends in terms of frequency of listings, available average weights, average prices, quantity sold, and geographic indicators of shipment origin and destination information. Results 35,196 opioid-related listings were collected through 12 crawling sessions. 17 nonfentanyl novel synthetic opioids were identified in 2.9 % of the collected listings for an average of 9.2 kg of substance available at each data point. 587 items advertised as non-fentanyl novel synthetic opioids were sold on EmpireMarket for a total weight of between 858 g and 2.7 kg during the study period. 45.5 % of these listings were advertised as shipped from China. Conclusions Fourteen of the 17 non-fentanyl novel synthetic opioids were identified for the first time on one large cryptomarket suggesting a shift in terms of novel non-fentanyl synthetic opioids availability. This increased heterogeneity of available novel synthetic opioids could reduce the efficiency of existing overdose prevention strategies. Identification of new opioids underpins the value of cryptomarket data for early warning systems of emerging substance use trends.">
+<meta name="keywords" content="Advertising; Algorithms; Ballistic missile early warning system; Dark Web; Data Collection; Drug abuse; Drug use; Emergency communication systems; Fentanyl; Forensic sciences; Heroin; Narcotics; Opioids; Overdose; Prevention; Prices; Substance use; Substance abuse">
+<meta name="bepress_citation_journal_title" content="Drug and Alcohol Dependence">
+<meta name="bepress_citation_author" content="Lamy, Francois R.">
+<meta name="bepress_citation_author_institution" content="Mahidol University">
+<meta name="bepress_citation_author" content="Daniulaityte, Raminta">
+<meta name="bepress_citation_author_institution" content="Arizona State University Downtown Phoenix Campus">
+<meta name="bepress_citation_author" content="Barratt, Monica J.">
+<meta name="bepress_citation_author_institution" content="RMIT-City Campus">
+<meta name="bepress_citation_author" content="Lokala, Usha">
+<meta name="bepress_citation_author_institution" content="University of South Carolina">
+<meta name="bepress_citation_author" content="Sheth, Amit">
+<meta name="bepress_citation_author_institution" content="University of South Carolina">
+<meta name="bepress_citation_author" content="Carlson, Robert G.">
+<meta name="bepress_citation_author_institution" content="Wright State University - Main Campus">
+<meta name="bepress_citation_title" content="“Etazene, Safer Than Heroin and Fentanyl”: Non-Fentanyl Novel Synthetic Opioid Listings on One Darknet Market">
+<meta name="bepress_citation_date" content="2021">
+<meta name="bepress_citation_volume" content="225">
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_download_link.inc -->
+<!-- FILE: /srv/sequoia/main/data/assets/site/article_meta-tags.inc (cont) -->
+<meta name="bepress_citation_abstract_html_url" content="https://corescholar.libraries.wright.edu/comhth/603">
+<meta name="bepress_citation_doi" content="10.1016/j.drugalcdep.2021.108790">
+<meta name="bepress_citation_online_date" content="2026/3/25">
+<meta name="viewport" content="width=device-width">
+<!-- Additional Twitter data -->
+<meta name="twitter:card" content="summary">
+<!-- Additional Open Graph data -->
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://corescholar.libraries.wright.edu/comhth/603">
+<meta property="og:site_name" content="CORE Scholar">
+
+
+
+
+<!-- FILE: article_meta-tags.inc (cont) -->
+<meta name="bepress_is_article_cover_page" content="1">
+
+
+<!-- sh.1 -->
+<link rel="stylesheet" href="/ir-style.css" type="text/css" media="screen">
+<link rel="stylesheet" href="/ir-custom.css" type="text/css" media="screen">
+<link rel="stylesheet" href="../ir-custom.css" type="text/css" media="screen">
+<link rel="stylesheet" href="/ir-local.css" type="text/css" media="screen">
+<link rel="stylesheet" href="../ir-local.css" type="text/css" media="screen">
+<link rel="stylesheet" href="/ir-print.css" type="text/css" media="print">
+<link type="text/css" rel="stylesheet" href="/assets/floatbox/floatbox.css">
+<link rel="alternate" type="application/rss+xml" title="Site Feed" href="/recent.rss">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<!--[if IE]>
+<link rel="stylesheet" href="/ir-ie.css" type="text/css" media="screen">
+<![endif]-->
+
+<!-- JS  -->
+<script type="text/javascript" src="/assets/jsUtilities.js"></script>
+<script type="text/javascript" src="/assets/footnoteLinks.js"></script>
+<script type="text/javascript" src="/assets/scripts/yui-init.pack.js"></script>
+<script type="text/javascript" src="/assets/scripts/bepress-init.debug.js"></script>
+<script type="text/javascript" src="/assets/scripts/JumpListYUI.pack.js"></script>
+
+<!-- end sh.1 -->
+
+
+
+
+<script type="text/javascript">var pageData = {"page":{"environment":"prod","productName":"bpdg","language":"en","name":"ir_series:article","businessUnit":"els:rp:st"},"visitor":{}};</script>
+
+</head>
+<body id="geo-series">
+<!-- FILE /srv/sequoia/main/data/corescholar.libraries.wright.edu/assets/header.pregen --><!-- FILE: /srv/sequoia/main/data/assets/site/mobile_nav.inc --><!--[if !IE]>-->
+<script src="/assets/scripts/dc-mobile/dc-responsive-nav.js"></script>
+
+<header id="mobile-nav" class="nav-down device-fixed-height" style="visibility: hidden;">
+  
+  
+  <nav class="nav-collapse">
+    <ul>
+      <li class="menu-item active device-fixed-width"><a href="https://corescholar.libraries.wright.edu" title="Home" data-scroll >Home</a></li>
+      <li class="menu-item device-fixed-width"><a href="https://corescholar.libraries.wright.edu/do/search/advanced/" title="Search" data-scroll ><i class="icon-search"></i> Search</a></li>
+      <li class="menu-item device-fixed-width"><a href="https://corescholar.libraries.wright.edu/communities.html" title="Browse" data-scroll >Browse Collections</a></li>
+      <li class="menu-item device-fixed-width"><a href="/cgi/myaccount.cgi?context=comhth" title="My Account" data-scroll >My Account</a></li>
+      <li class="menu-item device-fixed-width"><a href="https://corescholar.libraries.wright.edu/about.html" title="About" data-scroll >About</a></li>
+      <li class="menu-item device-fixed-width"><a href="https://network.bepress.com" title="Digital Commons Network" data-scroll ><img width="16" height="16" alt="DC Network" style="vertical-align:top;" src="/assets/md5images/8e240588cf8cd3a028768d4294acd7d3.png"> Digital Commons Network™</a></li>
+    </ul>
+  </nav>
+</header>
+
+<script src="/assets/scripts/dc-mobile/dc-mobile-nav.js"></script>
+<!--<![endif]-->
+<!-- FILE: /srv/sequoia/main/data/corescholar.libraries.wright.edu/assets/header.pregen (cont) -->
+
+
+
+<div id="wright">
+	<div id="container">
+		<a href="#main" class="skiplink" accesskey="2" >Skip to main content</a>
+
+					
+			<div id="header" role="banner">
+				<a href="https://corescholar.libraries.wright.edu" id="banner_link" title="CORE Scholar" >
+					<img id="banner_image" alt="CORE Scholar" width='980' height='140' src="/assets/md5images/9217558fdd60187201bd879f5704492d.png">
+				</a>	
+				
+					<a href="https://www.wright.edu" id="logo_link" title="Wright State University" >
+						<img id="logo_image" alt="Wright State University" width='431' height='42' src="/assets/md5images/5212955ba8e4bba2768c169159866fa1.png">
+					</a>
+					<a href="https://libraries.wright.edu/" id="logo_link" title="University Libraries" >
+						<img id="logo_image2" alt="University Libraries" width='431' height='31' src="/assets/md5images/aceab6d2c5f4747a46972d744826f30b.png">
+					</a>	
+				
+			</div>
+					
+			<div id="navigation">
+				<!-- FILE: /srv/sequoia/main/data/assets/site/ir_navigation.inc --><div id="tabs" role="navigation" aria-label="Main"><ul><li id="tabone"><a href="https://corescholar.libraries.wright.edu " title="Home" ><span>Home</span></a></li><li id="tabtwo"><a href="https://corescholar.libraries.wright.edu/about.html" title="About" ><span>About</span></a></li><li id="tabthree"><a href="https://corescholar.libraries.wright.edu/faq.html" title="FAQ" ><span>FAQ</span></a></li><li id="tabfour"><a href="https://corescholar.libraries.wright.edu/cgi/myaccount.cgi?context=comhth" title="My Account" ><span>My Account</span></a></li></ul></div>
+
+
+<!-- FILE: /srv/sequoia/main/data/corescholar.libraries.wright.edu/assets/header.pregen (cont) -->
+			</div>
+		
+
+		<div id="wrapper">
+			<div id="content">
+				<div id="main" class="text" role="main">
+
+<script type="text/javascript" src="/assets/floatbox/floatbox.js"></script>  
+<!-- FILE: /srv/sequoia/main/data/assets/site/article_pager.inc -->
+
+<div id="breadcrumb"><ul id="pager">
+
+                
+                 
+<li>&lt; <a href="https://corescholar.libraries.wright.edu/comhth/495" class="ignore" >Previous</a></li>
+        
+        
+        
+
+                
+                 
+<li><a href="https://corescholar.libraries.wright.edu/comhth/564" class="ignore" >Next</a> &gt;</li>
+        
+        
+        
+<li>&nbsp;</li></ul><div class="crumbs"><!-- FILE: /srv/sequoia/main/data/assets/site/ir_breadcrumb.inc -->
+
+<div class="crumbs" role="navigation" aria-label="Breadcrumb">
+    <ol style="list-style:none;margin:0;padding:0">
+	
+	
+	<li style="display:inline;margin:0">
+		<a href="https://corescholar.libraries.wright.edu" class="ignore" >Home</a>
+	</li>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	 <span aria-hidden="true">&gt;</span> 
+	<li style="display:inline;margin:0">
+		<a href="https://corescholar.libraries.wright.edu/med" class="ignore" >Boonshoft School of Medicine</a>
+	</li>	
+	
+	
+	
+	
+	
+	
+	 <span aria-hidden="true">&gt;</span> 
+	<li style="display:inline;margin:0">
+		<a href="https://corescholar.libraries.wright.edu/comhth_comm" class="ignore" >Population and Public Health Sciences</a>
+	</li>	
+	
+	
+	
+	
+	
+	
+	 <span aria-hidden="true">&gt;</span> 
+	<li style="display:inline;margin:0">
+		<a href="https://corescholar.libraries.wright.edu/comhth" class="ignore" >Population and Public Health Sciences Faculty Publications</a>
+	</li>	
+	
+	
+	
+	
+	
+	 <span aria-hidden="true">&gt;</span> 
+	<li style="display:inline;margin:0">
+		<a href="https://corescholar.libraries.wright.edu/comhth/603" class="ignore" aria-current="page" >603</a>
+	</li>	
+	
+	
+	
+	</ol>
+</div>
+
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/article_pager.inc (cont) --></div>
+</div>
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_series/article/index.html (cont) -->
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_series/article/article_info.inc --><!-- FILE: /srv/sequoia/main/data/assets/site/openurl.inc -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_series/article/article_info.inc (cont) -->
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_download_link.inc -->
+
+
+
+
+
+
+
+
+
+	
+	
+	
+    
+    
+    
+	
+	
+	
+	
+	
+		
+		
+	
+	
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_series/article/article_info.inc (cont) -->
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_series/article/ir_article_header.inc -->
+
+
+<div id="series-header">
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_series/ir_series_logo.inc -->
+
+
+
+ 
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_series/article/ir_article_header.inc (cont) --><h2 id="series-title"><a href="https://corescholar.libraries.wright.edu/comhth" >Population and Public Health Sciences Faculty Publications</a></h2></div>
+<div style="clear: both">&nbsp;</div>
+
+<div id="sub">
+<div id="alpha">
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_series/article/article_info.inc (cont) --><div id='title' class='element'>
+<h1>“Etazene, Safer Than Heroin and Fentanyl”: Non-Fentanyl Novel Synthetic Opioid Listings on One Darknet Market</h1>
+</div>
+<div class='clear'></div>
+<div id='authors' class='element'>
+<h2 class='visually-hidden'>Authors</h2>
+<ul class="author"><li><a href='https://corescholar.libraries.wright.edu/do/search/?q=author%3A%22Francois%20R.%20Lamy%22&start=0&context=2351694'><strong>Francois R. Lamy</strong>, <em>Mahidol University</em></a></li>
+<li><a href='https://corescholar.libraries.wright.edu/do/search/?q=author%3A%22Raminta%20Daniulaityte%22&start=0&context=2351694'><strong>Raminta Daniulaityte</strong>, <em>Arizona State University Downtown Phoenix Campus</em></a></li>
+<li><a href='https://corescholar.libraries.wright.edu/do/search/?q=author%3A%22Monica%20J.%20Barratt%22&start=0&context=2351694'><strong>Monica J. Barratt</strong>, <em>RMIT-City Campus</em></a></li>
+<li><a href='https://corescholar.libraries.wright.edu/do/search/?q=author%3A%22Usha%20Lokala%22&start=0&context=2351694'><strong>Usha Lokala</strong>, <em>University of South Carolina</em></a></li>
+<li><a href='https://corescholar.libraries.wright.edu/do/search/?q=author%3A%22Amit%20Sheth%22&start=0&context=2351694'><strong>Amit Sheth</strong>, <em>University of South Carolina</em></a></li>
+<li><a href='https://corescholar.libraries.wright.edu/do/search/?q=%28author%3A%22Robert%20G.%20Carlson%22%20AND%20-bp_author_id%3A%5B%2A%20TO%20%2A%5D%29%20OR%20bp_author_id%3A%28%22a39e2220-d0b5-433a-9ec7-6c7c345c52c4%22%29&start=0&context=2351694'><strong>Robert G. Carlson</strong>, <em>Wright State University - Main Campus</em></a><a rel="nofollow" href="https://network.bepress.com/api/follow/subscribe?user=OWI3YzA3ZjQzYzhkZjQ0NA%3D%3D&amp;institution=YjgxMTE1N2UzZTlkNWRlMg%3D%3D&amp;format=html" data-follow-set="user:OWI3YzA3ZjQzYzhkZjQ0NA== institution:YjgxMTE1N2UzZTlkNWRlMg==" title="Follow Robert G. Carlson" class="btn followable">Follow</a></li>
+</ul></div>
+<div class='clear'></div>
+<div id='document_type' class='element'>
+<h2 class='field-heading'>Document Type</h2>
+<p>Article</p>
+</div>
+<div class='clear'></div>
+<div id='publication_date' class='element'>
+<h2 class='field-heading'>Publication Date</h2>
+<p>8-1-2021</p>
+</div>
+<div class='clear'></div>
+<div id='abstract' class='element'>
+<h2 class='field-heading'>Abstract</h2>
+<p>Background Novel synthetic opioids are fueling the overdose deaths epidemic in North America.Recently, non-fentanyl novel synthetic opioids have emerged in forensic toxicological results. Cryptomarkets have become important platforms of distribution for illicit substances. This article presents the data concerning the availability trends of novel non-fentanyl synthetic opioids listed on one cryptomarket. Methods Listings from the EmpireMarket cryptomarket "Opiates" section were collected between June 2020 and August 2020. Collected data were processed using eDarkTrends Named Entity Recognition algorithm to identify novel synthetic opioids, and to analyze their availability trends in terms of frequency of listings, available average weights, average prices, quantity sold, and geographic indicators of shipment origin and destination information. Results 35,196 opioid-related listings were collected through 12 crawling sessions. 17 nonfentanyl novel synthetic opioids were identified in 2.9 % of the collected listings for an average of 9.2 kg of substance available at each data point. 587 items advertised as non-fentanyl novel synthetic opioids were sold on EmpireMarket for a total weight of between 858 g and 2.7 kg during the study period. 45.5 % of these listings were advertised as shipped from China. Conclusions Fourteen of the 17 non-fentanyl novel synthetic opioids were identified for the first time on one large cryptomarket suggesting a shift in terms of novel non-fentanyl synthetic opioids availability. This increased heterogeneity of available novel synthetic opioids could reduce the efficiency of existing overdose prevention strategies. Identification of new opioids underpins the value of cryptomarket data for early warning systems of emerging substance use trends.</p>
+</div>
+<div class='clear'></div>
+<div id='recommended_citation' class='element'>
+<h2 class='field-heading'>Repository Citation</h2>
+<!-- FILE: /srv/sequoia/main/data/corescholar.libraries.wright.edu/assets/ir_series/ir_citation.inc --><p>
+Lamy, F. R.,
+
+Daniulaityte, R.,
+
+Barratt, M. J.,
+
+Lokala, U.,
+
+Sheth, A.,
+
+& Carlson, R. G.
+ (2021). “Etazene, Safer Than Heroin and Fentanyl”: Non-Fentanyl Novel Synthetic Opioid Listings on One Darknet Market. <em>Drug and Alcohol Dependence, 225</em>, 108790.
+<br>https://corescholar.libraries.wright.edu/comhth/603</p><!-- FILE: /srv/sequoia/main/data/assets/site/ir_series/article/article_info.inc (cont) --></div>
+<div class='clear'></div>
+<div id='doi' class='element'>
+<h2 class='field-heading'>DOI</h2>
+<p>10.1016/j.drugalcdep.2021.108790</p>
+</div>
+<div class='clear'></div>
+</div>
+    </div>
+    <div id='beta_7-3'>
+<!-- FILE: /srv/sequoia/main/data/assets/site/info_box_7_3.inc --><!-- FILE: /srv/sequoia/main/data/assets/site/openurl.inc -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/info_box_7_3.inc (cont) -->
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_download_link.inc -->
+
+
+
+
+
+
+
+
+
+	
+	
+	
+    
+    
+    
+	
+	
+	
+	
+	
+		
+		
+	
+	
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/info_box_7_3.inc (cont) -->
+
+
+	<!-- FILE: /srv/sequoia/main/data/assets/site/info_box_download_button.inc --><div class="aside download-button">
+    <a id="remote-link" class="btn" href="https://doi.org/10.1016/j.drugalcdep.2021.108790" title="Link opens in new window" target="_blank" > 
+    	<i class="icon-external-link" aria-hidden="true"></i>
+      Link to Full Text
+    </a>
+</div>
+
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/info_box_7_3.inc (cont) -->
+	<!-- FILE: /srv/sequoia/main/data/assets/site/info_box_embargo.inc -->
+<!-- FILE: /srv/sequoia/main/data/assets/site/info_box_7_3.inc (cont) -->
+
+<!-- FILE: /srv/sequoia/main/data/corescholar.libraries.wright.edu/assets/info_box_custom_upper.inc -->
+
+<div id="supplemental">
+
+
+</div>
+
+<p class="openurl_btn">
+
+<a id="openurl" class="btn" href="https://openurl.bepress.com/openurl/redirect/?artnum=1602&amp;atitle=%E2%80%9CEtazene%2C%20Safer%20Than%20Heroin%20and%20Fentanyl%E2%80%9D%3A%20Non-Fentanyl%20Novel%20Synthetic%20Opioid%20Listings%20on%20One%20Darknet%20Market&amp;aulast=Lamy&amp;aufirst=Francois&amp;date=2021&amp;genre=article&amp;issn=0376-8716&amp;title=Drug%20and%20Alcohol%20Dependence&amp;volume=225&amp;id=doi:10.1016%2Fj.drugalcdep.2021.108790" title="OpenURL" target="_blank" ><i class="icon-search"></i> Find in your library</a>
+
+</p>
+
+
+
+<p class="openurl_btn_wright">
+<a id="openurl_wright" class="btn" href="http://ezproxy.libraries.wright.edu/login?url=https://openurl.bepress.com/openurl/redirect/?artnum=1602&amp;atitle=%E2%80%9CEtazene%2C%20Safer%20Than%20Heroin%20and%20Fentanyl%E2%80%9D%3A%20Non-Fentanyl%20Novel%20Synthetic%20Opioid%20Listings%20on%20One%20Darknet%20Market&amp;aulast=Lamy&amp;aufirst=Francois&amp;date=2021&amp;genre=article&amp;issn=0376-8716&amp;title=Drug%20and%20Alcohol%20Dependence&amp;volume=225&amp;id=doi:10.1016%2Fj.drugalcdep.2021.108790" title="Proxy OpenURL" target="_blank" ><i class="icon-search"></i> Off-Campus WSU Users</a>
+</p>
+
+
+
+
+	<p class="ctlg"><br></p>
+
+
+
+<div class="custom aside">
+
+</div><!-- FILE: /srv/sequoia/main/data/assets/site/info_box_7_3.inc (cont) -->
+<!-- FILE: /srv/sequoia/main/data/assets/site/info_box_openurl.inc -->
+<div id="open-url" class="aside">
+	
+	
+	  	<a id="openurl" class="ignore" href="https://openurl.bepress.com/openurl/redirect/?artnum=1602&amp;atitle=%E2%80%9CEtazene%2C%20Safer%20Than%20Heroin%20and%20Fentanyl%E2%80%9D%3A%20Non-Fentanyl%20Novel%20Synthetic%20Opioid%20Listings%20on%20One%20Darknet%20Market&amp;aulast=Lamy&amp;aufirst=Francois&amp;date=2021&amp;genre=article&amp;issn=0376-8716&amp;title=Drug%20and%20Alcohol%20Dependence&amp;volume=225&amp;id=doi:10.1016%2Fj.drugalcdep.2021.108790" title="OpenURL" target="_blank" >Find in your library <span class="icon-external-link" role="img" aria-label="Opens in a new window"></span></a><br>
+	
+
+</div>
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/info_box_7_3.inc (cont) -->
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/info_box_article_metrics.inc -->
+
+
+
+
+
+
+<div id="article-stats" class="aside hidden">
+
+    <p class="article-downloads-wrapper hidden"><span id="article-downloads"></span> DOWNLOADS</p>
+    <p class="article-stats-date hidden">Since March 25, 2026</p>
+
+    <p class="article-plum-metrics">
+        <a href="https://plu.mx/plum/a/?repo_url=https://corescholar.libraries.wright.edu/comhth/603" class="plumx-plum-print-popup plum-bigben-theme" data-badge="true" data-hide-when-empty="true" ></a>
+    </p>
+</div>
+<script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
+
+
+
+
+
+<!-- Article Download Counts -->
+<script type="text/javascript" src="/assets/scripts/article-downloads.pack.js"></script>
+<script type="text/javascript">
+    insertDownloads(40073069);
+</script>
+
+
+<!-- Add border to Plum badge & download counts when visible -->
+<script>
+// bind to event when PlumX widget loads
+jQuery('body').bind('plum:widget-load', function(e){
+// if Plum badge is visible
+  if (jQuery('.PlumX-Popup').length) {
+// remove 'hidden' class
+  jQuery('#article-stats').removeClass('hidden');
+  jQuery('.article-stats-date').addClass('plum-border');
+  }
+});
+// bind to event when page loads
+jQuery(window).bind('load',function(e){
+// if DC downloads are visible
+  if (jQuery('#article-downloads').text().length > 0) {
+// add border to aside
+  jQuery('#article-stats').removeClass('hidden');
+  }
+});
+</script>
+
+
+
+<!-- Adobe Analytics: Download Click Tracker -->
+<script>
+
+$(function() {
+
+  // Download button click event tracker for PDFs
+  $(".aside.download-button").on("click", "a#pdf", function(event) {
+    pageDataTracker.trackEvent('navigationClick', {
+      link: {
+          location: 'aside download-button',
+          name: 'pdf'
+      }
+    });
+  });
+
+  // Download button click event tracker for native files
+  $(".aside.download-button").on("click", "a#native", function(event) {
+    pageDataTracker.trackEvent('navigationClick', {
+        link: {
+            location: 'aside download-button',
+            name: 'native'
+        }
+     });
+  });
+
+});
+
+</script>
+<!-- FILE: /srv/sequoia/main/data/assets/site/info_box_7_3.inc (cont) -->
+
+
+
+	<!-- FILE: /srv/sequoia/main/data/assets/site/info_box_disciplines.inc -->
+
+
+
+
+	
+		
+	
+
+
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/info_box_7_3.inc (cont) -->
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/bookmark_widget.inc -->
+
+<div id="share" class="aside">
+<h2>Share</h2>
+	
+	<div class="a2a_kit a2a_kit_size_24 a2a_default_style">
+    	<a class="a2a_button_facebook"></a>
+    	<a class="a2a_button_linkedin"></a>
+		<a class="a2a_button_whatsapp"></a>
+		<a class="a2a_button_email"></a>
+    	<a class="a2a_dd"></a>
+    	<script async src="https://static.addtoany.com/menu/page.js"></script>
+	</div>
+</div>
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/info_box_7_3.inc (cont) -->
+<!-- FILE: /srv/sequoia/main/data/assets/site/info_box_geolocate.inc --><!-- FILE: /srv/sequoia/main/data/assets/site/ir_geolocate_enabled_and_displayed.inc -->
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/info_box_geolocate.inc (cont) -->
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/info_box_7_3.inc (cont) -->
+
+	<!-- FILE: /srv/sequoia/main/data/assets/site/zotero_coins.inc -->
+
+<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft_id=https%3A%2F%2Fcorescholar.libraries.wright.edu%2Fcomhth%2F603&amp;rft.atitle=%E2%80%9CEtazene%2C%20Safer%20Than%20Heroin%20and%20Fentanyl%E2%80%9D%3A%20Non-Fentanyl%20Novel%20Synthetic%20Opioid%20Listings%20on%20One%20Darknet%20Market&amp;rft.aufirst=Francois&amp;rft.aulast=Lamy&amp;rft.au=Raminta%20Daniulaityte&amp;rft.au=Monica%20Barratt&amp;rft.au=Usha%20Lokala&amp;rft.au=Amit%20Sheth&amp;rft.au=Robert%20Carlson&amp;rft.jtitle=Drug%20and%20Alcohol%20Dependence&amp;rft.volume=225&amp;rft.date=2021-08-01&amp;rft_id=info:doi/10.1016%2Fj.drugalcdep.2021.108790">COinS</span>
+<!-- FILE: /srv/sequoia/main/data/assets/site/info_box_7_3.inc (cont) -->
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/info_box_custom_lower.inc -->
+<!-- FILE: /srv/sequoia/main/data/assets/site/info_box_7_3.inc (cont) -->
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_series/article/article_info.inc (cont) --></div>
+
+<div class='clear'>&nbsp;</div>
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_article_custom_fields.inc -->
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_series/article/article_info.inc (cont) -->
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_series/article/index.html (cont) -->
+<!-- FILE /srv/sequoia/main/data/assets/site/footer.pregen --></div>
+	<div class="verticalalign">&nbsp;</div>
+	<div class="clear">&nbsp;</div>
+
+</div>
+
+	<div id="sidebar" role="complementary">
+	<!-- FILE: /srv/sequoia/main/data/assets/site/ir_sidebar_7_8.inc -->
+
+	<!-- FILE: /srv/sequoia/main/data/assets/site/ir_sidebar_sort_sba.inc --><!-- FILE: /srv/sequoia/main/data/assets/site/ir_sidebar_custom_upper_7_8.inc -->
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_sidebar_sort_sba.inc (cont) -->
+<!-- FILE: /srv/sequoia/main/data/corescholar.libraries.wright.edu/assets/ir_sidebar_search_7_8.inc --><h2>Search</h2>
+
+
+	
+<form method='get' action='https://corescholar.libraries.wright.edu/do/search/' id="sidebar-search">
+	<label for="search" accesskey="4">
+		Enter search terms:
+	</label>
+		<div>
+			<span class="border">
+				<input type="text" name='q' class="search" id="search">
+			</span> 
+			<input type="submit" value="Search" class="searchbutton" style="font-size:11px;">
+		</div>
+	<label for="context" style="display:none;">
+		Select context to search:
+	</label> 
+		<div>
+			<span class="border">
+				<select name="fq" id="context">
+					
+					
+						<option value='virtual_ancestor_link:"https://corescholar.libraries.wright.edu/comhth"'>in this series</option>
+					
+					
+					
+					<option value='virtual_ancestor_link:"https://corescholar.libraries.wright.edu"'>in this repository</option>
+					<option value='virtual_ancestor_link:"http:/"'>across all repositories</option>
+				</select>
+			</span>
+		</div>
+</form>
+
+<p class="advanced">
+	
+	
+		<a href="https://corescholar.libraries.wright.edu/do/search/advanced/?fq=virtual_ancestor_link:%22https://corescholar.libraries.wright.edu/comhth%22" >
+			Advanced Search
+		</a>
+	
+	<br>
+	<a href="https://corescholar.libraries.wright.edu/help-search.html" title="Search Help" >Search Help</a>
+</p>
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_sidebar_sort_sba.inc (cont) -->
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_sidebar_notify_7_8.inc -->
+
+
+	<ul id="side-notify">
+		<li class="notify">
+			<a href="https://corescholar.libraries.wright.edu/comhth/announcements.html" title="Email or RSS Notifications" >
+				Notify me via email or <acronym title="Really Simple Syndication">RSS</acronym>
+			</a>
+		</li>
+	</ul>
+
+
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/urc_badge.inc -->
+
+
+
+
+
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_sidebar_notify_7_8.inc (cont) -->
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_sidebar_sort_sba.inc (cont) -->
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_sidebar_custom_middle_7_8.inc --><!-- FILE: /srv/sequoia/main/data/assets/site/ir_sidebar_sort_sba.inc (cont) -->
+<!-- FILE: /srv/sequoia/main/data/corescholar.libraries.wright.edu/assets/ir_sidebar_browse.inc --><h2>Browse</h2>
+<ul id="side-browse">
+
+
+<li class="collections"><a href="https://corescholar.libraries.wright.edu/communities.html" title="Browse by Collections" >Collections</a></li>
+<li class="discipline-browser"><a href="https://corescholar.libraries.wright.edu/do/discipline_browser/disciplines" title="Browse by Disciplines" >Disciplines</a></li>
+<li class="author"><a href="https://corescholar.libraries.wright.edu/authors.html" title="Browse by Author" >Authors</a></li>
+<li><a href="https://research.wright.edu/" title="Faculty & Staff Scholarship" >Faculty & Staff Profile Pages</a></li>
+
+
+</ul>
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_sidebar_sort_sba.inc (cont) -->
+<!-- FILE: /srv/sequoia/main/data/corescholar.libraries.wright.edu/assets/ir_sidebar_author_7_8.inc --><h2>About</h2>
+<ul id="side-author">
+
+<li><a href="https://corescholar.libraries.wright.edu/learn_more.html" >Learn More</a></li>
+<li><a href="https://corescholar.libraries.wright.edu/rights_responsibilities.html" title="Rights and Responsibilities" >Rights and Responsibilities</a></li>
+<li><a href="https://corescholar.libraries.wright.edu/contact.html" title="Contact Special Collections & Archives" >Contact Us</a></li><!-- FILE: /srv/sequoia/main/data/assets/site/ir_sidebar_sort_sba.inc (cont) -->
+<!-- FILE: /srv/sequoia/main/data/corescholar.libraries.wright.edu/assets/ir_series/ir_sidebar_custom_lower_7_8.inc -->
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_sidebar_sort_sba.inc (cont) -->
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_sidebar_sw_links_7_8.inc -->
+
+	
+		
+	
+
+
+	<!-- FILE: /srv/sequoia/main/data/assets/site/ir_sidebar_sort_sba.inc (cont) -->
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_sidebar_geolocate.inc --><!-- FILE: /srv/sequoia/main/data/assets/site/ir_geolocate_enabled_and_displayed.inc -->
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_sidebar_geolocate.inc (cont) -->
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_sidebar_sort_sba.inc (cont) -->
+<!-- FILE: /srv/sequoia/main/data/corescholar.libraries.wright.edu/assets/ir_sidebar_custom_lowest_7_8.inc -->
+
+<div id="sb-custom-lowest">
+<div id="social">
+	<a href="https://www.instagram.com/wrightstarchives/" ><img alt="Twitter" width='40' height='40' src="/assets/md5images/15c6d987aaedc5229c0e5146f911a4bd.png"></a>
+	<a href="https://www.facebook.com/wrightstatearchives" ><img alt="Facebook" width='39' height='39' src="/assets/md5images/3117a06ff4f9c87a490992b7d1dc8ce9.gif"></a>
+</div>
+</div><!-- FILE: /srv/sequoia/main/data/assets/site/ir_sidebar_sort_sba.inc (cont) -->
+<!-- FILE: /srv/sequoia/main/data/assets/site/ir_sidebar_7_8.inc (cont) -->
+
+		
+
+
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/footer.pregen (cont) -->
+	<div class="verticalalign">&nbsp;</div>
+	</div>
+
+</div>
+
+<!-- FILE: /srv/sequoia/main/data/corescholar.libraries.wright.edu/assets/ir_footer_content.inc --><div id="footer" role="contentinfo">
+	
+	
+	<!-- FILE: /srv/sequoia/main/data/assets/site/ir_bepress_logo.inc --><div id="bepress">
+
+<a href="https://www.elsevier.com/solutions/digital-commons" title="Elsevier - Digital Commons" >
+	<em>Elsevier - Digital Commons</em>
+</a>
+
+</div>
+<!-- FILE: /srv/sequoia/main/data/corescholar.libraries.wright.edu/assets/ir_footer_content.inc (cont) -->
+	<p> 
+		<a href="https://corescholar.libraries.wright.edu/faq.html" title="FAQ" >FAQ</a> | 
+		<a href="/cgi/myaccount.cgi?context=comhth" title="Login/Sign Up" accesskey="3" >Login/Sign Up</a> | 
+		<a href="https://corescholar.libraries.wright.edu/accessibility.html" title="Accessibility Statement" accesskey="0" >Accessibility Statement</a> |
+    <a href="https://corescholar.libraries.wright.edu" title="Ask Us" >Ask Us</a>
+	</p>
+	<p>
+	
+	
+		<a class="secondary-link" href="https://www.bepress.com/privacy" title="Privacy Policy" >Privacy</a>
+	
+		<a class="secondary-link" href="https://www.bepress.com/copyright" title="Copyright Policy" >Copyright</a>	
+	</p> 
+  <a href="https://www.wright.edu" id="footer-logo-link" ><img id="footerlogo" alt="Wright State University" width='314' height='96' src="/assets/md5images/a6854fdb5391b217578cda7d6532f954.png"></a>
+	
+</div>
+
+<!-- FILE: /srv/sequoia/main/data/assets/site/footer.pregen (cont) -->
+
+</div>
+</div>
+
+<!-- FILE: /srv/sequoia/main/data/corescholar.libraries.wright.edu/assets/ir_analytics.inc --><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-27946493-7', 'auto');
+  ga('send', 'pageview');
+
+</script><!-- FILE: /srv/sequoia/main/data/assets/site/footer.pregen (cont) -->
+
+<script type='text/javascript' src='/assets/scripts/bpbootstrap-20160726.pack.js'></script><script type='text/javascript'>BPBootstrap.init({appendCookie:''})</script><script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a454f2aa59f8c3bd',t:'MTc5MTEyNDg5MQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body></html>

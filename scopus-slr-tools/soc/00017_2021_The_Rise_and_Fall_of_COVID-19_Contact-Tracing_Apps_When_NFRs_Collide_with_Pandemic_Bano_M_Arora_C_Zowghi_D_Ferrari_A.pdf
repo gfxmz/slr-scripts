@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html xml:lang="en-gb" lang="en-gb">
+
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- Start cookieyes banner -->
+	<script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/5ceb5cd003239e479e55c610/script.js"></script>
+	<!-- End cookieyes banner -->
+
+	<meta charset="utf-8" />
+	<base href="https://openportal.isti.cnr.it/doc" />
+	<meta name="rights" content="ISTI OpenPortal
+Area della Ricerca CNR, via G. Moruzzi 1, 56124 Pisa, Italy " />
+	<meta name="description" content="The rise and fall of COVID-19 contact-tracing apps: when NFRs collide with pandemic" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>Document - The rise and fall of COVID-19 contact-tracing apps: when NFRs collide with pandemic</title>
+	<link href="/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/templates/isti_portal_template/css/bootstrap.min.css" rel="stylesheet" />
+	<link href="/templates/isti_portal_template/css/bootstrap-theme.min.css" rel="stylesheet" />
+	<link href="/templates/isti_portal_template/css/font-awesome.min.css" rel="stylesheet" />
+	<link href="/templates/isti_portal_template/css/jssocials.css" rel="stylesheet" />
+	<link href="/templates/isti_portal_template/css/jssocials-theme-classic.css" rel="stylesheet" />
+	<link href="/templates/isti_portal_template/css/template.css?f45484c6682796a214dc0bda3ecbc958" rel="stylesheet" />
+	<script src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+	<script src="https://cdn.scite.ai/badge/scite-badge-latest.min.js"></script>
+	<script src="https://cdn.plu.mx/widget-details.js"></script>
+	<script src="https://badge.dimensions.ai/badge.js"></script>
+	<script src="/templates/isti_portal_template/js/jquery-3.1.1.min.js"></script>
+	<script src="/templates/isti_portal_template/js/bootstrap.min.js"></script>
+	<script src="/templates/isti_portal_template/js/jssocials.min.js"></script>
+
+
+</head>
+
+<body>
+
+	
+	<div class="container">
+		 
+
+		<div class="header clearfix">
+			<nav>
+				<div class="container-fluid">
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#istiMenuNavbar" aria-expanded="false">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+						<a class="navbar-brand" href="/">
+							<img src="/templates/isti_portal_template/images/logo-sito-extended.png" title="ISTI Open Portal" alt="ISTI Logo" />
+							<!--<img class="visible-xs" src="/templates/isti_portal_template/images/logo-sito.png" title="ISTI Open Portal" alt="ISTI Logo" />-->
+						</a>
+						<!--<h3 class="navbar-brand hidden-xs">ISTI Open Portal</h3> -->
+					</div>
+		
+					<div class="collapse navbar-collapse" id="istiMenuNavbar">	
+						
+<ul class="nav navbar-nav pull-right"><li><a href="/" >Home</a></li><li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown" >Browse <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="/browse/authors" >Authors</a></li><li><a href="/browse/labs" >Laboratories</a></li><li><a href="/browse/groups" >Groups / Services</a></li><li><a href="/browse/types" >Typologies</a></li><li><a href="/browse/years" >Years</a></li><li><a href="/browse/projects" >Projects</a></li><li><a href="/browse/rights" >Access Rights</a></li></ul></li><li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown" >Statistics <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="/statistics/year-type" >Products by Year and Typology</a></li><li><a href="/statistics/labs-types" >Products by Laboratory and Typology</a></li><li><a href="/statistics/labs-years" >Products by Laboratory and Year</a></li><li role="separator" class="divider"></li><li><a href="/statistics/year-rights" >Product Access Rights by Year</a></li></ul></li><li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown" >ISTI Guidelines <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="/isti-guidelines/policy-open-access-dell-isti" >Open Access Policy (IT)</a></li><li><a href="/isti-guidelines/linee-guida-per-il-deposito-open-access-in-iris" >Support for Open Access archiving (IT)</a></li><li role="separator" class="divider"></li><li><a href="/isti-guidelines/glossario" >Glossary (IT)</a></li></ul></li><li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown" >About <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="/support/about" >About</a></li><li><a href="/support/cookies" >Cookies Policy</a></li><li role="separator" class="divider"></li><li><a href="/support/ticketing-system" >Contact us</a></li></ul></li></ul>
+
+					</div>
+				</div>
+			</nav>
+		</div>
+
+				
+
+		
+<script type="text/javascript">
+	function browse(field, value) {
+		location.href = '/results?qf=' + encodeURIComponent(field) + '&qv=' + encodeURIComponent(value);
+	}
+</script>
+<style>
+.x-twitter:before {
+	display: inline-block;
+	width: 18px;
+	height: 18px;
+	content: "";
+	background: url("https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg") no-repeat 0 0;
+	background-size: 100%;
+}
+</style>
+
+<div class="row"><div class="col-xs-12 col-md-6 col-lg-8"><div style="font-size: 18px"><span class="label label-default">2021</span><div class="pull-right"><span class="label label-primary">Conference article</span> 
+						<span class="label label-success">Open Access</span></div></div><h2>The rise and fall of COVID-19 contact-tracing apps: when NFRs collide with pandemic</h2><p style="color:#880000">Bano M, Arora C, Zowghi D, Ferrari A</p><p style="font-size: 16px;"><span class="label label-default">Requirements Engineering</span> 
+						<span class="label label-default">Covid-19</span> 
+						<span class="label label-default">Pandemic</span> 
+						<span class="label label-default">Software Engineering</span> 
+						<span class="label label-default">App review</span> 
+						</p><p style="color: grey; border-left: 4px solid #eeeeee; padding-left: 10px; text-align: justify">To complement the manual contact-tracing methods, a flood of coronavirus-related apps was launched in the first half of 2020. Despite the incredible promises made by the governments, contact-tracing apps did not live up to expectations. We analyzed the government commissioned contact-tracing apps from four countries in order to understand the non-functional requirements (NFRs) and socio-technical factors that hindered the success of these apps. We used the user reviews from the app stores for iOS and Android versions, and identified top news articles related to each app. We analyzed the timeline of events through news article along with the app reviews, NFR analysis, cultural comparison, and political influences. Our investigation revealed that the dominant factors behind the negligible success of these apps are complex and entangled with the cultural and political dimensions rather than being just technical. The multilayer diversity of the target users also impacted the design and development of contact-tracing apps in an extremely challenging situation. Our analysis brings into light important elements that are not normally considered as NFR but should be studied in the design of crisis management apps.</p><p><strong>Publisher: </strong>IEEE</p><hr><h4>Metrics</h4><div><div data-doi="10.1109/re51729.2021.00017" class="altmetric-embed panel panel-default panel-body" data-badge-details="right" data-badge-type="medium-donut" data-hide-no-mentions="true"></div><div class="panel panel-default panel-body"><span class="__dimensions_badge_embed__" data-doi="10.1109/re51729.2021.00017" data-legend="always" data-style="medium_circle"></span></div><div class="panel panel-default panel-body"><a href="https://plu.mx/plum/a/?doi=10.1109/re51729.2021.00017" class="plumx-details"></a></div><div data-doi="10.1109/re51729.2021.00017" class="scite-badge panel panel-default panel-body" style="display: block" data-show-zero="true" data-small="false" data-show-labels="true" data-tally-show="false" data-section-tally-show="true" data-chart-type="donut" data-section-tally-layout="vertical"></div></div><br><br><a href="javascript:history.back()">Back to previous page</a></div><div class="col-xs-12 col-md-6 col-lg-4"><div class="panel panel-default"><div class="panel-heading"><h3 class="panel-title"><a href="javascript:void(0)" data-toggle="collapse" data-target="#collapseShare">Share</a></h3></div><div id="collapseShare" class="panel-collapse collapse"><div id="shareBox" class="panel-body"></div></div></div><div class="panel panel-default"><div class="panel-heading"><h3 class="panel-title"><a href="javascript:void(0)" data-toggle="collapse" data-target="#collapseCite">Cite as</a></h3></div><div id="collapseCite" class="panel-collapse collapse"><div class="panel-body"><strong>BibTeX entry</strong><pre class="pre-scrollable" style="border: 0; padding: 0; margin: 10px 0 0 0; background-color: transparent; font-size: 10px;">@inproceedings{oai:it.cnr:prodotti:459481,
+	title = {The rise and fall of COVID-19 contact-tracing apps: when NFRs collide with pandemic},
+	author = {Bano M and Arora C and Zowghi D and Ferrari A},
+	publisher = {IEEE},
+	doi = {10.1109/re51729.2021.00017},
+	year = {2021}
+}</pre></div></div></div><div class="panel panel-default"><div class="panel-heading"><h3 class="panel-title"><a href="javascript:void(0)" data-toggle="collapse" data-target="#collapseAffiliations">CNR authors and affiliations</a></h3></div><div id="collapseAffiliations" class="panel-collapse collapse"><div class="panel-body"><strong>CNR authors</strong><p style="margin-left: 10px;  text-align: justify;"><a href="javascript:browse(%22cnrautb%22,%20%22Ferrari,%20Alessio%22)">Ferrari, Alessio</a><br><a href="https://orcid.org/0000-0002-0636-5663" style="margin-left: 10px;" target="_blank"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" style="margin-right: 4px;">0000-0002-0636-5663</a><br></p><strong>Laboratories</strong><p style="margin-left: 10px"><a href="javascript:browse(%22lab%22,%20%22Formal%20Methods%20and%20Tools%20(2002-ongoing)%22)">Formal Methods and Tools (2002-ongoing)</a><br></p></div></div></div><div class="panel panel-default"><div class="panel-heading"><h3 class="panel-title"><a href="javascript:void(0)" data-toggle="collapse" data-target="#collapseDownload">Download</a></h3></div><div id="collapseDownload" class="panel-collapse collapse"><div class="panel-body"><strong>CNR IRIS</strong><br><p style="margin-left: 10px"><a href="https://hdl.handle.net/20.500.14243/442548" target="_blank">Bibliographic record</a><br><a href="https://iris.cnr.it/bitstream/20.500.14243/442548/1/prod_459481-doc_178976.pdf" target="_blank">Deposited version</a><br><a href="https://iris.cnr.it/bitstream/20.500.14243/442548/2/prod_459481-doc_178977.pdf" target="_blank">Deposited version</a><br><a href="https://iris.cnr.it/request-item?handle=20.500.14243/442548&amp;bitstreamId=83ce8d91-2fd3-4507-acfa-919b960cdf2c" target="_blank">Deposited version</a><br></p><strong>ISTI Repository</strong><br><p style="margin-left: 10px"><a href="http://openportal.isti.cnr.it/data/2021/459481/2021_459481.preprint.pdf?id=people______%3A%3Ada4dfc4033919bea996e1df9aa92cc8c" target="_blank">
+													Preprint version
+												</a><img src="/components/com_dnetindexclient/img/open-access-16.png" alt="Open Access" title="Open Access" class="pull-right"><br></p><strong>DOI</strong><p style="margin-left: 10px"><a href="https://dx.doi.org/10.1109/re51729.2021.00017" target="_blank">10.1109/re51729.2021.00017</a><img src="/components/com_dnetindexclient/img/open-access-16.png" alt="Open Access" title="Open Access" class="pull-right"><br></p><strong>Also available from</strong><br><p style="margin-left: 10px"><a href="https://ieeexplore.ieee.org/document/9604722" target="_blank">ieeexplore.ieee.org</a><img src="/components/com_dnetindexclient/img/open-access-16.png" alt="Open Access" title="Open Access" class="pull-right"><br></p></div></div></div></div></div>
+
+<script type="text/javascript">
+
+	jsSocials.shares.twitter.logo = "x-twitter";
+
+	jQuery("#shareBox").jsSocials({
+		showLabel: false,
+		showCount: false,
+		shares: ["email", "twitter", "facebook", "linkedin"]
+	});
+
+</script>
+
+		
+				
+	</div> <!-- /container -->
+
+	<div class="footer">
+		
+<ul class="nav navbar-nav pull-right"><li><a href="/about" >About</a></li><li><a href="/contact-us" >Contact us</a></li><li><a href="/terms-of-use" >Terms of Use</a></li><li><a href="/cookies-policy" >Cookies Policy</a></li></ul>
+<div style="margin:10px"><a href="https://www.iubenda.com/privacy-policy/35579018" class="iubenda-white iubenda-embed" title="Privacy Policy ">Privacy Policy</a><script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src="https://cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script>
+</div>
+	</div>
+
+</body>
+
+</html>

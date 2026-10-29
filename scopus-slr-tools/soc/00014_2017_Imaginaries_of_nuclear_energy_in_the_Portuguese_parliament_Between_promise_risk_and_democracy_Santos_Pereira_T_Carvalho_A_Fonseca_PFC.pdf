@@ -1,0 +1,1205 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Imaginaries of nuclear energy in the Portuguese parliament: Between promise, risk, and democracy | Estudo Geral</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+        <meta name="Generator" content="DSpace CRIS-5.10.0-SNAPSHOT" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">		
+        <link rel="resourcesync sitemap" href="https://estudogeral.uc.pt/rs/resourcesync.xml" type="application/xml"/>
+        <link rel="shortcut icon" href="/static/ucpa_web/favicon.ico" type="image/x-icon"/>
+	    <link rel="stylesheet" href="/static/css/jquery-ui/redmond/jquery-ui-1.12.1.css" type="text/css" />
+	    <link href="/css/researcher.css" type="text/css" rel="stylesheet" />
+       <link href="/css/jdyna.css" type="text/css" rel="stylesheet" />
+	    <link rel="stylesheet" href="/static/css/bootstrap/bootstrap.min.css" type="text/css" />
+	    <link rel="stylesheet" href="/static/css/bootstrap/bootstrap-theme.min.css" type="text/css" />
+	    <link href="/static/css/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+		<link href="/static/css/jstree/themes/default/style.min.css" rel="stylesheet"/>
+	    <link rel="stylesheet" href="/static/css/bootstrap/dspace-theme.css" type="text/css" />
+	    <link rel="stylesheet" href="/css/orcid.css" type="text/css" />
+	    <link rel="stylesheet" type="text/css" href="/static/css/dataTables.bootstrap.min.css"/>
+		<link rel="stylesheet" type="text/css" href="/static/css/buttons.bootstrap.min.css"/>
+		<link rel="stylesheet" type="text/css" href="/static/css/responsive.bootstrap.min.css"/>
+		<link rel="stylesheet" href="/static/css/bootstrap/dspace-theme.css" type="text/css" />
+        <link rel="stylesheet" type="text/css" href="/css/bootstrap-datetimepicker.min.css" />
+        <link rel="stylesheet" type="text/css" href="/static/ucpa_web/styles/eg.css" />
+		<link rel="stylesheet" type="text/css" href="/static/css/select.dataTables.min.css" />
+
+        <link rel="search" type="application/opensearchdescription+xml" href="/open-search/description.xml" title="DSpace"/>
+
+		
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/" />
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+<meta name="DC.creator" content="Pereira, Tiago Santos" />
+<meta name="DC.creator" content="Carvalho, António" />
+<meta name="DC.creator" content="Fonseca, Paulo F. C." />
+<meta name="DCTERMS.dateAccepted" content="2017-06-07T14:26:52Z" scheme="DCTERMS.W3CDTF" />
+<meta name="DCTERMS.issued" content="2017" scheme="DCTERMS.W3CDTF" />
+<meta name="DC.identifier" content="0963-6625" />
+<meta name="DC.identifier" content="1361-6609" />
+<meta name="DC.identifier" content="https://hdl.handle.net/10316/41784" scheme="DCTERMS.URI" />
+<meta name="DC.description" content="Article first published online: August 8, 2016" xml:lang="por" />
+<meta name="DCTERMS.abstract" content="This article explores the evolution of the nuclear energy debate and its associated controversies in the Portuguese parliament. The analysis focuses on the dictatorial regime of the New State (from the beginning of the nuclear program in 1951 until the 1974 revolution) and on the democratic period (post-1974). Portugal, as an exporting country of uranium minerals, significantly invested in the development of a national capacity in nuclear research, but never developed an endogenous nuclear power infrastructure. Through the analysis of parliamentary debates, this article characterizes the dynamic evolution of the Portuguese sociotechnical imaginary on nuclear energy and technology interlinked with ambivalent representations, including the promise of nuclear energy as key for the constitution of a technological Nation or as prompting new sociotechnical risks." xml:lang="eng" />
+<meta name="DC.language" content="eng" scheme="DCTERMS.RFC1766" />
+<meta name="DC.publisher" content="Sage Publications" />
+<meta name="DC.relation" content="info:eu-repo/grantAgreement/FCT/3599-PPCDT/109426/PT" />
+<meta name="DC.rights" content="embargoedAccess" />
+<meta name="DC.subject" content="Energy policy" xml:lang="por" />
+<meta name="DC.subject" content="Governance of science and technology" xml:lang="por" />
+<meta name="DC.subject" content="Nuclear energy" xml:lang="por" />
+<meta name="DC.subject" content="Participation in science policy" xml:lang="por" />
+<meta name="DC.subject" content="Representations of science" xml:lang="por" />
+<meta name="DC.title" content="Imaginaries of nuclear energy in the Portuguese parliament: Between promise, risk, and democracy" xml:lang="por" />
+<meta name="DC.type" content="article" />
+<meta name="DC.relation" content="http://journals.sagepub.com/doi/abs/10.1177/0963662516662738" />
+<meta name="DC.identifier" content="10.1177/0963662516662738" />
+<meta name="DC.identifier" content="10.1177/0963662516662738" />
+<meta name="DC.date" content="2018-06-07T14:26:52Z" scheme="DCTERMS.W3CDTF" />
+
+<meta name="citation_keywords" content="Energy policy; Governance of science and technology; Nuclear energy; Participation in science policy; Representations of science; article" />
+<meta name="citation_title" content="Imaginaries of nuclear energy in the Portuguese parliament: Between promise, risk, and democracy" />
+<meta name="citation_publisher" content="Sage Publications" />
+<meta name="citation_journal_title" content="Public Understanding of Science" />
+<meta name="citation_author" content="Pereira, Tiago Santos" />
+<meta name="citation_author" content="Carvalho, António" />
+<meta name="citation_author" content="Fonseca, Paulo F. C." />
+<meta name="citation_conference" content="Public Understanding of Science" />
+<meta name="citation_abstract_html_url" content="https://estudogeral.uc.pt/handle/10316/41784" />
+<meta name="citation_issue" content="3" />
+<meta name="citation_firstpage" content="289" />
+<meta name="citation_issn" content="0963-6625" />
+<meta name="citation_doi" content="10.1177/0963662516662738" />
+<meta name="citation_language" content="eng" />
+<meta name="citation_pdf_url" content="https://estudogeral.uc.pt/bitstream/10316/41784/1/Imaginaries%20of%20nuclear%20energy%20in%20the%20Portuguese%20parliament.pdf" />
+<meta name="citation_volume" content="26" />
+<meta name="citation_lastpage" content="306" />
+
+
+        
+   	<script type='text/javascript' src="/static/js/jquery/jquery-3.6.0.min.js"></script>
+	<script type='text/javascript' src='/static/js/jquery/jquery-ui-1.12.1.min.js'></script>
+	<script type="text/javascript" src="/js/moment-2.24.0.js"></script>
+	<script type='text/javascript' src='/static/js/bootstrap/bootstrap.min.js'></script>
+	<script type='text/javascript' src='/static/js/holder.js'></script>
+	<script type="text/javascript" src="/utils.js"></script>
+	<script type='text/javascript' src='/static/js/custom-functions.js'></script>
+    <script type="text/javascript" src="/static/js/choice-support.js"> </script>
+    <script type="text/javascript" src="/js/jdyna/jdyna.js"></script>    
+    <script type="text/javascript" src="/js/jquery.dataTables.min.js"></script>
+	<script type="text/javascript" src="/js/dataTables.bootstrap.min.js"></script>
+	<script type="text/javascript" src="/js/dataTables.buttons.min.js"></script>
+	<script type="text/javascript" src="/js/buttons.bootstrap.min.js"></script>
+	<script type="text/javascript" src="/js/buttons.html5.min.js"></script>
+	<script type="text/javascript" src="/js/dataTables.responsive.min.js"></script>	
+	<script type="text/javascript" src="/js/bootstrap-datetimepicker.min.js"></script>
+	<script type="text/javascript" src="/static/js/dataTables.select.min.js"></script>
+    <script type="text/javascript" src="/js/jszip.min.js"></script>
+    <script type="text/javascript" src="/static/ucpa_web/scripts/eg.js"></script>
+    <script type='text/javascript'>
+        var j = jQuery.noConflict();
+        var $ = jQuery.noConflict();
+        var JQ = j;
+        dspaceContextPath = "";
+        jQuery(document).ready(function ($) {
+            $('span[data-toggle="tooltip"]').tooltip();
+            $('i[data-toggle="tooltip"]').tooltip();
+        });
+    </script>
+	
+    
+    
+        <script type="text/plain" data-type="text/javascript" data-name="google-analytics">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-9019950-5']);
+            _gaq.push(['_trackPageview']);
+
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+    
+		<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+<script type="text/javascript"><!--
+j(document).ready(function() {
+
+	
+	j(function () {
+	    j('div.altmetric-embed').on('altmetric:hide ', function () {
+	    	j('div.altmetric').hide();
+	    });
+	});
+	
+	
+	 
+	
+});
+--></script>
+		
+    
+
+        <!-- HTML5 shiv and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>  
+        <script src="/static/js/html5shiv.js"></script>
+        <script src="/static/js/selectivizr-min.js"></script>
+        <script src="/static/js/respond.min.js"></script>
+        <link rel="stylesheet" href="/static/css/bootstrap/dspace-theme-IElte9.css" type="text/css" />
+        <![endif]-->
+    </head>
+
+    
+    
+    <body class="undernavigation" dir="ltr">
+<a class="sr-only" href="#content">Skip navigation</a>
+
+
+<header>
+    <div class="container">
+
+        <div class="header-brand">
+            <a href="">
+        
+                <img class="logo" src="/images/logo-uc-v2019-web.png">
+            </a>
+        </div>
+
+        <div class="header-toggle">
+            <span class="icon-menu">
+                <svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" ratio="1">
+                    <rect fill="#fff" x="2" y="4" width="16" height="1"></rect>
+                    <rect fill="#fff" x="2" y="9" width="16" height="1"></rect>
+                    <rect fill="#fff" x="2" y="14" width="16" height="1"></rect>
+                </svg>
+            </span>
+            <span class="icon-close is-hidden">
+                <svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" ratio="1">
+                    <path fill="none" stroke="#fff" stroke-width="1.06" d="M16,16 L4,4"></path>
+                    <path fill="none" stroke="#fff" stroke-width="1.06" d="M16,4 L4,16"></path>
+                </svg>
+            </span>
+        </div>
+
+        <nav class="header-tools is-hidden">
+            <ul>
+                <li class="language">
+                    
+                        <a onclick="javascript:document.repost.locale.value='pt';document.repost.submit();" href="?locale=pt">
+                        PT</a>
+                    
+                        <a onclick="javascript:document.repost.locale.value='en';document.repost.submit();" href="?locale=en">
+                        EN</a>
+                    
+                </li>
+
+                <li id="search-top-menu" class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                        <span class="glyphicon glyphicon-search"></span>
+                    </a>
+                    <div class="dropdown-menu">
+                        
+                        <form id="formsearch-top-menu" method="get" action="/global-search" class="navbar-form navbar-right" scope="search">
+                            <div class="form-group">
+                                <input type="text" class="form-control" placeholder="Search&nbsp;DSpace" name="query" id="tequery" size="25"/>
+                            </div>
+                            <button type="submit" class="btn btn-primary"><span class="glyphicon glyphicon-search"></span></button>
+                            
+                        </form>
+                    </div>
+                </li>
+
+
+                
+                <li id="user-top-menu" class="dropdown">
+                    <a href="/ldap-login">
+                        Sign on to: <b class="fa fa-angle-down"></b>
+                    </a>
+                
+                </li>
+            </ul>
+        </nav>
+
+        <div class="header-menu is-hidden">
+            
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type='text/javascript'>
+    function hover(element) {
+        element.className = "dropdown open";
+    }
+    function out(element) {
+        element.className = "dropdown";
+    }
+</script>
+
+       <div class="navbar-header">
+         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+           <span class="icon-bar"></span>
+           <span class="icon-bar"></span>
+           <span class="icon-bar"></span>
+         </button>
+       </div>
+       <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
+         <ul id="top-menu" class="nav navbar-nav navbar-left">
+           <li class="pull-left"><a class="navbar-brand" href="/"><img height="25" src="/image/dspace-logo-only.png" alt="DSpace logo" /></a></li>
+           <li id="home-top-menu" class="pull-left   "><a href="/">Home</a></li>
+		  
+		   <li id="communitylist-top-menu" class=""><a href="/community-list">Communities<br/>&amp;&nbsp;Collections</a></li>
+        		  
+           
+           
+           
+           <li id="publications-top-menu" class="hidden-xs hidden-sm "><a href="/cris/explore/publications">Research Outputs</a></li>
+           
+           
+           
+           <li id="researcherprofiles-top-menu" class="hidden-xs hidden-sm "><a href="/cris/explore/researcherprofiles">Researchers</a></li>
+           
+           
+           
+           <li id="orgunits-top-menu" class="hidden-xs hidden-sm "><a href="/cris/explore/orgunits">Organizations</a></li>
+           
+           
+           
+           <li id="projects-top-menu" class="hidden-xs hidden-sm "><a href="/cris/explore/projects">Projects</a></li>
+           
+           <li class="dropdown hidden-md hidden-lg">
+             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Explore by <b class="caret"></b></a>
+             <ul class="dropdown-menu">
+           
+           
+           
+           <li class=""><a href="/cris/explore/publications">Research Outputs</a></li>
+           
+           
+           
+           <li class=""><a href="/cris/explore/researcherprofiles">Researchers</a></li>
+           
+           
+           
+           <li class=""><a href="/cris/explore/orgunits">Organizations</a></li>
+           
+           
+           
+           <li class=""><a href="/cris/explore/projects">Projects</a></li>
+           
+           </ul>
+           </li>
+ 
+
+        <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                    About <b class="fa fa-angle-down"></b>
+            </a>
+            <ul class="dropdown-menu">
+                <li>
+                    <a href="/sobre.jsp">About the repository</a>
+                </li>
+                <li>
+                    <a href="/politica.jsp">University of Coimbra OA Policy</a>
+                </li>
+                <li>
+                    <a href="/fct.jsp">FCT Policy</a>
+                </li>
+                <li>
+                    <a href="https://www.uc.pt/buc/acesso-aberto" target="_blank">Open Access</a>
+                </li>
+                <li>
+                    <a href="/ligacoes.jsp">Useful links</a>
+                </li>
+            </ul>
+        </li>
+        <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                    Help <b class="fa fa-angle-down"></b>
+            </a>
+            <ul class="dropdown-menu">
+                <!--
+                <li>
+                    <a href="/h2020.jsp">Guidelines OA H2020</a>
+                </li>
+                -->
+                <li>
+                    <a href="/depositar.jsp">How to deposit</a>
+                </li>
+                 <li>
+                    <a href="/cienciavitae.jsp">???jsp.home.cienciavitae???</a>
+                </li>
+                <li>
+                    <a href="creativecommons.jsp">CreativeCommons</a>
+                </li>
+                <li>
+                    <a href="/faqs.jsp">FAQ's</a>
+                </li>
+                <li id="help-top-menu" class=""><script type="text/javascript">
+<!-- Javascript starts here
+document.write('<a href="#" onClick="var popupwin = window.open(\'/help/index.html\',\'dspacepopup\',\'height=600,width=550,resizable,scrollbars\');popupwin.focus();return false;">Help<\/a>');
+// -->
+</script><noscript><a href="/help/index.html" target="dspacepopup">Help</a></noscript></li>
+            </ul>
+        </li>
+        <li>
+            <a href="https://provas-academicas.sib.uc.pt">
+                Provas Académicas
+            </a>
+        </li>
+        
+                </li>
+    </ul>
+</nav>
+
+            
+        </div>
+
+    </div>
+
+
+    
+
+
+
+
+
+<script>
+    var klaroConfig = {
+        storageMethod: 'cookie',
+        storageName: 'klaro-anonymous',
+        cookieExpiresAfterDays: 365,
+        privacyPolicy: '/cookiespolicy.jsp',
+        htmlTexts: true,
+        acceptAll: true,
+        hideLearnMore: false,
+        translations: {
+            en: {
+              acceptAll: 'Accept all',
+              acceptSelected: 'Accept selected',
+              app: {
+                optOut: {
+                  description: 'This app is loaded by default (but you can opt out)',
+                  title: '(opt-out)'
+                },
+                purpose: 'purpose',
+                purposes: 'purposes',
+                required: {
+                  description: 'This application is always required',
+                  title: '(always required)'
+                }
+              },
+              close: 'Close',
+              decline: 'Decline',
+              changeDescription: 'There were changes since your last visit, please update your consent.',
+              consentNotice: {
+                description: 'We collect and process your personal information for the following purposes: <strong>Authentication, Preferences, Acknowledgement and Statistics</strong>. <br/> To learn more, please read our <a target="_blank" href="/cookiespolicy.jsp">privacy policy</a>.',
+                learnMore: 'Customize'
+              },
+              consentModal: {
+                description: 'Here you can see and customize the information that we collect about you.',
+                privacyPolicy: {
+                  name: 'privacy policy',
+                  text: 'To learn more, please read our <a target="_blank" href="{0}/privacypolicy.jsp">privacy policy</a>.'
+                },
+                title: 'Information that we collect'
+              },
+              purposes: {
+                  functional: {
+                      title: 'Functional'
+                  },
+                  statistical: {
+                      title: 'Statistical'
+                  },
+                  sharing: {
+                      title: 'Sharing'
+                  }
+              }
+            }
+        },
+        services: [
+            {
+                name: 'authentication',
+                purposes: ['functional'],
+                required: true,
+                cookies: [],
+                translations: {
+                    // default translation
+                    zz: {
+                        title: 'Authentication',
+                        description: 'Required for signing you in'
+                    }
+                }
+            },
+            {
+                name: 'preferences',
+                purposes: ['functional'],
+                required: true,
+                cookies: [],
+                translations: {
+                    // default translation
+                    zz: {
+                        title: 'Preferences',
+                        description: 'Required for saving your preferences'
+                    }
+                }
+            },
+            {
+                name: 'acknowledgement',
+                purposes: ['functional'],
+                required: true,
+                cookies: [
+                  [/^klaro-.+$/],
+                ],
+                translations: {
+                    // default translation
+                    zz: {
+                        title: 'Acknowledgement',
+                        description: 'Required for saving your acknowledgements and consents'
+                    }
+                }
+            },
+            
+            {
+                name: 'google-analytics',
+                purposes: ['statistical'],
+                required: false,
+                cookies: [
+                    [/^_ga.?$/],
+                    [/^_gid$/]
+                ],
+                onlyOnce: true,
+                translations: {
+                    // default translation
+                    zz: {
+                        title: 'Google Analytics',
+                        description: 'Allows us to track statistical data'
+                    }
+                }
+            },
+            
+            
+        ]
+    };
+</script>
+<script defer data-config="klaroConfig" type="application/javascript" src="/static/js/klaro/klaro.js"></script>
+
+
+</header>
+
+
+
+    <div>
+        <div class="empty-banner"></div>
+    </div>
+    
+    
+    
+    <!-- Trailbar -->
+    
+    <div class="trailbar">
+        <div class="container">
+            
+
+
+
+  
+
+<ol class="breadcrumb btn-success">
+
+  <li><a href="/">Estudo Geral</a></li>
+
+  <li><a href="/handle/10316/14636">Unidades de Investigação e Desenvolvimento</a></li>
+
+  <li><a href="/handle/10316/15504">CES - Centro de Estudos Sociais</a></li>
+
+  <li><a href="/handle/10316/15681">I&D CES - Artigos em Revistas Internacionais</a></li>
+
+</ol>
+
+        </div>
+    </div>
+    
+    
+    
+<!-- Menu principal -->
+<div class="row site-header">
+    <div class="container">
+        <div class="site-title">
+            <div class="site-title-trailbar" style="font-weight: 400;">
+                <strong class="uk-text-uppercase">ESTUDO GERAL</strong>
+                <span class="site-trailbar-separator uk-margin-small-right"></span>Repositório científico da UC
+            </div>
+            <div class="site-title-sidebar">
+                
+                <form id="formsearch-top-menu" method="get" action="/global-search" class="navbar-form navbar-right" scope="search">
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Search&nbsp;DSpace" name="query" id="tequery" size="25"/>
+                    </div>
+                    <button type="submit" class="btn btn-primary"><span class="glyphicon glyphicon-search"></span></button>
+                </form>
+                
+            </div>
+        </div>
+        <div class="site-menu">
+            
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type='text/javascript'>
+    function hover(element) {
+        element.className = "dropdown open";
+    }
+    function out(element) {
+        element.className = "dropdown";
+    }
+</script>
+
+       <div class="navbar-header">
+         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+           <span class="icon-bar"></span>
+           <span class="icon-bar"></span>
+           <span class="icon-bar"></span>
+         </button>
+       </div>
+       <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
+         <ul id="top-menu" class="nav navbar-nav navbar-left">
+           <li class="pull-left"><a class="navbar-brand" href="/"><img height="25" src="/image/dspace-logo-only.png" alt="DSpace logo" /></a></li>
+           <li id="home-top-menu" class="pull-left   "><a href="/">Home</a></li>
+		  
+		   <li id="communitylist-top-menu" class=""><a href="/community-list">Communities<br/>&amp;&nbsp;Collections</a></li>
+        		  
+           
+           
+           
+           <li id="publications-top-menu" class="hidden-xs hidden-sm "><a href="/cris/explore/publications">Research Outputs</a></li>
+           
+           
+           
+           <li id="researcherprofiles-top-menu" class="hidden-xs hidden-sm "><a href="/cris/explore/researcherprofiles">Researchers</a></li>
+           
+           
+           
+           <li id="orgunits-top-menu" class="hidden-xs hidden-sm "><a href="/cris/explore/orgunits">Organizations</a></li>
+           
+           
+           
+           <li id="projects-top-menu" class="hidden-xs hidden-sm "><a href="/cris/explore/projects">Projects</a></li>
+           
+           <li class="dropdown hidden-md hidden-lg">
+             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Explore by <b class="caret"></b></a>
+             <ul class="dropdown-menu">
+           
+           
+           
+           <li class=""><a href="/cris/explore/publications">Research Outputs</a></li>
+           
+           
+           
+           <li class=""><a href="/cris/explore/researcherprofiles">Researchers</a></li>
+           
+           
+           
+           <li class=""><a href="/cris/explore/orgunits">Organizations</a></li>
+           
+           
+           
+           <li class=""><a href="/cris/explore/projects">Projects</a></li>
+           
+           </ul>
+           </li>
+ 
+
+        <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                    About <b class="fa fa-angle-down"></b>
+            </a>
+            <ul class="dropdown-menu">
+                <li>
+                    <a href="/sobre.jsp">About the repository</a>
+                </li>
+                <li>
+                    <a href="/politica.jsp">University of Coimbra OA Policy</a>
+                </li>
+                <li>
+                    <a href="/fct.jsp">FCT Policy</a>
+                </li>
+                <li>
+                    <a href="https://www.uc.pt/buc/acesso-aberto" target="_blank">Open Access</a>
+                </li>
+                <li>
+                    <a href="/ligacoes.jsp">Useful links</a>
+                </li>
+            </ul>
+        </li>
+        <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                    Help <b class="fa fa-angle-down"></b>
+            </a>
+            <ul class="dropdown-menu">
+                <!--
+                <li>
+                    <a href="/h2020.jsp">Guidelines OA H2020</a>
+                </li>
+                -->
+                <li>
+                    <a href="/depositar.jsp">How to deposit</a>
+                </li>
+                 <li>
+                    <a href="/cienciavitae.jsp">???jsp.home.cienciavitae???</a>
+                </li>
+                <li>
+                    <a href="creativecommons.jsp">CreativeCommons</a>
+                </li>
+                <li>
+                    <a href="/faqs.jsp">FAQ's</a>
+                </li>
+                <li id="help-top-menu" class=""><script type="text/javascript">
+<!-- Javascript starts here
+document.write('<a href="#" onClick="var popupwin = window.open(\'/help/index.html\',\'dspacepopup\',\'height=600,width=550,resizable,scrollbars\');popupwin.focus();return false;">Help<\/a>');
+// -->
+</script><noscript><a href="/help/index.html" target="dspacepopup">Help</a></noscript></li>
+            </ul>
+        </li>
+        <li>
+            <a href="https://provas-academicas.sib.uc.pt">
+                Provas Académicas
+            </a>
+        </li>
+        
+                </li>
+    </ul>
+</nav>
+
+            
+        </div>
+    </div>
+</div>
+
+<main id="content" role="main">
+        
+<div class="container">
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type='text/javascript' src='/static/js/abbreviatetext.js'></script>
+
+
+
+
+
+
+
+	<div class="row">
+		<div class="col-sm-12 col-md-12 col-lg-12">
+		
+		
+		
+		
+
+                
+                <div class="well fw-article-handle">Please use this identifier to cite or link to this item:
+                <code>https://hdl.handle.net/10316/41784</code></div>
+       </div>         
+
+
+</div>
+
+
+<div class="row">
+<div id="wrapperDisplayItem" class="col-lg-10 fw-article-table">
+    
+    <table class="table itemDisplayTable">
+<td class="metadataFieldLabel">Title:&nbsp;</td><td class="metadataFieldValue">Imaginaries&#x20;of&#x20;nuclear&#x20;energy&#x20;in&#x20;the&#x20;Portuguese&#x20;parliament:&#x20;Between&#x20;promise,&#x20;risk,&#x20;and&#x20;democracy</td></tr>
+<td class="metadataFieldLabel">Authors:&nbsp;</td><td class="metadataFieldValue"><a href="/browse?type=author&amp;authority=rp27111" class="authority author">Pereira,&#x20;Tiago&#x20;Santos</a>&nbsp;<a href="/cris/rp/rp27111" class="authority"><span data-toggle="tooltip" data-placement="top" title="Investigador UC" class="fa fa-user staff" style="color:black"></span></a><br /><a href="/browse?type=author&amp;authority=rp43077" class="authority author">Carvalho,&#x20;António</a>&nbsp;<a href="/cris/rp/rp43077" class="authority"><span data-toggle="tooltip" data-placement="top" title="Investigador UC" class="fa fa-user staff" style="color:black"></span></a><br /><a href="/browse?type=author&amp;authority=rp19932" class="authority author">Fonseca,&#x20;Paulo&#x20;F.&#x20;C.</a>&nbsp;<a href="/cris/rp/rp19932" class="authority"><span data-toggle="tooltip" data-placement="top" title="Indefinido" class="fa fa-user undefinedstaff" style="color:#d3d3d3"></span></a></td></tr>
+<td class="metadataFieldLabel">Keywords:&nbsp;</td><td class="metadataFieldValue">Energy&#x20;policy;&nbsp;Governance&#x20;of&#x20;science&#x20;and&#x20;technology;&nbsp;Nuclear&#x20;energy;&nbsp;Participation&#x20;in&#x20;science&#x20;policy;&nbsp;Representations&#x20;of&#x20;science</td></tr>
+<td class="metadataFieldLabel">Issue Date:&nbsp;</td><td class="metadataFieldValue">2017</td></tr>
+<td class="metadataFieldLabel">Publisher:&nbsp;</td><td class="metadataFieldValue">Sage&#x20;Publications</td></tr>
+<td class="metadataFieldLabel">Project:&nbsp;</td><td class="metadataFieldValue">info:eu-repo&#x2F;grantAgreement&#x2F;FCT&#x2F;3599-PPCDT&#x2F;109426&#x2F;PT&nbsp;<a href="/cris/project/pj00036" class="authority"><span class="fa fa-info"></span> </a></td></tr>
+<td class="metadataFieldLabel">Title of the journal, periodical, book or event:&nbsp;</td><td class="metadataFieldValue">Public&#x20;Understanding&#x20;of&#x20;Science</td></tr>
+<td class="metadataFieldLabel">Volume:&nbsp;</td><td class="metadataFieldValue">26</td></tr>
+<td class="metadataFieldLabel">Issue:&nbsp;</td><td class="metadataFieldValue">3</td></tr>
+<td class="metadataFieldLabel">Abstract:&nbsp;</td><td class="metadataFieldValue">This&#x20;article&#x20;explores&#x20;the&#x20;evolution&#x20;of&#x20;the&#x20;nuclear&#x20;energy&#x20;debate&#x20;and&#x20;its&#x20;associated&#x20;controversies&#x20;in&#x20;the&#x20;Portuguese&#x20;parliament.&#x20;The&#x20;analysis&#x20;focuses&#x20;on&#x20;the&#x20;dictatorial&#x20;regime&#x20;of&#x20;the&#x20;New&#x20;State&#x20;(from&#x20;the&#x20;beginning&#x20;of&#x20;the&#x20;nuclear&#x20;program&#x20;in&#x20;1951&#x20;until&#x20;the&#x20;1974&#x20;revolution)&#x20;and&#x20;on&#x20;the&#x20;democratic&#x20;period&#x20;(post-1974).&#x20;Portugal,&#x20;as&#x20;an&#x20;exporting&#x20;country&#x20;of&#x20;uranium&#x20;minerals,&#x20;significantly&#x20;invested&#x20;in&#x20;the&#x20;development&#x20;of&#x20;a&#x20;national&#x20;capacity&#x20;in&#x20;nuclear&#x20;research,&#x20;but&#x20;never&#x20;developed&#x20;an&#x20;endogenous&#x20;nuclear&#x20;power&#x20;infrastructure.&#x20;Through&#x20;the&#x20;analysis&#x20;of&#x20;parliamentary&#x20;debates,&#x20;this&#x20;article&#x20;characterizes&#x20;the&#x20;dynamic&#x20;evolution&#x20;of&#x20;the&#x20;Portuguese&#x20;sociotechnical&#x20;imaginary&#x20;on&#x20;nuclear&#x20;energy&#x20;and&#x20;technology&#x20;interlinked&#x20;with&#x20;ambivalent&#x20;representations,&#x20;including&#x20;the&#x20;promise&#x20;of&#x20;nuclear&#x20;energy&#x20;as&#x20;key&#x20;for&#x20;the&#x20;constitution&#x20;of&#x20;a&#x20;technological&#x20;Nation&#x20;or&#x20;as&#x20;prompting&#x20;new&#x20;sociotechnical&#x20;risks.</td></tr>
+<td class="metadataFieldLabel">Description:&nbsp;</td><td class="metadataFieldValue">Article&#x20;first&#x20;published&#x20;online:&#x20;August&#x20;8,&#x20;2016</td></tr>
+<td class="metadataFieldLabel">URI:&nbsp;</td><td class="metadataFieldValue"><a href="https://hdl.handle.net/10316/41784">https://hdl.handle.net/10316/41784</a></td></tr>
+<td class="metadataFieldLabel">ISSN:&nbsp;</td><td class="metadataFieldValue">0963-6625<br />1361-6609</td></tr>
+<td class="metadataFieldLabel">DOI:&nbsp;</td><td class="metadataFieldValue"><a href="https://doi.org/10.1177/0963662516662738">10.1177/0963662516662738</a><br /><a href="https://doi.org/10.1177/0963662516662738">10.1177/0963662516662738</a></td></tr>
+<td class="metadataFieldLabel">Rights:&nbsp;</td><td class="metadataFieldValue">embargoedAccess</td></tr>
+<tr><td class="metadataFieldLabel">Appears in Collections:</td><td class="metadataFieldValue"><a href="/handle/10316/15681">I&D CES - Artigos em Revistas Internacionais</a><br/></td></tr>
+</table><br/>
+<div class="panel panel-default"><div class="panel-heading"><h6 class="panel-title">Files in This Item:</h6></div>
+<div class="table-responsive"><table class="table panel-body"><tr><th id="t1" class="standard">File</th>
+<th id="t2" class="standard">Description</th>
+<th id="t3" class="standard">Size</th><th id="t4" class="standard">Format
+<tr><td headers="t1" class="standard"><a target="_blank" href="/bitstream/10316/41784/1/Imaginaries%20of%20nuclear%20energy%20in%20the%20Portuguese%20parliament.pdf">Imaginaries of nuclear energy in the Portuguese parliament.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">715.54 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a class="btn btn-primary" target="_blank" href="/bitstream/10316/41784/1/Imaginaries%20of%20nuclear%20energy%20in%20the%20Portuguese%20parliament.pdf">View/Open</a></td></tr></table>
+</div>
+</div>
+
+    
+
+
+
+    <a class="btn btn-default fw-button" href="/handle/10316/41784?mode=full">
+        Show full item record
+    </a>
+
+	
+</div>
+<div class="col-lg-2 fw-article-stats">
+<div class="row">
+
+
+
+
+
+	
+		<script type="text/javascript">
+		j(document).ready(function() {
+			var obj = JSON.parse('{"identifier":"2-s2.0-85018755367","link":"https://www.scopus.com/inward/citedby.uri?partnerID\u003dHzOxMe3b\u0026scp\u003d85018755367\u0026origin\u003dinward","pmid":"27502697","doi":"10.1177/0963662516662738"}');
+			j( "div" ).data( "moreLink", obj );
+			j( "#metric-counter-scopus" ).wrap(function() {
+				  return "<a target='_blank' href='" + j( "div" ).data( "moreLink" ).link + "'></a>";
+			}).append(" <i class='fa fa-info-circle' data-toggle='tooltip' title='Get updated citations from database'></i>");
+			
+			jQuery('[data-toggle="tooltip"]').tooltip();
+		});
+		</script>
+	
+<div class="col-lg-12 col-md-4 col-sm-6 col-xs-12 box-scopus">
+<div class="media scopus">
+	<div class="media-left">
+		
+	</div>
+	<div class="media-body text-center">
+		<h4 class="media-heading">SCOPUS<sup>TM</sup>&nbsp;&nbsp;&nbsp;<br/> Citations
+		
+		</h4>
+		<span id="metric-counter-scopus" class="metric-counter">
+				
+		
+		
+		
+			14
+		
+		
+		
+				
+		
+		
+		</span>
+	</div>
+	
+	<div class="row">
+		<div class="col-lg-12 text-center small">
+			checked on Sep 7, 2026
+		</div>
+	</div>
+	</div>
+</div>
+
+
+
+
+
+	
+		<script type="text/javascript">
+		j(document).ready(function() {
+			var obj = JSON.parse('{"identifier":"000399566300003","link":"https://www.webofscience.com/api/gateway?GWVersion\u003d2\u0026SrcApp\u003dPARTNER_APP\u0026SrcAuth\u003dLinksAMR\u0026KeyUT\u003dWOS:000399566300003\u0026DestLinkType\u003dCitingArticles\u0026DestApp\u003dALL_WOS\u0026UsrCustomerID\u003db93ca3a79228cb82bb8e9e8ec63297a1"}');
+			j( "div" ).data( "moreLink", obj );
+			j( "#metric-counter-wos" ).wrap(function() {
+				  return "<a target='_blank' href='" + j( "div" ).data( "moreLink" ).link + "'></a>";
+			}).append(" <i class='fa fa-info-circle' data-toggle='tooltip' title='Get updated citations from database'></i>");
+			
+			jQuery('[data-toggle="tooltip"]').tooltip();
+		});
+		</script>
+	
+<div class="col-lg-12 col-md-4 col-sm-6 col-xs-12 box-wos">
+<div class="media wos">
+	<div class="media-left">
+		
+	</div>
+	<div class="media-body text-center">
+		<h4 class="media-heading">WEB OF SCIENCE<sup>TM</sup><br/> Citations
+		
+		<span class="pull-right">
+				
+		<span class="metric-ranking arc">
+			<span class="circle" data-toggle="tooltip" data-placement="bottom" 
+				title="This paper is in the top 10% of the papers in this repository based on number of citations in Web of Science">
+				10
+			</span>
+		</span>
+		</span>
+		
+		</h4>
+		<span id="metric-counter-wos" class="metric-counter">
+				
+		
+		
+		
+			11
+		
+		
+		
+				
+		
+		
+		</span>
+	</div>
+	
+	<div class="row">
+		<div class="col-lg-12 text-center small">
+			checked on Apr 2, 2026
+		</div>
+	</div>
+	</div>
+</div>
+
+
+
+
+
+	
+		<script type="text/javascript">
+		j(document).ready(function() {
+			var obj = JSON.parse('{"link":"https://estudogeral.uc.pt/cris/stats/item.html?handle\u003d10316/41784"}');
+			j( "div" ).data( "moreLink", obj );
+			j( "#metric-counter-view" ).wrap(function() {
+				  return "<a target='_blank' href='" + j( "div" ).data( "moreLink" ).link + "'></a>";
+			}).append(" <i class='fa fa-info-circle' data-toggle='tooltip' title='Get updated citations from database'></i>");
+			
+			jQuery('[data-toggle="tooltip"]').tooltip();
+		});
+		</script>
+	
+<div class="col-lg-12 col-md-4 col-sm-6 col-xs-12 box-view">
+<div class="media view">
+	<div class="media-left">
+		<i class="fa fa-eye"></i>
+	</div>
+	<div class="media-body text-center">
+		<h4 class="media-heading">Page view(s)
+		
+		<span class="pull-right">
+				
+		<span class="metric-ranking arc">
+			<span class="circle" data-toggle="tooltip" data-placement="bottom" 
+				title="This paper is in the top 5% of the papers in this repository based on number of visualization">
+				5
+			</span>
+		</span>
+		</span>
+		
+		</h4>
+		<span id="metric-counter-view" class="metric-counter">
+				
+		
+		
+		
+			1,627
+		
+		
+		
+				
+		
+		
+		</span>
+	</div>
+	
+	<div class="row">
+		<div class="col-lg-12 text-center small">
+			checked on Jun 30, 2026
+		</div>
+	</div>
+	</div>
+</div>
+
+
+
+
+
+	
+		<script type="text/javascript">
+		j(document).ready(function() {
+			var obj = JSON.parse('{"link":"https://estudogeral.uc.pt/cris/stats/item.html?handle\u003d10316/41784\u0026amp;type\u003dbitstream"}');
+			j( "div" ).data( "moreLink", obj );
+			j( "#metric-counter-download" ).wrap(function() {
+				  return "<a target='_blank' href='" + j( "div" ).data( "moreLink" ).link + "'></a>";
+			}).append(" <i class='fa fa-info-circle' data-toggle='tooltip' title='Get updated citations from database'></i>");
+			
+			jQuery('[data-toggle="tooltip"]').tooltip();
+		});
+		</script>
+	
+<div class="col-lg-12 col-md-4 col-sm-6 col-xs-12 box-download">
+<div class="media download">
+	<div class="media-left">
+		<i class="fa fa-cloud-download"></i>  
+	</div>
+	<div class="media-body text-center">
+		<h4 class="media-heading">Download(s)
+		
+		<span class="pull-right">
+				
+		<span class="metric-ranking arc">
+			<span class="circle" data-toggle="tooltip" data-placement="bottom" 
+				title="This paper is in the top 50% of the papers in this repository based on number of downloads">
+				50
+			</span>
+		</span>
+		</span>
+		
+		</h4>
+		<span id="metric-counter-download" class="metric-counter">
+				
+		
+		
+		
+			717
+		
+		
+		
+				
+		
+		
+		</span>
+	</div>
+	
+	<div class="row">
+		<div class="col-lg-12 text-center small">
+			checked on Jun 30, 2026
+		</div>
+	</div>
+	</div>
+</div>
+
+
+    
+<div class="col-lg-12 col-md-4 col-sm-6">
+<div class="media google">
+	<div class="media-left">
+		<img src="/image/google-favicon-png.ico" />
+	</div>
+	<div id="googleCitedResult" class="media-body text-center">
+		<h4 class="media-heading">Google Scholar<sup>TM</sup><br/></h4>
+		
+		
+   		    <span class="metric-counter"><a data-toggle="tooltip" target="_blank" title="Search Google Scholar" href="https://scholar.google.com/scholar?as_q=&as_epq=Imaginaries of nuclear energy in the Portuguese parliament: Between promise, risk, and democracy&as_occt=any">Check</a></span>
+	</div>
+</div>	
+</div>
+<br class="visible-lg" />
+    
+<div class="col-lg-12 col-md-4 col-sm-6">
+<div class="media altmetric">
+	<div class="media-left">
+      		<div class='altmetric-embed' data-hide-no-mentions="true" data-badge-popover="right" data-badge-type="donut" data-link-target='_blank'
+      		 data-doi="10.1177/0963662516662738"></div>
+	</div>
+	<div class="media-body media-middle text-center">
+		<h4 class="media-heading">Altmetric</h4>
+	</div>
+</div>
+</div>
+
+<div class="col-lg-12 col-md-4 col-sm-6">
+<div class="dimensions">
+	<div class="media-left">
+	
+      	<div class="__dimensions_badge_embed__" data-legend="hover-right" data-style="small_circle"  data-doi="10.1177/0963662516662738"" ></div>
+      	<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+	</div>
+	<div class="media-body media-middle text-center">
+		<h4 class="media-heading">Altmetric</h4>
+	</div>
+</div>
+</div>
+
+
+    </div>
+</div>
+
+<div class="modal fade" id="dialogPMC" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+
+    </div>
+  </div>
+</div>
+
+
+
+	
+    
+</div>
+</div>
+<div class="container">
+    
+
+<br/>
+    
+
+    <p>Items in DSpace are protected by copyright, with all rights reserved, unless otherwise indicated.</p>
+
+	</div>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+
+</div>
+</main>
+
+<footer>
+    <div class="row">
+
+        <!-- Menu de navegação genérico -->
+        <div class="container footer-nav">
+            <nav>
+                <ul>
+                    <li><a href="http://www.uc.pt/sobrenos/localizacao_contactos">Contactos</a></li>
+                    <li><a href="https://www.uc.pt/sibuc/coment">Elogios, Sugestões, Reclamações</a></li>
+                    <li><a href="http://www.uc.pt/avisolegal">Aviso Legal</a></li>
+                </ul>
+            </nav>
+        </div>
+
+        <!-- Logos -->
+        <div class="container footer-logos">
+            <div class="col fw-inline">
+                <div class="logo">
+                    <img src="/static/ucpa_web/images/logos-eg-footer-sibuc.png" alt="Apoios" height="40">
+                </div>
+                <div>
+                    <span>SIBUC / ESTUDO GERAL<br> UNIVERSIDADE DE COIMBRA © 2018</span>
+                </div>
+            </div>
+            <div class="col">
+                <img src="/static/ucpa_web/images/unesco.png" alt="UNESCO" width="220">
+            </div>
+            <div class="col footer-copyright">
+                <img src="/static/ucpa_web/images/logos-eg-footer.png" alt="Apoios" height="40">
+            </div>
+        </div>
+
+    </div>
+</footer>
+		
+    </body>
+</html>
+

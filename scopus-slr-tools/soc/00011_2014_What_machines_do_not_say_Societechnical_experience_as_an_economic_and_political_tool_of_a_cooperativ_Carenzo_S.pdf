@@ -1,0 +1,1292 @@
+
+
+<!doctype html>
+<html lang="es" xml:lang="es">
+
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>Revistas Uniandes</title>
+	<link rel="icon" href="https://revistas.uniandes.edu.co/plugins/themes/uniandesTheme/assets/img/site-icon.svg" type="image/svg+xml">
+	<link rel="apple-touch-icon" href="https://revistas.uniandes.edu.co/plugins/themes/uniandesTheme/assets/img/site-icon-180.png">
+	<style type="text/css">
+		/* lato-regular - latin_latin-ext */
+		@font-face {
+			font-display: swap;
+			font-family: 'Lato';
+			font-style: normal;
+			font-weight: 400;
+			src: url('https://revistas.uniandes.edu.co/plugins/themes/uniandesTheme/assets/font/lato-v24-latin_latin-ext-regular.woff2') format('woff2');
+		}
+
+		/* lato-italic - latin_latin-ext */
+		@font-face {
+			font-display: swap;
+			font-family: 'Lato';
+			font-style: italic;
+			font-weight: 400;
+			src: url('https://revistas.uniandes.edu.co/plugins/themes/uniandesTheme/assets/font/lato-v24-latin_latin-ext-italic.woff2') format('woff2');
+		}
+
+		/* lato-700 - latin_latin-ext */
+		@font-face {
+			font-display: swap;
+			font-family: 'Lato';
+			font-style: normal;
+			font-weight: 700;
+			src: url('https://revistas.uniandes.edu.co/plugins/themes/uniandesTheme/assets/font/lato-v24-latin_latin-ext-700.woff2') format('woff2');
+		}
+
+		/* lato-700italic - latin_latin-ext */
+		@font-face {
+			font-display: swap;
+			font-family: 'Lato';
+			font-style: italic;
+			font-weight: 700;
+			src: url('https://revistas.uniandes.edu.co/plugins/themes/uniandesTheme/assets/font/lato-v24-latin_latin-ext-700italic.woff2') format('woff2');
+		}
+
+		/* lato-900 - latin_latin-ext */
+		@font-face {
+			font-display: swap;
+			font-family: 'Lato';
+			font-style: normal;
+			font-weight: 900;
+			src: url('https://revistas.uniandes.edu.co/plugins/themes/uniandesTheme/assets/font/lato-v24-latin_latin-ext-900.woff2') format('woff2');
+		}
+
+		/* lato-900italic - latin_latin-ext */
+		@font-face {
+			font-display: swap;
+			font-family: 'Lato';
+			font-style: italic;
+			font-weight: 900;
+			src: url('https://revistas.uniandes.edu.co/plugins/themes/uniandesTheme/assets/font/lato-v24-latin_latin-ext-900italic.woff2') format('woff2');
+		}
+
+		/* libre-bodoni-regular - latin_latin-ext */
+		@font-face {
+			font-display: swap;
+			font-family: 'Libre Bodoni';
+			font-style: normal;
+			font-weight: 400;
+			src: url('https://revistas.uniandes.edu.co/plugins/themes/uniandesTheme/assets/font/libre-bodoni-v5-latin_latin-ext-regular.woff2') format('woff2');
+		}
+
+		/* libre-bodoni-italic - latin_latin-ext */
+		@font-face {
+			font-display: swap;
+			font-family: 'Libre Bodoni';
+			font-style: italic;
+			font-weight: 400;
+			src: url('https://revistas.uniandes.edu.co/plugins/themes/uniandesTheme/assets/font/libre-bodoni-v5-latin_latin-ext-italic.woff2') format('woff2');
+		}
+
+		/* libre-bodoni-700 - latin_latin-ext */
+		@font-face {
+			font-display: swap;
+			font-family: 'Libre Bodoni';
+			font-style: normal;
+			font-weight: 700;
+			src: url('https://revistas.uniandes.edu.co/plugins/themes/uniandesTheme/assets/font/libre-bodoni-v5-latin_latin-ext-700.woff2') format('woff2');
+		}
+
+		/* libre-bodoni-700italic - latin_latin-ext */
+		@font-face {
+			font-display: swap;
+			font-family: 'Libre Bodoni';
+			font-style: italic;
+			font-weight: 700;
+			src: url('https://revistas.uniandes.edu.co/plugins/themes/uniandesTheme/assets/font/libre-bodoni-v5-latin_latin-ext-700italic.woff2') format('woff2');
+		}
+	</style>
+	
+<meta name="generator" content="Open Journal Systems 3.4.0.10" />
+<!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-XMF4J0K4BQ"></script> <script>   window.dataLayer = window.dataLayer || [];   function gtag(){dataLayer.push(arguments);}   gtag('js', new Date());   gtag('config', 'G-XMF4J0K4BQ'); </script>
+
+
+
+ <script id="usercentrics-cmp" src="https://app.usercentrics.eu/browser-ui/latest/loader.js" data-version="preview" data-settings-id="iTyl_jL84Fayw2" async></script>
+<script src="https://cdn.userway.org/widget.js" data-account="5DgbFeo9nv"></script>
+	<style type="text/css">
+            :root {
+                --color-accent: #FFF200;
+                --color-accent-transparent: rgba(255, 242, 0, 0.5);
+                --color-focus-outline: #000;
+                --link-color: #000;
+                --link-hover-color: var(--color-accent);
+                --heading-color: #000;
+            }
+        </style><link rel="stylesheet" href="https://revistas.uniandes.edu.co/plugins/themes/uniandesTheme/assets/main.css?0.1.0.0" type="text/css" /><link rel="stylesheet" href="https://revistas.uniandes.edu.co/public/site/styleSheet.css?v=3.4.0.10" type="text/css" />
+</head>
+
+<body dir="ltr">
+
+	<header
+	class="sticky top-0 bg-black text-white tablet:relative z-50 site-header"
+	style="--color-focus-outline: var(--color-accent);"
+>
+	<nav
+		aria-label="Menú de búsqueda, cuenta de usuario y opciones de idioma"
+		class="menu-small menu-small-right hidden tablet:container tablet:flex tablet:justify-end tablet:py-2"
+	>
+			<ul id="menu-top">
+												<li>
+					<a
+						class="
+							menu-item
+													"
+						href="https://revistas.uniandes.edu.co/index.php/index/search"
+					>
+													<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960" height="24" width="24">
+								<path fill="currentColor"
+									d="M796-121 533-384q-30 26-69.959 40.5T378-329q-108.162 0-183.081-75Q120-479 120-585t75-181q75-75 181.5-75t181 75Q632-691 632-584.85 632-542 618-502q-14 40-42 75l264 262-44 44ZM377-389q81.25 0 138.125-57.5T572-585q0-81-56.875-138.5T377-781q-82.083 0-139.542 57.5Q180-666 180-585t57.458 138.5Q294.917-389 377-389Z" />
+							</svg>
+												BUSCAR
+					</a>
+				</li>
+															<li>
+					<a
+						class="
+							menu-item
+													"
+						href="https://revistas.uniandes.edu.co/index.php/index/user/register"
+					>
+												Registrarse
+					</a>
+				</li>
+															<li>
+					<a
+						class="
+							menu-item
+													"
+						href="https://revistas.uniandes.edu.co/index.php/index/login"
+					>
+												Entrar
+					</a>
+				</li>
+																								<li>
+	<button class="menu-item toggle-button" data-toggle="#language-menu-menu-top">
+		Español
+		<svg class="toggle-open-icon" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+	<path fill="currentColor" d="M256 80c0-17.7-14.3-32-32-32s-32 14.3-32 32V224H48c-17.7 0-32 14.3-32 32s14.3 32 32 32H192V432c0 17.7 14.3 32 32 32s32-14.3 32-32V288H400c17.7 0 32-14.3 32-32s-14.3-32-32-32H256V80z"/>
+</svg>
+<svg class="toggle-close-icon" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+	<path fill="currentColor" d="M432 256c0 17.7-14.3 32-32 32L48 288c-17.7 0-32-14.3-32-32s14.3-32 32-32l352 0c17.7 0 32 14.3 32 32z"/>
+</svg>
+	</button>
+	<div id="language-menu-menu-top" class="toggle-panel language-selector">
+		<div class="mb-2 font-normal">
+			Seleccione el idioma:
+		</div>
+		<ul>
+							<li>
+					<a
+						class="menu-item"
+						href="https://revistas.uniandes.edu.co/index.php/index/user/setLocale/en?source=%2F"
+					>
+												English
+					</a>
+				</li>
+							<li>
+					<a
+						class="menu-item"
+						href="https://revistas.uniandes.edu.co/index.php/index/user/setLocale/es?source=%2F"
+					>
+													<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+								<path fill="currentColor" d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z"/>
+							</svg>
+												Español
+					</a>
+				</li>
+							<li>
+					<a
+						class="menu-item"
+						href="https://revistas.uniandes.edu.co/index.php/index/user/setLocale/pt_BR?source=%2F"
+					>
+												Português
+					</a>
+				</li>
+					</ul>
+	</div>
+</li>
+			</ul>
+
+	</nav>
+	<div
+		class="
+			relative
+			container
+			py-4
+			flex
+			justify-between
+			items-center
+			tablet:flex-wrap
+			tablet:py-4
+			tablet:gap-8
+			laptop-sm:pt-8
+			laptop-sm:gap-12
+		"
+	>
+		<a href="/" class="tab-focus">
+			<svg class="tablet:hidden h-8" viewBox="0 0 28 32" xmlns="http://www.w3.org/2000/svg">
+				<path fill="currentColor" d="M25.0892 28.6054C19.5565 32.1902 13.818 31.9982 13.818 31.9982C13.818 31.9982 13.6626 31.2666 13.722 30.0046C13.786 28.738 14.4765 29.0947 14.9749 28.0979C15.1578 27.7367 15.3132 27.4852 15.5967 26.6347C15.6059 26.5981 15.2675 20.5487 15.1806 17.979C15.1349 16.5935 14.8743 14.2844 14.5679 12.0393C14.3896 10.7087 13.9826 9.6525 13.7952 8.3905C13.5254 6.56608 13.2099 4.50846 13.2099 4.50846C12.9858 5.08917 12.6612 7.2611 12.3411 9.71652C12.1857 10.8916 12.0302 12.1354 11.8839 13.2968C11.5775 15.7568 10.8093 22.3366 10.6905 22.6932C10.5121 23.2373 10.4938 22.5515 10.4938 22.5515C10.4938 22.5515 10.9465 15.647 11.0883 12.6246C11.1568 11.1431 11.2666 9.5199 11.4495 7.95611C11.5867 6.78555 11.765 5.65158 11.9982 4.64106C11.9982 4.64106 12.7892 2.25423 13.0407 2.20393C13.2922 2.15363 14.2021 3.70828 14.513 5.08917C15.2126 8.2076 15.6242 8.60541 16.1546 11.8839C16.6621 14.9977 17.1194 17.5995 17.1834 18.0293C17.412 19.5748 17.2977 24.3942 16.909 26.3146C16.8176 26.8359 16.7901 27.0279 16.4472 27.3754C15.647 28.1848 15.0755 29.1541 15.0755 29.7851C15.0755 30.4161 14.9703 30.407 15.1212 30.7728C15.1212 30.7728 16.1774 32.3549 22.2543 28.7335C22.2543 28.7335 24.1518 27.7412 24.1518 25.5419V3.33791C24.1518 3.33791 18.1253 1.29858 13.4888 1.29858C8.85232 1.29858 3.03613 3.33333 3.03613 3.33333V25.4413C3.03613 26.8039 3.23274 29.3553 5.17605 30.2241C5.17605 30.2241 0 28.4545 0 25.4138V1.45404C0 1.45404 7.90124 0 13.4888 0C19.0764 0 27.1148 1.45404 27.1148 1.45404V25.4413C27.1148 27.508 25.0892 28.61 25.0892 28.61" fill="white"/>
+			</svg>
+			<img loading="lazy" class="hidden tablet:block tablet:h-12 laptop-sm:h-14"
+				src="https://revistas.uniandes.edu.co/public/site/pageHeaderTitleImage_es.png"
+				height="48"
+									alt="Logo for Vicerrectoría de Investigación y Creación"
+							/>
+		</a>
+		<a href="https://revistas.uniandes.edu.co/index.php/index/index" class="tab-focus">
+			<svg
+				class="w-auto h-4 tablet:h-6 laptop-sm:h-8"
+				width="456"
+				height="41"
+				viewBox="0 0 456 41"
+				xmlns="http://www.w3.org/2000/svg"
+			>
+				<path
+					fill="currentColor"
+											d="M449.1 22.8C447.9 21.5 445.6 20.2 442.3 19C440.3 18.3 438.9 17.7 437.9 17.1C436.9 16.5 436.3 15.9 435.9 15.2C435.5 14.5 435.3 13.6 435.3 12.5C435.3 11 435.8 9.9 436.9 9C438 8.2 439.5 7.8 441.4 7.8C443.8 7.8 446.4 8.3 449 9.4L450.1 6.2C447.5 5.1 444.6 4.5 441.5 4.5C438.5 4.5 436.1 5.2 434.3 6.6C432.5 8 431.6 10 431.6 12.4C431.6 14.7 432.2 16.6 433.5 18C434.8 19.4 436.8 20.7 439.8 21.7C441.9 22.4 443.4 23.1 444.5 23.7C445.5 24.3 446.3 24.9 446.7 25.6C447.1 26.3 447.4 27.2 447.4 28.3C447.4 29.9 446.8 31.2 445.6 32.2C444.4 33.1 442.5 33.6 440.1 33.6C438.6 33.6 437.1 33.4 435.6 33.1C434.1 32.8 432.7 32.4 431.4 31.8V35.3C433.4 36.3 436.3 36.7 440 36.7C443.4 36.7 446.2 35.9 448.2 34.4C450.2 32.9 451.2 30.7 451.2 27.9C451 25.9 450.4 24.1 449.1 22.8ZM426.3 33.1H412.5V21.6H425.5V18.4H412.5V8.2H426.3V5H408.8V36.4H426.3V33.1ZM394.7 30C392.5 32.1 389.2 33.2 384.9 33.2H380.5V8.1H385.8C389.9 8.1 392.9 9.1 395 11.2C397.1 13.3 398.1 16.4 398.1 20.5C398 24.7 396.9 27.9 394.7 30ZM397.8 9C395.1 6.3 391.3 4.9 386.4 4.9H376.8V36.3H385.5C390.8 36.3 394.8 34.9 397.6 32.2C400.4 29.5 401.8 25.5 401.8 20.3C401.8 15.5 400.5 11.7 397.8 9ZM368.2 5H364.8V23C364.8 23.9 364.8 25.4 364.9 27.5C365 29.6 365.1 30.8 365.1 31.2H364.9L347.8 5H343.7V36.4H347.1V18.5C347.1 15.9 347 13.1 346.8 10H347L364 36.4H368.2V5ZM320.4 23.1L324.1 13.4C324.7 11.8 325.1 10.2 325.5 8.9C326 10.7 326.5 12.2 327 13.4L330.6 23.1H320.4ZM339.3 36.4L327 4.9H323.9L311.5 36.4H315.2L319.1 26.4H331.7L335.6 36.4H339.3ZM307.2 5H303.5V36.4H307.2V5ZM294.9 5H291.5V23C291.5 23.9 291.5 25.4 291.6 27.5C291.7 29.6 291.8 30.8 291.8 31.2H291.6L274.5 5H270.4V36.4H273.8V18.5C273.8 15.9 273.7 13.1 273.5 10H273.7L290.9 36.3H295.1V5H294.9ZM258.5 5V25.4C258.5 28 257.8 30.1 256.4 31.5C255 32.9 252.9 33.6 250.3 33.6C247.5 33.6 245.4 32.9 244 31.5C242.6 30.1 241.9 28.1 241.9 25.5V5H238.3V25.2C238.3 28.8 239.3 31.6 241.4 33.7C243.5 35.8 246.4 36.8 250.2 36.8C254 36.8 256.9 35.8 259.1 33.7C261.3 31.7 262.3 28.8 262.3 25.3V5H258.5ZM219.6 21.6C218.5 20.2 216.7 18.9 214 17.7C211.2 16.4 209.5 15.5 208.8 15C208.2 14.5 207.8 14 207.8 13.3C207.8 12.7 208.1 12.2 208.6 11.9C209.1 11.5 209.9 11.3 211 11.3C213.1 11.3 215.7 12 218.6 13.3L221.2 6.8C217.8 5.3 214.5 4.5 211.3 4.5C207.6 4.5 204.7 5.3 202.6 6.9C200.5 8.5 199.4 10.8 199.4 13.7C199.4 15.2 199.6 16.6 200.1 17.7C200.6 18.8 201.4 19.8 202.4 20.7C203.4 21.6 205 22.5 207 23.4C209.3 24.4 210.7 25.1 211.2 25.4C211.7 25.7 212.1 26.1 212.3 26.4C212.5 26.7 212.7 27.1 212.7 27.5C212.7 28.2 212.4 28.7 211.8 29.2C211.2 29.6 210.3 29.9 209 29.9C207.5 29.9 205.9 29.7 204.2 29.2C202.5 28.7 200.8 28.1 199.2 27.3V34.9C200.7 35.6 202.2 36.1 203.6 36.4C205 36.7 206.8 36.8 208.9 36.8C211.4 36.8 213.6 36.4 215.4 35.5C217.3 34.7 218.7 33.5 219.7 32C220.7 30.5 221.2 28.8 221.2 26.8C221.2 24.7 220.7 23 219.6 21.6ZM178.1 23.5C179.4 18.6 180.2 15.3 180.6 13.6C181 11.9 181.2 10.7 181.4 10C181.5 10.8 181.8 12.1 182.3 13.9C182.8 15.7 183.1 17.2 183.4 18.3L184.8 23.5H178.1ZM197.3 36.4L186.9 4.9H175.6L165.4 36.4H174.7L176.3 30.5H186.5L188 36.4H197.3ZM156.7 11.9H164.3V5H140.5V11.9H148.2V36.4H156.7V11.9ZM136.4 21.6C135.3 20.2 133.5 18.9 130.8 17.7C128 16.4 126.3 15.5 125.6 15C125 14.5 124.6 14 124.6 13.3C124.6 12.7 124.8 12.2 125.4 11.9C125.9 11.5 126.7 11.3 127.8 11.3C129.9 11.3 132.5 12 135.4 13.3L138 6.8C134.6 5.3 131.3 4.5 128.1 4.5C124.4 4.5 121.5 5.3 119.4 6.9C117.3 8.5 116.2 10.8 116.2 13.7C116.2 15.2 116.4 16.6 116.9 17.7C117.4 18.8 118.2 19.8 119.2 20.7C120.2 21.6 121.8 22.5 123.8 23.4C126.1 24.4 127.5 25.1 128 25.4C128.5 25.7 128.9 26.1 129.1 26.4C129.3 26.7 129.5 27.1 129.5 27.5C129.5 28.2 129.2 28.7 128.6 29.2C128 29.6 127.1 29.9 125.8 29.9C124.3 29.9 122.7 29.7 121 29.2C119.3 28.7 117.6 28.1 116 27.3V34.9C117.5 35.6 119 36.1 120.4 36.4C121.8 36.7 123.6 36.8 125.7 36.8C128.2 36.8 130.4 36.4 132.2 35.5C134.1 34.7 135.5 33.5 136.5 32C137.5 30.5 138 28.8 138 26.8C138 24.7 137.4 23 136.4 21.6ZM110.6 5H102.1V36.4H110.6V5ZM84.9 21C84.7 21.9 84.4 23 84.1 24.5C83.8 26 83.6 27.3 83.5 28.3C83.4 26.9 82.9 24.4 82 20.9L77.8 5H68.3L78.5 36.4H88.5L98.7 5H89.2L84.9 21ZM66.1 29.5H56V23.6H65.4V16.8H56V11.9H66.2V5H47.5V36.4H66.1V29.5ZM26.2 11.4H27.9C30.8 11.4 32.3 12.5 32.3 14.6C32.3 17.2 30.8 18.5 27.9 18.5H26.3V11.4H26.2ZM28.4 24.9L35 36.4H44.6L35.5 22.7C39 20.7 40.8 17.9 40.8 14.3C40.8 8.1 36.6 5 28 5H17.7V36.4H26.2V24.9H28.4Z"
+									/>
+			</svg>
+		</a>
+		<button
+			data-toggle="#site-nav"
+			class="toggle-button tab-focus px-4 py-5 -m-4 tablet:hidden"
+			aria-expanded="false"
+		>
+			<span class="sr-only">
+				Menús de navegación
+			</span>
+			<span class="menu-icon "aria-hidden="true">
+	<span></span>
+	<span></span>
+	<span></span>
+</span>
+		</button>
+		<div
+			id="site-nav"
+			class="menu-dropdown toggle-panel tablet:hidden"
+			aria-label="Menú de navegación principal"
+			data-open="false"
+		>
+			<nav
+				aria-label="Menú de navegación principal"
+				class="menu-dropdown-block bg-black text-white"
+			>
+					<ul id="site-menu-dropdown">
+												<li>
+	<button class="menu-item toggle-button" data-toggle="#site-menu-dropdownjournals-a-z">
+		<svg class="toggle-open-icon" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+	<path fill="currentColor" d="M256 80c0-17.7-14.3-32-32-32s-32 14.3-32 32V224H48c-17.7 0-32 14.3-32 32s14.3 32 32 32H192V432c0 17.7 14.3 32 32 32s32-14.3 32-32V288H400c17.7 0 32-14.3 32-32s-14.3-32-32-32H256V80z"/>
+</svg>
+<svg class="toggle-close-icon" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+	<path fill="currentColor" d="M432 256c0 17.7-14.3 32-32 32L48 288c-17.7 0-32-14.3-32-32s14.3-32 32-32l352 0c17.7 0 32 14.3 32 32z"/>
+</svg>
+		Revistas A-Z
+	</button>
+	<div id="site-menu-dropdownjournals-a-z" class="toggle-panel">
+		<ul>
+			<li>
+				<a class="menu-item"  href="https://revistas.uniandes.edu.co/index.php/index/journals">
+					<span class="font-bold">
+						Todas las revistas
+					</span>
+				</a>
+			</li>
+							<li>
+					<a class="menu-item"  href="https://revistas.uniandes.edu.co/index.php/antipoda">
+						Antípoda. Revista de Antropología y Arqueología
+					</a>
+				</li>
+							<li>
+					<a class="menu-item"  href="https://revistas.uniandes.edu.co/index.php/colombia-int">
+						Colombia Internacional
+					</a>
+				</li>
+							<li>
+					<a class="menu-item"  href="https://revistas.uniandes.edu.co/index.php/dearq">
+						Dearq
+					</a>
+				</li>
+							<li>
+					<a class="menu-item"  href="https://revistas.uniandes.edu.co/index.php/dys">
+						Desarrollo y Sociedad
+					</a>
+				</li>
+							<li>
+					<a class="menu-item"  href="https://revistas.uniandes.edu.co/index.php/hart">
+						H-ART. Revista de historia, teoría y crítica de arte
+					</a>
+				</li>
+							<li>
+					<a class="menu-item"  href="https://revistas.uniandes.edu.co/index.php/hiscrit">
+						Historia Crítica
+					</a>
+				</li>
+							<li>
+					<a class="menu-item"  href="https://educationaltechnologyjournal.springeropen.com/">
+						International Journal of Educational Technology in Higher Education. ETHE
+					</a>
+				</li>
+							<li>
+					<a class="menu-item"  href="https://revistas.uniandes.edu.co/index.php/kobai">
+						KOBAI Contacto con Japón
+					</a>
+				</li>
+							<li>
+					<a class="menu-item"  href="https://revistas.uniandes.edu.co/index.php/lar">
+						Latin American Law Review
+					</a>
+				</li>
+							<li>
+					<a class="menu-item"  href="https://revistas.uniandes.edu.co/index.php/nys">
+						Naturaleza y Sociedad. Desafíos Medioambientales
+					</a>
+				</li>
+							<li>
+					<a class="menu-item"  href="https://revistas.uniandes.edu.co/index.php/perifrasis">
+						Perífrasis. Revista de Literatura, Teoría y Crítica
+					</a>
+				</li>
+							<li>
+					<a class="menu-item"  href="https://revistas.uniandes.edu.co/index.php/res">
+						Revista de Estudios Sociales
+					</a>
+				</li>
+							<li>
+					<a class="menu-item"  href="https://revistas.uniandes.edu.co/index.php/rdi">
+						Revista de Ingeniería
+					</a>
+				</li>
+							<li>
+					<a class="menu-item"  href="https://www.emeraldgrouppublishing.com/journal/arla?id=arla">
+						Revista Latinoamericana de Administración. Academia
+					</a>
+				</li>
+							<li>
+					<a class="menu-item"  href="https://revistas.uniandes.edu.co/index.php/vys">
+						Voces y Silencios. Revista Latinoamericana de Educación
+					</a>
+				</li>
+						<li>
+				<a
+					class="menu-item menu-item-shaded"
+					href="https://revistas.uniandes.edu.co/index.php/index/otherpublications"
+				>
+					Otras publicaciones
+				</a>
+			</li>
+		</ul>
+	</div>
+</li>
+																			<li>
+					<button class="menu-item toggle-button" data-toggle="#site-menu-dropdown-item-646">
+						<svg class="toggle-open-icon" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+	<path fill="currentColor" d="M256 80c0-17.7-14.3-32-32-32s-32 14.3-32 32V224H48c-17.7 0-32 14.3-32 32s14.3 32 32 32H192V432c0 17.7 14.3 32 32 32s32-14.3 32-32V288H400c17.7 0 32-14.3 32-32s-14.3-32-32-32H256V80z"/>
+</svg>
+<svg class="toggle-close-icon" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+	<path fill="currentColor" d="M432 256c0 17.7-14.3 32-32 32L48 288c-17.7 0-32-14.3-32-32s14.3-32 32-32l352 0c17.7 0 32 14.3 32 32z"/>
+</svg>
+						Acerca
+					</button>
+					<div id="site-menu-dropdown-item-646" class="toggle-panel">
+						<ul>
+																							<li>
+									<a class="menu-item" href="https://revistas.uniandes.edu.co/index.php/index/ourjournals">
+										Acerca de nuestras revistas
+									</a>
+								</li>
+																							<li>
+									<a class="menu-item" href="https://revistas.uniandes.edu.co/index.php/index/guidelines-ai">
+										Lineamientos para el uso de inteligencia artificial generativa en el contexto de Revistas Uniandes
+									</a>
+								</li>
+													</ul>
+					</div>
+				</li>
+															<li>
+					<a
+						class="
+							menu-item
+													"
+						href="https://revistas.uniandes.edu.co/index.php/index/callforpapers"
+					>
+												Convocatorias
+					</a>
+				</li>
+															<li>
+					<a
+						class="
+							menu-item
+													"
+						href="https://revistas.uniandes.edu.co/index.php/index/announcement"
+					>
+												Noticias
+					</a>
+				</li>
+															<li>
+					<a
+						class="
+							menu-item
+													"
+						href="https://revistas.uniandes.edu.co/index.php/index/contact"
+					>
+												Contacto
+					</a>
+				</li>
+								</ul>
+
+					<ul id="site-menu-dropdown-utility">
+												<li>
+					<a
+						class="
+							menu-item
+													"
+						href="https://revistas.uniandes.edu.co/index.php/index/search"
+					>
+													<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960" height="24" width="24">
+								<path fill="currentColor"
+									d="M796-121 533-384q-30 26-69.959 40.5T378-329q-108.162 0-183.081-75Q120-479 120-585t75-181q75-75 181.5-75t181 75Q632-691 632-584.85 632-542 618-502q-14 40-42 75l264 262-44 44ZM377-389q81.25 0 138.125-57.5T572-585q0-81-56.875-138.5T377-781q-82.083 0-139.542 57.5Q180-666 180-585t57.458 138.5Q294.917-389 377-389Z" />
+							</svg>
+												BUSCAR
+					</a>
+				</li>
+															<li>
+					<a
+						class="
+							menu-item
+													"
+						href="https://revistas.uniandes.edu.co/index.php/index/user/register"
+					>
+												Registrarse
+					</a>
+				</li>
+															<li>
+					<a
+						class="
+							menu-item
+													"
+						href="https://revistas.uniandes.edu.co/index.php/index/login"
+					>
+												Entrar
+					</a>
+				</li>
+																								<li>
+	<button class="menu-item toggle-button" data-toggle="#language-menu-site-menu-dropdown-utility">
+		Español
+		<svg class="toggle-open-icon" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+	<path fill="currentColor" d="M256 80c0-17.7-14.3-32-32-32s-32 14.3-32 32V224H48c-17.7 0-32 14.3-32 32s14.3 32 32 32H192V432c0 17.7 14.3 32 32 32s32-14.3 32-32V288H400c17.7 0 32-14.3 32-32s-14.3-32-32-32H256V80z"/>
+</svg>
+<svg class="toggle-close-icon" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+	<path fill="currentColor" d="M432 256c0 17.7-14.3 32-32 32L48 288c-17.7 0-32-14.3-32-32s14.3-32 32-32l352 0c17.7 0 32 14.3 32 32z"/>
+</svg>
+	</button>
+	<div id="language-menu-site-menu-dropdown-utility" class="toggle-panel language-selector">
+		<div class="mb-2 font-normal">
+			Seleccione el idioma:
+		</div>
+		<ul>
+							<li>
+					<a
+						class="menu-item"
+						href="https://revistas.uniandes.edu.co/index.php/index/user/setLocale/en?source=%2F"
+					>
+												English
+					</a>
+				</li>
+							<li>
+					<a
+						class="menu-item"
+						href="https://revistas.uniandes.edu.co/index.php/index/user/setLocale/es?source=%2F"
+					>
+													<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+								<path fill="currentColor" d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z"/>
+							</svg>
+												Español
+					</a>
+				</li>
+							<li>
+					<a
+						class="menu-item"
+						href="https://revistas.uniandes.edu.co/index.php/index/user/setLocale/pt_BR?source=%2F"
+					>
+												Português
+					</a>
+				</li>
+					</ul>
+	</div>
+</li>
+			</ul>
+
+			</nav>
+		</div>
+	</div>
+	<nav
+		aria-label="Menú de navegación principal"
+		class="hidden tablet:block tablet:container tablet:py-4 menu-large menu-large--border-top"
+	>
+			<ul id="site-menu-large">
+												<li>
+	<button class="menu-item toggle-button" data-toggle="#site-menu-largejournals-a-z">
+		<svg class="toggle-open-icon" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+	<path fill="currentColor" d="M256 80c0-17.7-14.3-32-32-32s-32 14.3-32 32V224H48c-17.7 0-32 14.3-32 32s14.3 32 32 32H192V432c0 17.7 14.3 32 32 32s32-14.3 32-32V288H400c17.7 0 32-14.3 32-32s-14.3-32-32-32H256V80z"/>
+</svg>
+<svg class="toggle-close-icon" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+	<path fill="currentColor" d="M432 256c0 17.7-14.3 32-32 32L48 288c-17.7 0-32-14.3-32-32s14.3-32 32-32l352 0c17.7 0 32 14.3 32 32z"/>
+</svg>
+		Revistas A-Z
+	</button>
+	<div id="site-menu-largejournals-a-z" class="toggle-panel">
+		<ul>
+			<li>
+				<a class="menu-item"  href="https://revistas.uniandes.edu.co/index.php/index/journals">
+					<span class="font-bold">
+						Todas las revistas
+					</span>
+				</a>
+			</li>
+							<li>
+					<a class="menu-item"  href="https://revistas.uniandes.edu.co/index.php/antipoda">
+						Antípoda. Revista de Antropología y Arqueología
+					</a>
+				</li>
+							<li>
+					<a class="menu-item"  href="https://revistas.uniandes.edu.co/index.php/colombia-int">
+						Colombia Internacional
+					</a>
+				</li>
+							<li>
+					<a class="menu-item"  href="https://revistas.uniandes.edu.co/index.php/dearq">
+						Dearq
+					</a>
+				</li>
+							<li>
+					<a class="menu-item"  href="https://revistas.uniandes.edu.co/index.php/dys">
+						Desarrollo y Sociedad
+					</a>
+				</li>
+							<li>
+					<a class="menu-item"  href="https://revistas.uniandes.edu.co/index.php/hart">
+						H-ART. Revista de historia, teoría y crítica de arte
+					</a>
+				</li>
+							<li>
+					<a class="menu-item"  href="https://revistas.uniandes.edu.co/index.php/hiscrit">
+						Historia Crítica
+					</a>
+				</li>
+							<li>
+					<a class="menu-item"  href="https://educationaltechnologyjournal.springeropen.com/">
+						International Journal of Educational Technology in Higher Education. ETHE
+					</a>
+				</li>
+							<li>
+					<a class="menu-item"  href="https://revistas.uniandes.edu.co/index.php/kobai">
+						KOBAI Contacto con Japón
+					</a>
+				</li>
+							<li>
+					<a class="menu-item"  href="https://revistas.uniandes.edu.co/index.php/lar">
+						Latin American Law Review
+					</a>
+				</li>
+							<li>
+					<a class="menu-item"  href="https://revistas.uniandes.edu.co/index.php/nys">
+						Naturaleza y Sociedad. Desafíos Medioambientales
+					</a>
+				</li>
+							<li>
+					<a class="menu-item"  href="https://revistas.uniandes.edu.co/index.php/perifrasis">
+						Perífrasis. Revista de Literatura, Teoría y Crítica
+					</a>
+				</li>
+							<li>
+					<a class="menu-item"  href="https://revistas.uniandes.edu.co/index.php/res">
+						Revista de Estudios Sociales
+					</a>
+				</li>
+							<li>
+					<a class="menu-item"  href="https://revistas.uniandes.edu.co/index.php/rdi">
+						Revista de Ingeniería
+					</a>
+				</li>
+							<li>
+					<a class="menu-item"  href="https://www.emeraldgrouppublishing.com/journal/arla?id=arla">
+						Revista Latinoamericana de Administración. Academia
+					</a>
+				</li>
+							<li>
+					<a class="menu-item"  href="https://revistas.uniandes.edu.co/index.php/vys">
+						Voces y Silencios. Revista Latinoamericana de Educación
+					</a>
+				</li>
+						<li>
+				<a
+					class="menu-item menu-item-shaded"
+					href="https://revistas.uniandes.edu.co/index.php/index/otherpublications"
+				>
+					Otras publicaciones
+				</a>
+			</li>
+		</ul>
+	</div>
+</li>
+																			<li>
+					<button class="menu-item toggle-button" data-toggle="#site-menu-large-item-646">
+						<svg class="toggle-open-icon" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+	<path fill="currentColor" d="M256 80c0-17.7-14.3-32-32-32s-32 14.3-32 32V224H48c-17.7 0-32 14.3-32 32s14.3 32 32 32H192V432c0 17.7 14.3 32 32 32s32-14.3 32-32V288H400c17.7 0 32-14.3 32-32s-14.3-32-32-32H256V80z"/>
+</svg>
+<svg class="toggle-close-icon" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+	<path fill="currentColor" d="M432 256c0 17.7-14.3 32-32 32L48 288c-17.7 0-32-14.3-32-32s14.3-32 32-32l352 0c17.7 0 32 14.3 32 32z"/>
+</svg>
+						Acerca
+					</button>
+					<div id="site-menu-large-item-646" class="toggle-panel">
+						<ul>
+																							<li>
+									<a class="menu-item" href="https://revistas.uniandes.edu.co/index.php/index/ourjournals">
+										Acerca de nuestras revistas
+									</a>
+								</li>
+																							<li>
+									<a class="menu-item" href="https://revistas.uniandes.edu.co/index.php/index/guidelines-ai">
+										Lineamientos para el uso de inteligencia artificial generativa en el contexto de Revistas Uniandes
+									</a>
+								</li>
+													</ul>
+					</div>
+				</li>
+															<li>
+					<a
+						class="
+							menu-item
+													"
+						href="https://revistas.uniandes.edu.co/index.php/index/callforpapers"
+					>
+												Convocatorias
+					</a>
+				</li>
+															<li>
+					<a
+						class="
+							menu-item
+													"
+						href="https://revistas.uniandes.edu.co/index.php/index/announcement"
+					>
+												Noticias
+					</a>
+				</li>
+															<li>
+					<a
+						class="
+							menu-item
+													"
+						href="https://revistas.uniandes.edu.co/index.php/index/contact"
+					>
+												Contacto
+					</a>
+				</li>
+								</ul>
+
+	</nav>
+</header>
+
+
+
+	<main>
+								<div class="swiper hidden tablet:block" data-swiper-navigation="true">
+	<h2 class="sr-only">Revistas</h2>
+	<ul class="swiper-wrapper">
+					<li class="swiper-slide">
+				<a href="https://revistas.uniandes.edu.co/index.php/dearq/callforpapers">
+					<span class="sr-only">Dearq | Convocatoria. Arquitecturas con aroma</span>
+					<img loading="lazy" class="w-screen" src="https://revistas.uniandes.edu.co/public/site/highlights/33.png?1788533507" alt="Dearq | Convocatoria Arquitecturas con aroma">
+				</a>
+			</li>
+					<li class="swiper-slide">
+				<a href="https://revistas.uniandes.edu.co/index.php/hiscrit">
+					<span class="sr-only">Nuevo número Historia Crítica</span>
+					<img loading="lazy" class="w-screen" src="https://revistas.uniandes.edu.co/public/site/highlights/6.jpg?1785787377" alt="Historia Crítica | Nuevo número">
+				</a>
+			</li>
+					<li class="swiper-slide">
+				<a href="https://revistas.uniandes.edu.co/index.php/lar">
+					<span class="sr-only">Nuevo número | Latin American Law Review</span>
+					<img loading="lazy" class="w-screen" src="https://revistas.uniandes.edu.co/public/site/highlights/3.jpg?1785787563" alt="Nuevo Número | Latin American Law Review">
+				</a>
+			</li>
+					<li class="swiper-slide">
+				<a href="https://revistas.uniandes.edu.co/index.php/nys">
+					<span class="sr-only">Naturaleza y Sociedad. Nuevo número</span>
+					<img loading="lazy" class="w-screen" src="https://revistas.uniandes.edu.co/public/site/highlights/25.jpg?1785787436" alt="Naturaleza y Sociedad - nuevo número">
+				</a>
+			</li>
+					<li class="swiper-slide">
+				<a href="https://revistas.uniandes.edu.co/index.php/kobai/index">
+					<span class="sr-only">Nuevo número Kobai</span>
+					<img loading="lazy" class="w-screen" src="https://revistas.uniandes.edu.co/public/site/highlights/11.jpg?1785788046" alt="Nuevo número Kobai">
+				</a>
+			</li>
+					<li class="swiper-slide">
+				<a href="https://revistas.uniandes.edu.co/index.php/res">
+					<span class="sr-only">Nuevo número Revista de Estudios Sociales</span>
+					<img loading="lazy" class="w-screen" src="https://revistas.uniandes.edu.co/public/site/highlights/29.jpg?1785787178" alt="Revista de Estudios Sociales - Nuevo número">
+				</a>
+			</li>
+					<li class="swiper-slide">
+				<a href="https://revistas.uniandes.edu.co/index.php/colombia-int">
+					<span class="sr-only">Nuevo Número Colombia Internacional</span>
+					<img loading="lazy" class="w-screen" src="https://revistas.uniandes.edu.co/public/site/highlights/2.jpg?1785787320" alt="Colombia Internacional - Nuevo número">
+				</a>
+			</li>
+					<li class="swiper-slide">
+				<a href="https://bit.ly/4aFTmqO">
+					<span class="sr-only">Nuevo número H-art</span>
+					<img loading="lazy" class="w-screen" src="https://revistas.uniandes.edu.co/public/site/highlights/22.jpg?1782401169" alt="Banner revista H-art">
+				</a>
+			</li>
+					<li class="swiper-slide">
+				<a href="https://bit.ly/443A4ct">
+					<span class="sr-only">Nuevo Número Antípoda</span>
+					<img loading="lazy" class="w-screen" src="https://revistas.uniandes.edu.co/public/site/highlights/1.jpg?1778084690" alt="Antípoda Nuevo número | Violencias entrelazadas en América Latina (II)">
+				</a>
+			</li>
+					<li class="swiper-slide">
+				<a href="https://bit.ly/4aB4qVb">
+					<span class="sr-only">Perifrasis nuevo número</span>
+					<img loading="lazy" class="w-screen" src="https://revistas.uniandes.edu.co/public/site/highlights/23.jpg?1778084840" alt="Perífrasis | Nuevo número 37">
+				</a>
+			</li>
+					<li class="swiper-slide">
+				<a href="https://bit.ly/3C8T3IA">
+					<span class="sr-only">Nuevo número Desarrollo y Sociedad</span>
+					<img loading="lazy" class="w-screen" src="https://revistas.uniandes.edu.co/public/site/highlights/7.jpg?1778084893" alt="Desarrollo y Sociedad | Nuevo número">
+				</a>
+			</li>
+					<li class="swiper-slide">
+				<a href="https://revistas.uniandes.edu.co/index.php/vys">
+					<span class="sr-only">Nuevo número Voces y Silencios</span>
+					<img loading="lazy" class="w-screen" src="https://revistas.uniandes.edu.co/public/site/highlights/9.jpg?1785787465" alt="Voces y Silencios - Nuevo número">
+				</a>
+			</li>
+			</ul>
+	<button class="swiper-button-prev text-white font-bold p-12 -mt-14"></button>
+	<button class="swiper-button-next text-white font-bold p-12 -mt-14"></button>
+</div>
+				<section class="relative container py-2 tablet:max-width-none tablet:py-0">
+	<div
+		class="
+			tablet:relative
+			tablet:container
+			tablet:py-6
+			tablet:my-6
+			laptop-sm:px-32
+			laptop:px-48
+			laptop-lg:px-64
+			laptop-lg:py-8
+			laptop-lg:my-12
+			desktop:px-96
+			desktop:my-16
+		"
+	>
+		<svg
+			class="absolute top-0 left-0 w-full h-full"
+			xmlns="http://www.w3.org/2000/svg"
+			viewBox="0 0 680.76 72.4"
+			preserveAspectRatio="none"
+			aria-hidden="true"
+		>
+			<defs>
+				<style>
+					.cls-1 {
+						fill: #595858;
+					}
+
+					.cls-1,
+					.cls-2,
+					.cls-3,
+					.cls-4,
+					.cls-5 {
+						stroke-width: 0px;
+					}
+
+					.cls-2 {
+						fill: #808181;
+					}
+
+					.cls-3 {
+						fill: #1f1f1f;
+					}
+
+					.cls-4 {
+						fill: #7e7e7f;
+					}
+
+					.cls-5 {
+						fill: #818282;
+					}
+				</style>
+			</defs>
+			<g>
+				<path class="cls-5" d="m0,72.4h97.31V0H0v72.4Z" />
+			</g>
+			<g>
+				<g>
+					<path class="cls-3" d="m0,0h48.65L0,36.2V0Z" />
+				</g>
+			</g>
+			<g>
+				<g>
+					<path class="cls-3" d="m48.66,36.2L0,72.4v-36.2h48.66Z" />
+				</g>
+			</g>
+			<g>
+				<g>
+					<path class="cls-3" d="m97.31,72.4h-48.66l48.66-36.2v36.2Z" />
+				</g>
+			</g>
+			<g>
+				<g>
+					<path class="cls-3" d="m48.65,36.2L97.31,0v36.2h-48.65Z" />
+				</g>
+			</g>
+			<polygon class="cls-2"
+				points="97.31 0 97.31 72.4 97.31 72.4 97.31 72.4 194.61 72.4 194.61 72.4 194.61 0 194.61 0 97.31 0" />
+			<g>
+				<g>
+					<path class="cls-3" d="m267.59,72.4h-24.33v-36.2L291.92,0v72.4h-24.33Z" />
+				</g>
+			</g>
+			<g>
+				<g>
+					<path class="cls-4" d="m243.27,72.4h-48.66V0l48.66,36.2v36.2Z" />
+				</g>
+			</g>
+			<g>
+				<g>
+					<path class="cls-4" d="m243.27,0h48.65l-48.65,36.2V0Z" />
+				</g>
+			</g>
+			<g>
+				<g>
+					<path class="cls-3" d="m194.61,0h48.65v36.2L194.61,0Z" />
+				</g>
+			</g>
+			<g>
+				<path class="cls-2" d="m389.23,0h-97.31v72.4h97.31V0Z" />
+			</g>
+			<g>
+				<g>
+					<path class="cls-1" d="m340.58,0l48.65,36.2v36.2h-48.65l-48.66-36.2V0h48.66Z" />
+				</g>
+			</g>
+			<g>
+				<path class="cls-1" d="m389.23,72.4h97.31V0h-97.31v72.4Z" />
+			</g>
+			<g>
+				<g>
+					<path class="cls-3" d="m389.23,0h48.65l-48.65,36.2V0Z" />
+				</g>
+			</g>
+			<g>
+				<g>
+					<path class="cls-3" d="m437.88,36.2l-48.66,36.2v-36.2h48.66Z" />
+				</g>
+			</g>
+			<g>
+				<g>
+					<path class="cls-3" d="m486.54,72.4h-48.66l48.66-36.2v36.2Z" />
+				</g>
+			</g>
+			<g>
+				<g>
+					<path class="cls-3" d="m437.88,36.2L486.53,0v36.2h-48.65Z" />
+				</g>
+			</g>
+			<g>
+				<path class="cls-2" d="m583.84,0h-97.31v72.4h97.31V0Z" />
+			</g>
+			<g>
+				<g>
+					<path class="cls-2" d="m681.15,54.3v-18.1h-48.65l-48.65,36.2h97.31v-18.1Z" />
+				</g>
+			</g>
+			<g>
+				<g>
+					<path class="cls-1" d="m681.15,36.2V0h-97.31l48.65,36.2h48.65Z" />
+				</g>
+			</g>
+			<g>
+				<g>
+					<path class="cls-1" d="m583.84,36.2v36.2l48.65-36.2h-48.65Z" />
+				</g>
+			</g>
+			<g>
+				<g>
+					<path class="cls-2" d="m583.84,0v36.2h48.65L583.84,0Z" />
+				</g>
+			</g>
+		</svg>
+		<h2 class="sr-only">Buscar</h2>
+		<form class="relative flex border border-grey" action="https://revistas.uniandes.edu.co/index.php/index/search">
+			<label for="site-search" class="sr-only">Buscar por frase, revista, autor o palabra clave</label>
+			<input
+				id="site-search"
+				name="query"
+				class="tab-focus-white flex-1 px-2 laptop-lg:text-xl"
+				placeholder="Buscar por frase, revista, autor o palabra clave"
+			>
+			<button
+				type="submit"
+				class="
+					tab-focus-white
+					flex-none
+					flex
+					gap-2
+					p-2
+					text-white
+					font-black
+					uppercase
+					bg-black
+					laptop-lg:text-xl
+					laptop-lg:px-4
+				"
+			>
+				<svg
+					class="laptop-lg:h-7"
+					xmlns="http://www.w3.org/2000/svg"
+					viewBox="0 -960 960 960"
+					height="24"
+					width="24"
+				>
+					<path fill="currentColor" d="M796-121 533-384q-30 26-69.959 40.5T378-329q-108.162 0-183.081-75Q120-479 120-585t75-181q75-75 181.5-75t181 75Q632-691 632-584.85 632-542 618-502q-14 40-42 75l264 262-44 44ZM377-389q81.25 0 138.125-57.5T572-585q0-81-56.875-138.5T377-781q-82.083 0-139.542 57.5Q180-666 180-585t57.458 138.5Q294.917-389 377-389Z" />
+				</svg>
+				Buscar
+			</button>
+		</form>
+	</div>
+</section>
+					<section
+	class="
+		container
+		tablet:grid
+		tablet:grid-cols-2
+		tablet:auto-rows-auto
+		tablet:gap-6
+		tablet:my-12
+		laptop-sm:gap-12
+		desktop:gap-16
+	"
+>
+	<h2 class="sr-only">Avisos</h2>
+			<article
+			class="
+									my-4
+					tablet:col-span-2
+					tablet:row-start-1
+					tablet:my-0
+					tablet:grid
+					tablet:grid-cols-2
+					tablet:gap-6
+					laptop-sm:gap-12
+					laptop:text-xl
+					desktop:gap-16
+					desktop:text-2xl
+							"
+		>
+			<img loading="lazy" src="https://revistas.uniandes.edu.co/public/site/announcements/34.jpg?1785345845"
+				alt="Antípoda. Del gusto, la memoria y otras formas de hacer conocimiento"
+									class="tablet:col-start-1"
+							>
+			<div
+									class="tablet:col-start-2"
+							>
+				<h3 class="my-6 font-serif font-bold text-2xl laptop:text-4xl desktop:text-5xl tablet:mt-0">
+					Del gusto, la memoria y otras formas de hacer conocimiento
+				</h3>
+				<p>El 15 de julio del 2026, <em>Antípoda: Revista de Antropología y Arqueología</em> estuvo presente en la exposición <em>El Barrio: la ciencia de vivir juntos</em></p>
+				<p class="flex">
+					<a
+						class="tab-focus flex items-center gap-2 text-neutral-700 font-bold"
+						href="https://revistas.uniandes.edu.co/index.php/index/announcement/view/34"
+					>
+						Leer más
+						<svg
+							class="h-4 laptop:h-5 desktop:h-6"
+							xmlns="http://www.w3.org/2000/svg"
+							viewBox="0 0 256 512"
+						>
+							<path fill="currentColor" d="M246.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-128-128c-9.2-9.2-22.9-11.9-34.9-6.9s-19.8 16.6-19.8 29.6l0 256c0 12.9 7.8 24.6 19.8 29.6s25.7 2.2 34.9-6.9l128-128z"/>
+						</svg>
+					</a>
+				</p>
+			</div>
+		</article>
+			<article
+			class="
+									my-12 tablet:row-start-2 tablet:my-0 laptop:text-xl desktop:text-2xl
+							"
+		>
+			<img loading="lazy" src="https://revistas.uniandes.edu.co/public/site/announcements/31.jpg?1784324926"
+				alt="Historia Crítica 100 números"
+							>
+			<div
+							>
+				<h3 class="my-6 font-serif font-bold text-2xl laptop:text-4xl desktop:text-5xl ">
+					Historia Crítica. 100 números en marcha
+				</h3>
+				<p><em>Historia Crítica, revista</em> publicada por el Departamento de Historia y Geografía de la Facultad de Ciencias Sociales de la Universidad de los Andes, celebra un hito académico y editorial: la publicación de su número 100, luego de 37 años de circulación ininterrumpida. </p>
+				<p class="flex">
+					<a
+						class="tab-focus flex items-center gap-2 text-neutral-700 font-bold"
+						href="https://revistas.uniandes.edu.co/index.php/index/announcement/view/31"
+					>
+						Leer más
+						<svg
+							class="h-4 laptop:h-5 desktop:h-6"
+							xmlns="http://www.w3.org/2000/svg"
+							viewBox="0 0 256 512"
+						>
+							<path fill="currentColor" d="M246.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-128-128c-9.2-9.2-22.9-11.9-34.9-6.9s-19.8 16.6-19.8 29.6l0 256c0 12.9 7.8 24.6 19.8 29.6s25.7 2.2 34.9-6.9l128-128z"/>
+						</svg>
+					</a>
+				</p>
+			</div>
+		</article>
+			<article
+			class="
+									my-12 tablet:row-start-2 tablet:my-0 laptop:text-xl desktop:text-2xl
+							"
+		>
+			<img loading="lazy" src="https://revistas.uniandes.edu.co/public/site/announcements/30.jpg?1771970550"
+				alt="Lineamientos de uso de inteligencia artificial en Revistas Uniandes"
+							>
+			<div
+							>
+				<h3 class="my-6 font-serif font-bold text-2xl laptop:text-4xl desktop:text-5xl ">
+					Lineamientos de uso de inteligencia artificial en Revistas Uniandes: un paso para la gobernanza tecnológica
+				</h3>
+				<p>En un contexto en el que el uso de modelos de lenguaje grande (LLM) se está expandiendo aceleradamente, las revistas académicas están enfrentando retos editoriales que desafían la originalidad en los procesos de investigación y creación. Por ende, se hace necesaria la creación de pautas que contribuyan a regular el uso de la IAG, como una herramienta de apoyo.</p>
+				<p class="flex">
+					<a
+						class="tab-focus flex items-center gap-2 text-neutral-700 font-bold"
+						href="https://revistas.uniandes.edu.co/index.php/index/announcement/view/30"
+					>
+						Leer más
+						<svg
+							class="h-4 laptop:h-5 desktop:h-6"
+							xmlns="http://www.w3.org/2000/svg"
+							viewBox="0 0 256 512"
+						>
+							<path fill="currentColor" d="M246.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-128-128c-9.2-9.2-22.9-11.9-34.9-6.9s-19.8 16.6-19.8 29.6l0 256c0 12.9 7.8 24.6 19.8 29.6s25.7 2.2 34.9-6.9l128-128z"/>
+						</svg>
+					</a>
+				</p>
+			</div>
+		</article>
+	</section>
+							<section class="
+        my-4
+        bg-accent
+        text-black
+    ">
+<div class="
+            container
+            py-8
+            flex
+            flex-col
+            gap-8
+            laptop:py-12
+            laptop-lg:py-16
+            desktop:py-24
+        ">
+<h2 class="
+                text-2xl
+                font-serif
+                font-bold
+                laptop-lg:text-4xl
+                desktop:text-5xl
+            ">Vicerrectoría de Investigación y Creación</h2>
+<div><img loading="lazy" src="https://revistasuniandes.blob.core.windows.net/journals/campus.jpg" alt="Uniandes" width="1920" height="auto" />
+<p class="
+                text-1.5xl
+     			laptop-lg:text-2xl
+                desktop:text-2xl
+            ">En su esfuerzo por apoyar, potenciar y conectar la producción de conocimiento en la Universidad, además de Revistas Uniandes, la Vicerrectoría cuenta con diferentes unidades que trabajan encaminadas a este mismo fin. De manera articulada, buscan posicionar a Los Andes como referente de innovación y desarrollo en la investigación y creación, a la vez que se proponen generar un impacto significativo sobre las comunidades locales, el debate nacional, la política pública y la realidad colombiana y latinoamericana.</p>
+</div>
+</div>
+</section>
+<section class="
+        container
+        my-8
+        flex
+        flex-col
+        gap-8
+        laptop-sm:grid
+        laptop-sm:grid-cols-2
+        laptop-sm:gap-6
+        laptop-sm:my-12
+        laptop:text-xl
+        laptop-lg:gap-12
+        laptop-lg:my-16
+        desktop:gap-16
+        dekstop:my-24
+        desktop:text-2xl
+    ">
+<div class="
+            flex
+            flex-col
+            gap-4
+        ">
+<h2 class="
+                text-1.5xl
+                font-serif
+                font-bold
+                laptop-lg:text-3xl
+                desktop:text-3xl
+            ">Simbiosis interinstitucional: <br />una red viva en expansión</h2>
+<img loading="lazy" src="https://revistas.uniandes.edu.co/public/site/images/revistasuniandes/biofilia1-98d8cbb56720b01431cd7c506e120be8.jpg" alt="Ediciones FILBO" width="1200" />
+<div>
+<p class="
+           	text-1.5xl
+      		laptop-lg:text-2xl
+			desktop:text-2xl
+            ">La simbiosis es, según el diccionario, una relación de beneficio mutuo entre organismos. Pero, ¿y si este concepto escapara de la biología y describiera también el intercambio entre saberes, instituciones y experiencias? Así lo vivimos en <em data-end="563" data-start="526">Biofilia: Aguas que tejen el tiempo</em>, un proyecto donde el arte, la ciencia y la pedagogía se entrelazaron en un laboratorio vivo de ideas y colores microscópicos.</p>
+<p class="flex"><a class="
+                        tab-focus
+                        flex
+                        items-center
+                        gap-2
+                        text-accent
+                        font-bold
+                    " href="https://investigacioncreacion.uniandes.edu.co/es/noticia/apoyo-investigaci%C3%B3n-creaci%C3%B3n-biodiversidad/simbiosis-interinstitucional-una-red-viva-en" target="_blank" rel="noopener"> Leer más </a></p>
+</div>
+</div>
+<div class="
+            flex
+            flex-col
+            gap-4
+        ">
+<h2 class="
+             	text-1.5xl
+                font-serif
+                font-bold
+                laptop-lg:text-3xl
+                desktop:text-3xl
+            ">El Sistema de Bibliotecas se consolida como referente en América Latina</h2>
+<img loading="lazy" src="https://revistasuniandes.blob.core.windows.net/journals/bibliotecas2025.jpg" alt="Conocimiento" width="1200" height="900" />
+<div>
+<p class="
+           	text-1.5xl
+      		laptop-lg:text-2xl
+			desktop:text-2xl
+            ">El <em>Ranking Bibliotecas</em> 2024, que evalúa los servicios, contenidos y herramientas web 2.0 de cerca de 4.000 bibliotecas universitarias en 43 países, ubicó al Sistema de Bibliotecas de la Universidad en el primer lugar en Colombia y el segundo en América Latina. El reconocimiento responde a un proceso sostenido de transformación tecnológica, académica y social que ha redefinido el papel de las bibliotecas en la educación superior..</p>
+<p class="flex"><a class="
+                
+tab-focus
+                        flex
+                        items-center
+                        gap-2
+                        text-accent
+                        font-bold
+                    " href="https://biblioteca.uniandes.edu.co/es/noticia/sistema-de-bibliotecas-referente-en-america-latina" target="_blank" rel="noopener"> Leer más </a></p>
+</div>
+</div>
+</section>
+			</main>
+
+
+
+<script type="text/javascript">window.uniandes = {"i18n":{"nextSlide":"Siguiente imagen","previousSlide":"Anterior imagen"}}</script><script src="https://revistas.uniandes.edu.co/plugins/themes/uniandesTheme/assets/main.js?0.1.0.0" type="text/javascript"></script>
+
+<footer  class="
+			bg-black
+			text-white
+		" style="--color-focus-outline: var(--color-accent);" >
+	<div class="container py-8 flex flex-col gap-6">
+		<div class="
+				flex
+				flex-col
+				items-start
+				gap-2
+				font-bold
+				tablet:grid
+				tablet:grid-cols-4
+				tablet:items-center
+				tablet:text-center
+			">
+			<a class="tab-focus" href="https://uniandes.edu.co/">
+				Universidad de los Andes
+			</a>
+			<a
+				class="tab-focus tablet:col-span-2 tablet:border-x-2 tablet:leading-8"
+				href="https://investigacioncreacion.uniandes.edu.co/"
+			>
+				Vicerrectoría de Investigación y Creación
+			</a>
+			<a class="tab-focus" href="https://biblioteca.uniandes.edu.co/">
+				Sistema de Bibliotecas
+			</a>
+		</div>
+		<div class="flex flex-col gap-6 border-t-2 pt-5 tablet:grid tablet:grid-cols-2 tablet:mb-6">
+			<div class="flex flex-col items-start gap-2 font-black">
+				<a class="tab-focus" href="https://usodedatospersonales.uniandes.edu.co">
+					Uso de datos personales
+				</a>
+				<a class="tab-focus" href="https://revistas.uniandes.edu.co/index.php/index/about/contact">
+					Contacto
+				</a>
+				<div class="flex gap-3 items-center">
+											<a class="tab-focus" href="https://www.facebook.com/RevistasUniandes/">
+							<span class="sr-only">Facebook</span>
+							<svg class="h-8" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+								<path fill="currentColor"
+									d="M400 32H48A48 48 0 0 0 0 80v352a48 48 0 0 0 48 48h137.25V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.27c-30.81 0-40.42 19.12-40.42 38.73V256h68.78l-11 71.69h-57.78V480H400a48 48 0 0 0 48-48V80a48 48 0 0 0-48-48z" />
+							</svg>
+						</a>
+																<a class="tab-focus" href="https://twitter.com/RevistasUAndes">
+							<span class="sr-only">Twitter/X</span>
+							<svg class="h-8" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+								<path fill="currentColor"
+									d="M64 32C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H384c35.3 0 64-28.7 64-64V96c0-35.3-28.7-64-64-64H64zM351.3 199.3v0c0 86.7-66 186.6-186.6 186.6c-37.2 0-71.7-10.8-100.7-29.4c5.3 .6 10.4 .8 15.8 .8c30.7 0 58.9-10.4 81.4-28c-28.8-.6-53-19.5-61.3-45.5c10.1 1.5 19.2 1.5 29.6-1.2c-30-6.1-52.5-32.5-52.5-64.4v-.8c8.7 4.9 18.9 7.9 29.6 8.3c-9-6-16.4-14.1-21.5-23.6s-7.8-20.2-7.7-31c0-12.2 3.2-23.4 8.9-33.1c32.3 39.8 80.8 65.8 135.2 68.6c-9.3-44.5 24-80.6 64-80.6c18.9 0 35.9 7.9 47.9 20.7c14.8-2.8 29-8.3 41.6-15.8c-4.9 15.2-15.2 28-28.8 36.1c13.2-1.4 26-5.1 37.8-10.2c-8.9 13.1-20.1 24.7-32.9 34c.2 2.8 .2 5.7 .2 8.5z" />
+							</svg>
+						</a>
+																<a class="tab-focus" href="https://www.youtube.com/@RevistasUniandes">
+							<span class="sr-only">YouTube</span>
+							<svg class="h-8" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+								<path fill="currentColor"
+									d="M186.8 202.1l95.2 54.1-95.2 54.1V202.1zM448 80v352c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V80c0-26.5 21.5-48 48-48h352c26.5 0 48 21.5 48 48zm-42 176.3s0-59.6-7.6-88.2c-4.2-15.8-16.5-28.2-32.2-32.4C337.9 128 224 128 224 128s-113.9 0-142.2 7.7c-15.7 4.2-28 16.6-32.2 32.4-7.6 28.5-7.6 88.2-7.6 88.2s0 59.6 7.6 88.2c4.2 15.8 16.5 27.7 32.2 31.9C110.1 384 224 384 224 384s113.9 0 142.2-7.7c15.7-4.2 28-16.1 32.2-31.9 7.6-28.5 7.6-88.1 7.6-88.1z" />
+							</svg>
+						</a>
+																<a class="tab-focus" href="https://www.instagram.com/revistasuandes/">
+							<span class="sr-only">Instagram</span>
+							<svg class="h-8" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+								<path fill="currentColor"
+									d="M224,202.66A53.34,53.34,0,1,0,277.36,256,53.38,53.38,0,0,0,224,202.66Zm124.71-41a54,54,0,0,0-30.41-30.41c-21-8.29-71-6.43-94.3-6.43s-73.25-1.93-94.31,6.43a54,54,0,0,0-30.41,30.41c-8.28,21-6.43,71.05-6.43,94.33S91,329.26,99.32,350.33a54,54,0,0,0,30.41,30.41c21,8.29,71,6.43,94.31,6.43s73.24,1.93,94.3-6.43a54,54,0,0,0,30.41-30.41c8.35-21,6.43-71.05,6.43-94.33S357.1,182.74,348.75,161.67ZM224,338a82,82,0,1,1,82-82A81.9,81.9,0,0,1,224,338Zm85.38-148.3a19.14,19.14,0,1,1,19.13-19.14A19.1,19.1,0,0,1,309.42,189.74ZM400,32H48A48,48,0,0,0,0,80V432a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V80A48,48,0,0,0,400,32ZM382.88,322c-1.29,25.63-7.14,48.34-25.85,67s-41.4,24.63-67,25.85c-26.41,1.49-105.59,1.49-132,0-25.63-1.29-48.26-7.15-67-25.85s-24.63-41.42-25.85-67c-1.49-26.42-1.49-105.61,0-132,1.29-25.63,7.07-48.34,25.85-67s41.47-24.56,67-25.78c26.41-1.49,105.59-1.49,132,0,25.63,1.29,48.33,7.15,67,25.85s24.63,41.42,25.85,67.05C384.37,216.44,384.37,295.56,382.88,322Z" />
+							</svg>
+						</a>
+														</div>
+			</div>
+					</div>
+		<div class="opacity-80">
+			<p class="laptop-sm:my-0">
+				Universidad de los Andes |
+				Vigilada Mineducación |
+				Reconocimiento como Universidad: Decreto 1297 del 30 de mayo de 1964.
+			</p>
+			<p class="laptop-sm:my-0">
+				Reconocimiento personería jurídica: Resolución 28 del 23 de febrero de 1949 Minjusticia.
+			</p>
+							<p class="laptop-sm:my-0">
+					© - Derechos Reservados Universidad de los Andes
+				</p>
+					</div>
+	</div>
+</footer>
+
+</body>
+
+</html>

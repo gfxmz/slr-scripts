@@ -1,0 +1,2703 @@
+
+<!DOCTYPE html>
+<html lang="en" >
+    <head >
+
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="HandheldFriendly" content="True" />
+        <meta name="MobileOptimized" content="320" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        
+        
+
+        
+        
+  <link  rel="stylesheet" href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/assets/base_style-BxRs1iOp.css" />
+<script type="module" crossorigin="" src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/assets/base_style-D-jH62-1.js"></script>
+
+  <link  rel="stylesheet" href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/assets/article_style-B67IZFds.css" />
+<link  rel="stylesheet" href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/assets/style-D77LS1kY.css" />
+<script type="module" crossorigin="" src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/assets/article_style-CTAd1LmM.js"></script>
+
+  
+  
+    <style>
+  
+  
+  @media screen and (min-width: 64em) {
+    div.pmc-wm {
+      background: repeat-y;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='350' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Cdefs%3E%3Cfilter x='-.02' y='0' width='1.05' height='1' id='c'%3E%3CfeFlood flood-color='%23FFF'/%3E%3CfeComposite in='SourceGraphic'/%3E%3C/filter%3E%3Ctext id='b' font-family='Helvetica' font-size='11pt' style='opacity:1;fill:%23005ea2;stroke:none;text-anchor:middle' x='175' y='14'%3E%3C/text%3E%3Cpath id='a' style='fill:%23005ea2' d='M0 8h350v3H0z'/%3E%3C/defs%3E%3Cuse xlink:href='%23a' transform='rotate(90 10 10)'/%3E%3Cuse xlink:href='%23b' transform='rotate(90 10 10)' filter='url(%23c)'/%3E%3C/svg%3E");
+      padding-left: 3rem;
+    }
+  }
+</style>
+
+  
+
+
+
+        
+            <link rel="apple-touch-icon"
+                  sizes="180x180"
+                  href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/favicons/apple-touch-icon.png" />
+            <link rel="icon"
+                  type="image/png"
+                  sizes="48x48"
+                  href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/favicons/favicon-48x48.png" />
+            <link rel="icon"
+                  type="image/png"
+                  sizes="32x32"
+                  href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/favicons/favicon-32x32.png" />
+            <link rel="icon"
+                  type="image/png"
+                  sizes="16x16"
+                  href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/favicons/favicon-16x16.png" />
+            <link rel="manifest" href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/favicons/site.webmanifest" />
+            <link rel="mask-icon"
+                  href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/favicons/safari-pinned-tab.svg"
+                  color="#0071bc" />
+            <meta name="msapplication-config"
+                  content="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/favicons/browserconfig.xml" />
+            <meta name="theme-color" content="#ffffff" />
+        
+
+        <title>
+            Political uncertainty moderates neural evaluation of incongruent policy positions - PMC
+        </title>
+
+        
+        
+  
+  <!-- Logging params: Pinger defaults -->
+<meta name="ncbi_app" content="cloudpmc-viewer" />
+<meta name="ncbi_db" content="pmc" />
+<meta name="ncbi_phid" content="C1ED99E0AB7193630899E0002FBEC497.m_1" />
+<meta name="ncbi_pinger_stat_url" content="https://pmc.ncbi.nlm.nih.gov/stat" />
+<!-- Logging params: Pinger custom -->
+<meta name="ncbi_pdid" content="article" />
+  
+    <link rel="preconnect" href="https://www.google-analytics.com" />
+
+    
+        <link rel="preconnect" href="https://cdn.ncbi.nlm.nih.gov" />
+    
+
+    <!-- Include USWDS Init Script -->
+    <script src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/assets/uswds-init.js"></script>
+
+
+    <meta name="ncbi_domain" content="transb">
+<meta name="ncbi_type" content="fulltext">
+<meta name="ncbi_pcid" content="journal">
+<meta name="ncbi_feature" content="associated_data">
+<link rel="canonical" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7935043/">
+<meta name="robots" content="INDEX,NOFOLLOW,NOARCHIVE">
+<meta name="citation_journal_title" content="Philosophical Transactions of the Royal Society B: Biological Sciences">
+<meta name="citation_title" content="Political uncertainty moderates neural evaluation of incongruent policy positions">
+<meta name="citation_author" content="Ingrid J Haas">
+<meta name="citation_author_institution" content="Department of Political Science, Center for Brain, Biology, and Behavior, University of Nebraska-Lincoln, Lincoln, NE, USA">
+<meta name="citation_author" content="Melissa N Baker">
+<meta name="citation_author_institution" content="Department of Political Science, University of California-Merced, Merced, CA, USA">
+<meta name="citation_author" content="Frank J Gonzalez">
+<meta name="citation_author_institution" content="School of Government and Public Policy, University of Arizona, Tucson, AZ, USA">
+<meta name="citation_publication_date" content="2021 Feb 22">
+<meta name="citation_volume" content="376">
+<meta name="citation_issue" content="1822">
+<meta name="citation_firstpage" content="20200138">
+<meta name="citation_doi" content="10.1098/rstb.2020.0138">
+<meta name="citation_pmid" content="33611996">
+<meta name="citation_abstract_html_url" content="https://pmc.ncbi.nlm.nih.gov/articles/PMC7935043/">
+<meta name="citation_fulltext_html_url" content="https://pmc.ncbi.nlm.nih.gov/articles/PMC7935043/">
+<meta name="citation_pdf_url" content="https://pmc.ncbi.nlm.nih.gov/articles/PMC7935043/pdf/rstb.2020.0138.pdf">
+<meta name="description" content="Uncertainty has been shown to impact political evaluation, yet the exact mechanisms by which uncertainty affects the minds of citizens remain unclear. This experiment examines the neural underpinnings of uncertainty in political evaluation using ...">
+<meta name="og:title" content="Political uncertainty moderates neural evaluation of incongruent policy positions">
+<meta name="og:type" content="article">
+<meta name="og:site_name" content="PubMed Central (PMC)">
+<meta name="og:description" content="Uncertainty has been shown to impact political evaluation, yet the exact mechanisms by which uncertainty affects the minds of citizens remain unclear. This experiment examines the neural underpinnings of uncertainty in political evaluation using ...">
+<meta name="og:url" content="https://pmc.ncbi.nlm.nih.gov/articles/PMC7935043/">
+<meta name="og:image" content="https://cdn.ncbi.nlm.nih.gov/pmc/cms/images/pmc-card-share.jpg?_=0">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@ncbi">
+    
+    
+
+    </head>
+    <body >
+        
+    <a class="usa-skipnav " href="#main-content">
+      Skip to main content
+    </a>
+
+
+        
+            
+
+<section class="usa-banner " aria-label="Official website of the United States government" >
+    <div class="usa-accordion">
+        <header class="usa-banner__header">
+            <div class="usa-banner__inner">
+                <div class="grid-col-auto">
+                    <img aria-hidden="true"
+                         class="usa-banner__header-flag"
+                         src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/us_flag.svg"
+                         alt="" />
+                </div>
+
+                <div class="grid-col-fill tablet:grid-col-auto" aria-hidden="true">
+                    <p class="usa-banner__header-text">
+                        An official website of the United States government
+                    </p>
+                    <span class="usa-banner__header-action">Here's how you know</span>
+                </div>
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="button"
+        
+    
+    class="usa-accordion__button usa-banner__button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           
+           "
+    aria-expanded="false"
+    aria-controls="gov-banner-default"
+    
+    data-testid="storybook-django-banner"
+    
+    >
+    
+        
+
+        
+                    <span class="usa-banner__button-text">Here's how you know</span>
+                
+
+        
+    
+        
+            </button>
+        
+
+
+            </div>
+        </header>
+
+        <div class="usa-banner__content usa-accordion__content"
+             id="gov-banner-default"
+             hidden>
+            <div class="grid-row grid-gap-lg">
+                <div class="usa-banner__guidance tablet:grid-col-6">
+                    <img class="usa-banner__icon usa-media-block__img"
+                         src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-dot-gov.svg"
+                         alt=""
+                         aria-hidden="true" />
+                    <div class="usa-media-block__body">
+                        <p>
+                            <strong>Official websites use .gov</strong>
+                            <br />
+                            A
+                            <strong>.gov</strong> website belongs to an official
+                            government organization in the United States.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="usa-banner__guidance tablet:grid-col-6">
+                    <img class="usa-banner__icon usa-media-block__img"
+                         src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/icon-https.svg"
+                         alt=""
+                         aria-hidden="true" />
+
+                    <div class="usa-media-block__body">
+                        <p>
+                            <strong>Secure .gov websites use HTTPS</strong>
+                            <br />
+                            A <strong>lock</strong> (
+                            <span class="icon-lock">
+                                <svg xmlns="http://www.w3.org/2000/svg"
+                                     width="52"
+                                     height="64"
+                                     viewBox="0 0 52 64"
+                                     class="usa-banner__lock-image"
+                                     role="graphics-symbol"
+                                     aria-labelledby="banner-lock-description"
+                                     focusable="false">
+                                    <title id="banner-lock-title">Lock</title>
+                                    <desc id="banner-lock-description">
+                                    Locked padlock icon
+                                    </desc>
+                                    <path fill="#000000"
+                                          fill-rule="evenodd"
+                                          d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z" />
+                                </svg>
+</span>) or <strong>https://</strong> means you've safely
+                                connected to the .gov website. Share sensitive
+                                information only on official, secure websites.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+        
+
+        
+    
+    
+    
+
+<div class="usa-overlay">
+</div>
+
+
+
+<header class="usa-header usa-header--extended usa-header--wide" data-header data-testid="header"    >
+    <div class="ncbi-header">
+        <div class="ncbi-header__container">
+            <a class="ncbi-header__logo-container"
+               href="https://www.ncbi.nlm.nih.gov/">
+                <img alt="NCBI home page"
+                     class="ncbi-header__logo-image"
+                     src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/ncbi-logos/nih-nlm-ncbi--white.svg"
+                     width="410"
+                     height="100" />
+            </a>
+
+            <!-- Mobile menu hamburger button -->
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="button"
+        
+    
+    class="usa-menu-btn ncbi-header__hamburger-button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           
+           "
+    
+    
+    aria-label="Show menu"
+    data-testid="navMenuButton"
+    
+    >
+    
+        
+
+        
+                <svg aria-hidden="true"
+                     class="ncbi-hamburger-icon"
+                     fill="none"
+                     focusable="false"
+                     height="21"
+                     viewBox="0 0 31 21"
+                     width="31"
+                     xmlns="http://www.w3.org/2000/svg">
+                    <path clip-rule="evenodd"
+                          d="M0.125 20.75H30.875V17.3333H0.125V20.75ZM0.125 12.2083H30.875V8.79167H0.125V12.2083ZM0.125 0.25V3.66667H30.875V0.25H0.125Z"
+                          fill="#F1F1F1"
+                          fill-rule="evenodd" />
+                </svg>
+            
+
+        
+    
+        
+            </button>
+        
+
+
+
+            
+                <!-- Desktop buttons-->
+                <div class="ncbi-header__desktop-buttons">
+                    
+                        <!-- Desktop search button -->
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="button"
+        
+    
+    class="usa-button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           usa-button--unstyled ncbi-header__desktop-button
+           "
+    aria-expanded="false"
+    aria-controls="search-field-desktop-navigation"
+    aria-label="Show search overlay"
+    data-testid="toggleSearchPanelButton"
+    data-toggle-search-panel-button
+    >
+    
+        
+
+        
+                            
+
+
+
+    <img
+        src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/search.svg"
+        class="usa-icon "
+        aria-hidden="true"
+        
+        
+    />
+
+
+                            Search
+                        
+
+        
+    
+        
+            </button>
+        
+
+
+                    
+
+                    <!-- Desktop login dropdown -->
+                    
+                        <div class="ncbi-header__login-dropdown">
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="button"
+        
+    
+    class="usa-button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           usa-button--unstyled ncbi-header__desktop-button ncbi-header__login-dropdown-button
+           "
+    aria-expanded="false"
+    aria-controls="login-dropdown-menu"
+    aria-label="Show login menu"
+    data-testid="toggleLoginMenuDropdown"
+    data-desktop-login-button
+    >
+    
+        
+
+        
+                                
+
+
+
+    <img
+        src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/person.svg"
+        class="usa-icon "
+        aria-hidden="true"
+        
+        
+    />
+
+
+
+                                <span data-login-dropdown-text>Log in</span>
+
+                                <!-- Dropdown icon pointing up -->
+                                
+
+
+
+    <img
+        src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/expand_less.svg"
+        class="usa-icon ncbi-header__login-dropdown-icon ncbi-header__login-dropdown-icon--expand-less ncbi-header__login-dropdown-icon--hidden"
+        aria-hidden="true"
+        data-login-dropdown-up-arrow
+        
+    />
+
+
+
+                                <!-- Dropdown icon pointing down -->
+                                
+
+
+
+    <img
+        src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/expand_more.svg"
+        class="usa-icon ncbi-header__login-dropdown-icon ncbi-header__login-dropdown-icon--expand-more ncbi-header__login-dropdown-icon--hidden"
+        aria-hidden="true"
+        data-login-dropdown-down-arrow
+        
+    />
+
+
+                            
+
+        
+    
+        
+            </button>
+        
+
+
+
+                            <!-- Login dropdown menu -->
+                            <ul class="usa-nav__submenu ncbi-header__login-dropdown-menu"
+                                id="login-dropdown-menu"
+                                data-desktop-login-menu-dropdown
+                                hidden>
+                                
+                                    <li class="usa-nav__submenu-item">
+                                        <!-- Uses custom style overrides to render external and document links. -->
+                                        
+
+
+
+
+
+
+
+
+
+    <a href="https://www.ncbi.nlm.nih.gov/myncbi/" class="usa-link  "  >
+        
+
+        
+            Dashboard
+        
+
+        
+    </a>
+
+
+                                    </li>
+                                
+                                    <li class="usa-nav__submenu-item">
+                                        <!-- Uses custom style overrides to render external and document links. -->
+                                        
+
+
+
+
+
+
+
+
+
+    <a href="https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/" class="usa-link  "  >
+        
+
+        
+            Publications
+        
+
+        
+    </a>
+
+
+                                    </li>
+                                
+                                    <li class="usa-nav__submenu-item">
+                                        <!-- Uses custom style overrides to render external and document links. -->
+                                        
+
+
+
+
+
+
+
+
+
+    <a href="https://www.ncbi.nlm.nih.gov/account/settings/" class="usa-link  "  >
+        
+
+        
+            Account settings
+        
+
+        
+    </a>
+
+
+                                    </li>
+                                
+                                <li class="usa-nav__submenu-item">
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="button"
+        
+    
+    class="usa-button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           usa-button--outline ncbi-header__login-dropdown-logout-button
+           "
+    
+    
+    
+    data-testid="desktopLogoutButton"
+    data-desktop-logout-button
+    >
+    
+        
+
+        Log out
+
+        
+    
+        
+            </button>
+        
+
+
+                                </li>
+                            </ul>
+                        </div>
+                    
+                </div>
+            
+        </div>
+    </div>
+
+    <!-- Search panel -->
+    
+        <div class="ncbi-search-panel ncbi--show-only-at-desktop"
+             data-header-search-panel
+             hidden>
+            <div class="ncbi-search-panel__container">
+                <form action="https://www.ncbi.nlm.nih.gov/search/all/"
+                      
+                      autocomplete="off"
+                      class="usa-search usa-search--big ncbi-search-panel__form"
+                      data-testid="desktop-navigation-search-form"
+                      method="GET"
+                      role="search">
+                    <label class="usa-sr-only" for="search-field-desktop-navigation">
+                        Search…
+                    </label>
+                    <input class="usa-input"
+                           id="search-field-desktop-navigation"
+                           name="term"
+                           
+                               placeholder="Search NCBI"
+                           
+                           type="search"
+                           value="" />
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="submit"
+        
+    
+    class="usa-button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           
+           "
+    
+    
+    
+    
+    
+    >
+    
+        
+
+        
+                        <span class="usa-search__submit-text">
+                            Search NCBI
+                        </span>
+                    
+
+        
+    
+        
+            </button>
+        
+
+
+                </form>
+
+                
+            </div>
+        </div>
+    
+
+    <nav aria-label="Primary navigation" class="usa-nav">
+        <p class="usa-sr-only" id="primary-navigation-sr-only-title">
+            Primary site navigation
+        </p>
+
+        <!-- Mobile menu close button -->
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="button"
+        
+    
+    class="usa-nav__close ncbi-nav__close-button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           
+           "
+    
+    
+    aria-label="Close navigation menu"
+    data-testid="navCloseButton"
+    
+    >
+    
+        
+
+        
+            <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg" alt="Close" />
+        
+
+        
+    
+        
+            </button>
+        
+
+
+
+        
+            <!-- Mobile search component -->
+            <form class="usa-search usa-search--small ncbi--hide-at-desktop"
+                  action="https://www.ncbi.nlm.nih.gov/search/all/"
+                  
+                  autocomplete="off"
+                  data-testid="mobile-navigation-search-form"
+                  method="GET"
+                  role="search">
+                <label class="usa-sr-only" for="search-field-mobile-navigation">
+                    Search
+                </label>
+
+                <input class="usa-input"
+                       id="search-field-mobile-navigation"
+                       type="search"
+                       
+                           placeholder="Search NCBI"
+                       
+                       name="term" />
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="submit"
+        
+    
+    class="usa-button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           
+           "
+    
+    
+    
+    
+    
+    >
+    
+        
+
+        
+                    <!-- This SVG should be kept inline and not replaced with a link to the icon as otherwise it will render in the wrong color -->
+                    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0Ij48cGF0aCBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIi8+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE1LjUgMTRoLS43OWwtLjI4LS4yN0E2LjQ3MSA2LjQ3MSAwIDAgMCAxNiA5LjUgNi41IDYuNSAwIDEgMCA5LjUgMTZjMS42MSAwIDMuMDktLjU5IDQuMjMtMS41N2wuMjcuMjh2Ljc5bDUgNC45OUwyMC40OSAxOWwtNC45OS01em0tNiAwQzcuMDEgMTQgNSAxMS45OSA1IDkuNVM3LjAxIDUgOS41IDUgMTQgNy4wMSAxNCA5LjUgMTEuOTkgMTQgOS41IDE0eiIvPjwvc3ZnPg=="
+                         class="usa-search__submit-icon"
+                         alt="Search" />
+                
+
+        
+    
+        
+            </button>
+        
+
+
+            </form>
+
+            
+        
+
+        <!-- Primary navigation menu items -->
+        <!-- This usa-nav__inner wrapper is required to correctly style the navigation items on Desktop -->
+        
+
+        
+            <div class="ncbi-nav__mobile-login-menu ncbi--hide-at-desktop"
+                 data-mobile-login-menu
+                 hidden>
+                <p class="ncbi-nav__mobile-login-menu-status">
+                    Logged in as:
+                    <strong class="ncbi-nav__mobile-login-menu-email"
+                            data-mobile-login-email-text></strong>
+                </p>
+                <ul class="usa-nav__primary usa-accordion">
+                    
+                        <li class="usa-nav__primary-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.ncbi.nlm.nih.gov/myncbi/" class="usa-link  "  >
+        
+
+        
+            Dashboard
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="usa-nav__primary-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/" class="usa-link  "  >
+        
+
+        
+            Publications
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="usa-nav__primary-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.ncbi.nlm.nih.gov/account/settings/" class="usa-link  "  >
+        
+
+        
+            Account settings
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                </ul>
+            </div>
+        
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="button"
+        
+    
+    class="usa-button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           ncbi-nav__mobile-login-button ncbi--hide-at-desktop
+           "
+    
+    
+    
+    data-testid="mobileLoginButton"
+    data-mobile-login-button
+    >
+    
+        
+
+        Log in
+
+        
+    
+        
+            </button>
+        
+
+
+    </nav>
+</header>
+
+    
+    
+        
+
+<section class="pmc-header pmc-header--basic" aria-label="PMC Header with search box">
+    <div class="pmc-nav-container">
+        <div class="pmc-header__bar">
+           <div class="pmc-header__logo">
+               <a href="/" title="Home" aria-label="PMC Home"></a>
+           </div>
+            <button
+                    type="button"
+                    class="usa-button usa-button--unstyled pmc-header__search__button"
+                    aria-label="Open search"
+                    data-ga-category="search"
+                    data-ga-action="PMC"
+                    data-ga-label="pmc_search_panel_mobile"
+            >
+                <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/search.svg" alt="PMC search open icon" aria-hidden="true" class="usa-icon usa-icon--size-4 pmc-icon__open" />
+                <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg" alt="PMC search close ison" aria-hidden="true" class="usa-icon usa-icon--size-4 pmc-icon__close" />
+            </button>
+        </div>
+        <div class="pmc-header__search">
+            
+
+
+<form class="usa-search usa-search--extra usa-search--article-right-column  pmc-header__search__form" id="pmc-search-form" autocomplete="off" role="search">
+<label class="usa-sr-only" for="pmc-search">Search PMC Full-Text Archive</label>
+<span class="autoComplete_wrapper flex-1">
+<input class="usa-input width-full maxw-none" required="required" placeholder="Search PMC Full-Text Archive" id="pmc-search"  type="search" name="term" data-autocomplete-url="https://pmc.ncbi.nlm.nih.gov/autocomp/search/autocomp/"/>
+</span>
+<button
+class="usa-button"
+type="submit"
+formaction="https://pmc.ncbi.nlm.nih.gov/search/"
+data-ga-category="search"
+data-ga-action="PMC"
+data-ga-label="PMC_search_button"
+>
+<span class="usa-search__submit-text">Search in PMC</span>
+<img
+src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons-bg/search--white.svg"
+class="usa-search__submit-icon"
+alt="Search"
+/>
+</button>
+</form>
+            <div class="display-flex flex-column tablet:flex-row tablet:flex-justify flex-justify-center flex-align-center width-full desktop:maxw-44">
+                <ul class="pmc-header__search__menu">
+                    <li>
+                        
+                            <a class="usa-link" href="/journals/" data-ga-action="featured_link" data-ga-label="journal list">
+                                Journal List
+                            </a>
+                        
+                    </li>
+                    <li>
+                        
+                            <a class="usa-link" href="/about/userguide/" data-ga-action="featured_link"
+                            data-ga-label="user guide">
+                                User Guide
+                            </a>
+                        
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+    
+
+
+        
+        
+
+       
+  <div class="usa-section padding-top-0 desktop:padding-top-6 pmc-article-section" data-article-db="pmc" data-article-id="7935043">
+
+    
+
+   
+
+
+
+<div class="grid-container pmc-actions-bar" aria-label="Actions bar" role="complementary">
+    <div class="grid-row">
+        <div class="grid-col-fill display-flex">
+             <div class="display-flex">
+                <ul class="usa-list usa-list--unstyled usa-list--horizontal">
+                    <li class="margin-right-2 mobile-lg:margin-right-4 display-flex mob">
+                        <button
+                                type="button"
+                                class="usa-button pmc-sidenav__container__open usa-button--unstyled width-auto display-flex"
+                                aria-label="Open resources"
+                                data-extra-class="is-visible-resources"
+                                data-ga-category="resources_accordion"
+                                data-ga-action="click"
+                                data-ga-label="mobile_icon"
+                        >
+                            <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/more_vert.svg" alt="Open resources icon" class="usa-icon usa-icon--size-4 usa-icon--link" />
+                        </button>
+                    </li>
+                    
+                    <li class="margin-right-2 mobile-lg:margin-right-4 display-flex mob">
+                        <a
+                                href="https://doi.org/10.1098/rstb.2020.0138"
+                                class="usa-link display-flex usa-tooltip"
+                                role="button"
+                                target="_blank"
+                                rel="noreferrer noopener"
+                                title="View on publisher site"
+                                data-position="bottom"
+                                aria-label="View on publisher site"
+                                data-ga-category="actions"
+                                data-ga-action="click"
+                                data-ga-label="publisher_link_mobile"
+                        >
+                                <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/launch.svg" alt="View on publisher site icon" class="usa-icon usa-icon--size-4 usa-icon--link" />
+                        </a>
+                    </li>
+                    
+                    
+                        <li class="margin-right-2 mobile-lg:margin-right-4 display-flex">
+                             <a
+                                     href="pdf/rstb.2020.0138.pdf"
+                                     class="usa-link display-flex usa-tooltip"
+                                     role="button"
+                                     title="Download PDF"
+                                     data-position="bottom"
+                                     aria-label="Download PDF"
+                                     data-ga-category="actions"
+                                     data-ga-action="click"
+                                     data-ga-label="pdf_download_mobile"
+                             >
+
+                                 <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg" alt="Download PDF icon" aria-hidden="true" class="usa-icon usa-icon--size-4 usa-icon--link" />
+                            </a>
+                        </li>
+                    
+                    <li class="margin-right-2 mobile-lg:margin-right-4 display-flex">
+                        <button
+                            class="usa-button usa-button--unstyled  usa-tooltip collections-dialog-trigger collections-button display-flex collections-button-empty"
+                            title="Add to Collections"
+                            data-position="bottom"
+                            aria-label="Save article in MyNCBI collections."
+                            data-ga-category="actions"
+                            data-ga-action="click"
+                            data-ga-label="collections_button_mobile"
+                            data-collections-open-dialog-enabled="false"
+                            data-collections-open-dialog-url="https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpmc.ncbi.nlm.nih.gov%2Farticles%2FPMC7935043%2F%23open-collections-dialog"
+                            data-in-collections="false"
+                        >
+                            <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-full.svg" alt="Collections icon" aria-hidden="true" class="usa-icon usa-icon--size-4 usa-icon--link usa-icon--bookmark-full" />
+                            <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-empty.svg" alt="Collections icon" aria-hidden="true" class="usa-icon usa-icon--size-4 usa-icon--link usa-icon--bookmark-empty" />
+                        </button>
+                    </li>
+                    
+                    <li class="margin-right-2 mobile-lg:margin-right-4 display-flex">
+                        <button role="button" class="usa-button usa-button--unstyled usa-tooltip citation-dialog-trigger display-flex"
+                            aria-label="Open dialog with citation text in different styles"
+                            title="Cite"
+                            data-position="bottom"
+                            data-ga-category="actions"
+                            data-ga-action="open"
+                            data-ga-label="cite_mobile"
+                            data-all-citations-url="/resources/citations/7935043/"
+                            data-citation-style="nlm"
+                            data-download-format-link="/resources/citations/7935043/export/"
+                        >
+                            <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/format_quote.svg" alt="Cite icon" aria-hidden="true" class="usa-icon usa-icon--size-4 usa-icon--link" />
+                        </button>
+                    </li>
+                    
+                    <li class="pmc-permalink display-flex" >
+                         <button
+                                 type="button"
+                                 title="Permalink"
+                                 data-position="bottom"
+                                 class="usa-button usa-button--unstyled display-flex usa-tooltip"
+                                 aria-label="Show article permalink"
+                                 aria-expanded="false"
+                                 aria-haspopup="true"
+                                 data-ga-category="actions"
+                                 data-ga-action="open"
+                                 data-ga-label="permalink_mobile"
+                         >
+                            <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/share.svg" alt="Show article permalink icon" aria-hidden="true" class="usa-icon usa-icon--size-4 usa-icon--link" />
+                        </button>
+                        
+
+<div class="pmc-permalink__dropdown" hidden>
+    <div class="pmc-permalink__dropdown__container">
+          <h2 class="usa-modal__heading margin-top-0 margin-bottom-2 text-uppercase font-sans-xs">PERMALINK</h2>
+          <div class="pmc-permalink__dropdown__content">
+              <input type="text" class="usa-input" value="https://pmc.ncbi.nlm.nih.gov/articles/PMC7935043/" aria-label="Article permalink">
+              <button class="usa-button display-inline-flex pmc-permalink__dropdown__copy__btn margin-right-0" title="Copy article permalink" data-ga-category="save_share" data-ga-action="link" data-ga-label="copy_link">
+                  <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg" alt="Copy icon" aria-hidden="true" class="usa-icon usa-icon--white" />
+                  <span class="margin-left-1">Copy</span>
+              </button>
+          </div>
+    </div>
+</div>
+                    </li>
+                </ul>
+            </div>
+            <button
+                    type="button"
+                    class="usa-button pmc-sidenav__container__open usa-button--unstyled width-auto display-flex"
+                    aria-label="Open article navigation"
+                    data-extra-class="is-visible-in-page"
+                    data-ga-category="actions"
+                    data-ga-action="open"
+                    data-ga-label="article_nav_mobile"
+            >
+                <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/list.svg" alt="Open article navigation icon" aria-hidden="true" class="usa-icon usa-icon--size-4 usa-icon--link" />
+            </button>
+        </div>
+    </div>
+</div>
+    <div class="grid-container desktop:padding-left-6">
+      <div id="article-container" class="grid-row grid-gap">
+        <div class="grid-col-12 desktop:grid-col-8 order-2 pmc-layout__content">
+            <div class="grid-container padding-left-0 padding-right-0">
+                <div class="grid-row desktop:margin-left-neg-6">
+                    <div class="grid-col-12">
+                        <div class="pmc-layout__disclaimer" role="complementary" aria-label="Disclaimer note">
+    As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+    the contents by NLM or the National Institutes of Health.<br/>
+    Learn more:
+    <a class="usa-link" data-ga-category="Link click" data-ga-action="Disclaimer" data-ga-label="New disclaimer box" href="/about/disclaimer/">PMC Disclaimer</a>
+    |
+    <a class="usa-link" data-ga-category="Link click" data-ga-action="PMC Copyright Notice" data-ga-label="New disclaimer box" href="/about/copyright/">
+        PMC Copyright Notice
+    </a>
+</div>
+                    </div>
+                </div>
+                <div class="grid-row pmc-wm desktop:margin-left-neg-6">
+                    <!-- Main content -->
+                    <main
+                      id="main-content"
+                      class="usa-layout-docs__main usa-layout-docs grid-col-12 pmc-layout pmc-prose padding-0"
+                    >
+
+                      
+                        <section class="pmc-journal-banner text-center line-height-none" aria-label="Journal banner"><img src="https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-transb.gif" alt="Philosophical Transactions of the Royal Society B: Biological Sciences logo" usemap="#pmc-banner-imagemap" width="500" height="75"><map name="pmc-banner-imagemap"><area alt="Link to Philosophical Transactions of the Royal Society B: Biological Sciences" title="Link to Philosophical Transactions of the Royal Society B: Biological Sciences" shape="default" href="https://doi.org/10.1098/rstb.2020.0138" target="_blank" rel="noopener noreferrer"></map></section><article lang="en"><section aria-label="Article citation and metadata"><section class="pmc-layout__citation font-secondary font-xs"><div>
+<div class="display-inline-block"><button type="button" class="cursor-pointer text-no-underline bg-transparent border-0 padding-0 text-left margin-0 text-normal text-primary" aria-controls="journal_context_menu">Philos Trans R Soc Lond B Biol Sci</button></div>. 2021 Feb 22;376(1822):20200138. doi: <a href="https://doi.org/10.1098/rstb.2020.0138" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">10.1098/rstb.2020.0138</a>
+</div>
+<nav id="journal_context_menu" hidden="hidden"><ul class="menu-list font-family-ui" role="menu">
+<li role="presentation"><a href='https://pmc.ncbi.nlm.nih.gov/search/?term="Philos%20Trans%20R%20Soc%20Lond%20B%20Biol%20Sci"[jour]' class="usa-link" role="menuitem">Search in PMC</a></li>
+<li role="presentation"><a href='https://pubmed.ncbi.nlm.nih.gov/?term="Philos%20Trans%20R%20Soc%20Lond%20B%20Biol%20Sci"[jour]' lang="en" class="usa-link" role="menuitem">Search in PubMed</a></li>
+<li role="presentation"><a href='https://www.ncbi.nlm.nih.gov/nlmcatalog?term="Philos%20Trans%20R%20Soc%20Lond%20B%20Biol%20Sci"[Title%20Abbreviation]' class="usa-link" role="menuitem">View in NLM Catalog</a></li>
+<li role="presentation"><a href='?term="Philos%20Trans%20R%20Soc%20Lond%20B%20Biol%20Sci"[jour]' class="usa-link" role="menuitem" data-add-to-search="true">Add to search</a></li>
+</ul></nav></section><section class="front-matter"><div class="ameta p font-secondary font-xs">
+<hgroup><h1>Political uncertainty moderates neural evaluation of incongruent policy positions</h1></hgroup><div class="cg p">
+<a href='https://pubmed.ncbi.nlm.nih.gov/?term="Haas%20IJ"[Author]' class="usa-link" aria-describedby="id1"><span class="name western">Ingrid J Haas</span></a><div hidden="hidden" id="id1">
+<h3><span class="name western">Ingrid J Haas</span></h3>
+<div class="p">
+<sup><sup>1</sup></sup>Department of Political Science, Center for Brain, Biology, and Behavior, University of Nebraska-Lincoln, Lincoln, NE, USA</div>
+<div class="p">Find articles by <a href='https://pubmed.ncbi.nlm.nih.gov/?term="Haas%20IJ"[Author]' class="usa-link"><span class="name western">Ingrid J Haas</span></a>
+</div>
+</div>
+<sup>1,</sup><sup>✉</sup>, <a href='https://pubmed.ncbi.nlm.nih.gov/?term="Baker%20MN"[Author]' class="usa-link" aria-describedby="id2"><span class="name western">Melissa N Baker</span></a><div hidden="hidden" id="id2">
+<h3><span class="name western">Melissa N Baker</span></h3>
+<div class="p">
+<sup><sup>2</sup></sup>Department of Political Science, University of California-Merced, Merced, CA, USA</div>
+<div class="p">Find articles by <a href='https://pubmed.ncbi.nlm.nih.gov/?term="Baker%20MN"[Author]' class="usa-link"><span class="name western">Melissa N Baker</span></a>
+</div>
+</div>
+<sup>2</sup>, <a href='https://pubmed.ncbi.nlm.nih.gov/?term="Gonzalez%20FJ"[Author]' class="usa-link" aria-describedby="id3"><span class="name western">Frank J Gonzalez</span></a><div hidden="hidden" id="id3">
+<h3><span class="name western">Frank J Gonzalez</span></h3>
+<div class="p">
+<sup><sup>3</sup></sup>School of Government and Public Policy, University of Arizona, Tucson, AZ, USA</div>
+<div class="p">Find articles by <a href='https://pubmed.ncbi.nlm.nih.gov/?term="Gonzalez%20FJ"[Author]' class="usa-link"><span class="name western">Frank J Gonzalez</span></a>
+</div>
+</div>
+<sup>3</sup>
+</div>
+<ul class="d-buttons inline-list">
+<li><button class="d-button" aria-controls="aip_a" aria-expanded="false">Author information</button></li>
+<li><button class="d-button" aria-controls="anp_a" aria-expanded="false">Article notes</button></li>
+<li><button class="d-button" aria-controls="clp_a" aria-expanded="false">Copyright and License information</button></li>
+</ul>
+<div class="d-panels font-secondary-light">
+<div id="aip_a" class="d-panel p" style="display: none">
+<div class="p" id="af1">
+<sup><sup>1</sup></sup>Department of Political Science, Center for Brain, Biology, and Behavior, University of Nebraska-Lincoln, Lincoln, NE, USA</div>
+<div id="af2">
+<sup><sup>2</sup></sup>Department of Political Science, University of California-Merced, Merced, CA, USA</div>
+<div id="af3">
+<sup><sup>3</sup></sup>School of Government and Public Policy, University of Arizona, Tucson, AZ, USA</div>
+<div class="author-notes p">
+<div class="fn" id="fn1"><p>One contribution of 18 to a theme issue ‘<a href="http://dx.doi.org/10.1098/rstb/376/1822" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">The political brain: neurocognitive and computational mechanisms</a>’.</p></div>
+<div class="fn" id="fn2"><p>Electronic supplementary material is available online at <a href="https://doi.org/10.6084/m9.figshare.c.5252493" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">https://doi.org/10.6084/m9.figshare.c.5252493</a>.</p></div>
+<div class="fn" id="_fncrsp93pmc__">
+<sup>✉</sup><p class="display-inline">Corresponding author.</p>
+</div>
+</div>
+</div>
+<div id="anp_a" class="d-panel p" style="display: none"><div class="notes p"><section id="historyarticle-meta1" class="history"><p>Accepted 2020 Dec 16; Issue date 2021 Apr 12.</p></section></div></div>
+<div id="clp_a" class="d-panel p" style="display: none">
+<div>© 2021 The Author(s)</div>
+<p>Published by the Royal Society. All rights reserved.</p>
+<div class="p"><a href="/about/copyright/" class="usa-link">PMC Copyright notice</a></div>
+</div>
+</div>
+<div>PMCID: PMC7935043  PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/33611996/" class="usa-link">33611996</a>
+</div>
+</div></section></section><section aria-label="Article content"><section class="body main-article-body"><section class="abstract" id="abstract1"><h2>Abstract</h2>
+<p>Uncertainty has been shown to impact political evaluation, yet the exact mechanisms by which uncertainty affects the minds of citizens remain unclear. This experiment examines the neural underpinnings of uncertainty in political evaluation using functional magnetic resonance imaging (fMRI). During fMRI, participants completed an experimental task where they evaluated policy positions attributed to hypothetical political candidates. Policy positions were either congruent or incongruent with candidates' political party affiliation and presented with varying levels of certainty. Neural activity was modelled as a function of uncertainty and incongruence. Analyses suggest that neural activity in brain regions previously implicated in affective and evaluative processing (anterior cingulate cortex, insular cortex) differed as a function of the interaction between uncertainty and incongruence, such that activation in these areas was greatest when information was both certain and incongruent, and uncertainty influenced processing differently as a function of the valence of the attached information. These findings suggest that individuals are attuned to uncertainty in the stated issue positions of politicians, and that the neural processing of this uncertainty is dependent on congruence of these positions with expectations based on political party identification. Implications for the study of emotion and politics and political cognition are discussed.</p>
+<p>This article is part of the theme issue ‘The political brain: neurocognitive and computational mechanisms’.</p>
+<section id="kwd-group1" class="kwd-group"><p><strong>Keywords:</strong> evaluation, uncertainty, incongruence, fMRI, political cognition, political neuroscience</p></section></section><section id="s1"><h2 class="pmc_sec_title">1.  Introduction</h2>
+<p>Uncertainty is an inherent part of the political process, given that political issues are ever increasing in complexity and citizens often lack the motivation or ability to fully understand the details. Political scientists have long acknowledged uncertainty as part of the political process [<a href="#RSTB20200138C1" class="usa-link" aria-describedby="RSTB20200138C1">1</a>], and shown, for example, that people are less likely to use information to make decisions about political candidates when that information is subjectively uncertain [<a href="#RSTB20200138C2" class="usa-link" aria-describedby="RSTB20200138C2">2</a>] and that uncertainty can be associated with ambivalence and more negative evaluations of candidates [<a href="#RSTB20200138C3" class="usa-link" aria-describedby="RSTB20200138C3">3</a>]. Politicians may project uncertainty about positions they hold on particular issues intentionally or unintentionally. Some empirical work supports the popular assumption that ‘flip-flopping’, equivocating, or being vague has negative consequences for politicians because it portrays them as indecisive [<a href="#RSTB20200138C4" class="usa-link" aria-describedby="RSTB20200138C4">4</a>,<a href="#RSTB20200138C5" class="usa-link" aria-describedby="RSTB20200138C5">5</a>], whereas other work says it is inconsequential given partisan motivations [<a href="#RSTB20200138C6" class="usa-link" aria-describedby="RSTB20200138C6">6</a>,<a href="#RSTB20200138C7" class="usa-link" aria-describedby="RSTB20200138C7">7</a>] or that this indecision can even be viewed positively in the minds of some voters [<a href="#RSTB20200138C8" class="usa-link" aria-describedby="RSTB20200138C8">8</a>]. However, this work does not identify the effects of uncertainty, <em>per se</em>, and has revealed somewhat inconsistent findings.</p>
+<p>Other political science work has examined the impact of emotions that are likely related to uncertainty, such as anxiety, suggesting that anxiety is likely to lead to a more open-minded cognitive style, whereby people consider new information and are more willing to engage in compromise [<a href="#RSTB20200138C9" class="usa-link" aria-describedby="RSTB20200138C9">9</a>–<a href="#RSTB20200138C11" class="usa-link" aria-describedby="RSTB20200138C11">11</a>]. Indeed, past work has shown that uncertainty can lead to increased political tolerance and willingness to compromise, but only under certain conditions [<a href="#RSTB20200138C12" class="usa-link" aria-describedby="RSTB20200138C12">12</a>,<a href="#RSTB20200138C13" class="usa-link" aria-describedby="RSTB20200138C13">13</a>]. Uncertainty is more likely to lead to positive outcomes in neutral or positive contexts, but more likely to produce the opposite when paired with negative affect or threat. What remains underexplored at this point is understanding <em>why</em> uncertainty has these effects on political attitudes and beliefs, and how the neural response to uncertainty may change as a function of affective context.</p>
+<p>While some emotions or affective states tend to be clearly defined (e.g. fear or threat), uncertainty is a more diffuse affective state. Threat signals the direct potential for harm, whereas uncertainty is simply a signal that we lack information and requires context for interpretation. Responses to uncertainty are likely to differ based on what the uncertainty is attached to. In other words, we argue that effects of uncertainty are likely to be context-dependent [<a href="#RSTB20200138C12" class="usa-link" aria-describedby="RSTB20200138C12">12</a>,<a href="#RSTB20200138C13" class="usa-link" aria-describedby="RSTB20200138C13">13</a>]. From this perspective, it is important to examine how uncertainty affects political cognition differently when attached to different types of information.</p>
+<p>Research in political neuroscience has begun to examine processes involved in political evaluation, such as political candidate perception and evaluation, but has not directly examined how uncertainty influences these processes. Much of this work has presented participants with names or faces of political candidates, and found activation in many of the same brain regions involved in evaluative processing more generally, including the amygdala, insula, anterior cingulate and orbitofrontal cortex (see e.g. [<a href="#RSTB20200138C14" class="usa-link" aria-describedby="RSTB20200138C14">14</a>–<a href="#RSTB20200138C16" class="usa-link" aria-describedby="RSTB20200138C16">16</a>]). For example, functional magnetic resonance imaging (fMRI) studies have shown activation in anterior cingulate cortex (ACC), insula and dorsolateral prefrontal cortex (dlPFC) when people are evaluating disliked or opposition political candidates [<a href="#RSTB20200138C17" class="usa-link" aria-describedby="RSTB20200138C17">17</a>,<a href="#RSTB20200138C18" class="usa-link" aria-describedby="RSTB20200138C18">18</a>]. However, other fMRI work has shown that some of these regions also respond to favoured candidates [<a href="#RSTB20200138C19" class="usa-link" aria-describedby="RSTB20200138C19">19</a>], suggesting that it may be premature to explain these effects purely on the basis of positive versus negative valence. Many of these brain regions appear to serve multiple functions, and there is ongoing debate about what the exact nature of brain functions in these regions might be. For example, the ACC has been implicated in cognitive control, conflict monitoring and exploring alternative courses of action [<a href="#RSTB20200138C20" class="usa-link" aria-describedby="RSTB20200138C20">20</a>–<a href="#RSTB20200138C22" class="usa-link" aria-describedby="RSTB20200138C22">22</a>] and is sensitive to uncertainty [<a href="#RSTB20200138C23" class="usa-link" aria-describedby="RSTB20200138C23">23</a>–<a href="#RSTB20200138C25" class="usa-link" aria-describedby="RSTB20200138C25">25</a>]. Insula responds to motivationally relevant information or salience and may aid in the process of integrating cognitive with emotional information [<a href="#RSTB20200138C26" class="usa-link" aria-describedby="RSTB20200138C26">26</a>,<a href="#RSTB20200138C27" class="usa-link" aria-describedby="RSTB20200138C27">27</a>] and has also been shown to be sensitive to uncertainty [<a href="#RSTB20200138C28" class="usa-link" aria-describedby="RSTB20200138C28">28</a>,<a href="#RSTB20200138C29" class="usa-link" aria-describedby="RSTB20200138C29">29</a>], although much of this work has been conducted in the context of decision making rather than politics. There is also some evidence that activation in these regions—insula and ACC—may be linked [<a href="#RSTB20200138C30" class="usa-link" aria-describedby="RSTB20200138C30">30</a>]. In prior work, we have demonstrated using fMRI that insula and ACC respond to incongruent (versus congruent) policy statements from hypothetical political candidates, and that this effect was more likely to occur when evaluating own party (versus out party) candidates and for participants who identified as politically liberal versus conservative [<a href="#RSTB20200138C31" class="usa-link" aria-describedby="RSTB20200138C31">31</a>]. However, we have yet to investigate the role of uncertainty in candidates' stated issue positions, which is of particular importance given the prevalence of uncertainty in contemporary electoral politics. In particular, we are interested here in whether people respond differently to political uncertainty as a function of affective context.</p></section><section id="s2"><h2 class="pmc_sec_title">2.  Overview of present work</h2>
+<p>In the present work, we used fMRI to examine the impact of both uncertainty and incongruent information on political evaluation. Although work in political science has typically examined unidirectional effects of uncertainty on political evaluation, we expect the effects of uncertainty to depend on the context of evaluation—specifically, whether the information given with respect to a candidate is congruent with the candidate's party identification. We test this by leveraging instances of issue positions conflicting with candidates' party identification as an opportunity to study when context determines the effects of uncertainty on political evaluation. We focus our inquiry on brain regions previously implicated in evaluative processing, including the insula and anterior cingulate. Given past research in cognitive neuroscience, it is unclear whether some areas in the brain are just sensitive to uncertainty regardless of context, or if uncertainty is having effects on processing more indirectly. We think it is unlikely that there is an ‘uncertainty area’ of the brain, but rather uncertainty may change the motivational relevance of different types of information. Past research might suggest that either uncertainty or incongruence would activate regions such as insula or ACC, but we expect to find evidence for an interaction between uncertainty and incongruence.</p></section><section id="s3"><h2 class="pmc_sec_title">3.  Method</h2>
+<section id="s3a"><h3 class="pmc_sec_title">(a). Participants</h3>
+<p>The analyses reported here rely on the same dataset we used for analyses published in Haas <em>et al.</em> [<a href="#RSTB20200138C31" class="usa-link" aria-describedby="RSTB20200138C31">31</a>], but here we focus on uncertainty, which was not included in prior analyses. Fifty-eight healthy adults (34 female and 24 male; age range: 19–59, <em>M</em> = 25.4, s.d. = 9.2) participated in the experiment. Participants were politically diverse, with 32 identifying as liberal and 26 identifying as conservative. Participants were recruited from the University of Nebraska-Lincoln and surrounding community. All participants were right-handed, and had normal or corrected-to-normal vision, and no known history of neurological disorders. Participants were safety-screened to ensure eligibility for MRI and provided informed consent in accord with study approval by the institutional review board. They were compensated $30 US for their participation.</p></section><section id="s3b"><h3 class="pmc_sec_title">(b). Experimental design and stimuli</h3>
+<p>Full details of the experimental design are available in Haas <em>et al.</em> [<a href="#RSTB20200138C31" class="usa-link" aria-describedby="RSTB20200138C31">31</a>], but the relevant details are also summarized here for convenience. We did not examine uncertainty in the prior analyses, so that variable is explained in more detail here. Participants came to the MRI centre and participated in a blocked rapid event-related fMRI experiment where they evaluated the policy positions of hypothetical political candidates while undergoing MRI scanning. The experiment had a 2 <em>uncertainty</em> (certain/uncertain) × 2 <em>incongruence</em> (congruent/incongruent) × 2 <em>block type</em> (ingroup/outgroup) within-subjects design. The experimental paradigm was designed to manipulate both uncertainty and incongruence as a function of the candidates' issue positions and party identification. Prior to the start of each block, participants received information about the political candidate (Democrat or Republican) that they would be evaluating for that set of trials. All participants evaluated policy positions attributed to four different candidates (two Democrats and two Republicans) in a randomized order.</p>
+<p>On each trial, participants received information about a specific policy position attributed to the candidate and information about both: (i) whether the candidate supports or opposes that issue and (ii) the certainty with which the candidate holds that position on the issue. Specifically, participants saw one of four cues on each trial: ‘<em>may support,’ ‘may oppose,’ ‘definitely supports’</em> or <em>‘definitely opposes’.</em> Next, a policy statement appeared, and participants were asked to evaluate how they felt about the candidate's position on that issue by selecting either good or bad using the response pad while in the scanner (1 <em>=</em>
+<em>good</em>, 2 <em>=</em>
+<em>bad</em>). Each trial consisted of presentation of a cue (750 ms) followed by a policy statement (4250 ms) and a jittered fixation cross (inter-stimulus interval, ISI: 2500, 5000, 7500, 10 000 or 12 500 ms). Policy statements were selected on the basis of pilot data and were selected based on clear categorization as issues that Republicans or Democrats tend to support and roughly equated on attitude extremity and importance (see [<a href="#RSTB20200138C31" class="usa-link" aria-describedby="RSTB20200138C31">31</a>]). Participants saw each statement twice over the course of the experiment, but never the same issue twice for the same candidate. A majority of the issue positions (66.6%) in each block were congruent with the candidate's political identification (as determined by behavioural pilot data), but a smaller subset were incongruent with his identification (33.3%) to allow for examination of both congruent and incongruent issue positions. Overall, half of the trials were uncertain (50%) and half were certain. But, uncertainty was not distributed evenly across congruent and incongruent trials. To increase external validity of the task, incongruent trials were more likely to be uncertain (62.5%) than congruent trials (43.75%). After the MRI portion of the study, participants completed an additional post-scan survey and responded to a series of demographic questions.</p></section><section id="s3c"><h3 class="pmc_sec_title">(c). MRI data acquisition</h3>
+<p>MRI data were acquired using a Siemens Skyra 3.0 T MRI with a 32-channel head coil. Prior to functional imaging, a high-resolution T1-weighted 3D anatomical image (MPRAGE; field of view (FoV) read = 256 mm, slice thickness = 1.0 × 1.0 × 1.0 mm, repetition time (TR) = 2400 ms, echo time (TE) = 3.37 ms, inversion time (TI) = 991 ms, prescan normalize on, PAT mode = GRAPPA) was collected for spatial normalization. fMRI data were acquired with acquisition parallel to the anterior commissure-posterior commissure (AC–PC) line (42 slices, FoV read = 220 mm, slice thickness = 3.0 × 3.0 × 3.0 mm, TR = 2500 ms, TE = 30 ms, flip angle = 80°, prescan normalize off). Participants completed four blocks of functional scanning, lasting approximately 8.5 min each. The first five volumes of each run were discarded to avoid variability due to pre-steady-state functional data.</p></section><section id="s3d"><h3 class="pmc_sec_title">(d). MRI data preprocessing and analysis</h3>
+<p>MRI data were preprocessed as reported in Haas <em>et al.</em> [<a href="#RSTB20200138C31" class="usa-link" aria-describedby="RSTB20200138C31">31</a>] using the fMRI expert analysis tool (FEAT) in the FMRIB Software Library (FSL; [<a href="#RSTB20200138C32" class="usa-link" aria-describedby="RSTB20200138C32">32</a>,<a href="#RSTB20200138C33" class="usa-link" aria-describedby="RSTB20200138C33">33</a>]) on macOS. The high-resolution 3D anatomical image (MPRAGE) was skull-stripped using FSL's brain extraction function (BET; [<a href="#RSTB20200138C34" class="usa-link" aria-describedby="RSTB20200138C34">34</a>]). Data from functional runs were subjected to normalization, registration to both MPRAGE and standard space (MNI152), spatial smoothing at FWHM (full width at half maximum) of 5 mm, slice timing correction (to correct for interleaved data acquisition), and motion correction using MCFLIRT [<a href="#RSTB20200138C35" class="usa-link" aria-describedby="RSTB20200138C35">35</a>].</p>
+<p>Statistical analyses were conducted using the general linear model (GLM) as implemented in FSL. Time-series data were modelled at the first level (the trial level) using FMRIB's improved linear model (FILM), and then, higher-level analysis (across sessions first, and then across subjects) was carried out using FMRIB's local analysis of mixed effects (FLAME; see [<a href="#RSTB20200138C33" class="usa-link" aria-describedby="RSTB20200138C33">33</a>]). First, the blood oxygen level-dependent (BOLD) signal was modelled at the trial level for each run as a function of <em>uncertainty</em> (certain/uncertain), <em>incongruence</em> (congruent/incongruent) and their interaction. Data from each run were then averaged across subjects using a fixed effects model.<sup><a href="#FN1" class="usa-link">1</a></sup> The subject-level analyses were then combined into group-level region of interest (ROI) analyses using FSL FLAME1. ROI analyses on left amygdala, right amygdala, bilateral insula, and ACC were masked prior to analysis (using anatomical masks from the Harvard–Oxford Cortical/Subcortical Atlases provided with FSL) and cluster corrected for multiple comparisons. In FSL, a <em>Z</em>-statistic &gt; 2.0 was used to define contiguous clusters, and then cluster probabilities were compared with the (corrected) cluster significance threshold of <em>p</em> &lt; 0.05 using Gaussian random field theory [<a href="#RSTB20200138C36" class="usa-link" aria-describedby="RSTB20200138C36">36</a>].<sup><a href="#FN2" class="usa-link">2</a></sup></p>
+<p>In order to plot the BOLD activation to decompose interaction effects, cluster masks were created using <em>fslmaths</em> in FSL for each significant cluster of activation, and mean activation to each of the four conditions (certain congruent, certain incongruent, uncertain congruent, uncertain incongruent) was extracted using these cluster masks in <em>FEATQuery</em>. <em>Post hoc</em> tests were conducted in R, and this extracted data was used to plot MRI interaction effects (MRI summary data and syntax are available at <a href="https://osf.io/hpv8m/" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">https://osf.io/hpv8m/</a>).</p></section></section><section id="s4"><h2 class="pmc_sec_title">4.  Results</h2>
+<section id="s4a"><h3 class="pmc_sec_title">(a). Behavioural task data</h3>
+<p>A within-subject ANOVA was used to examine response latency as a function of <em>uncertainty</em> (certain/uncertain), <em>incongruence</em> (congruent/incongruent) and <em>evaluative response</em> (good/bad). Overall, response latency was slightly faster on <em>certain</em> trials (<em>M</em> = 2567, s.d. = 982) compared with <em>uncertain</em> trials (<em>M</em> = 2591, s.d. = 961; <em>F</em><sub>1,51</sub> = 3.162, <em>p</em> = 0.0813). This effect was moderated by <em>incongruence</em> (<em>F</em><sub>1,54</sub> = 4.027, <em>p</em> = 0.0498), such that participants were faster to respond on both <em>certain congruent</em> trials (<em>M</em> = 2542, s.d. = 800) compared with <em>certain incongruent</em> trials (<em>M</em> = 2625, s.d. = 765; <em>F</em><sub>1,57</sub> = 24.86, <em>p</em> &lt; 0.001), as well as <em>uncertain congruent</em> trials (<em>M</em> = 2567, s.d. = 797) compared with <em>uncertain incongruent</em> trials (<em>M</em> = 2643, s.d. = 801; <em>F</em><sub>1,57</sub> = 12.72, <em>p</em> &lt; 0.001) trials, but the size of the difference was a bit larger for <em>certain</em> relative to <em>uncertain</em> trials (<a href="#RSTB20200138F1" class="usa-link">figure 1</a>). The three-way interaction of <em>uncertainty</em> × <em>incongruence</em> × <em>response</em> was not statistically significant (<em>F</em><sub>1,57</sub> = 1.69, <em>p</em> = 0.199), but there was a significant two-way interaction of <em>uncertainty</em> × <em>response</em> (<em>F</em><sub>1,50</sub> = 5.741, <em>p</em> = 0.0204). When participants responded <em>good</em>, they were faster to respond on <em>certain</em> trials (<em>M</em> = 2521, s.d. = 819) relative to <em>uncertain</em> trials (<em>M</em> = 2560, s.d. = 789; <em>F</em><sub>1,57</sub> = 4.268, <em>p</em> = 0.0434). When participants responded <em>bad</em>, the difference between <em>certain</em> trials (<em>M</em> = 2611, s.d. = 782) and <em>uncertain</em> trials (<em>M</em> = 2624, s.d. = 778; <em>F</em><sub>1,57</sub> = 0.434, <em>p</em> = 0.513) was not significant.<sup><a href="#FN3" class="usa-link">3</a></sup> Raw data and syntax for behavioural task analyses in R are available at <a href="https://osf.io/hpv8m/" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">https://osf.io/hpv8m/</a>.
+</p>
+<figure class="fig xbox font-sm" id="RSTB20200138F1"><h4 class="obj_head">Figure 1. </h4>
+<p class="img-box line-height-none margin-x-neg-2 tablet:margin-x-0 text-center"><img class="graphic" src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/d1e6/7935043/7236d416037f/rstb20200138f01.jpg" loading="lazy" height="399" width="629" alt="Figure 1. "></p>
+<div class="p text-right font-secondary"><a href="figure/RSTB20200138F1/" class="usa-link" target="_blank" rel="noopener noreferrer">Open in a new tab</a></div>
+<figcaption><p>Raw response latency (in milliseconds) as a function of <em>uncertainty</em> (certain/uncertain) and <em>incongruence</em> (congruent/incongruent). Error bars represent standard errors.</p></figcaption></figure></section><section id="s4b"><h3 class="pmc_sec_title">(b). fMRI data</h3>
+<p>BOLD signal was modelled as a function of <em>uncertainty</em> (certain/uncertain) and <em>incongruence</em> (congruent/incongruent).<sup><a href="#FN4" class="usa-link">4</a></sup> ROI analyses revealed significant clusters of activation in our primary ROI—insular cortex and ACC—which will be detailed below (see <a href="#RSTB20200138TB1" class="usa-link">table 1</a> for full list of significant clusters).<sup><a href="#FN5" class="usa-link">5</a></sup> Overall, we find no significant clusters of amygdala activation, which is consistent with our prior work [<a href="#RSTB20200138C31" class="usa-link" aria-describedby="RSTB20200138C31">31</a>].
+</p>
+<section class="tw xbox font-sm" id="RSTB20200138TB1"><h4 class="obj_head">Table 1. </h4>
+<div class="caption p"><p>Significant clusters of BOLD activation in insula and ACC for main effects and interactions of <em>uncertainty</em> (certain/uncertain) and <em>incongruence</em> (congruent/incongruent). <em>X</em>, <em>Y</em>, <em>Z</em> coordinates are in MNI space. Cluster information for main effects is based on directional contrasts (<em>t</em>-tests) and cluster information for interactions is based on non-directional contrasts (<em>F</em>-tests).</p></div>
+<div class="tbl-box p" tabindex="0"><table class="content" frame="hsides" rules="groups">
+<colgroup span="1">
+<col align="left" span="1">
+<col align="left" span="1">
+<col align="left" span="1">
+<col align="left" span="1">
+<col align="left" span="1">
+<col align="left" span="1">
+<col align="left" span="1">
+<col align="left" span="1">
+<col align="left" span="1">
+</colgroup>
+<thead valign="bottom"><tr>
+<th align="left" rowspan="1" colspan="1">contrast</th>
+<th align="left" rowspan="1" colspan="1">anatomical label(s)</th>
+<th align="left" rowspan="1" colspan="1">side</th>
+<th align="left" rowspan="1" colspan="1">cluster size</th>
+<th align="left" rowspan="1" colspan="1">
+<em>p-</em>value</th>
+<th align="left" rowspan="1" colspan="1">peak activation (<em>Z</em>-score)</th>
+<th align="left" rowspan="1" colspan="1"><em>X</em></th>
+<th align="left" rowspan="1" colspan="1"><em>Y</em></th>
+<th align="left" rowspan="1" colspan="1"><em>Z</em></th>
+</tr></thead>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">certain &gt; uncertain</td>
+<td rowspan="1" colspan="1">insular cortex; lateral orbitofrontal cortex</td>
+<td rowspan="1" colspan="1">left</td>
+<td rowspan="1" colspan="1">720</td>
+<td rowspan="1" colspan="1">0.000271</td>
+<td rowspan="1" colspan="1">4.37</td>
+<td rowspan="1" colspan="1">−32</td>
+<td rowspan="1" colspan="1">20</td>
+<td rowspan="1" colspan="1">−16</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">certain &gt; uncertain</td>
+<td rowspan="1" colspan="1">insular cortex; lateral orbitofrontal cortex</td>
+<td rowspan="1" colspan="1">right</td>
+<td rowspan="1" colspan="1">479</td>
+<td rowspan="1" colspan="1">0.00277</td>
+<td rowspan="1" colspan="1">3.95</td>
+<td rowspan="1" colspan="1">32</td>
+<td rowspan="1" colspan="1">28</td>
+<td rowspan="1" colspan="1">−2</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">certain &gt; uncertain</td>
+<td rowspan="1" colspan="1">paracingulate gyrus</td>
+<td rowspan="1" colspan="1">—</td>
+<td rowspan="1" colspan="1">1392</td>
+<td rowspan="1" colspan="1">&lt;0.001</td>
+<td rowspan="1" colspan="1">4.14</td>
+<td rowspan="1" colspan="1">−4</td>
+<td rowspan="1" colspan="1">24</td>
+<td rowspan="1" colspan="1">42</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">incongruent &gt; congruent</td>
+<td rowspan="1" colspan="1">insular cortex; lateral orbitofrontal cortex</td>
+<td rowspan="1" colspan="1">right</td>
+<td rowspan="1" colspan="1">409</td>
+<td rowspan="1" colspan="1">0.00863</td>
+<td rowspan="1" colspan="1">3.89</td>
+<td rowspan="1" colspan="1">36</td>
+<td rowspan="1" colspan="1">24</td>
+<td rowspan="1" colspan="1">−2</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">incongruent &gt; congruent</td>
+<td rowspan="1" colspan="1">cingulate gyrus, anterior division; paracingulate gyrus</td>
+<td rowspan="1" colspan="1">—</td>
+<td rowspan="1" colspan="1">1644</td>
+<td rowspan="1" colspan="1">&lt;0.001</td>
+<td rowspan="1" colspan="1">4.15</td>
+<td rowspan="1" colspan="1">−6</td>
+<td rowspan="1" colspan="1">16</td>
+<td rowspan="1" colspan="1">34</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">uncertainty × incongruence</td>
+<td rowspan="1" colspan="1">insular cortex; lateral orbitofrontal cortex</td>
+<td rowspan="1" colspan="1">left</td>
+<td rowspan="1" colspan="1">919</td>
+<td rowspan="1" colspan="1">&lt;0.001</td>
+<td rowspan="1" colspan="1">4.44</td>
+<td rowspan="1" colspan="1">−32</td>
+<td rowspan="1" colspan="1">24</td>
+<td rowspan="1" colspan="1">2</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">uncertainty × incongruence</td>
+<td rowspan="1" colspan="1">insular cortex; lateral orbitofrontal cortex</td>
+<td rowspan="1" colspan="1">right</td>
+<td rowspan="1" colspan="1">638</td>
+<td rowspan="1" colspan="1">0.000467</td>
+<td rowspan="1" colspan="1">3.33</td>
+<td rowspan="1" colspan="1">42</td>
+<td rowspan="1" colspan="1">20</td>
+<td rowspan="1" colspan="1">2</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">uncertainty × incongruence</td>
+<td rowspan="1" colspan="1">paracingulate gyrus; cingulate gyrus, anterior division</td>
+<td rowspan="1" colspan="1">—</td>
+<td rowspan="1" colspan="1">2548</td>
+<td rowspan="1" colspan="1">&lt;0.001</td>
+<td rowspan="1" colspan="1">4.85</td>
+<td rowspan="1" colspan="1">0</td>
+<td rowspan="1" colspan="1">20</td>
+<td rowspan="1" colspan="1">42</td>
+</tr>
+</tbody>
+</table></div>
+<div class="p text-right font-secondary"><a href="table/RSTB20200138TB1/" class="usa-link" target="_blank" rel="noopener noreferrer">Open in a new tab</a></div></section></section><section id="s4c"><h3 class="pmc_sec_title">(c). Main effects of uncertainty and incongruence</h3>
+<p>First, we examined main effects of uncertainty and incongruence by examining directional (<em>t</em>) contrasts designed to compare differences in BOLD activation for <em>uncertain</em> &gt; <em>certain</em> trials (and for <em>incongruent</em> &gt; <em>congruent</em> trials). Here we examine results from ROI analyses in ACC, insula and amygdala. These analyses revealed significant clusters of activation in bilateral insula (extending into lateral orbitofrontal cortex) and ACC that showed greater activation to <em>certain</em> &gt; <em>uncertain</em> trials (<a href="#RSTB20200138F2" class="usa-link">figure 2</a>). The insula analysis revealed significant clusters of activation for <em>certain</em> &gt; <em>uncertain</em> trials on both the left (720 voxels, <em>Z</em>-max = 4.37, <em>p</em> = 0.000271; MNI coordinates: <em>X</em> = −32, <em>Y</em> = 20, <em>Z</em> = −16) and right (479 voxels, <em>Z</em>-max = 3.95, <em>p</em> = 0.00277; MNI coordinates: <em>X</em> = 32, <em>Y</em> = 28, <em>Z</em> = −2). The activation in ACC for <em>certain</em> &gt; <em>uncertain</em> trials was centred in paracingulate gyrus (1392 voxels, <em>Z</em>-max = 4.14, <em>p</em> &lt; 0.001; MNI coordinates: <em>X</em> = −4, <em>Y</em> = 24, <em>Z</em> = 42). Consistent with the analyses on <em>incongruence</em> reported in our prior work [<a href="#RSTB20200138C31" class="usa-link" aria-describedby="RSTB20200138C31">31</a>], we also find significant clusters of activation in right insula (409 voxels, <em>Z</em>-max = 3.89, <em>p</em> = 0.00863; MNI coordinates: <em>X</em> = 36, <em>Y</em> = 24, <em>Z</em> = −2) and ACC (1644 voxels, <em>Z</em>-max = 4.15, <em>p</em> &lt; 0.001; MNI coordinates: <em>X</em> = −6, <em>Y</em> = 16, <em>Z</em> = 34) for <em>incongruent</em> &gt; <em>congruent</em> trials (<a href="#RSTB20200138F2" class="usa-link">figure 2</a>). We found no significant clusters of activation in insula or ACC for the reverse contrasts (<em>congruent</em> &gt; <em>incongruent</em> or <em>uncertain</em> &gt; <em>certain</em>). Masked analyses for left and right amygdala showed no significant clusters of activation for any of these four directional contrasts.
+</p>
+<figure class="fig xbox font-sm" id="RSTB20200138F2"><h4 class="obj_head">Figure 2. </h4>
+<p class="img-box line-height-none margin-x-neg-2 tablet:margin-x-0 text-center"><a class="tileshop" target="_blank" href="https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&amp;p=PMC3&amp;id=7935043_rstb20200138f02.jpg"><img class="graphic zoom-in" src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/d1e6/7935043/eb8cdb9b4d4b/rstb20200138f02.jpg" loading="lazy" height="337" width="706" alt="Figure 2. "></a></p>
+<div class="p text-right font-secondary"><a href="figure/RSTB20200138F2/" class="usa-link" target="_blank" rel="noopener noreferrer">Open in a new tab</a></div>
+<figcaption><p>BOLD activation in (<em>a</em>) ACC and (<em>b</em>) bilateral insula in response to <em>certain</em> &gt; <em>uncertain</em> trials (red–yellow) and <em>incongruent</em> &gt; <em>congruent</em> trials (blue–light blue). Images were created by overlaying the thresholded <em>Z</em>-statistic images on a standard space template (MNI152) and are centred on the peak voxel for (<em>a</em>) the <em>certain</em> &gt; <em>uncertain</em> contrast in ACC and (<em>b</em>) the <em>certain</em> &gt; <em>uncertain</em> contrast in right insula from the ROI analyses.</p></figcaption></figure></section><section id="s4d"><h3 class="pmc_sec_title">(d). Interaction of uncertainty and incongruence</h3>
+<p>Next, we examined the <em>uncertainty</em> by <em>incongruence</em> interaction in the same ROI using non-directional (<em>F</em>) contrasts. As expected, the above main effects for <em>uncertainty</em> and <em>incongruence</em> were qualified by significant clusters of activation for the interaction in both bilateral insula and ACC (<a href="#RSTB20200138F3" class="usa-link">figure 3</a>). As above, we find no significant clusters of activation for the interaction effect in left or right amygdala.
+</p>
+<figure class="fig xbox font-sm" id="RSTB20200138F3"><h4 class="obj_head">Figure 3. </h4>
+<p class="img-box line-height-none margin-x-neg-2 tablet:margin-x-0 text-center"><a class="tileshop" target="_blank" href="https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&amp;p=PMC3&amp;id=7935043_rstb20200138f03.jpg"><img class="graphic zoom-in" src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/d1e6/7935043/01dc1d497a94/rstb20200138f03.jpg" loading="lazy" height="432" width="779" alt="Figure 3. "></a></p>
+<div class="p text-right font-secondary"><a href="figure/RSTB20200138F3/" class="usa-link" target="_blank" rel="noopener noreferrer">Open in a new tab</a></div>
+<figcaption><p>BOLD activation in bilateral insula in response to the interaction of <em>uncertainty</em> and <em>incongruence</em>. Images are centred on peak voxel for each cluster from the ROI analysis: (<em>a</em>) left insula (MNI coordinates: <em>X</em> = −32, <em>Y</em> = 24, <em>Z</em> = 2) and (<em>b</em>) right insula (MNI coordinates: <em>X</em> = 42, <em>Y</em> = 20, <em>Z</em> = 2). Plots represent mean parameter estimates for each of the four trial types (<em>certain congruent, uncertain congruent, certain incongruent, uncertain incongruent</em>), extracted from functional cluster masks and separated by cluster. Error bars on the bar graphs represent within-subject standard errors.</p></figcaption></figure><p>The larger insula cluster was centred on the left (see <a href="#RSTB20200138F3" class="usa-link">figure 3</a><em>a</em>; 919 voxels, <em>Z</em>-max = 4.44, <em>p</em> &lt; 0.001; MNI coordinates: <em>X</em> = −32, <em>Y</em> = 24, <em>Z</em> = 2). There was also a sizeable cluster of activation centred in right insula (see <a href="#RSTB20200138F3" class="usa-link">figure 3</a><em>b</em>; 638 voxels, <em>Z</em>-max = 3.33, <em>p</em> = 0.000467; MNI coordinates: <em>X</em> = 42, <em>Y</em> = 20, <em>Z</em> = 2). Decomposing the interaction effect in bilateral insula reveals a similar pattern of activation on both sides (<a href="#RSTB20200138F3" class="usa-link">figure 3</a>). The greatest increase in activation was observed for <em>certain incongruent</em> trials, relative to the other three conditions, suggesting that the insula response was strongest when candidates expressed definite support for issues incongruent with their party affiliation. In left insula, activation in response to <em>certain incongruent</em> trials (<em>M</em> = 23.26, s.d. = 12.50) was greater than to <em>uncertain incongruent</em> trials (<em>M</em> = 14.64, s.d. = 9.41; <em>F</em><sub>1,57</sub> = 15.68, <em>p</em> &lt; 0.001), but for <em>congruent</em> trials activation, was greater to <em>uncertain</em> (<em>M</em> = 18.05, s.d. = 9.35) than <em>certain</em> (<em>M</em> = 15.62, s.d. = 7.45; <em>F</em><sub>1,57</sub> = 2.802, <em>p</em> = 0.0996) trials. In right insula, activation in response to <em>certain incongruent</em> trials (<em>M</em> = 32.38, s.d. = 15.03) was greater than to <em>uncertain incongruent</em> trials (<em>M</em> = 20.89, s.d. = 11.82; <em>F</em><sub>1,57</sub> = 19.56, <em>p</em> &lt; 0.001), but for <em>congruent</em> trials activation was greater for <em>uncertain</em> (<em>M</em> = 23.85, s.d. = 11.71) than <em>certain</em> (<em>M</em> = 20.64, s.d. = 10.57; <em>F</em><sub>1,57</sub> = 2.784, <em>p</em> = 0.101) trials.</p>
+<p>In the ACC, there was one large cluster of activation in response to the interaction of <em>uncertainty</em> and <em>incongruence</em> (<a href="#RSTB20200138F4" class="usa-link">figure 4</a>). The cluster was centred on ACC/paracingulate gyrus (2548 voxels, <em>Z</em>-max = 4.85, <em>p</em> &lt; 0.001; MNI coordinates: <em>X</em> = 0, <em>Y</em> = 20, <em>Z</em> = 42). Decomposing the interaction effect in ACC shows a pattern of activation that looks similar to what was observed in bilateral insula—the greatest increase in activation occurred in response to <em>certain incongruent</em> trials, relative to the other three trial types. Activation in response to <em>certain incongruent</em> trials (<em>M</em> = 29.64, s.d. = 10.92) was greater than to <em>uncertain incongruent</em> trials (<em>M</em> = 21.49, s.d. = 8.59; <em>F</em><sub>1,57</sub> = 19.73, <em>p</em> &lt; 0.001), but for <em>congruent</em> trials activation was greater for <em>uncertain</em> (<em>M</em> = 23.76, s.d. = 9.76) than <em>certain</em> (<em>M</em> = 21.26, s.d. = 7.28; <em>F</em><sub>1,57</sub> = 2.837, <em>p</em> = 0.0976) trials.
+</p>
+<figure class="fig xbox font-sm" id="RSTB20200138F4"><h4 class="obj_head">Figure 4. </h4>
+<p class="img-box line-height-none margin-x-neg-2 tablet:margin-x-0 text-center"><a class="tileshop" target="_blank" href="https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&amp;p=PMC3&amp;id=7935043_rstb20200138f04.jpg"><img class="graphic zoom-in" src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/d1e6/7935043/95c50f179898/rstb20200138f04.jpg" loading="lazy" height="210" width="779" alt="Figure 4. "></a></p>
+<div class="p text-right font-secondary"><a href="figure/RSTB20200138F4/" class="usa-link" target="_blank" rel="noopener noreferrer">Open in a new tab</a></div>
+<figcaption><p>BOLD activation in ACC in response to the interaction of <em>uncertainty</em> and <em>incongruence</em>. Images are centred on peak voxel of activation from the ROI analysis (MNI coordinates: <em>X</em> = 0, <em>Y</em> = 20, <em>Z</em> = 42). Plots represent mean parameter estimates for each of the four trial types (<em>certain congruent, uncertain congruent, certain incongruent, uncertain incongruent</em>), extracted from the functional cluster mask. Error bars on the bar graphs represent within-subject standard errors.</p></figcaption></figure></section></section><section id="s5"><h2 class="pmc_sec_title">5.  Discussion</h2>
+<p>This experiment provides evidence that uncertainty impacts neural processing differently as a function of affective context. Both insula and ACC showed the greatest activation in response to policy positions that were both incongruent with candidates' party affiliation and presented with certainty. On congruent trials, the pattern was reversed but weaker, such that activation was greater to uncertain congruent versus certain congruent trials. This suggests that regions involved in evaluative processing may be especially sensitive to information that is known to be incongruent with a political candidate's stated position, perhaps so that the information can be encoded and help inform decision making later down the line.</p>
+<p>There is an extant literature in political science on how individuals process political information and assess political candidates, yet an understanding of the psychological and neural mechanisms by which people engage in political evaluative processing is far from complete, and an understanding of the neural mechanisms underlying political evaluations is in its infancy. The primary implication of the findings presented here are that (i) people attend to uncertainty in stated issue positions for political candidates and (ii) the effects of uncertainty on how people process political information are context-dependent. It is not uncommon that issue positions are incongruent with party identification, or that voters may be uncertain about where candidates truly stand on the issues, owing to both lack of political knowledge and a lack of clarity from politicians. The present work suggests that evaluations of such incongruent issue positions depend on the level of certainty with which the incongruence exists. In the present work, we were agnostic as to the source of the uncertainty—participants were simply told positions were uncertain without attribution as to the cause of the uncertainty. In future work, it may be interesting to examine different types of uncertainty—for example, whether the uncertainty comes from candidates' having not made up their minds on an issue versus strategically obfuscating their position.</p>
+<p>Relatedly, future work may want to consider variation in voters’ expectations of expressed uncertainty by candidates. Voters may vary in terms of how much they expect candidates to express clarity in their issue positions. Some work suggests attitude consistency is one of the most valued qualities in a political candidate [<a href="#RSTB20200138C37" class="usa-link" aria-describedby="RSTB20200138C37">37</a>,<a href="#RSTB20200138C38" class="usa-link" aria-describedby="RSTB20200138C38">38</a>], but other work in this special issue shows a nontrivial number of people just want to ‘watch the world burn’ and may prefer some degree of uncertainty [<a href="#RSTB20200138C39" class="usa-link" aria-describedby="RSTB20200138C39">39</a>]. Studies of individual variation in neural responses to uncertainty may improve our understanding of the electoral consequences for politicians who hold uncertain issue positions.</p>
+<p>Future work may also want to consider voter knowledge on the issues, as it is possible those who are highly knowledgeable (and/or highly identified) may be more sensitive to these policy deviations, especially on issues with high partisan ownership (e.g. Republicans on taxes; [<a href="#RSTB20200138C40" class="usa-link" aria-describedby="RSTB20200138C40">40</a>,<a href="#RSTB20200138C41" class="usa-link" aria-describedby="RSTB20200138C41">41</a>]). Relatedly, voters are often argued to be ‘issue publics’—driven predominantly by interest in a relatively small subset of issues [<a href="#RSTB20200138C42" class="usa-link" aria-describedby="RSTB20200138C42">42</a>,<a href="#RSTB20200138C43" class="usa-link" aria-describedby="RSTB20200138C43">43</a>], and so another interesting avenue for future work may be to consider the role of issue importance at the individual level. Inconsistency or ambiguity on policy stances should matter more to voters who care deeply about particular issues, and those voters may even be willing to overlook inconsistencies on less important issues if a candidate has a clear stance on the issue(s) they care about most.</p>
+<p>This work is consistent with the view that the psychological effects of uncertainty on political cognition and behaviour are context-dependent [<a href="#RSTB20200138C12" class="usa-link" aria-describedby="RSTB20200138C12">12</a>,<a href="#RSTB20200138C13" class="usa-link" aria-describedby="RSTB20200138C13">13</a>]—uncertainty seems to affect neural processing differently when attached to congruent versus incongruent information, at least in the neural regions examined here. This has important implications for the study of emotion and politics and political cognition more generally. Affective states such as uncertainty may sometimes be viewed as negative or attached to negative information, but can also be positively valenced. This means that we need to consider not only how individual emotions or affective states may affect processing, but how <em>interactions</em> of multiple affective states influence both neural processing and political behaviour.</p></section><section id="ack1" class="ack"><h2 class="pmc_sec_title">Acknowledgments</h2>
+<p>The UNL Political Attitudes and Cognition Lab and MRI Users Group provided useful feedback on this work. Additional thanks to undergraduate research assistants Allison Haindfield, Grace Stallworth, and Sarah Sweeney and MRI Technologist Joanne Murray for assistance with data collection.</p></section><section id="fn-group1" class="fn-group"><h2 class="pmc_sec_title">Endnotes</h2>
+<div class="fn-group p font-secondary-light font-sm">
+<div class="fn p" id="fn3"><p>One contribution of 18 to a theme issue ‘<a href="http://dx.doi.org/10.1098/rstb/376/1822" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">The political brain: neurocognitive and computational mechanisms</a>’.</p></div>
+<div class="fn p" id="FN1">
+<sup>1 </sup><p class="display-inline">At the subject level, we also modelled the effect of <em>block type—</em>whether the political candidate in each block shared the participant's political identification (ingroup candidate) or not (outgroup candidate), although this was not a primary focus of the analyses reported in this manuscript and is reported in the supplementary material.</p>
+</div>
+<div class="fn p" id="FN2">
+<sup>2 </sup><p class="display-inline">We also ran whole brain analyses at a more stringent threshold (cluster correction with <em>Z</em> &gt; 3.0 and <em>p</em> &lt; 0.001) and those results are reported in the supplementary material.</p>
+</div>
+<div class="fn p" id="FN3">
+<sup>3 </sup><p class="display-inline">We also modelled the effect of block type (ingroup versus outgroup block) to examine possible interactions with uncertainty, but none of those interactions was statistically significant so we do not focus further on block type in this paper. As reported in Haas <em>et al.</em> [<a href="#RSTB20200138C31" class="usa-link" aria-describedby="RSTB20200138C31">31</a>], we find significant main effects of incongruence and response, a significant interaction of incongruence × block type, and a marginal interaction of incongruence × response.</p>
+</div>
+<div class="fn p" id="FN4">
+<sup>4 </sup><p class="display-inline">Analyses including block type (ingroup versus outgroup) are reported in the electronic supplementary material.</p>
+</div>
+<div class="fn p" id="FN5">
+<sup>5 </sup><p class="display-inline">Whole brain analyses are reported in the electronic supplementary material.</p>
+</div>
+</div></section><section id="s6"><h2 class="pmc_sec_title">Ethics</h2>
+<p>All procedures performed in studies involving human participants were in accordance with the ethical standards of the University of Nebraska-Lincoln Institutional Review Board (IRB Approval no. 20141014467FB) and with the Declaration of Helsinki. All participants provided informed consent.</p></section><section id="s7"><h2 class="pmc_sec_title">Data accessibility</h2>
+<p>Data, code and materials are available on Open Science Framework at: <a href="https://osf.io/hpv8m/" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">https://osf.io/hpv8m/</a>. This includes the experimental script (E-Prime), raw data and syntax for behavioural task analyses (in R), and MRI summary data and syntax (in R).</p></section><section id="s8"><h2 class="pmc_sec_title">Authors' contributions</h2>
+<p>I.J.H. designed the experiment, assisted with data collection, analysed the data and drafted the manuscript; M.N.B. provided input on experimental design, assisted with data collection and provided critical revisions on the manuscript; F.J.G. provided input on experimental design, assisted with data collection and provided critical revisions on the manuscript. All authors gave final approval for publication and agree to be held accountable for the work performed herein.</p></section><section id="s9"><h2 class="pmc_sec_title">Competing interests</h2>
+<p>We declare we have no competing interests.</p></section><section id="s10"><h2 class="pmc_sec_title">Funding</h2>
+<p>This work was supported by the University of Nebraska-Lincoln Office for Research and Economic Development, College of Arts and Sciences, Center for Brain, Biology, and Behaviour, and Department of Political Science.</p></section><section id="ref-list1" class="ref-list"><h2 class="pmc_sec_title">References</h2>
+<section id="ref-list1_sec2"><ul class="ref-list font-sm" style="list-style-type:none">
+<li id="RSTB20200138C1">
+<span class="label">1.</span><cite>Downs A. 1957. 
+An economic theory of political action in a democracy. J. Polit. Econ.
+65, 135-150. ( 10.1086/257897)</cite> [<a href="https://doi.org/10.1086/257897" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=J.%20Polit.%20Econ.&amp;title=An%20economic%20theory%20of%20political%20action%20in%20a%20democracy&amp;volume=65&amp;publication_year=1957&amp;pages=135-150&amp;doi=10.1086/257897&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="RSTB20200138C2">
+<span class="label">2.</span><cite>Alvarez RM, Franklin C. 1994. 
+Uncertainty and political perceptions. J. Politics
+56, 671-688. ( 10.2307/2132187)</cite> [<a href="https://doi.org/10.2307/2132187" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=J.%20Politics&amp;title=Uncertainty%20and%20political%20perceptions&amp;volume=56&amp;publication_year=1994&amp;pages=671-688&amp;doi=10.2307/2132187&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="RSTB20200138C3">
+<span class="label">3.</span><cite>McGraw KM, Hasecke E, Conger K. 2003. 
+Ambivalence, uncertainty, and processes of candidate evaluation. Polit. Psychol.
+24, 421-448. ( 10.1111/0162-895X.00335)</cite> [<a href="https://doi.org/10.1111/0162-895X.00335" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Polit.%20Psychol.&amp;title=Ambivalence,%20uncertainty,%20and%20processes%20of%20candidate%20evaluation&amp;volume=24&amp;publication_year=2003&amp;pages=421-448&amp;doi=10.1111/0162-895X.00335&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="RSTB20200138C4">
+<span class="label">4.</span><cite>Fearon JD. 1994. 
+Domestic political audiences and the escalation of international disputes. Am. Polit. Sci. Rev.
+88, 577-592. ( 10.2307/2944796)</cite> [<a href="https://doi.org/10.2307/2944796" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Am.%20Polit.%20Sci.%20Rev.&amp;title=Domestic%20political%20audiences%20and%20the%20escalation%20of%20international%20disputes&amp;volume=88&amp;publication_year=1994&amp;pages=577-592&amp;doi=10.2307/2944796&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="RSTB20200138C5">
+<span class="label">5.</span><cite>Tomz M. 2007. 
+Domestic audience costs in international relations: an experimental approach. Int. Org.
+61, 821-840. ( 10.1017/S0020818307070282)</cite> [<a href="https://doi.org/10.1017/S0020818307070282" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Int.%20Org.&amp;title=Domestic%20audience%20costs%20in%20international%20relations:%20an%20experimental%20approach&amp;volume=61&amp;publication_year=2007&amp;pages=821-840&amp;doi=10.1017/S0020818307070282&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="RSTB20200138C6">
+<span class="label">6.</span><cite>Croco SE. 2016. 
+The flipside of flip-flopping: leader inconsistency, citizen preferences, and the war in Iraq. Foreign Policy Anal.
+12, 237-257. ( 10.1093/fpa/orw006)</cite> [<a href="https://doi.org/10.1093/fpa/orw006" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Foreign%20Policy%20Anal.&amp;title=The%20flipside%20of%20flip-flopping:%20leader%20inconsistency,%20citizen%20preferences,%20and%20the%20war%20in%20Iraq&amp;volume=12&amp;publication_year=2016&amp;pages=237-257&amp;doi=10.1093/fpa/orw006&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="RSTB20200138C7">
+<span class="label">7.</span><cite>McDonald J, Croco SE, Turitto C. 2019. 
+Teflon Don or politics as usual? An examination of foreign policy flip-flops in the age of Trump. J. Polit.
+81, 757-766. ( 10.1086/702234)</cite> [<a href="https://doi.org/10.1086/702234" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=J.%20Polit.&amp;title=Teflon%20Don%20or%20politics%20as%20usual?%20An%20examination%20of%20foreign%20policy%20flip-flops%20in%20the%20age%20of%20Trump&amp;volume=81&amp;publication_year=2019&amp;pages=757-766&amp;doi=10.1086/702234&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="RSTB20200138C8">
+<span class="label">8.</span><cite>Tomz M, Van Houweling RP. 2009. 
+The electoral implications of candidate ambiguity. Am. Polit. Sci. Rev.
+103, 83. ( 10.1017/S0003055409090066)</cite> [<a href="https://doi.org/10.1017/S0003055409090066" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Am.%20Polit.%20Sci.%20Rev.&amp;title=The%20electoral%20implications%20of%20candidate%20ambiguity&amp;volume=103&amp;publication_year=2009&amp;pages=83&amp;doi=10.1017/S0003055409090066&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="RSTB20200138C9">
+<span class="label">9.</span><cite>MacKuen M, Marcus GE, Neuman WR, Keele L. 2007. 
+The third way: the theory of affective intelligence and American democracy. In The affect effect: dynamics of emotion in political thinking and behavior (eds Neuman WR, Marcus GE, Crigler AN, MacKuen M), pp. 124-151. Chicago, IL: University of Chicago Press.</cite> [<a href="https://scholar.google.com/scholar_lookup?title=The%20affect%20effect:%20dynamics%20of%20emotion%20in%20political%20thinking%20and%20behavior&amp;publication_year=2007&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="RSTB20200138C10">
+<span class="label">10.</span><cite>MacKuen M, Wolak J, Keele L, Marcus GE. 2010. 
+Civic engagements: resolute partisanship or reflective deliberation. Am. J. Polit. Sci.
+54, 440-458. ( 10.1111/j.1540-5907.2010.00440.x)</cite> [<a href="https://doi.org/10.1111/j.1540-5907.2010.00440.x" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Am.%20J.%20Polit.%20Sci.&amp;title=Civic%20engagements:%20resolute%20partisanship%20or%20reflective%20deliberation&amp;volume=54&amp;publication_year=2010&amp;pages=440-458&amp;doi=10.1111/j.1540-5907.2010.00440.x&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="RSTB20200138C11">
+<span class="label">11.</span><cite>Marcus GE, Neuman WR, MacKuen M. 2000. 
+Affective intelligence and political judgment. Chicago, IL: University of Chicago Press.</cite> [<a href="https://scholar.google.com/scholar_lookup?title=Affective%20intelligence%20and%20political%20judgment&amp;publication_year=2000&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="RSTB20200138C12">
+<span class="label">12.</span><cite>Haas IJ, Cunningham WA. 2014. 
+The uncertainty paradox: perceived threat moderates the effect of uncertainty on political tolerance. Polit. Psychol.
+35, 291-302. ( 10.1111/pops.12035)</cite> [<a href="https://doi.org/10.1111/pops.12035" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Polit.%20Psychol.&amp;title=The%20uncertainty%20paradox:%20perceived%20threat%20moderates%20the%20effect%20of%20uncertainty%20on%20political%20tolerance&amp;volume=35&amp;publication_year=2014&amp;pages=291-302&amp;doi=10.1111/pops.12035&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="RSTB20200138C13">
+<span class="label">13.</span><cite>Haas IJ. 2016. 
+The impact of uncertainty, threat, and political identity on support for political compromise. Basic Appl. Soc. Psychol.
+38, 137-152. ( 10.1080/01973533.2016.1169181)</cite> [<a href="https://doi.org/10.1080/01973533.2016.1169181" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Basic%20Appl.%20Soc.%20Psychol.&amp;title=The%20impact%20of%20uncertainty,%20threat,%20and%20political%20identity%20on%20support%20for%20political%20compromise&amp;volume=38&amp;publication_year=2016&amp;pages=137-152&amp;doi=10.1080/01973533.2016.1169181&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="RSTB20200138C14">
+<span class="label">14.</span><cite>Cunningham WA, Haas IJ, Jahn A. 2011. 
+Attitudes. In The Oxford handbook of social neuroscience (eds Decety J, Cacioppo JT), pp. 212-226. New York, NY: Oxford University Press.</cite> [<a href="https://scholar.google.com/scholar_lookup?title=The%20Oxford%20handbook%20of%20social%20neuroscience&amp;publication_year=2011&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="RSTB20200138C15">
+<span class="label">15.</span><cite>Cunningham WA, Zelazo PD. 2007. 
+Attitudes and evaluations: a social cognitive neuroscience perspective. Trends Cogn. Sci.
+11, 97-104. ( 10.1016/j.tics.2006.12.005)</cite> [<a href="https://doi.org/10.1016/j.tics.2006.12.005" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/17276131/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Trends%20Cogn.%20Sci.&amp;title=Attitudes%20and%20evaluations:%20a%20social%20cognitive%20neuroscience%20perspective&amp;volume=11&amp;publication_year=2007&amp;pages=97-104&amp;pmid=17276131&amp;doi=10.1016/j.tics.2006.12.005&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="RSTB20200138C16">
+<span class="label">16.</span><cite>Cunningham WA, Zelazo PD, Packer DJ, Van Bavel JJ. 2007. 
+The iterative reprocessing model: a multilevel framework for attitudes and evaluation. Social Cogn.
+25, 736-760. ( 10.1521/soco.2007.25.5.736)</cite> [<a href="https://doi.org/10.1521/soco.2007.25.5.736" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Social%20Cogn.&amp;title=The%20iterative%20reprocessing%20model:%20a%20multilevel%20framework%20for%20attitudes%20and%20evaluation&amp;volume=25&amp;publication_year=2007&amp;pages=736-760&amp;doi=10.1521/soco.2007.25.5.736&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="RSTB20200138C17">
+<span class="label">17.</span><cite>Kaplan JT, Freedman J, Iacoboni M. 2007. 
+Us versus them: political attitudes and party affiliation influence neural responses to faces of presidential candidates. Neuropsychologia
+45, 55-64. ( 10.1016/j.neuropsychologia.2006.04.024)</cite> [<a href="https://doi.org/10.1016/j.neuropsychologia.2006.04.024" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/16764897/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Neuropsychologia&amp;title=Us%20versus%20them:%20political%20attitudes%20and%20party%20affiliation%20influence%20neural%20responses%20to%20faces%20of%20presidential%20candidates&amp;volume=45&amp;publication_year=2007&amp;pages=55-64&amp;pmid=16764897&amp;doi=10.1016/j.neuropsychologia.2006.04.024&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="RSTB20200138C18">
+<span class="label">18.</span><cite>Spezio ML, et al. 2008. 
+A neural basis for the effect of candidate appearance on election outcomes. Social Cogn. Affect. Neurosci.
+3, 344-352. ( 10.1093/scan/nsn040)</cite> [<a href="https://doi.org/10.1093/scan/nsn040" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC2607056/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/19015087/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Social%20Cogn.%20Affect.%20Neurosci.&amp;title=A%20neural%20basis%20for%20the%20effect%20of%20candidate%20appearance%20on%20election%20outcomes&amp;volume=3&amp;publication_year=2008&amp;pages=344-352&amp;pmid=19015087&amp;doi=10.1093/scan/nsn040&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="RSTB20200138C19">
+<span class="label">19.</span><cite>Tusche A, Kahnt T, Wisniewski D, Haynes JD. 2013. 
+Automatic processing of political preferences in the human brain. Neuroimage
+72, 174-182. ( 10.1016/j.neuroimage.2013.01.020)</cite> [<a href="https://doi.org/10.1016/j.neuroimage.2013.01.020" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/23353599/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Neuroimage&amp;title=Automatic%20processing%20of%20political%20preferences%20in%20the%20human%20brain&amp;volume=72&amp;publication_year=2013&amp;pages=174-182&amp;pmid=23353599&amp;doi=10.1016/j.neuroimage.2013.01.020&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="RSTB20200138C20">
+<span class="label">20.</span><cite>Kolling N, Behrens T, Wittmann MK, Rushworth M. 2016. 
+Multiple signals in anterior cingulate cortex. Curr. Opin. Neurobiol.
+37, 36-43. ( 10.1016/j.conb.2015.12.007)</cite> [<a href="https://doi.org/10.1016/j.conb.2015.12.007" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC4863523/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/26774693/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Curr.%20Opin.%20Neurobiol.&amp;title=Multiple%20signals%20in%20anterior%20cingulate%20cortex&amp;volume=37&amp;publication_year=2016&amp;pages=36-43&amp;pmid=26774693&amp;doi=10.1016/j.conb.2015.12.007&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="RSTB20200138C21">
+<span class="label">21.</span><cite>Botvinick MM. 2007. 
+Conflict monitoring and decision making: reconciling two perspectives on anterior cingulate function. Cogn. Affect. Behav. Neurosci.
+7, 356-366. ( 10.3758/CABN.7.4.356)</cite> [<a href="https://doi.org/10.3758/CABN.7.4.356" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/18189009/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Cogn.%20Affect.%20Behav.%20Neurosci.&amp;title=Conflict%20monitoring%20and%20decision%20making:%20reconciling%20two%20perspectives%20on%20anterior%20cingulate%20function&amp;volume=7&amp;publication_year=2007&amp;pages=356-366&amp;pmid=18189009&amp;doi=10.3758/CABN.7.4.356&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="RSTB20200138C22">
+<span class="label">22.</span><cite>Carter CS, Braver TS, Barch DM, Botvinick MM, Noll D, Cohen JD. 1998. 
+Anterior cingulate cortex, error detection, and the online monitoring of performance. Science
+280, 747-749. ( 10.1126/science.280.5364.747)</cite> [<a href="https://doi.org/10.1126/science.280.5364.747" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/9563953/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Science&amp;title=Anterior%20cingulate%20cortex,%20error%20detection,%20and%20the%20online%20monitoring%20of%20performance&amp;volume=280&amp;publication_year=1998&amp;pages=747-749&amp;pmid=9563953&amp;doi=10.1126/science.280.5364.747&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="RSTB20200138C23">
+<span class="label">23.</span><cite>Rushworth MF, Behrens TE. 2008. 
+Choice, uncertainty and value in prefrontal and cingulate cortex. Nat. Neurosci.
+11, 389-397. ( 10.1038/nn2066)</cite> [<a href="https://doi.org/10.1038/nn2066" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/18368045/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Nat.%20Neurosci.&amp;title=Choice,%20uncertainty%20and%20value%20in%20prefrontal%20and%20cingulate%20cortex&amp;volume=11&amp;publication_year=2008&amp;pages=389-397&amp;pmid=18368045&amp;doi=10.1038/nn2066&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="RSTB20200138C24">
+<span class="label">24.</span><cite>Yu R, Zhou W, Zhou X. 2011. 
+Rapid processing of both reward probability and reward uncertainty in the human anterior cingulate cortex. PLoS ONE
+6, e29633. ( 10.1371/journal.pone.0029633)</cite> [<a href="https://doi.org/10.1371/journal.pone.0029633" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC3246491/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/22216335/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=PLoS%20ONE&amp;title=Rapid%20processing%20of%20both%20reward%20probability%20and%20reward%20uncertainty%20in%20the%20human%20anterior%20cingulate%20cortex&amp;volume=6&amp;publication_year=2011&amp;pages=e29633&amp;pmid=22216335&amp;doi=10.1371/journal.pone.0029633&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="RSTB20200138C25">
+<span class="label">25.</span><cite>Harris S, Sheth SA, Cohen MS. 2008. 
+Functional neuroimaging of belief, disbelief, and uncertainty. Ann. Neurol.
+63, 141-147. ( 10.1002/ana.21301)</cite> [<a href="https://doi.org/10.1002/ana.21301" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/18072236/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Ann.%20Neurol.&amp;title=Functional%20neuroimaging%20of%20belief,%20disbelief,%20and%20uncertainty&amp;volume=63&amp;publication_year=2008&amp;pages=141-147&amp;pmid=18072236&amp;doi=10.1002/ana.21301&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="RSTB20200138C26">
+<span class="label">26.</span><cite>Uddin LQ. 2015. 
+Salience processing and insular cortical function and dysfunction. Nat. Rev. Neurosci.
+16, 55-61. ( 10.1038/nrn3857)</cite> [<a href="https://doi.org/10.1038/nrn3857" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/25406711/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Nat.%20Rev.%20Neurosci.&amp;title=Salience%20processing%20and%20insular%20cortical%20function%20and%20dysfunction&amp;volume=16&amp;publication_year=2015&amp;pages=55-61&amp;pmid=25406711&amp;doi=10.1038/nrn3857&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="RSTB20200138C27">
+<span class="label">27.</span><cite>Gu X, Liu X, Van Dam NT, Hof PR, Fan J.. 
+2013. 
+Cognition–emotion integration in the anterior insular cortex. Cereb. Cortex
+23, 20-27. ( 10.1093/cercor/bhr367)</cite> [<a href="https://doi.org/10.1093/cercor/bhr367" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC3513949/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/22275476/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Cereb.%20Cortex&amp;title=Cognition%E2%80%93emotion%20integration%20in%20the%20anterior%20insular%20cortex&amp;volume=23&amp;publication_year=2013&amp;pages=20-27&amp;pmid=22275476&amp;doi=10.1093/cercor/bhr367&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="RSTB20200138C28">
+<span class="label">28.</span><cite>Singer T, Critchley HD, Preuschoff K. 2009. 
+A common role of insula in feelings, empathy and uncertainty. Trends Cogn. Sci.
+13, 334-340. ( 10.1016/j.tics.2009.05.001)</cite> [<a href="https://doi.org/10.1016/j.tics.2009.05.001" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/19643659/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Trends%20Cogn.%20Sci.&amp;title=A%20common%20role%20of%20insula%20in%20feelings,%20empathy%20and%20uncertainty&amp;volume=13&amp;publication_year=2009&amp;pages=334-340&amp;pmid=19643659&amp;doi=10.1016/j.tics.2009.05.001&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="RSTB20200138C29">
+<span class="label">29.</span><cite>Grinband J, Hirsch J, Ferrera VP. 2006. 
+A neural representation of categorization uncertainty in the human brain. Neuron
+49, 757-763. ( 10.1016/j.neuron.2006.01.032)</cite> [<a href="https://doi.org/10.1016/j.neuron.2006.01.032" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/16504950/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Neuron&amp;title=A%20neural%20representation%20of%20categorization%20uncertainty%20in%20the%20human%20brain&amp;volume=49&amp;publication_year=2006&amp;pages=757-763&amp;pmid=16504950&amp;doi=10.1016/j.neuron.2006.01.032&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="RSTB20200138C30">
+<span class="label">30.</span><cite>Medford N, Critchley HD. 2010. 
+Conjoint activity of anterior insular and anterior cingulate cortex: awareness and response. Brain Struct. Funct.
+214, 535-549. ( 10.1007/s00429-010-0265-x)</cite> [<a href="https://doi.org/10.1007/s00429-010-0265-x" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC2886906/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/20512367/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Brain%20Struct.%20Funct.&amp;title=Conjoint%20activity%20of%20anterior%20insular%20and%20anterior%20cingulate%20cortex:%20awareness%20and%20response&amp;volume=214&amp;publication_year=2010&amp;pages=535-549&amp;pmid=20512367&amp;doi=10.1007/s00429-010-0265-x&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="RSTB20200138C31">
+<span class="label">31.</span><cite>Haas IJ, Baker MN, Gonzalez FJ. 2017. 
+Who can deviate from the party line? Political ideology moderates evaluation of incongruent policy positions in insula and anterior cingulate cortex. Soc. Justice Res.
+30, 355-380. ( 10.1007/s11211-017-0295-0)</cite> [<a href="https://doi.org/10.1007/s11211-017-0295-0" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Soc.%20Justice%20Res.&amp;title=Who%20can%20deviate%20from%20the%20party%20line?%20Political%20ideology%20moderates%20evaluation%20of%20incongruent%20policy%20positions%20in%20insula%20and%20anterior%20cingulate%20cortex&amp;volume=30&amp;publication_year=2017&amp;pages=355-380&amp;doi=10.1007/s11211-017-0295-0&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="RSTB20200138C32">
+<span class="label">32.</span><cite>Jenkinson M, Beckmann CF, Behrens TE, Woolrich MW, Smith SM. 2012. 
+FSL. Neuroimage
+62, 782-790. ( 10.1016/j.neuroimage.2011.09.015)</cite> [<a href="https://doi.org/10.1016/j.neuroimage.2011.09.015" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/21979382/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Neuroimage&amp;title=FSL&amp;volume=62&amp;publication_year=2012&amp;pages=782-790&amp;pmid=21979382&amp;doi=10.1016/j.neuroimage.2011.09.015&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="RSTB20200138C33">
+<span class="label">33.</span><cite>Smith SM, et al. 2004. 
+Advances in functional and structural MR image analysis and implementation as FSL. Neuroimage
+23, S208-SS19. ( 10.1016/j.neuroimage.2004.07.051)</cite> [<a href="https://doi.org/10.1016/j.neuroimage.2004.07.051" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/15501092/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Neuroimage&amp;title=Advances%20in%20functional%20and%20structural%20MR%20image%20analysis%20and%20implementation%20as%20FSL&amp;volume=23&amp;publication_year=2004&amp;pages=S208-SS19&amp;pmid=15501092&amp;doi=10.1016/j.neuroimage.2004.07.051&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="RSTB20200138C34">
+<span class="label">34.</span><cite>Smith SM. 2002. 
+Fast robust automated brain extraction. Hum. Brain Mapp.
+17, 143-155. ( 10.1002/hbm.10062)</cite> [<a href="https://doi.org/10.1002/hbm.10062" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC6871816/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/12391568/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Hum.%20Brain%20Mapp.&amp;title=Fast%20robust%20automated%20brain%20extraction&amp;volume=17&amp;publication_year=2002&amp;pages=143-155&amp;pmid=12391568&amp;doi=10.1002/hbm.10062&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="RSTB20200138C35">
+<span class="label">35.</span><cite>Jenkinson M, Bannister P, Brady M, Smith S. 2002. 
+Improved optimisation for the robust and accurate linear registration and motion correction of brain images. Neuroimage
+17, 825-841. ( 10.1006/nimg.2002.1132)</cite> [<a href="https://doi.org/10.1006/nimg.2002.1132" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/12377157/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Neuroimage&amp;title=Improved%20optimisation%20for%20the%20robust%20and%20accurate%20linear%20registration%20and%20motion%20correction%20of%20brain%20images&amp;volume=17&amp;publication_year=2002&amp;pages=825-841&amp;pmid=12377157&amp;doi=10.1006/nimg.2002.1132&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="RSTB20200138C36">
+<span class="label">36.</span><cite>Worsley KJ. 2001. 
+Statistical analysis of activation images. In Functional MRI: an introduction to methods (eds Jezzard P, Matthews PM, Smith SM), ch. 14. Oxford, UK: Oxford University Press.</cite> [<a href="https://scholar.google.com/scholar_lookup?title=Functional%20MRI:%20an%20introduction%20to%20methods&amp;publication_year=2001&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="RSTB20200138C37">
+<span class="label">37.</span><cite>Kinder DR, Peters MD, Abelson RP, Fiske ST. 1980. 
+Presidential prototypes. Polit. Behav.
+2, 315-337. ( 10.1007/BF00990172)</cite> [<a href="https://doi.org/10.1007/BF00990172" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Polit.%20Behav.&amp;title=Presidential%20prototypes&amp;volume=2&amp;publication_year=1980&amp;pages=315-337&amp;doi=10.1007/BF00990172&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="RSTB20200138C38">
+<span class="label">38.</span><cite>McGraw KM, Fischle M, Stenner K, Lodge M. 1996. 
+What's in a word?
+Polit. Behav.
+18, 263-287. ( 10.1007/BF01498602)</cite> [<a href="https://doi.org/10.1007/BF01498602" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Polit.%20Behav.&amp;title=What's%20in%20a%20word?&amp;volume=18&amp;publication_year=1996&amp;pages=263-287&amp;doi=10.1007/BF01498602&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="RSTB20200138C39">
+<span class="label">39.</span><cite>Arceneaux K, Gravelle TB, Osmundsen M, Peterson MB, Reifler J, Scotto TJ. 2021. 
+Some people just want to watch the world burn: the prevalence, psychology and politics of the ‘Need for Chaos’. Phil. Trans. R. Soc. B
+376, 20200147. ( 10.1098/rstb.2020.0147)</cite> [<a href="https://doi.org/10.1098/rstb.2020.0147" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC7934998/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/33611991/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Phil.%20Trans.%20R.%20Soc.%20B&amp;title=Some%20people%20just%20want%20to%20watch%20the%20world%20burn:%20the%20prevalence,%20psychology%20and%20politics%20of%20the%20%E2%80%98Need%20for%20Chaos%E2%80%99&amp;volume=376&amp;publication_year=2021&amp;pages=20200147&amp;pmid=33611991&amp;doi=10.1098/rstb.2020.0147&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="RSTB20200138C40">
+<span class="label">40.</span><cite>Budge I, Farlie D. 1983. 
+Explaining and predicting elections: issue effects and party strategies in twenty-three democracies. London, UK: George Allen &amp; Unwin.</cite> [<a href="https://scholar.google.com/scholar_lookup?title=Explaining%20and%20predicting%20elections:%20issue%20effects%20and%20party%20strategies%20in%20twenty-three%20democracies&amp;publication_year=1983&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="RSTB20200138C41">
+<span class="label">41.</span><cite>Stokes DE. 1963. 
+Spatial models of party competition. Am. Polit. Sci. Rev.
+57, 368-377. ( 10.2307/1952828)</cite> [<a href="https://doi.org/10.2307/1952828" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Am.%20Polit.%20Sci.%20Rev.&amp;title=Spatial%20models%20of%20party%20competition&amp;volume=57&amp;publication_year=1963&amp;pages=368-377&amp;doi=10.2307/1952828&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="RSTB20200138C42">
+<span class="label">42.</span><cite>Converse PE. 1964. 
+The nature of belief systems in mass publics. In Ideology and discontent (ed. Apter DE), pp. 206-261. New York, NY: Free Press.</cite> [<a href="https://scholar.google.com/scholar_lookup?title=Ideology%20and%20discontent&amp;publication_year=1964&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="RSTB20200138C43">
+<span class="label">43.</span><cite>Krosnick JA. 1990. 
+Government policy and citizen passion: a study of issue publics in contemporary America. Polit. Behav.
+12, 59-92. ( 10.1007/BF00992332)</cite> [<a href="https://doi.org/10.1007/BF00992332" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Polit.%20Behav.&amp;title=Government%20policy%20and%20citizen%20passion:%20a%20study%20of%20issue%20publics%20in%20contemporary%20America&amp;volume=12&amp;publication_year=1990&amp;pages=59-92&amp;doi=10.1007/BF00992332&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+</ul></section></section><section id="_ad93_" lang="en" class="associated-data"><h2 class="pmc_sec_title">Associated Data</h2>
+<p class="font-secondary"><em>This section collects any data citations, data availability statements, or supplementary materials included in this article.</em></p>
+<section id="_adda93_" lang="en" class="data-availability-statement"><h3 class="pmc_sec_title">Data Availability Statement</h3>
+<p>Data, code and materials are available on Open Science Framework at: <a href="https://osf.io/hpv8m/" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">https://osf.io/hpv8m/</a>. This includes the experimental script (E-Prime), raw data and syntax for behavioural task analyses (in R), and MRI summary data and syntax (in R).</p></section></section></section><footer class="p courtesy-note font-secondary font-sm text-center"><hr class="headless">
+<p>Articles from Philosophical Transactions of the Royal Society B: Biological Sciences are provided here courtesy of <strong>The Royal Society</strong></p></footer></section></article>
+
+                      
+
+                    </main>
+                </div>
+            </div>
+        </div>
+
+        
+
+
+
+<!-- Secondary navigation placeholder -->
+<div class="pmc-sidenav desktop:grid-col-4 display-flex">
+    <section class="pmc-sidenav__container" aria-label="Article resources and navigation">
+        <button type="button" class="pmc-sidenav__container__close">
+            <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg" role="img" alt="Close" />
+        </button>
+    <div class="display-none desktop:display-block">
+       <section class="margin-top-4 desktop:margin-top-0">
+              <h2 class="margin-top-0">ACTIONS</h2>
+           <ul class="usa-list usa-list--unstyled usa-list--actions">
+               
+               <li>
+                     <a
+                             href="https://doi.org/10.1098/rstb.2020.0138"
+                             class="usa-button usa-button--outline width-24 font-xs display-inline-flex flex-align-center flex-justify-start padding-left-1"
+                             target="_blank"
+                             rel="noreferrer noopener"
+                             data-ga-category="actions"
+                             data-ga-action="click"
+                             data-ga-label="publisher_link_desktop"
+                     >
+                         <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/launch.svg" alt="View on publisher site icon" class="usa-icon usa-icon--size-3 usa-icon--link"/>
+                         <span class="display-inline-flex flex-justify-center flex-1 padding-right-2">View on publisher site</span>
+                     </a>
+               </li>
+               
+               
+               <li>
+                    <a
+                            href="pdf/rstb.2020.0138.pdf"
+                            class="usa-button usa-button--outline width-24 display-inline-flex flex-align-center flex-justify-start padding-left-1"
+                            data-ga-category="actions"
+                            data-ga-action="click"
+                            data-ga-label="pdf_download_desktop"
+                    >
+                         <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg" alt="Download PDF icon" class="usa-icon usa-icon--size-3 usa-icon--link"/>
+                        <span class="display-inline-flex flex-justify-center flex-1">PDF (929.9 KB)</span>
+                    </a>
+               </li>
+               
+                
+               <li>
+                   <button role="button" class="usa-button width-24 citation-dialog-trigger display-inline-flex flex-align-center flex-justify-start padding-left-1"
+                        aria-label="Open dialog with citation text in different styles"
+                        data-ga-category="actions"
+                        data-ga-action="open"
+                        data-ga-label="cite_desktop"
+                        data-all-citations-url="/resources/citations/7935043/"
+                        data-citation-style="nlm"
+                        data-download-format-link="/resources/citations/7935043/export/"
+                    >
+                       <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/format_quote.svg" alt="Cite icon" class="usa-icon usa-icon--size-3 usa-icon--white"/>
+                       <span class="display-inline-flex flex-justify-center flex-1 button-label">Cite</span>
+                    </button>
+               </li>
+                
+               <li>
+
+                        <button class="usa-button width-24 collections-dialog-trigger collections-button display-inline-flex flex-align-center flex-justify-start padding-left-1 collections-button-empty"
+                              aria-label="Save article in MyNCBI collections."
+                              data-ga-category="actions"
+                              data-ga-action="click"
+                              data-ga-label="collections_button_desktop"
+                              data-collections-open-dialog-enabled="false"
+                              data-collections-open-dialog-url="https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpmc.ncbi.nlm.nih.gov%2Farticles%2FPMC7935043%2F%23open-collections-dialog"
+                              data-in-collections="false">
+                            <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-full.svg" alt="Collections icon" class="usa-icon usa-icon--size-3 usa-icon--white usa-icon--bookmark-full" hidden />
+                            <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/action-bookmark-empty.svg" alt="Collections icon" class="usa-icon usa-icon--size-3 usa-icon--white usa-icon--bookmark-empty" hidden />
+                            <span class="display-inline-flex flex-justify-center flex-1">Collections</span>
+                       </button>
+               </li>
+               <li class="pmc-permalink">
+                    <button
+                            type="button"
+                            class="usa-button width-24 display-inline-flex flex-align-center flex-justify padding-left-1 shadow-none"
+                            aria-label="Show article permalink"
+                            aria-expanded="false"
+                            aria-haspopup="true"
+                            data-ga-category="actions"
+                            data-ga-action="open"
+                            data-ga-label="permalink_desktop"
+                    >
+                        <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/share.svg" alt="Permalink icon" class="usa-icon usa-icon--size-3 usa-icon--white"/>
+                        <span class="display-inline-flex flex-justify-center flex-1 button-label">Permalink</span>
+                    </button>
+                   
+
+<div class="pmc-permalink__dropdown" hidden>
+    <div class="pmc-permalink__dropdown__container">
+          <h2 class="usa-modal__heading margin-top-0 margin-bottom-2 text-uppercase font-sans-xs">PERMALINK</h2>
+          <div class="pmc-permalink__dropdown__content">
+              <input type="text" class="usa-input" value="https://pmc.ncbi.nlm.nih.gov/articles/PMC7935043/" aria-label="Article permalink">
+              <button class="usa-button display-inline-flex pmc-permalink__dropdown__copy__btn margin-right-0" title="Copy article permalink" data-ga-category="save_share" data-ga-action="link" data-ga-label="copy_link">
+                  <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg" alt="Copy icon" aria-hidden="true" class="usa-icon usa-icon--white" />
+                  <span class="margin-left-1">Copy</span>
+              </button>
+          </div>
+    </div>
+</div>
+               </li>
+           </ul>
+       </section>
+     </div>
+
+        <section class="pmc-resources margin-top-6 desktop:margin-top-4" data-page-path="/articles/PMC7935043/">
+            <h2 class="margin-top-0">RESOURCES</h2>
+            
+                <div class="usa-accordion usa-accordion--multiselectable" data-allow-multiple>
+                    <h3 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button"
+                        aria-expanded="false"
+                        aria-controls="resources-similar-articles"
+                        data-ga-category="resources_accordion"
+                        data-ga-action="open_similar_articles"
+                        data-ga-label="/articles/PMC7935043/"
+                        data-action-open="open_similar_articles"
+                        data-action-close="close_similar_articles"
+                        >
+                            Similar articles
+                        </button>
+                    </h3>
+                    <div
+                            id="resources-similar-articles"
+                            class="usa-accordion__content usa-prose"
+                            
+                                data-source-url="/resources/similar-article-links/33611996/"
+                            
+                    >
+                        
+                    </div>
+                    <h3 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button"
+                        aria-expanded="false"
+                        aria-controls="resources-cited-by-other-articles"
+                        data-ga-category="resources_accordion"
+                        data-ga-action="open_cited_by"
+                        data-ga-label="/articles/PMC7935043/"
+                        data-action-open="open_cited_by"
+                        data-action-close="close_cited_by"
+                        >
+                             Cited by other articles
+                        </button>
+                    </h3>
+                    <div
+                            id="resources-cited-by-other-articles"
+                            class="usa-accordion__content usa-prose"
+                            
+                                data-source-url="/resources/cited-by-links/33611996/"
+                            
+                    >
+                          
+                    </div>
+                    
+                        <h3 class="usa-accordion__heading">
+                            <button
+                            type="button"
+                            class="usa-accordion__button"
+                            aria-expanded="false"
+                            aria-controls="resources-links-to-ncbi-databases"
+                            data-ga-category="resources_accordion"
+                            data-ga-action="open_NCBI_links"
+                            data-ga-label="/articles/PMC7935043/"
+                            data-action-open="open_NCBI_links"
+                            data-action-close="close_NCBI_link"
+                            >
+                                 Links to NCBI Databases
+                            </button>
+                        </h3>
+                        <div
+                                id="resources-links-to-ncbi-databases"
+                                class="usa-accordion__content usa-prose"
+                                data-source-url="/resources/db-links/7935043/"
+                        >
+                        </div>
+                    
+                    
+                </div>
+            
+        </section>
+
+
+        <section
+        class="usa-in-page-nav usa-in-page-nav--wide margin-top-6 desktop:margin-top-4"
+        data-title-text="On this page"
+        data-title-heading-level="h2"
+        data-scroll-offset="0"
+        data-root-margin="-10% 0px -80% 0px"
+        data-main-content-selector="main"
+        data-threshold="1"
+        hidden
+        ></section>
+    </section>
+</div>
+
+        
+
+<div class="overlay" role="dialog" aria-label="Citation Dialog" hidden>
+    <div class="dialog citation-dialog" aria-hidden="true">
+        <div class="display-inline-flex flex-align-center flex-justify width-full margin-bottom-2">
+            <h2 class="usa-modal__heading margin-0">Cite</h2>
+             <button type="button" class="usa-button usa-button--unstyled close-overlay text-black width-auto"  tabindex="1">
+                 <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/close.svg" alt="Close icon" class="usa-icon usa-icon--size-3 usa-icon--button" />
+             </button>
+        </div>
+
+        
+
+<div class="citation-text-block">
+  <div class="citation-text margin-bottom-2"></div>
+  <ul class="usa-list usa-list--unstyled display-inline-flex flex-justify width-full flex-align-center">
+      <li>
+        <button
+          class="usa-button usa-button--unstyled text-no-underline display-flex flex-align-center copy-button dialog-focus"
+          data-ga-category="save_share"
+          data-ga-action="cite"
+          data-ga-label="copy"
+          tabindex="2">
+            <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/content_copy.svg" alt="Copy icon" class="usa-icon usa-icon--size-3 usa-icon--link" />
+            <span>Copy</span>
+        </button>
+      </li>
+      <li>
+          <a
+              href="#"
+              role="button"
+              class="usa-button usa-button--unstyled text-no-underline display-flex flex-align-center export-button"
+              data-ga-category="save_share"
+              data-ga-action="cite"
+              data-ga-label="download"
+              title="Download a file for external citation management software"
+              tabindex="3">
+                <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/file_download.svg" alt="Download icon" aria-hidden="true" class="usa-icon usa-icon--size-3 usa-icon--link" />
+                <span class="display-none mobile-lg:display-inline">Download .nbib</span>
+                <span class="display-inline mobile-lg:display-none">.nbib</span>
+            </a>
+      </li>
+      <li>
+          
+
+<div class="display-inline-flex flex-align-center">
+  <label class="usa-label margin-top-0">Format:</label>
+  <select aria-label="Format" class="usa-select citation-style-selector padding-1 margin-top-0 border-0 padding-right-4" tabindex="4" >
+    
+      <option data-style-url-name="ama"
+              value="AMA"
+              >
+        AMA
+      </option>
+    
+      <option data-style-url-name="apa"
+              value="APA"
+              >
+        APA
+      </option>
+    
+      <option data-style-url-name="mla"
+              value="MLA"
+              >
+        MLA
+      </option>
+    
+      <option data-style-url-name="nlm"
+              value="NLM"
+              selected="selected">
+        NLM
+      </option>
+    
+  </select>
+</div>
+      </li>
+  </ul>
+</div>
+    </div>
+</div>
+
+        <div class="overlay" role="dialog" hidden>
+  <div id="collections-action-dialog" class="dialog collections-dialog" aria-hidden="true">
+   <div class="display-inline-flex flex-align-center flex-justify width-full margin-bottom-2">
+        <h2 class="usa-modal__heading margin-0">Add to Collections</h2>
+    </div>
+    <div class="collections-action-panel action-panel">
+      
+
+
+<form id="collections-action-dialog-form"
+      class="usa-form maxw-full collections-action-panel-form action-panel-content action-form action-panel-smaller-selectors"
+      data-existing-collections-url="/list-existing-collections/"
+      data-add-to-existing-collection-url="/add-to-existing-collection/"
+      data-create-and-add-to-new-collection-url="/create-and-add-to-new-collection/"
+      data-myncbi-max-collection-name-length="100"
+      data-collections-root-url="https://www.ncbi.nlm.nih.gov/myncbi/collections/">
+
+    <input type="hidden" name="csrfmiddlewaretoken" value="L00L8iSj8dvl7AfusngT8bOyChhQPOMcBfUB4oWc7X0t12KItw8gPiaIZOLXGokq">
+
+    <fieldset class="usa-fieldset margin-bottom-2">
+        <div class="usa-radio">
+            <input type="radio"
+            id="collections-action-dialog-new"
+            class="usa-radio__input usa-radio__input--tile collections-new  margin-top-0"
+            name="collections"
+            value="new"
+            data-ga-category="collections_button"
+            data-ga-action="click"
+            data-ga-label="collections_radio_new" />
+            <label class="usa-radio__label" for="collections-action-dialog-new">Create a new collection</label>
+        </div>
+        <div class="usa-radio">
+            <input type="radio"
+            id="collections-action-dialog-existing"
+            class="usa-radio__input usa-radio__input--tile collections-existing"
+            name="collections"
+            value="existing"
+            checked="true"
+            data-ga-category="collections_button"
+            data-ga-action="click"
+            data-ga-label="collections_radio_existing" />
+            <label class="usa-radio__label" for="collections-action-dialog-existing">Add to an existing collection</label>
+        </div>
+    </fieldset>
+
+    <fieldset class="usa-fieldset margin-bottom-2">
+        <div class="action-panel-control-wrap new-collections-controls">
+           <label for="collections-action-dialog-add-to-new" class="usa-label margin-top-0">
+                Name your collection
+               <abbr title="required" class="usa-hint usa-hint--required text-no-underline">*</abbr>
+          </label>
+          <input
+            type="text"
+            name="add-to-new-collection"
+            id="collections-action-dialog-add-to-new"
+            class="usa-input collections-action-add-to-new"
+            pattern="[^&quot;&amp;=&lt;&gt;/]*" title="The following characters are not allowed in the Name field: &quot;&amp;=&lt;&gt;/"
+            maxlength=""
+            data-ga-category="collections_button"
+            data-ga-action="create_collection"
+            data-ga-label="non_favorties_collection"
+            required
+          />
+        </div>
+        <div class="action-panel-control-wrap existing-collections-controls">
+             <label for="collections-action-dialog-add-to-existing" class="usa-label margin-top-0">
+                Choose a collection
+              </label>
+              <select id="collections-action-dialog-add-to-existing"
+                      class="usa-select collections-action-add-to-existing"
+                      data-ga-category="collections_button"
+                      data-ga-action="select_collection"
+                      data-ga-label="($('.collections-action-add-to-existing').val() === 'Favorites') ? 'Favorites' : 'non_favorites_collection'">
+              </select>
+              <div class="collections-retry-load-on-error usa-input-error-message selection-validation-message">
+                Unable to load your collection due to an error<br>
+                <a href="#">Please try again</a>
+              </div>
+        </div>
+    </fieldset>
+
+    <div class="display-inline-flex">
+        <button class="usa-button margin-top-0 action-panel-submit"
+            type="submit"
+            data-loading-label="Adding..."
+            data-pinger-ignore
+            data-ga-category="collections_button"
+            data-ga-action="click"
+            data-ga-label="add">
+          Add
+        </button>
+        <button class="usa-button usa-button--outline margin-top-0 action-panel-cancel"
+                aria-label="Close 'Add to Collections' panel"
+                ref="linksrc=close_collections_panel"
+                data-ga-category="collections_button"
+                data-ga-action="click"
+                data-ga-label="cancel">
+          Cancel
+        </button>
+    </div>
+</form>
+    </div>
+  </div>
+</div>
+
+        
+
+      </div>
+    </div>
+  </div>
+
+
+
+        
+    
+    
+
+<footer class="ncbi-footer ncbi-dark-background " >
+    
+        <div class="ncbi-footer__icon-section">
+            <div class="ncbi-footer__social-header">
+                Follow NCBI
+            </div>
+
+            <div class="grid-container ncbi-footer__ncbi-social-icons-container">
+                
+                    <a href="https://twitter.com/ncbi"
+                       class="ncbi-footer__social-icon ncbi-footer__social-icon--gray"
+                       target="_blank"
+                       rel="noreferrer noopener">
+                        <svg width="40"
+                             height="40"
+                             viewBox="0 0 40 40"
+                             fill="none"
+                             xmlns="http://www.w3.org/2000/svg"
+                             focusable="false"
+                             aria-hidden="true">
+                            <path d="m6.067 8 10.81 13.9L6 33.2h4.2l8.4-9.1 7.068 9.1H34L22.8 18.5 31.9 8h-3.5l-7.7 8.4L14.401 8H6.067Zm3.6 1.734h3.266l16.8 21.732H26.57L9.668 9.734Z">
+                            </path>
+                        </svg>
+                        <span class="usa-sr-only">NCBI on X (formerly known as Twitter)</span>
+                    </a>
+                
+
+                
+                    <a href="https://www.facebook.com/ncbi.nlm"
+                       class="ncbi-footer__social-icon ncbi-footer__social-icon--gray"
+                       target="_blank"
+                       rel="noreferrer noopener">
+                        <svg width="16"
+                             height="29"
+                             focusable="false"
+                             aria-hidden="true"
+                             viewBox="0 0 16 29"
+                             fill="none"
+                             xmlns="http://www.w3.org/2000/svg">
+                            <path d="M3.8809 21.4002C3.8809 19.0932 3.8809 16.7876 3.8809 14.478C3.8809 14.2117 3.80103 14.1452 3.54278 14.1492C2.53372 14.1638 1.52334 14.1492 0.514288 14.1598C0.302626 14.1598 0.248047 14.0972 0.248047 13.8936C0.256034 12.4585 0.256034 11.0239 0.248047 9.58978C0.248047 9.37013 0.302626 9.30224 0.528931 9.3049C1.53798 9.31688 2.54837 9.3049 3.55742 9.31555C3.80103 9.31555 3.8809 9.26097 3.87957 9.00272C3.87158 8.00565 3.85428 7.00592 3.90753 6.00884C3.97142 4.83339 4.31487 3.73115 5.04437 2.78467C5.93095 1.63318 7.15699 1.09005 8.56141 0.967577C10.5582 0.79319 12.555 0.982221 14.5518 0.927641C14.7102 0.927641 14.7462 0.99287 14.7449 1.13664C14.7449 2.581 14.7449 4.02668 14.7449 5.47104C14.7449 5.67604 14.6517 5.68669 14.4946 5.68669C13.4523 5.68669 12.4113 5.68669 11.3703 5.68669C10.3506 5.68669 9.92057 6.10868 9.90593 7.13904C9.89661 7.7647 9.91525 8.39303 9.89794 9.01869C9.88995 9.26364 9.96583 9.31822 10.2015 9.31688C11.7204 9.30623 13.2393 9.31688 14.7595 9.3049C15.0257 9.3049 15.0723 9.3728 15.0444 9.62439C14.89 10.9849 14.7515 12.3467 14.6144 13.7085C14.5691 14.1571 14.5785 14.1585 14.1458 14.1585C12.8386 14.1585 11.5313 14.1665 10.2254 14.1518C9.95119 14.1518 9.89794 14.2317 9.89794 14.4899C9.90593 19.0799 9.89794 23.6752 9.91125 28.2612C9.91125 28.5674 9.8407 28.646 9.53186 28.6433C7.77866 28.6273 6.02414 28.6366 4.27094 28.634C3.82499 28.634 3.87158 28.6992 3.87158 28.22C3.87602 25.9472 3.87913 23.6739 3.8809 21.4002Z">
+                            </path>
+                        </svg>
+                        <span class="usa-sr-only">NCBI on Facebook</span>
+                    </a>
+                
+
+                
+                    <a href="https://www.linkedin.com/company/ncbinlm"
+                       class="ncbi-footer__social-icon ncbi-footer__social-icon--gray"
+                       target="_blank"
+                       rel="noreferrer noopener">
+                        <svg width="25"
+                             height="23"
+                             viewBox="0 0 26 24"
+                             fill="none"
+                             xmlns="http://www.w3.org/2000/svg"
+                             focusable="false"
+                             aria-hidden="true">
+                            <path d="M14.6983 9.98423C15.6302 9.24808 16.5926 8.74754 17.6762 8.51991C19.673 8.09126 21.554 8.30824 23.1262 9.7526C24.2351 10.7723 24.7529 12.1115 25.0165 13.5612C25.1486 14.3363 25.2105 15.1218 25.2015 15.9081C25.2015 18.3043 25.2015 20.6898 25.2082 23.0806C25.2082 23.3468 25.1549 23.444 24.8621 23.4414C23.1297 23.4272 21.3992 23.4272 19.6704 23.4414C19.4041 23.4414 19.3429 23.3588 19.3442 23.1019C19.3535 20.5194 19.3442 17.9368 19.3442 15.3543C19.3442 14.0005 18.3258 12.9448 17.0266 12.9488C15.7273 12.9528 14.6983 14.0071 14.6983 15.361C14.6983 17.9328 14.6917 20.5047 14.6983 23.0753C14.6983 23.3708 14.6198 23.444 14.3296 23.4427C12.6185 23.4294 10.9079 23.4294 9.19779 23.4427C8.93155 23.4427 8.86099 23.3735 8.86232 23.1086C8.8783 19.7619 8.88628 16.4144 8.88628 13.066C8.88628 11.5688 8.87874 10.0708 8.86365 8.57182C8.86365 8.3575 8.90758 8.27896 9.14054 8.28029C10.9048 8.29094 12.6687 8.29094 14.4321 8.28029C14.6464 8.28029 14.6983 8.34818 14.6983 8.54653C14.6903 9.00047 14.6983 9.45441 14.6983 9.98423Z">
+                            </path>
+                            <path d="M6.55316 15.8443C6.55316 18.2564 6.55316 20.6699 6.55316 23.082C6.55316 23.3629 6.48127 23.4388 6.19906 23.4374C4.47737 23.4241 2.75568 23.4241 1.03399 23.4374C0.767751 23.4374 0.69986 23.3629 0.701191 23.1006C0.709178 18.2648 0.709178 13.4281 0.701191 8.59053C0.701191 8.34026 0.765089 8.27237 1.01669 8.2737C2.74991 8.28435 4.48048 8.28435 6.20838 8.2737C6.47462 8.2737 6.5465 8.33627 6.54517 8.6065C6.54783 11.0186 6.55316 13.4308 6.55316 15.8443Z">
+                            </path>
+                            <path d="M3.65878 0.243898C5.36804 0.243898 6.58743 1.45529 6.58743 3.1406C6.58743 4.75801 5.32145 5.95742 3.60819 5.96807C3.22177 5.97614 2.83768 5.90639 2.47877 5.76299C2.11985 5.61959 1.79344 5.40546 1.51897 5.13334C1.24449 4.86123 1.02755 4.53668 0.881058 4.17902C0.734563 3.82136 0.661505 3.43788 0.666231 3.05141C0.67555 1.42601 1.9362 0.242566 3.65878 0.243898Z">
+                            </path>
+                        </svg>
+                        <span class="usa-sr-only">NCBI on LinkedIn</span>
+                    </a>
+                
+
+                
+                    <a href="https://github.com/ncbi"
+                       class="ncbi-footer__social-icon ncbi-footer__social-icon--gray"
+                       target="_blank"
+                       rel="noreferrer noopener">
+                        <svg width="28"
+                             height="27"
+                             viewBox="0 0 28 28"
+                             fill="none"
+                             xmlns="http://www.w3.org/2000/svg"
+                             focusable="false"
+                             aria-hidden="true">
+                            <path d="M16.7228 20.6334C17.5057 20.5527 18.2786 20.3944 19.0301 20.1608C21.3108 19.4193 22.5822 17.8259 22.963 15.4909C23.1228 14.5112 23.1814 13.5287 22.9883 12.5437C22.8106 11.6423 22.4013 10.8028 21.8007 10.1076C21.7526 10.0605 21.7197 10 21.7064 9.934C21.6931 9.86799 21.7 9.79952 21.7262 9.73748C22.0856 8.6206 21.9711 7.51969 21.601 6.42677C21.582 6.3497 21.5345 6.2827 21.468 6.23923C21.4016 6.19577 21.3211 6.17906 21.2429 6.19248C20.7329 6.21649 20.2313 6.33051 19.7611 6.52928C19.1103 6.7908 18.4899 7.12198 17.9104 7.51703C17.84 7.56996 17.7581 7.60551 17.6713 7.62078C17.5846 7.63605 17.4954 7.6306 17.4112 7.60489C15.2596 7.05882 13.0054 7.06203 10.8554 7.61421C10.7806 7.63586 10.7018 7.63967 10.6253 7.62534C10.5487 7.611 10.4766 7.57892 10.4148 7.53167C9.64788 7.03247 8.85171 6.58918 7.96368 6.33359C7.65781 6.24338 7.34123 6.19458 7.02239 6.18849C6.94879 6.17986 6.87462 6.19893 6.81432 6.242C6.75402 6.28507 6.71191 6.34904 6.69621 6.42145C6.32342 7.51437 6.2209 8.61527 6.56307 9.73348C6.59635 9.84264 6.64694 9.93316 6.54177 10.0516C5.47666 11.2604 5.09988 12.6834 5.19574 14.2676C5.2663 15.4244 5.46201 16.5466 6.01454 17.5769C6.84399 19.1171 8.21664 19.9119 9.85158 20.3352C10.3938 20.4706 10.9444 20.5698 11.4998 20.632C11.5384 20.7492 11.4506 20.7798 11.408 20.8291C11.1734 21.1179 10.9894 21.4441 10.8634 21.7942C10.7622 22.0458 10.8315 22.4039 10.6065 22.5516C10.263 22.7766 9.83827 22.8485 9.42421 22.8871C8.17936 23.0056 7.26471 22.4877 6.6283 21.4348C6.25552 20.8184 5.76956 20.3325 5.08523 20.0663C4.76981 19.9325 4.42139 19.8967 4.08537 19.9638C3.7898 20.029 3.73788 20.1901 3.93891 20.4111C4.03639 20.5234 4.14989 20.6207 4.27575 20.6999C4.9796 21.1318 5.51717 21.7884 5.80152 22.5636C6.37002 23.9973 7.48039 24.5697 8.93825 24.6323C9.43741 24.6575 9.93768 24.615 10.4254 24.5058C10.5892 24.4672 10.6531 24.4872 10.6517 24.6762C10.6451 25.4936 10.6637 26.3123 10.6517 27.131C10.6517 27.6635 10.1684 27.9297 9.58663 27.7393C8.17396 27.2671 6.84977 26.5631 5.66838 25.656C2.59555 23.2891 0.720966 20.1861 0.217704 16.3376C-0.357453 11.9127 0.911353 8.00824 3.98551 4.73881C6.11909 2.42656 8.99932 0.939975 12.1203 0.540191C16.5351 -0.0601815 20.4347 1.14323 23.7232 4.16373C26.2449 6.47869 27.724 9.37672 28.1048 12.7726C28.5828 17.0325 27.3686 20.7945 24.4768 23.9827C22.9762 25.6323 21.0956 26.8908 18.9982 27.6488C18.8783 27.6927 18.7585 27.738 18.636 27.7726C18.0356 27.9404 17.6189 27.6395 17.6189 27.0098C17.6189 25.7452 17.6308 24.4806 17.6295 23.2159C17.6329 22.9506 17.6128 22.6856 17.5696 22.4238C17.4325 21.6664 17.3419 21.484 16.7228 20.6334Z">
+                            </path>
+                        </svg>
+                        <span class="usa-sr-only">NCBI on GitHub</span>
+                    </a>
+                
+
+                
+                    <a href="https://ncbiinsights.ncbi.nlm.nih.gov/"
+                       class="ncbi-footer__social-icon ncbi-footer__social-icon--gray"
+                       target="_blank"
+                       rel="noreferrer noopener">
+                        <svg width="26"
+                             height="26"
+                             viewBox="0 0 27 27"
+                             fill="none"
+                             xmlns="http://www.w3.org/2000/svg"
+                             focusable="false"
+                             aria-hidden="true">
+                            <path d="M23.7778 26.4574C23.1354 26.3913 22.0856 26.8024 21.636 26.3087C21.212 25.8444 21.4359 24.8111 21.324 24.0347C19.9933 14.8323 14.8727 8.80132 6.09057 5.85008C4.37689 5.28406 2.58381 4.99533 0.779072 4.99481C0.202773 4.99481 -0.0229751 4.83146 0.00455514 4.21479C0.0660406 3.08627 0.0660406 1.95525 0.00455514 0.826734C-0.0413285 0.0815827 0.259669 -0.0193618 0.896534 0.00266238C6.96236 0.222904 12.3693 2.24179 16.9889 6.16209C22.9794 11.2478 26.1271 17.7688 26.4372 25.648C26.4629 26.294 26.3179 26.5271 25.6609 26.4684C25.0827 26.417 24.4991 26.4574 23.7778 26.4574Z">
+                            </path>
+                            <path d="M14.8265 26.441C14.0924 26.441 13.2371 26.6795 12.6626 26.3786C12.0092 26.0372 12.3781 25.0644 12.246 24.378C11.1154 18.5324 6.6849 14.5497 0.74755 14.1001C0.217135 14.0615 -0.0104482 13.9422 0.0134113 13.3659C0.0519536 12.1454 0.0482829 10.9213 0.0134113 9.69524C-0.00127145 9.14464 0.196946 9.03268 0.703502 9.04736C9.21217 9.27128 16.5994 16.2511 17.2804 24.7231C17.418 26.4446 17.418 26.4446 15.6579 26.4446H14.832L14.8265 26.441Z">
+                            </path>
+                            <path d="M3.58928 26.4555C2.64447 26.4618 1.73584 26.0925 1.06329 25.4289C0.39073 24.7653 0.00933763 23.8617 0.0030097 22.9169C-0.00331824 21.9721 0.365937 21.0635 1.02954 20.3909C1.69315 19.7184 2.59675 19.337 3.54156 19.3306C4.48637 19.3243 5.39499 19.6936 6.06755 20.3572C6.7401 21.0208 7.1215 21.9244 7.12782 22.8692C7.13415 23.814 6.7649 24.7226 6.10129 25.3952C5.43768 26.0677 4.53409 26.4491 3.58928 26.4555Z">
+                            </path>
+                        </svg>
+                        <span class="usa-sr-only">NCBI RSS feed</span>
+                    </a>
+                
+            </div>
+        </div>
+    
+
+    <div data-testid="gridContainer"
+         class="grid-container ncbi-footer__container">
+        <div class="grid-row ncbi-footer__main-content-container"
+             data-testid="grid">
+            
+                <div class="ncbi-footer__column">
+                    
+                        <p class="ncbi-footer__circled-icons-heading">
+                            Connect with NLM
+                        </p>
+                    
+
+                    <div class="ncbi-footer__circled-icons-list">
+                        
+                            <a href=https://twitter.com/nlm_nih class="ncbi-footer__social-icon ncbi-footer__social-icon--circled" target="_blank" rel="noreferrer noopener">
+                                <svg width="32"
+                                     height="32"
+                                     viewBox="0 0 40 40"
+                                     fill="none"
+                                     xmlns="http://www.w3.org/2000/svg"
+                                     focusable="false"
+                                     aria-hidden="true">
+                                    <path d="m6.067 8 10.81 13.9L6 33.2h4.2l8.4-9.1 7.068 9.1H34L22.8 18.5 31.9 8h-3.5l-7.7 8.4L14.401 8H6.067Zm3.6 1.734h3.266l16.8 21.732H26.57L9.668 9.734Z">
+                                    </path>
+                                </svg>
+                                <span class="usa-sr-only">NLM on X (formerly known as Twitter)</span>
+                            </a>
+                        
+
+                        
+                            <a href=https://www.facebook.com/nationallibraryofmedicine class="ncbi-footer__social-icon ncbi-footer__social-icon--circled" target="_blank" rel="noreferrer noopener">
+                                <svg width="13"
+                                     height="24"
+                                     viewBox="0 0 13 24"
+                                     fill="none"
+                                     xmlns="http://www.w3.org/2000/svg"
+                                     focusable="false"
+                                     aria-hidden="true">
+                                    <path d="M4.11371 23.1369C4.11371 23.082 4.11371 23.0294 4.11371 22.9745V12.9411H0.817305C0.6709 12.9411 0.670898 12.9411 0.670898 12.8016C0.670898 11.564 0.670898 10.3287 0.670898 9.09341C0.670898 8.97903 0.705213 8.95158 0.815017 8.95158C1.8673 8.95158 2.91959 8.95158 3.97417 8.95158H4.12057V8.83263C4.12057 7.8055 4.12057 6.7738 4.12057 5.74897C4.1264 4.92595 4.31387 4.11437 4.66959 3.37217C5.12916 2.38246 5.94651 1.60353 6.95717 1.1921C7.64827 0.905008 8.3913 0.764035 9.13953 0.778051C10.0019 0.791777 10.8644 0.830666 11.7268 0.860404C11.8869 0.860404 12.047 0.894717 12.2072 0.90158C12.2964 0.90158 12.3261 0.940469 12.3261 1.02968C12.3261 1.5421 12.3261 2.05452 12.3261 2.56465C12.3261 3.16857 12.3261 3.7725 12.3261 4.37642C12.3261 4.48165 12.2964 4.51367 12.1912 4.51138C11.5369 4.51138 10.8804 4.51138 10.2261 4.51138C9.92772 4.51814 9.63058 4.5526 9.33855 4.61433C9.08125 4.6617 8.84537 4.78881 8.66431 4.97766C8.48326 5.16652 8.3662 5.40755 8.32972 5.66661C8.28476 5.89271 8.26027 6.1224 8.25652 6.35289C8.25652 7.19014 8.25652 8.02969 8.25652 8.86923C8.25652 8.89439 8.25652 8.91955 8.25652 8.95615H12.0219C12.1797 8.95615 12.182 8.95616 12.1614 9.10714C12.0768 9.76596 11.9876 10.4248 11.9029 11.0813C11.8312 11.6319 11.7626 12.1824 11.697 12.733C11.6719 12.9434 11.6787 12.9434 11.4683 12.9434H8.26338V22.899C8.26338 22.979 8.26338 23.0591 8.26338 23.1392L4.11371 23.1369Z">
+                                    </path>
+                                </svg>
+                                <span class="usa-sr-only">NLM on Facebook</span>
+                            </a>
+                        
+
+                        
+                            <a href=https://www.youtube.com/user/NLMNIH class="ncbi-footer__social-icon ncbi-footer__social-icon--circled" target="_blank" rel="noreferrer noopener">
+                                <svg width="21"
+                                     height="15"
+                                     viewBox="0 0 21 15"
+                                     fill="none"
+                                     xmlns="http://www.w3.org/2000/svg"
+                                     focusable="false"
+                                     aria-hidden="true">
+                                    <path d="M19.2561 1.47914C18.9016 1.15888 18.5699 0.957569 17.2271 0.834039C15.5503 0.678484 13.2787 0.655608 11.563 0.65332H9.43556C7.71987 0.65332 5.4483 0.678484 3.77151 0.834039C2.43098 0.957569 2.097 1.15888 1.74242 1.47914C0.813665 2.32097 0.619221 4.62685 0.598633 6.89384C0.598633 7.31781 0.598633 7.74101 0.598633 8.16345C0.626084 10.4121 0.827391 12.686 1.74242 13.521C2.097 13.8412 2.4287 14.0425 3.77151 14.1661C5.4483 14.3216 7.71987 14.3445 9.43556 14.3468H11.563C13.2787 14.3468 15.5503 14.3216 17.2271 14.1661C18.5676 14.0425 18.9016 13.8412 19.2561 13.521C20.1712 12.6929 20.3725 10.451 20.3999 8.22064C20.3999 7.74025 20.3999 7.25986 20.3999 6.77946C20.3725 4.54907 20.1689 2.30724 19.2561 1.47914ZM8.55942 10.5311V4.65201L13.5601 7.50005L8.55942 10.5311Z"
+                                          fill="white" />
+                                </svg>
+                                <span class="usa-sr-only">NLM on YouTube</span>
+                            </a>
+                        
+                    </div>
+                </div>
+            
+
+            
+                <address class="ncbi-footer__address ncbi-footer__column">
+                    
+        <p>
+            <a class="usa-link usa-link--external"
+            href="https://www.google.com/maps/place/8600+Rockville+Pike,+Bethesda,+MD+20894/%4038.9959508,
+            -77.101021,17z/data%3D!3m1!4b1!4m5!3m4!1s0x89b7c95e25765ddb%3A0x19156f88b27635b8!8m2!3d38.9959508!
+            4d-77.0988323"
+            rel="noopener noreferrer" target="_blank">National Library of Medicine
+            <br/> 8600 Rockville Pike<br/> Bethesda, MD 20894</a>
+        </p>
+    
+                </address>
+            
+
+            
+                <ul class="usa-list usa-list--unstyled ncbi-footer__vertical-list ncbi-footer__column">
+                    
+                        <li class="ncbi-footer__vertical-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.nlm.nih.gov/web_policies.html" class="usa-link  usa-link--alt ncbi-footer__link"  >
+        
+
+        
+            Web Policies
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="ncbi-footer__vertical-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison/freedom-information-act-office" class="usa-link  usa-link--alt ncbi-footer__link"  >
+        
+
+        
+            FOIA
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="ncbi-footer__vertical-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.hhs.gov/vulnerability-disclosure-policy/index.html" class="usa-link usa-link--external usa-link--alt ncbi-footer__link" rel="noreferrer noopener" target='_blank' >
+        
+
+        
+            HHS Vulnerability Disclosure
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                </ul>
+            
+
+            
+                <ul class="usa-list usa-list--unstyled ncbi-footer__vertical-list ncbi-footer__column">
+                    
+                        <li class="ncbi-footer__vertical-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://support.nlm.nih.gov/" class="usa-link  usa-link--alt ncbi-footer__link"  >
+        
+
+        
+            Help
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="ncbi-footer__vertical-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.nlm.nih.gov/accessibility.html" class="usa-link  usa-link--alt ncbi-footer__link"  >
+        
+
+        
+            Accessibility
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="ncbi-footer__vertical-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.nlm.nih.gov/careers/careers.html" class="usa-link  usa-link--alt ncbi-footer__link"  >
+        
+
+        
+            Careers
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                </ul>
+            
+        </div>
+
+        
+            <div class="grid-row grid-col-12" data-testid="grid">
+                <ul class="ncbi-footer__bottom-links-list">
+                    
+                        <li class="ncbi-footer__bottom-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.nlm.nih.gov/" class="usa-link  usa-link--alt ncbi-footer__link"  >
+        
+
+        
+            NLM
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="ncbi-footer__bottom-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.nih.gov/" class="usa-link  usa-link--alt ncbi-footer__link"  >
+        
+
+        
+            NIH
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="ncbi-footer__bottom-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.hhs.gov/" class="usa-link usa-link--external usa-link--alt ncbi-footer__link" rel="noreferrer noopener" target='_blank' >
+        
+
+        
+            HHS
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="ncbi-footer__bottom-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.usa.gov/" class="usa-link usa-link--external usa-link--alt ncbi-footer__link" rel="noreferrer noopener" target='_blank' >
+        
+
+        
+            USA.gov
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                </ul>
+            </div>
+        
+    </div>
+</footer>
+
+    
+
+
+        
+        
+    
+  <script  type="text/javascript" src="https://cdn.ncbi.nlm.nih.gov/core/pinger/pinger.js"> </script>
+
+
+    
+        
+
+<button class="back-to-top" data-ga-category="pagination" data-ga-action="back_to_top">
+    <label>Back to Top</label>
+    <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/img/usa-icons/arrow_upward.svg" alt="back to top icon" class="usa-icon usa-icon--size-3 order-0 usa-icon--white" />
+</button>
+    
+
+
+        
+    
+    <div id="icon-container" style="display: none;"></div>
+    
+    
+        
+    <script type="application/javascript">
+    window.ncbi = window.ncbi || {};
+    window.ncbi.pmc = window.ncbi.pmc || {};
+    window.ncbi.pmc.options = {
+        logLevel: 'INFO',
+        
+        staticEndpoint: 'https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/',
+        
+        citeCookieName: 'pmc-cf',
+    };
+</script>
+    <script type="module" crossorigin="" src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/assets/base-Cp_Il6gk.js"></script>
+<link href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/assets/vendor-Co8Vdmw2.js" type="text/javascript" crossorigin="anonymous" rel="modulepreload" as="script" />
+    
+    <script type="text/javascript" src="https://cdn.ncbi.nlm.nih.gov/core/jquery/jquery-3.6.0.min.js">&#xA0;</script>
+    <script type="text/javascript">
+        jQuery.getScript("https://cdn.ncbi.nlm.nih.gov/core/alerts/alerts.js", function () {
+            galert(['div.nav_and_browser', 'div.header', '#universal_header', '.usa-banner', 'body > *:nth-child(1)'])
+        });
+    </script>
+
+
+    <script type="text/javascript">var exports = {};</script>
+     <script src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/CACHE/js/output.4e25b6297b38.js"></script>
+
+    <script type="module" crossorigin="" src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/assets/article-D47MIn9n.js"></script>
+<link href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/assets/vendor-Co8Vdmw2.js" type="text/javascript" crossorigin="anonymous" rel="modulepreload" as="script" />
+<link href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/assets/index-DXSA0fsx.js" type="text/javascript" crossorigin="anonymous" rel="modulepreload" as="script" />
+<link href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/9b1d9d87/var/data/static/assets/secure-cookie-Br6x5jtB.js" type="text/javascript" crossorigin="anonymous" rel="modulepreload" as="script" />
+    
+    
+
+    </body>
+</html>
